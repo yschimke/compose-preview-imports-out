@@ -3419,10 +3419,10 @@
           "bounds": {
             "x": 42,
             "y": 104,
-            "width": 234,
+            "width": 215,
             "height": 37
           },
-          "label": "Oct 3, 12:19 PM",
+          "label": "Oct 4, 2:28 PM",
           "padding": {
             "start": 0,
             "top": 4,
@@ -3445,10 +3445,10 @@
           "bounds": {
             "x": 147,
             "y": 287,
-            "width": 234,
+            "width": 215,
             "height": 37
           },
-          "label": "Oct 3, 12:19 PM",
+          "label": "Oct 4, 2:28 PM",
           "padding": {
             "start": 0,
             "top": 4,
@@ -3471,10 +3471,10 @@
           "bounds": {
             "x": 147,
             "y": 470,
-            "width": 234,
+            "width": 215,
             "height": 37
           },
-          "label": "Oct 3, 12:19 PM",
+          "label": "Oct 4, 2:28 PM",
           "padding": {
             "start": 0,
             "top": 4,
@@ -6944,8 +6944,8 @@
   "library": [
     "Compose Material 2 + Pocket Casts theme roles"
   ],
-  "renderer": "compose-preview 2.32.4",
-  "generatedAt": "2026-10-03T12:20:32.110Z",
+  "renderer": "compose-preview 2.34.0",
+  "generatedAt": "2026-10-04T14:29:27.708Z",
   "display": {
     "surface": "light",
     "hero": "Insights/Calendar heat map"
