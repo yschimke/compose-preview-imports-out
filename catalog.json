@@ -7251,8 +7251,8 @@
       "sourceFunction": "BitwardenTypography_preview"
     }
   ],
-  "renderer": "compose-preview 2.32.4",
-  "generatedAt": "2026-10-03T10:03:11.380Z",
+  "renderer": "compose-preview 2.34.0",
+  "generatedAt": "2026-10-04T14:22:18.861Z",
   "liveBundle": {
     "path": "bundle/",
     "file": "bundle.png"
