@@ -17,7 +17,7 @@
             <g id="MultiContentMeasurePolicyImpl">
               <g id="Box">
                 <g id="BoxKt">
-                  <image href="ideal__default.figma-raster/83.png" x="0" y="0" width="3" height="3"/>
+                  <image href="ideal__default.figma-raster/50.png" x="0" y="0" width="3" height="3"/>
                 </g>
                 <g id="LayoutNodeSubcompositionsState">
                   <g id="Box" filter="url(#shadow-3)">
@@ -252,14 +252,14 @@
                 </g>
               </g>
               <g id="Column">
-                <image href="ideal__default.figma-raster/61.png" x="0" y="0" width="1050" height="168"/>
+                <image href="ideal__default.figma-raster/28.png" x="0" y="0" width="1050" height="168"/>
                 <g id="Row">
                   <g id="Box">
                     <clipPath id="clip-0"><rect x="21" y="32" width="105" height="105" rx="52.5" ry="52.5"/></clipPath>
                     <g id="Box">
                       <g clip-path="url(#clip-0)">
                         <g id="Spacer">
-                          <image href="ideal__default.figma-raster/86.png" x="21" y="32" width="105" height="105"/>
+                          <image href="ideal__default.figma-raster/53.png" x="21" y="32" width="105" height="105"/>
                         </g>
                       </g>
                     </g>
@@ -291,7 +291,7 @@
                     </g>
                   </g>
                   <g id="BoxKt">
-                    <image href="ideal__default.figma-raster/91.png" x="451" y="1953" width="147" height="84"/>
+                    <image href="ideal__default.figma-raster/58.png" x="451" y="1953" width="147" height="84"/>
                   </g>
                 </g>
               </g>
