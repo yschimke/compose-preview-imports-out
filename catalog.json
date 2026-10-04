@@ -5016,8 +5016,8 @@
       ]
     }
   ],
-  "renderer": "compose-preview 2.32.4",
-  "generatedAt": "2026-10-03T10:05:39.832Z",
+  "renderer": "compose-preview 2.34.0",
+  "generatedAt": "2026-10-04T14:25:11.177Z",
   "display": {
     "hero": "profile-card-front"
   },
