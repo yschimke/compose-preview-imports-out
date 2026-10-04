@@ -1,0 +1,103 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1050" height="2100" viewBox="0 0 1050 2100" text-rendering="geometricPrecision" font-family="sans-serif">
+<g transform="translate(0, 0)">
+  <g id="Root">
+    <clipPath id="clip-0"><rect x="0" y="0" width="1050" height="2100"/></clipPath>
+    <g id="Box">
+        <rect x="0" y="0" width="1050" height="2100" fill="#F8F9FF"/>
+      <g clip-path="url(#clip-0)">
+        <g id="Box">
+          <g id="Spacer">
+          </g>
+          <g id="Row">
+            <g id="Box">
+                <rect x="0" y="0" width="1050" height="2100" fill="#F8F9FF"/>
+              <g id="MultiContentMeasurePolicyImpl">
+                <g id="Box">
+                  <g id="BoxKt">
+                    <image href="ideal__default.figma-raster/48.png" x="0" y="0" width="3" height="3"/>
+                  </g>
+                  <g id="Box">
+                    <g id="Box">
+                      <g id="Column">
+                        <g id="Spacer">
+                        </g>
+                        <g id="Row">
+                          <clipPath id="clip-1"><rect x="42" y="168" width="116" height="116" rx="58" ry="58"/></clipPath>
+                          <g id="Box">
+                            <g clip-path="url(#clip-1)">
+                              <g id="Box">
+                                <g id="ImageKt">
+                                  <image href="ideal__default.figma-raster/60.png" x="42" y="168" width="116" height="116"/>
+                                </g>
+                              </g>
+                            </g>
+                          </g>
+                          <g id="Empty">
+                            <text x="132" y="274.67" font-size="57.75" font-family="Roboto-Bold.ttf:FontWeight(weight=700):Normal:SettingFloat(ital,0.0),SettingInt(wght,700, sans-serif" font-weight="700" style="font-variation-settings:&apos;ital&apos; 0.0,&apos;wght&apos; 700.0" fill="#191C20">-'s Unknown app</text>
+                          </g>
+                        </g>
+                        <clipPath id="clip-2"><rect x="42" y="341" width="966" height="84" rx="42" ry="42"/></clipPath>
+                        <g id="Box">
+                          <g clip-path="url(#clip-2)">
+                            <g id="LayoutNodeSubcompositionsState">
+                            </g>
+                            <g id="BoxKt">
+                              <rect x="42" y="341" width="0" height="84" rx="42" ry="42" fill="#D1E4FF" fill-opacity="0.4"/>
+                            </g>
+                          </g>
+                        </g>
+                      </g>
+                      <g id="LayoutNodeSubcompositionsState">
+                        <image href="ideal__default.figma-raster/66.png" x="0" y="425" width="1050" height="1806"/>
+                      </g>
+                    </g>
+                    <clipPath id="clip-3"><rect x="462" y="299" width="126" height="126" rx="63" ry="63"/></clipPath>
+                    <g id="Box">
+                        <rect x="462" y="299" width="126" height="126" rx="63" ry="63" fill="#D1E4FF"/>
+                      <g clip-path="url(#clip-3)">
+                        <clipPath id="clip-4"><rect x="462" y="299" width="126" height="126" rx="63" ry="63"/></clipPath>
+                        <g id="Box">
+                            <rect x="462" y="299" width="126" height="126" rx="63" ry="63" fill="#D1E4FF"/>
+                          <g clip-path="url(#clip-4)">
+                            <g id="Spacer">
+                              <image href="ideal__default.figma-raster/71.png" x="462" y="299" width="126" height="126"/>
+                            </g>
+                          </g>
+                        </g>
+                      </g>
+                    </g>
+                  </g>
+                </g>
+                <g id="Row">
+                  <g id="Box">
+                    <clipPath id="clip-5"><rect x="21" y="32" width="105" height="105" rx="52.5" ry="52.5"/></clipPath>
+                    <g id="Box">
+                      <g clip-path="url(#clip-5)">
+                        <g id="Spacer">
+                          <image href="ideal__default.figma-raster/72.png" x="21" y="32" width="105" height="105"/>
+                        </g>
+                      </g>
+                    </g>
+                    <g id="Box">
+                    </g>
+                  </g>
+                  <g id="Box">
+                  </g>
+                  <g id="Spacer">
+                  </g>
+                </g>
+                <g id="Box">
+                </g>
+                <g id="Box">
+                </g>
+              </g>
+            </g>
+            <g id="Box">
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</g>
+</svg>

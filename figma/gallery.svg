@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1050" height="2100" viewBox="0 0 1050 2100" text-rendering="geometricPrecision" font-family="sans-serif">
+<defs>
+  <filter id="shadow-3" x="-50%" y="-50%" width="200%" height="200%">
+    <feDropShadow dx="0" dy="1.5" stdDeviation="1.79" flood-color="#000000" flood-opacity="0.26"/>
+  </filter>
+</defs>
+<g transform="translate(0, 0)">
+  <g id="Root">
+    <clipPath id="clip-0"><rect x="0" y="0" width="1050" height="2100"/></clipPath>
+    <g id="Box">
+        <rect x="0" y="0" width="1050" height="2100" fill="#F8F9FF"/>
+      <g clip-path="url(#clip-0)">
+        <g id="Box">
+          <g id="Spacer">
+          </g>
+          <g id="Row">
+            <g id="MultiContentMeasurePolicyImpl">
+              <g id="Box">
+                <g id="BoxKt">
+                  <image href="gallery.figma-raster/38.png" x="0" y="0" width="3" height="3"/>
+                </g>
+                <g id="Box">
+                  <g id="LayoutNodeSubcompositionsState">
+                  </g>
+                  <g id="Box" filter="url(#shadow-3)">
+                    <path d="M42,2100 H1008 A42,42 0 0 1 1050,2142 V4200 H0 V2142 A42,42 0 0 1 42,2100 Z" fill="#F2F3FA"/>
+                    <g id="Column">
+                      <g id="BoxKt">
+                        <rect x="462" y="2142" width="126" height="5" rx="2.5" ry="2.5" fill="#191C20"/>
+                      </g>
+                      <g id="LayoutNodeSubcompositionsState">
+                      </g>
+                    </g>
+                  </g>
+                </g>
+              </g>
+              <g id="Box">
+              </g>
+              <g id="Box">
+              </g>
+              <g id="Box">
+              </g>
+            </g>
+            <g id="Box">
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</g>
+</svg>

@@ -1,0 +1,75 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1050" height="2100" viewBox="0 0 1050 2100" text-rendering="geometricPrecision" font-family="sans-serif">
+<defs>
+  <filter id="shadow-16" x="-50%" y="-50%" width="200%" height="200%">
+    <feDropShadow dx="0" dy="8" stdDeviation="9.6" flood-color="#000000" flood-opacity="0.26"/>
+  </filter>
+</defs>
+<g transform="translate(0, 0)">
+  <g id="Root">
+    <g id="Box">
+        <rect x="0" y="0" width="1050" height="2100" fill="#F8F9FF"/>
+      <g id="Box">
+        <g id="Spacer">
+        </g>
+        <g id="Row">
+          <g id="Box">
+              <rect x="0" y="0" width="1050" height="2100" fill="#F8F9FF"/>
+            <g id="MultiContentMeasurePolicyImpl">
+              <g id="Box">
+                <g id="BoxKt">
+                  <image href="ideal__default.figma-raster/114.png" x="0" y="0" width="3" height="3"/>
+                </g>
+                <g id="LayoutNodeSubcompositionsState">
+                  <image href="ideal__default.figma-raster/115.png" x="0" y="0" width="1050" height="2100"/>
+                </g>
+              </g>
+              <g id="Column">
+                <image href="ideal__default.figma-raster/76.png" x="0" y="0" width="1050" height="168"/>
+                <g id="Row">
+                  <g id="Box">
+                    <clipPath id="clip-0"><rect x="21" y="32" width="105" height="105" rx="52.5" ry="52.5"/></clipPath>
+                    <g id="Box">
+                      <g clip-path="url(#clip-0)">
+                        <g id="Spacer">
+                          <image href="ideal__default.figma-raster/116.png" x="21" y="32" width="105" height="105"/>
+                        </g>
+                      </g>
+                    </g>
+                    <g id="Box">
+                    </g>
+                  </g>
+                  <g id="Box">
+                  </g>
+                  <g id="Spacer">
+                  </g>
+                </g>
+              </g>
+              <g id="Box">
+              </g>
+              <g id="Row">
+                <g id="Box">
+                    <rect x="21" y="1932" width="818" height="147" rx="84" ry="84" fill="#E6E8EE"/>
+                  <g id="CoreTextFieldKt">
+                    <image href="ideal__default.figma-raster/99.png" x="105" y="1974" width="650" height="63"/>
+                  </g>
+                  <g id="Empty">
+                    <text x="105" y="2019.26" font-size="39.9" font-family="Roboto-Regular.ttf:FontWeight(weight=400):Normal:SettingFloat(ital,0.0),SettingInt(wght,400, sans-serif" font-weight="400" letter-spacing="1.31" style="font-variation-settings:&apos;ital&apos; 0.0,&apos;wght&apos; 400.0" fill="#43474E">Type a message</text>
+                  </g>
+                </g>
+                <g id="Box" filter="url(#shadow-16)" opacity="0.6">
+                  <rect x="860" y="1932" width="169" height="147" rx="73.5" ry="73.5" fill="#D1E4FF"/>
+                  <g id="Empty">
+                    <text x="902" y="2017.92" font-size="36.75" font-family="Roboto-Medium.ttf:FontWeight(weight=500):Normal:SettingFloat(ital,0.0),SettingInt(wght,500, sans-serif" font-weight="500" letter-spacing="0.26" style="font-variation-settings:&apos;ital&apos; 0.0,&apos;wght&apos; 500.0" fill="#001D36">Send</text>
+                  </g>
+                </g>
+              </g>
+            </g>
+          </g>
+          <g id="Box">
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</g>
+</svg>

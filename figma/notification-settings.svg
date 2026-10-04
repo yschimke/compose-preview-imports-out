@@ -1,0 +1,94 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1050" height="2100" viewBox="0 0 1050 2100" text-rendering="geometricPrecision" font-family="sans-serif">
+<defs>
+  <filter id="shadow-16" x="-50%" y="-50%" width="200%" height="200%">
+    <feDropShadow dx="0" dy="8" stdDeviation="9.6" flood-color="#000000" flood-opacity="0.26"/>
+  </filter>
+</defs>
+<g transform="translate(0, 0)">
+  <g id="Root">
+    <g id="Box">
+        <rect x="0" y="0" width="1050" height="2100" fill="#F8F9FF"/>
+      <g id="Box">
+        <g id="Spacer">
+        </g>
+        <g id="Row">
+          <g id="Box">
+              <rect x="0" y="0" width="1050" height="2100" fill="#F8F9FF"/>
+            <g id="MultiContentMeasurePolicyImpl">
+              <g id="Box">
+                <g id="BoxKt">
+                  <image href="notification-settings.figma-raster/62.png" x="0" y="0" width="3" height="3"/>
+                </g>
+                <g id="LayoutNodeSubcompositionsState">
+                  <image href="notification-settings.figma-raster/63.png" x="0" y="0" width="1050" height="378"/>
+                </g>
+              </g>
+              <g id="Column">
+                <image href="notification-settings.figma-raster/28.png" x="0" y="0" width="1050" height="168"/>
+                <g id="Row">
+                  <g id="Box">
+                    <clipPath id="clip-0"><rect x="21" y="32" width="105" height="105" rx="52.5" ry="52.5"/></clipPath>
+                    <g id="Box">
+                      <g clip-path="url(#clip-0)">
+                        <g id="Spacer">
+                          <image href="notification-settings.figma-raster/64.png" x="21" y="32" width="105" height="105"/>
+                        </g>
+                      </g>
+                    </g>
+                    <g id="Box">
+                    </g>
+                  </g>
+                  <g id="Empty">
+                    <text x="168" y="98.99" font-size="42" font-family="Roboto-Medium.ttf:FontWeight(weight=500):Normal:SettingFloat(ital,0.0),SettingInt(wght,500, sans-serif" font-weight="500" letter-spacing="0.53" style="font-variation-settings:&apos;ital&apos; 0.0,&apos;wght&apos; 500.0" fill="#191C20">Notification settings</text>
+                  </g>
+                  <g id="Spacer">
+                  </g>
+                </g>
+              </g>
+              <g id="Box">
+              </g>
+              <g id="Box">
+                  <path d="M42,1890 H1008 A42,42 0 0 1 1050,1932 V2100 H0 V1932 A42,42 0 0 1 42,1890 Z" fill="#ECEEF4" fill-opacity="0.98"/>
+                <g id="NavigationBarKt">
+                  <g id="BoxKt">
+                    <rect x="451" y="1953" width="147" height="84" rx="42" ry="42" fill="#D7E3F8"/>
+                  </g>
+                  <g id="BadgeKt">
+                    <g id="BoxKt">
+                      <g transform="translate(493 1963) scale(2.62 2.62)">
+                        <path d="M12 2 C 6.47 2 2 6.47 2 12 s 4.47 10 10 10 s 10 -4.47 10 -10 S 17.53 2 12 2 Z" fill="#101C2B"/>
+                      </g>
+                    </g>
+                    <g id="Box">
+                    </g>
+                  </g>
+                  <g id="BoxKt">
+                    <image href="notification-settings.figma-raster/69.png" x="451" y="1953" width="147" height="84"/>
+                  </g>
+                </g>
+              </g>
+              <g id="Box" filter="url(#shadow-16)" opacity="0.6">
+                <rect x="759" y="1701" width="249" height="147" rx="73.5" ry="73.5" fill="#D1E4FF"/>
+                <g id="Row">
+                  <g id="BoxKt">
+                    <g transform="translate(801 1743) scale(2.62 2.62)">
+                      <path d="M17.59 3.59 c -0.38 -0.38 -0.89 -0.59 -1.42 -0.59 L5 3 a 2 2 0 0 0 -2 2 v14 c 0 1.1 0.9 2 2 2 h14 c 1.1 0 2 -0.9 2 -2 L21 7.83 c 0 -0.53 -0.21 -1.04 -0.59 -1.41 l-2.82 -2.83 Z M12 19 c -1.66 0 -3 -1.34 -3 -3 s 1.34 -3 3 -3 s 3 1.34 3 3 s -1.34 3 -3 3 Z M13 9 L7 9 c -1.1 0 -2 -0.9 -2 -2 s 0.9 -2 2 -2 h6 c 1.1 0 2 0.9 2 2 s -0.9 2 -2 2 Z" fill="#001D36"/>
+                    </g>
+                  </g>
+                  <g id="Spacer">
+                  </g>
+                  <g id="Empty">
+                    <text x="885" y="1786.92" font-size="36.75" font-family="Roboto-Medium.ttf:FontWeight(weight=500):Normal:SettingFloat(ital,0.0),SettingInt(wght,500, sans-serif" font-weight="500" letter-spacing="0.26" style="font-variation-settings:&apos;ital&apos; 0.0,&apos;wght&apos; 500.0" fill="#001D36">Save</text>
+                  </g>
+                </g>
+              </g>
+            </g>
+          </g>
+          <g id="Box">
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</g>
+</svg>

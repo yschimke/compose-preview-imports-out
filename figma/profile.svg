@@ -1,0 +1,398 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1050" height="2100" viewBox="0 0 1050 2100" text-rendering="geometricPrecision" font-family="sans-serif">
+<defs>
+  <filter id="shadow-16" x="-50%" y="-50%" width="200%" height="200%">
+    <feDropShadow dx="0" dy="8" stdDeviation="9.6" flood-color="#000000" flood-opacity="0.26"/>
+  </filter>
+</defs>
+<g transform="translate(0, 0)">
+  <g id="Root">
+    <clipPath id="clip-0"><rect x="0" y="0" width="1050" height="2100"/></clipPath>
+    <g id="Box">
+        <rect x="0" y="0" width="1050" height="2100" fill="#F8F9FF"/>
+      <g clip-path="url(#clip-0)">
+        <g id="Box">
+          <g id="Spacer">
+          </g>
+          <g id="Row">
+            <g id="Box">
+                <rect x="0" y="0" width="1050" height="2100" fill="#F8F9FF"/>
+              <g id="MultiContentMeasurePolicyImpl">
+                <g id="Box">
+                  <g id="BoxKt">
+                    <image href="profile.figma-raster/63.png" x="0" y="0" width="3" height="3"/>
+                  </g>
+                  <g id="Box">
+                    <g id="Box">
+                      <g id="Box">
+                        <g id="ImageKt">
+                          <image href="profile.figma-raster/128.png" x="0" y="0" width="1050" height="591"/>
+                        </g>
+                      </g>
+                      <g id="BoxKt">
+                        <path d="M42,567 H1008 A42,42 0 0 1 1050,609 V651 H0 V609 A42,42 0 0 1 42,567 Z" fill="#F8F9FF"/>
+                      </g>
+                      <g id="Column">
+                        <g id="Column">
+                          <image href="profile.figma-raster/75.png" x="0" y="567" width="1050" height="534"/>
+                          <g id="Spacer">
+                          </g>
+                          <g id="Column">
+                            <g id="Empty">
+                            </g>
+                            <g id="Spacer">
+                            </g>
+                            <g id="Empty">
+                              <text x="42" y="777.86" font-size="31.5" font-family="Roboto-Regular.ttf:FontWeight(weight=400):Normal:SettingFloat(ital,0.0),SettingInt(wght,400, sans-serif" font-weight="400" letter-spacing="1.05" style="font-variation-settings:&apos;ital&apos; 0.0,&apos;wght&apos; 400.0" fill="#73777F">alice.bsky.social</text>
+                            </g>
+                          </g>
+                          <g id="Row">
+                            <g id="Column">
+                              <g id="Empty">
+                                <text x="42" y="875.26" font-size="39.9" font-family="Roboto-Bold.ttf:FontWeight(weight=700):Normal:SettingFloat(ital,0.0),SettingInt(wght,700, sans-serif" font-weight="700" letter-spacing="1.31" style="font-variation-settings:&apos;ital&apos; 0.0,&apos;wght&apos; 700.0" fill="#191C20">0</text>
+                              </g>
+                              <g id="Empty">
+                                <text x="42" y="946.26" font-size="39.9" font-family="Roboto-Regular.ttf:FontWeight(weight=400):Normal:SettingFloat(ital,0.0),SettingInt(wght,400, sans-serif" font-weight="400" letter-spacing="1.31" style="font-variation-settings:&apos;ital&apos; 0.0,&apos;wght&apos; 400.0" fill="#73777F">Followers</text>
+                              </g>
+                            </g>
+                            <g id="Column">
+                              <g id="Empty">
+                                <text x="331" y="875.26" font-size="39.9" font-family="Roboto-Bold.ttf:FontWeight(weight=700):Normal:SettingFloat(ital,0.0),SettingInt(wght,700, sans-serif" font-weight="700" letter-spacing="1.31" style="font-variation-settings:&apos;ital&apos; 0.0,&apos;wght&apos; 700.0" fill="#191C20">0</text>
+                              </g>
+                              <g id="Empty">
+                                <text x="331" y="946.26" font-size="39.9" font-family="Roboto-Regular.ttf:FontWeight(weight=400):Normal:SettingFloat(ital,0.0),SettingInt(wght,400, sans-serif" font-weight="400" letter-spacing="1.31" style="font-variation-settings:&apos;ital&apos; 0.0,&apos;wght&apos; 400.0" fill="#73777F">Following</text>
+                              </g>
+                            </g>
+                            <g id="Column">
+                              <g id="Empty">
+                                <text x="619" y="875.26" font-size="39.9" font-family="Roboto-Bold.ttf:FontWeight(weight=700):Normal:SettingFloat(ital,0.0),SettingInt(wght,700, sans-serif" font-weight="700" letter-spacing="1.31" style="font-variation-settings:&apos;ital&apos; 0.0,&apos;wght&apos; 700.0" fill="#191C20">0</text>
+                              </g>
+                              <g id="Empty">
+                                <text x="619" y="946.26" font-size="39.9" font-family="Roboto-Regular.ttf:FontWeight(weight=400):Normal:SettingFloat(ital,0.0),SettingInt(wght,400, sans-serif" font-weight="400" letter-spacing="1.31" style="font-variation-settings:&apos;ital&apos; 0.0,&apos;wght&apos; 400.0" fill="#73777F">Posts</text>
+                              </g>
+                            </g>
+                            <g id="Box">
+                            </g>
+                          </g>
+                          <g id="Empty">
+                          </g>
+                          <g id="MultiContentMeasurePolicyImpl">
+                          </g>
+                        </g>
+                        <clipPath id="clip-1"><rect x="63" y="1101" width="924" height="126" rx="63" ry="63"/></clipPath>
+                        <g id="Row">
+                          <g clip-path="url(#clip-1)">
+                            <clipPath id="clip-2"><rect x="63" y="1101" width="924" height="126" rx="63" ry="63"/></clipPath>
+                            <g id="Box">
+                              <g clip-path="url(#clip-2)">
+                                <g id="LayoutNodeSubcompositionsState">
+                                  <g id="Box">
+                                    <g id="Row">
+                                      <g id="Spacer">
+                                      </g>
+                                      <g id="Empty">
+                                        <text x="105" y="1176.92" font-size="36.75" font-family="Roboto-Medium.ttf:FontWeight(weight=500):Normal:SettingFloat(ital,0.0),SettingInt(wght,500, sans-serif" font-weight="500" letter-spacing="0.26" style="font-variation-settings:&apos;ital&apos; 0.0,&apos;wght&apos; 500.0" fill="#43474E">Posts</text>
+                                      </g>
+                                      <g id="Spacer">
+                                      </g>
+                                    </g>
+                                  </g>
+                                  <g id="Box">
+                                    <g id="Row">
+                                      <g id="Spacer">
+                                      </g>
+                                      <g id="Empty">
+                                        <text x="296" y="1176.92" font-size="36.75" font-family="Roboto-Medium.ttf:FontWeight(weight=500):Normal:SettingFloat(ital,0.0),SettingInt(wght,500, sans-serif" font-weight="500" letter-spacing="0.26" style="font-variation-settings:&apos;ital&apos; 0.0,&apos;wght&apos; 500.0" fill="#43474E">Replies</text>
+                                      </g>
+                                      <g id="Spacer">
+                                      </g>
+                                    </g>
+                                  </g>
+                                  <g id="Box">
+                                    <g id="Row">
+                                      <g id="Spacer">
+                                      </g>
+                                      <g id="Empty">
+                                        <text x="514" y="1176.92" font-size="36.75" font-family="Roboto-Medium.ttf:FontWeight(weight=500):Normal:SettingFloat(ital,0.0),SettingInt(wght,500, sans-serif" font-weight="500" letter-spacing="0.26" style="font-variation-settings:&apos;ital&apos; 0.0,&apos;wght&apos; 500.0" fill="#43474E">Media</text>
+                                      </g>
+                                      <g id="Spacer">
+                                      </g>
+                                    </g>
+                                  </g>
+                                  <g id="Box">
+                                    <g id="Row">
+                                      <g id="Spacer">
+                                      </g>
+                                      <g id="Empty">
+                                        <text x="713" y="1176.92" font-size="36.75" font-family="Roboto-Medium.ttf:FontWeight(weight=500):Normal:SettingFloat(ital,0.0),SettingInt(wght,500, sans-serif" font-weight="500" letter-spacing="0.26" style="font-variation-settings:&apos;ital&apos; 0.0,&apos;wght&apos; 500.0" fill="#43474E">Videos</text>
+                                      </g>
+                                      <g id="Spacer">
+                                      </g>
+                                    </g>
+                                  </g>
+                                </g>
+                                <g id="BoxKt">
+                                  <rect x="63" y="1122" width="180" height="84" rx="42" ry="42" fill="#D1E4FF" fill-opacity="0.4"/>
+                                </g>
+                              </g>
+                            </g>
+                          </g>
+                        </g>
+                        <g id="Spacer">
+                        </g>
+                      </g>
+                      <g id="Box">
+                        <g id="Spacer">
+                          <image href="profile.figma-raster/108.png" x="433" y="478" width="184" height="184"/>
+                        </g>
+                        <clipPath id="clip-3"><rect x="444" y="489" width="162" height="162" rx="81" ry="81"/></clipPath>
+                        <g id="Box">
+                          <g clip-path="url(#clip-3)">
+                            <g id="Box">
+                              <g id="ImageKt">
+                                <image href="profile.figma-raster/130.png" x="444" y="489" width="162" height="162"/>
+                              </g>
+                            </g>
+                          </g>
+                        </g>
+                      </g>
+                    </g>
+                    <clipPath id="clip-4"><path d="M42,1248 H1008 A42,42 0 0 1 1050,1290 V3180 H0 V1290 A42,42 0 0 1 42,1248 Z"/></clipPath>
+                    <g id="LayoutNodeSubcompositionsState">
+                      <g clip-path="url(#clip-4)">
+                        <clipPath id="clip-5"><rect x="21" y="1248" width="1008" height="1932"/></clipPath>
+                        <g id="LayoutNodeSubcompositionsState">
+                          <g clip-path="url(#clip-5)">
+                            <g id="Box">
+                                <rect x="21" y="1248" width="1008" height="273" rx="21" ry="21" fill="#F2F3FA"/>
+                              <g id="Column">
+                                <g id="Row">
+                                  <g id="BoxKt">
+                                    <image href="profile.figma-raster/180.png" x="42" y="1269" width="105" height="105"/>
+                                  </g>
+                                  <g id="Column">
+                                    <g id="BoxKt">
+                                      <image href="profile.figma-raster/183.png" x="179" y="1277" width="315" height="37"/>
+                                    </g>
+                                    <g id="BoxKt">
+                                      <image href="profile.figma-raster/184.png" x="179" y="1335" width="210" height="32"/>
+                                    </g>
+                                  </g>
+                                </g>
+                                <g id="Column">
+                                  <g id="BoxKt">
+                                    <image href="profile.figma-raster/186.png" x="84" y="1395" width="903" height="42"/>
+                                  </g>
+                                  <g id="BoxKt">
+                                    <image href="profile.figma-raster/187.png" x="84" y="1458" width="632" height="42"/>
+                                  </g>
+                                </g>
+                              </g>
+                            </g>
+                            <g id="Box">
+                                <rect x="21" y="1553" width="1008" height="273" rx="21" ry="21" fill="#F2F3FA"/>
+                              <g id="Column">
+                                <g id="Row">
+                                  <g id="BoxKt">
+                                    <image href="profile.figma-raster/194.png" x="42" y="1574" width="105" height="105"/>
+                                  </g>
+                                  <g id="Column">
+                                    <g id="BoxKt">
+                                      <image href="profile.figma-raster/197.png" x="179" y="1582" width="315" height="37"/>
+                                    </g>
+                                    <g id="BoxKt">
+                                      <image href="profile.figma-raster/198.png" x="179" y="1640" width="210" height="32"/>
+                                    </g>
+                                  </g>
+                                </g>
+                                <g id="Column">
+                                  <g id="BoxKt">
+                                    <image href="profile.figma-raster/200.png" x="84" y="1700" width="903" height="42"/>
+                                  </g>
+                                  <g id="BoxKt">
+                                    <image href="profile.figma-raster/201.png" x="84" y="1763" width="632" height="42"/>
+                                  </g>
+                                </g>
+                              </g>
+                            </g>
+                            <g id="Box">
+                                <rect x="21" y="1858" width="1008" height="273" rx="21" ry="21" fill="#F2F3FA"/>
+                              <g id="Column">
+                                <g id="Row">
+                                  <g id="BoxKt">
+                                    <image href="profile.figma-raster/208.png" x="42" y="1879" width="105" height="105"/>
+                                  </g>
+                                  <g id="Column">
+                                    <g id="BoxKt">
+                                      <image href="profile.figma-raster/211.png" x="179" y="1887" width="315" height="37"/>
+                                    </g>
+                                    <g id="BoxKt">
+                                      <image href="profile.figma-raster/212.png" x="179" y="1945" width="210" height="32"/>
+                                    </g>
+                                  </g>
+                                </g>
+                                <g id="Column">
+                                  <g id="BoxKt">
+                                    <image href="profile.figma-raster/214.png" x="84" y="2005" width="903" height="42"/>
+                                  </g>
+                                  <g id="BoxKt">
+                                    <image href="profile.figma-raster/215.png" x="84" y="2068" width="632" height="42"/>
+                                  </g>
+                                </g>
+                              </g>
+                            </g>
+                            <g id="Box">
+                              <rect x="21" y="2163" width="1008" height="273" rx="21" ry="21" fill="#F2F3FA"/>
+                              <g id="Column">
+                                <g id="Row">
+                                  <g id="BoxKt">
+                                  </g>
+                                  <g id="Column">
+                                    <g id="BoxKt">
+                                    </g>
+                                    <g id="BoxKt">
+                                    </g>
+                                  </g>
+                                </g>
+                                <g id="Column">
+                                  <g id="BoxKt">
+                                  </g>
+                                  <g id="BoxKt">
+                                  </g>
+                                </g>
+                              </g>
+                            </g>
+                            <g id="Box">
+                              <rect x="21" y="2468" width="1008" height="273" rx="21" ry="21" fill="#F2F3FA"/>
+                              <g id="Column">
+                                <g id="Row">
+                                  <g id="BoxKt">
+                                  </g>
+                                  <g id="Column">
+                                    <g id="BoxKt">
+                                    </g>
+                                    <g id="BoxKt">
+                                    </g>
+                                  </g>
+                                </g>
+                                <g id="Column">
+                                  <g id="BoxKt">
+                                  </g>
+                                  <g id="BoxKt">
+                                  </g>
+                                </g>
+                              </g>
+                            </g>
+                            <g id="Box">
+                              <rect x="21" y="2773" width="1008" height="273" rx="21" ry="21" fill="#F2F3FA"/>
+                              <g id="Column">
+                                <g id="Row">
+                                  <g id="BoxKt">
+                                  </g>
+                                  <g id="Column">
+                                    <g id="BoxKt">
+                                    </g>
+                                    <g id="BoxKt">
+                                    </g>
+                                  </g>
+                                </g>
+                                <g id="Column">
+                                  <g id="BoxKt">
+                                  </g>
+                                  <g id="BoxKt">
+                                  </g>
+                                </g>
+                              </g>
+                            </g>
+                            <g id="Box">
+                              <rect x="21" y="3078" width="1008" height="273" rx="21" ry="21" fill="#F2F3FA"/>
+                              <g id="Column">
+                                <g id="Row">
+                                  <g id="BoxKt">
+                                  </g>
+                                  <g id="Column">
+                                    <g id="BoxKt">
+                                    </g>
+                                    <g id="BoxKt">
+                                    </g>
+                                  </g>
+                                </g>
+                                <g id="Column">
+                                  <g id="BoxKt">
+                                  </g>
+                                  <g id="BoxKt">
+                                  </g>
+                                </g>
+                              </g>
+                            </g>
+                          </g>
+                        </g>
+                      </g>
+                    </g>
+                  </g>
+                </g>
+                <g id="Row">
+                  <g id="Box">
+                    <clipPath id="clip-6"><rect x="21" y="32" width="105" height="105" rx="52.5" ry="52.5"/></clipPath>
+                    <g id="Box">
+                      <g clip-path="url(#clip-6)">
+                        <g id="Spacer">
+                          <image href="profile.figma-raster/114.png" x="21" y="32" width="105" height="105"/>
+                        </g>
+                      </g>
+                    </g>
+                    <g id="Box">
+                    </g>
+                  </g>
+                  <g id="Box">
+                  </g>
+                  <g id="Spacer">
+                  </g>
+                </g>
+                <g id="Box">
+                </g>
+                <g id="Box">
+                    <path d="M42,1890 H1008 A42,42 0 0 1 1050,1932 V2100 H0 V1932 A42,42 0 0 1 42,1890 Z" fill="#ECEEF4" fill-opacity="0.98"/>
+                  <g id="NavigationBarKt">
+                    <g id="BoxKt">
+                      <rect x="451" y="1953" width="147" height="84" rx="42" ry="42" fill="#D7E3F8"/>
+                    </g>
+                    <g id="BadgeKt">
+                      <g id="BoxKt">
+                        <g transform="translate(493 1963) scale(2.62 2.62)">
+                          <path d="M12 2 C 6.47 2 2 6.47 2 12 s 4.47 10 10 10 s 10 -4.47 10 -10 S 17.53 2 12 2 Z" fill="#101C2B"/>
+                        </g>
+                      </g>
+                      <g id="Box">
+                      </g>
+                    </g>
+                    <g id="BoxKt">
+                      <image href="profile.figma-raster/119.png" x="451" y="1953" width="147" height="84"/>
+                    </g>
+                  </g>
+                </g>
+                <g id="Box" filter="url(#shadow-16)">
+                  <rect x="725" y="1701" width="283" height="147" rx="73.5" ry="73.5" fill="#D1E4FF"/>
+                  <g id="Row">
+                    <g id="BoxKt">
+                      <g transform="translate(767 1743) scale(2.62 2.62)">
+                        <path d="M10.3 7.7 a 0.984 0.984 0 0 0 0 1.4 l1.9 1.9 H3 c -0.55 0 -1 0.45 -1 1 s 0.45 1 1 1 h9.2 l-1.9 1.9 a 0.984 0.984 0 0 0 0 1.4 c 0.39 0.39 1.01 0.39 1.4 0 l3.59 -3.59 a 0.996 0.996 0 0 0 0 -1.41 L11.7 7.7 a 0.984 0.984 0 0 0 -1.4 0 Z M20 19 h-7 c -0.55 0 -1 0.45 -1 1 s 0.45 1 1 1 h7 c 1.1 0 2 -0.9 2 -2 V5 c 0 -1.1 -0.9 -2 -2 -2 h-7 c -0.55 0 -1 0.45 -1 1 s 0.45 1 1 1 h7 v14 Z" fill="#001D36"/>
+                      </g>
+                    </g>
+                    <g id="Spacer">
+                    </g>
+                    <g id="Empty">
+                      <text x="851" y="1786.92" font-size="36.75" font-family="Roboto-Medium.ttf:FontWeight(weight=500):Normal:SettingFloat(ital,0.0),SettingInt(wght,500, sans-serif" font-weight="500" letter-spacing="0.26" style="font-variation-settings:&apos;ital&apos; 0.0,&apos;wght&apos; 500.0" fill="#001D36">Sign In</text>
+                    </g>
+                  </g>
+                </g>
+              </g>
+            </g>
+            <g id="Box">
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</g>
+</svg>

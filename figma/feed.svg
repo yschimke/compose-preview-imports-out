@@ -1,0 +1,74 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1050" height="2100" viewBox="0 0 1050 2100" text-rendering="geometricPrecision" font-family="sans-serif">
+<defs>
+  <filter id="shadow-16" x="-50%" y="-50%" width="200%" height="200%">
+    <feDropShadow dx="0" dy="8" stdDeviation="9.6" flood-color="#000000" flood-opacity="0.26"/>
+  </filter>
+</defs>
+<g transform="translate(0, 0)">
+  <g id="Root">
+    <g id="Box">
+        <rect x="0" y="0" width="1050" height="2100" fill="#F8F9FF"/>
+      <g id="Box">
+        <g id="Spacer">
+        </g>
+        <g id="Row">
+          <g id="Box">
+              <rect x="0" y="0" width="1050" height="2100" fill="#F8F9FF"/>
+            <g id="MultiContentMeasurePolicyImpl">
+              <g id="Box">
+                <g id="BoxKt">
+                  <image href="feed.figma-raster/60.png" x="0" y="0" width="3" height="3"/>
+                </g>
+                <g id="Box">
+                </g>
+              </g>
+              <g id="Column">
+                <image href="feed.figma-raster/28.png" x="0" y="0" width="1050" height="168"/>
+                <g id="Row">
+                  <g id="Box">
+                    <clipPath id="clip-0"><rect x="21" y="32" width="105" height="105" rx="52.5" ry="52.5"/></clipPath>
+                    <g id="Box">
+                      <g clip-path="url(#clip-0)">
+                        <g id="Spacer">
+                          <image href="feed.figma-raster/62.png" x="21" y="32" width="105" height="105"/>
+                        </g>
+                      </g>
+                    </g>
+                    <g id="Box">
+                    </g>
+                  </g>
+                  <g id="Box">
+                  </g>
+                  <g id="Spacer">
+                  </g>
+                </g>
+              </g>
+              <g id="Box">
+              </g>
+              <g id="Box">
+              </g>
+              <g id="Box" filter="url(#shadow-16)">
+                <rect x="638" y="1911" width="370" height="147" rx="73.5" ry="73.5" fill="#D1E4FF"/>
+                <g id="Row">
+                  <g id="BoxKt">
+                    <g transform="translate(680 1953) scale(2.62 2.62)">
+                      <path d="m13 6.83 l0.88 0.88 a 0.996 0.996 0 1 0 1.41 -1.41 L12.7 3.71 a 0.996 0.996 0 0 0 -1.41 0 L8.71 6.29 a 0.996 0.996 0 1 0 1.41 1.41 l0.88 -0.87 V20 c 0 0.55 0.45 1 1 1 s 1 -0.45 1 -1 V6.83 Z" fill="#001D36"/>
+                    </g>
+                  </g>
+                  <g id="Spacer">
+                  </g>
+                  <g id="Empty">
+                    <text x="764" y="1996.92" font-size="36.75" font-family="Roboto-Medium.ttf:FontWeight(weight=500):Normal:SettingFloat(ital,0.0),SettingInt(wght,500, sans-serif" font-weight="500" letter-spacing="0.26" style="font-variation-settings:&apos;ital&apos; 0.0,&apos;wght&apos; 500.0" fill="#001D36">Scroll to top</text>
+                  </g>
+                </g>
+              </g>
+            </g>
+          </g>
+          <g id="Box">
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</g>
+</svg>
