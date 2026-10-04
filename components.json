@@ -1,0 +1,2128 @@
+{
+    "schemaVersion": 2,
+    "module": "app",
+    "variant": "debug",
+    "components": [
+        {
+            "canonicalId": "app/androidx.compose.material.pullrefresh.PullRefreshIndicatorKt.PullRefreshIndicator",
+            "componentIds": [],
+            "symbol": {
+                "jvmOwner": "androidx.compose.material.pullrefresh.PullRefreshIndicatorKt",
+                "callable": "androidx.compose.material.pullrefresh.PullRefreshIndicator",
+                "name": "PullRefreshIndicator",
+                "origin": "LIBRARY",
+                "jvmName": "PullRefreshIndicator-jB83MbM",
+                "descriptor": "(ZLandroidx/compose/material/pullrefresh/PullRefreshState;Landroidx/compose/ui/Modifier;JJZLandroidx/compose/runtime/Composer;II)V",
+                "sourceFile": null,
+                "docs": "unavailable",
+                "receiver": null
+            },
+            "parameters": [
+                {
+                    "name": "refreshing",
+                    "type": "Boolean",
+                    "typeFqn": "kotlin.Boolean",
+                    "hasDefault": false,
+                    "composableSlot": false,
+                    "composableSlotReceiver": null,
+                    "nullable": false,
+                    "noArgConstructible": false,
+                    "noArgFactory": null,
+                    "scopeDslReceiver": null,
+                    "lambdaReturnTypeFqn": null
+                },
+                {
+                    "name": "state",
+                    "type": "PullRefreshState",
+                    "typeFqn": "androidx.compose.material.pullrefresh.PullRefreshState",
+                    "hasDefault": false,
+                    "composableSlot": false,
+                    "composableSlotReceiver": null,
+                    "nullable": false,
+                    "noArgConstructible": false,
+                    "noArgFactory": null,
+                    "scopeDslReceiver": null,
+                    "lambdaReturnTypeFqn": null
+                },
+                {
+                    "name": "modifier",
+                    "type": "Modifier",
+                    "typeFqn": "androidx.compose.ui.Modifier",
+                    "hasDefault": true,
+                    "composableSlot": false,
+                    "composableSlotReceiver": null,
+                    "nullable": false,
+                    "noArgConstructible": false,
+                    "noArgFactory": null,
+                    "scopeDslReceiver": null,
+                    "lambdaReturnTypeFqn": null
+                },
+                {
+                    "name": "backgroundColor",
+                    "type": "Color",
+                    "typeFqn": "androidx.compose.ui.graphics.Color",
+                    "hasDefault": true,
+                    "composableSlot": false,
+                    "composableSlotReceiver": null,
+                    "nullable": false,
+                    "noArgConstructible": false,
+                    "noArgFactory": null,
+                    "scopeDslReceiver": null,
+                    "lambdaReturnTypeFqn": null
+                },
+                {
+                    "name": "contentColor",
+                    "type": "Color",
+                    "typeFqn": "androidx.compose.ui.graphics.Color",
+                    "hasDefault": true,
+                    "composableSlot": false,
+                    "composableSlotReceiver": null,
+                    "nullable": false,
+                    "noArgConstructible": false,
+                    "noArgFactory": null,
+                    "scopeDslReceiver": null,
+                    "lambdaReturnTypeFqn": null
+                },
+                {
+                    "name": "scale",
+                    "type": "Boolean",
+                    "typeFqn": "kotlin.Boolean",
+                    "hasDefault": true,
+                    "composableSlot": false,
+                    "composableSlotReceiver": null,
+                    "nullable": false,
+                    "noArgConstructible": false,
+                    "noArgFactory": null,
+                    "scopeDslReceiver": null,
+                    "lambdaReturnTypeFqn": null
+                }
+            ],
+            "slots": [],
+            "bindings": [
+                {
+                    "previewId": "dev.johnoreilly.peopleinspace.ui.PeopleInSpacePreviewsKt.PersonListScreenDarkPreview",
+                    "componentId": null,
+                    "group": null
+                },
+                {
+                    "previewId": "dev.johnoreilly.peopleinspace.ui.PeopleInSpacePreviewsKt.PersonListScreenEmptyPreview",
+                    "componentId": null,
+                    "group": null
+                },
+                {
+                    "previewId": "dev.johnoreilly.peopleinspace.ui.PeopleInSpacePreviewsKt.PersonListScreenErrorPreview",
+                    "componentId": null,
+                    "group": null
+                },
+                {
+                    "previewId": "dev.johnoreilly.peopleinspace.ui.PeopleInSpacePreviewsKt.PersonListScreenLoadingPreview",
+                    "componentId": null,
+                    "group": null
+                },
+                {
+                    "previewId": "dev.johnoreilly.peopleinspace.ui.PeopleInSpacePreviewsKt.PersonListScreenSuccessPreview",
+                    "componentId": null,
+                    "group": null
+                }
+            ],
+            "code": {
+                "call": null,
+                "imports": [],
+                "refusedReason": "no placeholder can be written for required parameter `state: PullRefreshState`",
+                "requiredOptIns": [],
+                "androidxOptIns": []
+            },
+            "signatureKnown": true,
+            "callableFromAnotherFile": true,
+            "hasTypeParameters": false,
+            "hasContextReceivers": false,
+            "overloadsCollided": false,
+            "builder": null,
+            "requiredOptIns": [
+                "androidx.compose.material.ExperimentalMaterialApi"
+            ],
+            "androidxOptIns": []
+        },
+        {
+            "canonicalId": "app/androidx.compose.material3.AppBarKt.CenterAlignedTopAppBar",
+            "componentIds": [],
+            "symbol": {
+                "jvmOwner": "androidx.compose.material3.AppBarKt",
+                "callable": "androidx.compose.material3.CenterAlignedTopAppBar",
+                "name": "CenterAlignedTopAppBar",
+                "origin": "LIBRARY",
+                "jvmName": "CenterAlignedTopAppBar-gNPyAyM",
+                "descriptor": "(Lkotlin/jvm/functions/Function2;Landroidx/compose/ui/Modifier;Lkotlin/jvm/functions/Function2;Lkotlin/jvm/functions/Function3;FLandroidx/compose/foundation/layout/WindowInsets;Landroidx/compose/material3/TopAppBarColors;Landroidx/compose/material3/TopAppBarScrollBehavior;Landroidx/compose/foundation/layout/PaddingValues;Landroidx/compose/runtime/Composer;II)V",
+                "sourceFile": null,
+                "docs": "unavailable",
+                "receiver": null
+            },
+            "parameters": [
+                {
+                    "name": "title",
+                    "type": "() -> Unit",
+                    "typeFqn": "kotlin.Function0",
+                    "hasDefault": false,
+                    "composableSlot": true,
+                    "composableSlotReceiver": null,
+                    "nullable": false,
+                    "noArgConstructible": false,
+                    "noArgFactory": null,
+                    "scopeDslReceiver": null,
+                    "lambdaReturnTypeFqn": "kotlin.Unit"
+                },
+                {
+                    "name": "modifier",
+                    "type": "Modifier",
+                    "typeFqn": "androidx.compose.ui.Modifier",
+                    "hasDefault": true,
+                    "composableSlot": false,
+                    "composableSlotReceiver": null,
+                    "nullable": false,
+                    "noArgConstructible": false,
+                    "noArgFactory": null,
+                    "scopeDslReceiver": null,
+                    "lambdaReturnTypeFqn": null
+                },
+                {
+                    "name": "navigationIcon",
+                    "type": "() -> Unit",
+                    "typeFqn": "kotlin.Function0",
+                    "hasDefault": true,
+                    "composableSlot": true,
+                    "composableSlotReceiver": null,
+                    "nullable": false,
+                    "noArgConstructible": false,
+                    "noArgFactory": null,
+                    "scopeDslReceiver": null,
+                    "lambdaReturnTypeFqn": "kotlin.Unit"
+                },
+                {
+                    "name": "actions",
+                    "type": "RowScope.() -> Unit",
+                    "typeFqn": "kotlin.Function1",
+                    "hasDefault": true,
+                    "composableSlot": true,
+                    "composableSlotReceiver": "androidx.compose.foundation.layout.RowScope",
+                    "nullable": false,
+                    "noArgConstructible": false,
+                    "noArgFactory": null,
+                    "scopeDslReceiver": null,
+                    "lambdaReturnTypeFqn": "kotlin.Unit"
+                },
+                {
+                    "name": "expandedHeight",
+                    "type": "Dp",
+                    "typeFqn": "androidx.compose.ui.unit.Dp",
+                    "hasDefault": true,
+                    "composableSlot": false,
+                    "composableSlotReceiver": null,
+                    "nullable": false,
+                    "noArgConstructible": false,
+                    "noArgFactory": null,
+                    "scopeDslReceiver": null,
+                    "lambdaReturnTypeFqn": null
+                },
+                {
+                    "name": "windowInsets",
+                    "type": "WindowInsets",
+                    "typeFqn": "androidx.compose.foundation.layout.WindowInsets",
+                    "hasDefault": true,
+                    "composableSlot": false,
+                    "composableSlotReceiver": null,
+                    "nullable": false,
+                    "noArgConstructible": false,
+                    "noArgFactory": null,
+                    "scopeDslReceiver": null,
+                    "lambdaReturnTypeFqn": null
+                },
+                {
+                    "name": "colors",
+                    "type": "TopAppBarColors",
+                    "typeFqn": "androidx.compose.material3.TopAppBarColors",
+                    "hasDefault": true,
+                    "composableSlot": false,
+                    "composableSlotReceiver": null,
+                    "nullable": false,
+                    "noArgConstructible": false,
+                    "noArgFactory": null,
+                    "scopeDslReceiver": null,
+                    "lambdaReturnTypeFqn": null
+                },
+                {
+                    "name": "scrollBehavior",
+                    "type": "TopAppBarScrollBehavior?",
+                    "typeFqn": "androidx.compose.material3.TopAppBarScrollBehavior",
+                    "hasDefault": true,
+                    "composableSlot": false,
+                    "composableSlotReceiver": null,
+                    "nullable": true,
+                    "noArgConstructible": false,
+                    "noArgFactory": null,
+                    "scopeDslReceiver": null,
+                    "lambdaReturnTypeFqn": null
+                },
+                {
+                    "name": "contentPadding",
+                    "type": "PaddingValues",
+                    "typeFqn": "androidx.compose.foundation.layout.PaddingValues",
+                    "hasDefault": true,
+                    "composableSlot": false,
+                    "composableSlotReceiver": null,
+                    "nullable": false,
+                    "noArgConstructible": false,
+                    "noArgFactory": null,
+                    "scopeDslReceiver": null,
+                    "lambdaReturnTypeFqn": null
+                }
+            ],
+            "slots": [
+                {
+                    "name": "title",
+                    "required": true,
+                    "receiverScope": null
+                },
+                {
+                    "name": "navigationIcon",
+                    "required": false,
+                    "receiverScope": null
+                },
+                {
+                    "name": "actions",
+                    "required": false,
+                    "receiverScope": "androidx.compose.foundation.layout.RowScope"
+                }
+            ],
+            "bindings": [
+                {
+                    "previewId": "dev.johnoreilly.peopleinspace.ui.PeopleInSpacePreviewsKt.PersonDetailsTopAppBarNoBackPreview",
+                    "componentId": null,
+                    "group": null
+                },
+                {
+                    "previewId": "dev.johnoreilly.peopleinspace.ui.PeopleInSpacePreviewsKt.PersonDetailsTopAppBarPreview",
+                    "componentId": null,
+                    "group": null
+                },
+                {
+                    "previewId": "dev.johnoreilly.peopleinspace.ui.PeopleInSpacePreviewsKt.PersonListScreenDarkPreview",
+                    "componentId": null,
+                    "group": null
+                },
+                {
+                    "previewId": "dev.johnoreilly.peopleinspace.ui.PeopleInSpacePreviewsKt.PersonListScreenEmptyPreview",
+                    "componentId": null,
+                    "group": null
+                },
+                {
+                    "previewId": "dev.johnoreilly.peopleinspace.ui.PeopleInSpacePreviewsKt.PersonListScreenErrorPreview",
+                    "componentId": null,
+                    "group": null
+                },
+                {
+                    "previewId": "dev.johnoreilly.peopleinspace.ui.PeopleInSpacePreviewsKt.PersonListScreenLoadingPreview",
+                    "componentId": null,
+                    "group": null
+                },
+                {
+                    "previewId": "dev.johnoreilly.peopleinspace.ui.PeopleInSpacePreviewsKt.PersonListScreenSuccessPreview",
+                    "componentId": null,
+                    "group": null
+                }
+            ],
+            "code": {
+                "call": "CenterAlignedTopAppBar(title = {})",
+                "imports": [
+                    "androidx.compose.material3.CenterAlignedTopAppBar"
+                ],
+                "refusedReason": null,
+                "requiredOptIns": [],
+                "androidxOptIns": []
+            },
+            "signatureKnown": true,
+            "callableFromAnotherFile": true,
+            "hasTypeParameters": false,
+            "hasContextReceivers": false,
+            "overloadsCollided": false,
+            "builder": null,
+            "requiredOptIns": [],
+            "androidxOptIns": []
+        },
+        {
+            "canonicalId": "app/androidx.compose.material3.CardKt.Card",
+            "componentIds": [],
+            "symbol": {
+                "jvmOwner": "androidx.compose.material3.CardKt",
+                "callable": "androidx.compose.material3.Card",
+                "name": "Card",
+                "origin": "LIBRARY",
+                "jvmName": "Card",
+                "descriptor": "(Landroidx/compose/ui/Modifier;Landroidx/compose/ui/graphics/Shape;Landroidx/compose/material3/CardColors;Landroidx/compose/material3/CardElevation;Landroidx/compose/foundation/BorderStroke;Lkotlin/jvm/functions/Function3;Landroidx/compose/runtime/Composer;II)V",
+                "sourceFile": null,
+                "docs": "unavailable",
+                "receiver": null
+            },
+            "parameters": [
+                {
+                    "name": "modifier",
+                    "type": "Modifier",
+                    "typeFqn": "androidx.compose.ui.Modifier",
+                    "hasDefault": true,
+                    "composableSlot": false,
+                    "composableSlotReceiver": null,
+                    "nullable": false,
+                    "noArgConstructible": false,
+                    "noArgFactory": null,
+                    "scopeDslReceiver": null,
+                    "lambdaReturnTypeFqn": null
+                },
+                {
+                    "name": "shape",
+                    "type": "Shape",
+                    "typeFqn": "androidx.compose.ui.graphics.Shape",
+                    "hasDefault": true,
+                    "composableSlot": false,
+                    "composableSlotReceiver": null,
+                    "nullable": false,
+                    "noArgConstructible": false,
+                    "noArgFactory": null,
+                    "scopeDslReceiver": null,
+                    "lambdaReturnTypeFqn": null
+                },
+                {
+                    "name": "colors",
+                    "type": "CardColors",
+                    "typeFqn": "androidx.compose.material3.CardColors",
+                    "hasDefault": true,
+                    "composableSlot": false,
+                    "composableSlotReceiver": null,
+                    "nullable": false,
+                    "noArgConstructible": false,
+                    "noArgFactory": null,
+                    "scopeDslReceiver": null,
+                    "lambdaReturnTypeFqn": null
+                },
+                {
+                    "name": "elevation",
+                    "type": "CardElevation",
+                    "typeFqn": "androidx.compose.material3.CardElevation",
+                    "hasDefault": true,
+                    "composableSlot": false,
+                    "composableSlotReceiver": null,
+                    "nullable": false,
+                    "noArgConstructible": false,
+                    "noArgFactory": null,
+                    "scopeDslReceiver": null,
+                    "lambdaReturnTypeFqn": null
+                },
+                {
+                    "name": "border",
+                    "type": "BorderStroke?",
+                    "typeFqn": "androidx.compose.foundation.BorderStroke",
+                    "hasDefault": true,
+                    "composableSlot": false,
+                    "composableSlotReceiver": null,
+                    "nullable": true,
+                    "noArgConstructible": false,
+                    "noArgFactory": null,
+                    "scopeDslReceiver": null,
+                    "lambdaReturnTypeFqn": null
+                },
+                {
+                    "name": "content",
+                    "type": "ColumnScope.() -> Unit",
+                    "typeFqn": "kotlin.Function1",
+                    "hasDefault": false,
+                    "composableSlot": true,
+                    "composableSlotReceiver": "androidx.compose.foundation.layout.ColumnScope",
+                    "nullable": false,
+                    "noArgConstructible": false,
+                    "noArgFactory": null,
+                    "scopeDslReceiver": null,
+                    "lambdaReturnTypeFqn": "kotlin.Unit"
+                }
+            ],
+            "slots": [
+                {
+                    "name": "content",
+                    "required": true,
+                    "receiverScope": "androidx.compose.foundation.layout.ColumnScope"
+                }
+            ],
+            "bindings": [
+                {
+                    "previewId": "dev.johnoreilly.peopleinspace.personlist.PersonListScreenKt.PersonViewPreview",
+                    "componentId": null,
+                    "group": null
+                },
+                {
+                    "previewId": "dev.johnoreilly.peopleinspace.ui.PeopleInSpacePreviewsKt.PersonBioMissingPreview",
+                    "componentId": null,
+                    "group": null
+                },
+                {
+                    "previewId": "dev.johnoreilly.peopleinspace.ui.PeopleInSpacePreviewsKt.PersonBioPreview",
+                    "componentId": null,
+                    "group": null
+                },
+                {
+                    "previewId": "dev.johnoreilly.peopleinspace.ui.PeopleInSpacePreviewsKt.PersonViewNoNationalityPreview",
+                    "componentId": null,
+                    "group": null
+                },
+                {
+                    "previewId": "dev.johnoreilly.peopleinspace.ui.PeopleInSpacePreviewsKt.PersonViewRowsPreview",
+                    "componentId": null,
+                    "group": null
+                }
+            ],
+            "code": {
+                "call": "Card(content = {})",
+                "imports": [
+                    "androidx.compose.material3.Card"
+                ],
+                "refusedReason": null,
+                "requiredOptIns": [],
+                "androidxOptIns": []
+            },
+            "signatureKnown": true,
+            "callableFromAnotherFile": true,
+            "hasTypeParameters": false,
+            "hasContextReceivers": false,
+            "overloadsCollided": false,
+            "builder": null,
+            "requiredOptIns": [],
+            "androidxOptIns": []
+        },
+        {
+            "canonicalId": "app/androidx.compose.material3.IconButtonKt.IconButton",
+            "componentIds": [],
+            "symbol": {
+                "jvmOwner": "androidx.compose.material3.IconButtonKt",
+                "callable": "androidx.compose.material3.IconButton",
+                "name": "IconButton",
+                "origin": "LIBRARY",
+                "jvmName": "IconButton",
+                "descriptor": "(Lkotlin/jvm/functions/Function0;Landroidx/compose/ui/Modifier;ZLandroidx/compose/material3/IconButtonColors;Landroidx/compose/foundation/interaction/MutableInteractionSource;Lkotlin/jvm/functions/Function2;Landroidx/compose/runtime/Composer;II)V",
+                "sourceFile": null,
+                "docs": "unavailable",
+                "receiver": null
+            },
+            "parameters": [
+                {
+                    "name": "onClick",
+                    "type": "() -> Unit",
+                    "typeFqn": "kotlin.Function0",
+                    "hasDefault": false,
+                    "composableSlot": false,
+                    "composableSlotReceiver": null,
+                    "nullable": false,
+                    "noArgConstructible": false,
+                    "noArgFactory": null,
+                    "scopeDslReceiver": null,
+                    "lambdaReturnTypeFqn": "kotlin.Unit"
+                },
+                {
+                    "name": "modifier",
+                    "type": "Modifier",
+                    "typeFqn": "androidx.compose.ui.Modifier",
+                    "hasDefault": true,
+                    "composableSlot": false,
+                    "composableSlotReceiver": null,
+                    "nullable": false,
+                    "noArgConstructible": false,
+                    "noArgFactory": null,
+                    "scopeDslReceiver": null,
+                    "lambdaReturnTypeFqn": null
+                },
+                {
+                    "name": "enabled",
+                    "type": "Boolean",
+                    "typeFqn": "kotlin.Boolean",
+                    "hasDefault": true,
+                    "composableSlot": false,
+                    "composableSlotReceiver": null,
+                    "nullable": false,
+                    "noArgConstructible": false,
+                    "noArgFactory": null,
+                    "scopeDslReceiver": null,
+                    "lambdaReturnTypeFqn": null
+                },
+                {
+                    "name": "colors",
+                    "type": "IconButtonColors",
+                    "typeFqn": "androidx.compose.material3.IconButtonColors",
+                    "hasDefault": true,
+                    "composableSlot": false,
+                    "composableSlotReceiver": null,
+                    "nullable": false,
+                    "noArgConstructible": false,
+                    "noArgFactory": null,
+                    "scopeDslReceiver": null,
+                    "lambdaReturnTypeFqn": null
+                },
+                {
+                    "name": "interactionSource",
+                    "type": "MutableInteractionSource?",
+                    "typeFqn": "androidx.compose.foundation.interaction.MutableInteractionSource",
+                    "hasDefault": true,
+                    "composableSlot": false,
+                    "composableSlotReceiver": null,
+                    "nullable": true,
+                    "noArgConstructible": false,
+                    "noArgFactory": null,
+                    "scopeDslReceiver": null,
+                    "lambdaReturnTypeFqn": null
+                },
+                {
+                    "name": "content",
+                    "type": "() -> Unit",
+                    "typeFqn": "kotlin.Function0",
+                    "hasDefault": false,
+                    "composableSlot": true,
+                    "composableSlotReceiver": null,
+                    "nullable": false,
+                    "noArgConstructible": false,
+                    "noArgFactory": null,
+                    "scopeDslReceiver": null,
+                    "lambdaReturnTypeFqn": "kotlin.Unit"
+                }
+            ],
+            "slots": [
+                {
+                    "name": "content",
+                    "required": true,
+                    "receiverScope": null
+                }
+            ],
+            "bindings": [
+                {
+                    "previewId": "dev.johnoreilly.peopleinspace.ui.PeopleInSpacePreviewsKt.PersonDetailsTopAppBarNoBackPreview",
+                    "componentId": null,
+                    "group": null
+                },
+                {
+                    "previewId": "dev.johnoreilly.peopleinspace.ui.PeopleInSpacePreviewsKt.PersonDetailsTopAppBarPreview",
+                    "componentId": null,
+                    "group": null
+                }
+            ],
+            "code": {
+                "call": "IconButton(onClick = {}, content = {})",
+                "imports": [
+                    "androidx.compose.material3.IconButton"
+                ],
+                "refusedReason": null,
+                "requiredOptIns": [],
+                "androidxOptIns": []
+            },
+            "signatureKnown": true,
+            "callableFromAnotherFile": true,
+            "hasTypeParameters": false,
+            "hasContextReceivers": false,
+            "overloadsCollided": false,
+            "builder": null,
+            "requiredOptIns": [],
+            "androidxOptIns": []
+        },
+        {
+            "canonicalId": "app/androidx.compose.material3.IconKt.Icon",
+            "componentIds": [],
+            "symbol": {
+                "jvmOwner": "androidx.compose.material3.IconKt",
+                "callable": "androidx.compose.material3.Icon",
+                "name": "Icon",
+                "origin": "LIBRARY",
+                "jvmName": "Icon-ww6aTOc",
+                "descriptor": "(Landroidx/compose/ui/graphics/vector/ImageVector;Ljava/lang/String;Landroidx/compose/ui/Modifier;JLandroidx/compose/runtime/Composer;II)V",
+                "sourceFile": null,
+                "docs": "unavailable",
+                "receiver": null
+            },
+            "parameters": [
+                {
+                    "name": "imageVector",
+                    "type": "ImageVector",
+                    "typeFqn": "androidx.compose.ui.graphics.vector.ImageVector",
+                    "hasDefault": false,
+                    "composableSlot": false,
+                    "composableSlotReceiver": null,
+                    "nullable": false,
+                    "noArgConstructible": false,
+                    "noArgFactory": null,
+                    "scopeDslReceiver": null,
+                    "lambdaReturnTypeFqn": null
+                },
+                {
+                    "name": "contentDescription",
+                    "type": "String?",
+                    "typeFqn": "kotlin.String",
+                    "hasDefault": false,
+                    "composableSlot": false,
+                    "composableSlotReceiver": null,
+                    "nullable": true,
+                    "noArgConstructible": false,
+                    "noArgFactory": null,
+                    "scopeDslReceiver": null,
+                    "lambdaReturnTypeFqn": null
+                },
+                {
+                    "name": "modifier",
+                    "type": "Modifier",
+                    "typeFqn": "androidx.compose.ui.Modifier",
+                    "hasDefault": true,
+                    "composableSlot": false,
+                    "composableSlotReceiver": null,
+                    "nullable": false,
+                    "noArgConstructible": false,
+                    "noArgFactory": null,
+                    "scopeDslReceiver": null,
+                    "lambdaReturnTypeFqn": null
+                },
+                {
+                    "name": "tint",
+                    "type": "Color",
+                    "typeFqn": "androidx.compose.ui.graphics.Color",
+                    "hasDefault": true,
+                    "composableSlot": false,
+                    "composableSlotReceiver": null,
+                    "nullable": false,
+                    "noArgConstructible": false,
+                    "noArgFactory": null,
+                    "scopeDslReceiver": null,
+                    "lambdaReturnTypeFqn": null
+                }
+            ],
+            "slots": [],
+            "bindings": [
+                {
+                    "previewId": "dev.johnoreilly.peopleinspace.personlist.PersonListScreenKt.PersonViewPreview",
+                    "componentId": null,
+                    "group": null
+                },
+                {
+                    "previewId": "dev.johnoreilly.peopleinspace.ui.PeopleInSpacePreviewsKt.PersonDetailsTopAppBarNoBackPreview",
+                    "componentId": null,
+                    "group": null
+                },
+                {
+                    "previewId": "dev.johnoreilly.peopleinspace.ui.PeopleInSpacePreviewsKt.PersonDetailsTopAppBarPreview",
+                    "componentId": null,
+                    "group": null
+                },
+                {
+                    "previewId": "dev.johnoreilly.peopleinspace.ui.PeopleInSpacePreviewsKt.PersonImagePlaceholderPreview",
+                    "componentId": null,
+                    "group": null
+                },
+                {
+                    "previewId": "dev.johnoreilly.peopleinspace.ui.PeopleInSpacePreviewsKt.PersonListScreenDarkPreview",
+                    "componentId": null,
+                    "group": null
+                },
+                {
+                    "previewId": "dev.johnoreilly.peopleinspace.ui.PeopleInSpacePreviewsKt.PersonListScreenEmptyPreview",
+                    "componentId": null,
+                    "group": null
+                },
+                {
+                    "previewId": "dev.johnoreilly.peopleinspace.ui.PeopleInSpacePreviewsKt.PersonListScreenErrorPreview",
+                    "componentId": null,
+                    "group": null
+                },
+                {
+                    "previewId": "dev.johnoreilly.peopleinspace.ui.PeopleInSpacePreviewsKt.PersonListScreenLoadingPreview",
+                    "componentId": null,
+                    "group": null
+                },
+                {
+                    "previewId": "dev.johnoreilly.peopleinspace.ui.PeopleInSpacePreviewsKt.PersonListScreenSuccessPreview",
+                    "componentId": null,
+                    "group": null
+                },
+                {
+                    "previewId": "dev.johnoreilly.peopleinspace.ui.PeopleInSpacePreviewsKt.PersonViewNoNationalityPreview",
+                    "componentId": null,
+                    "group": null
+                },
+                {
+                    "previewId": "dev.johnoreilly.peopleinspace.ui.PeopleInSpacePreviewsKt.PersonViewRowsPreview",
+                    "componentId": null,
+                    "group": null
+                }
+            ],
+            "code": {
+                "call": null,
+                "imports": [],
+                "refusedReason": "no placeholder can be written for required parameter `imageVector: ImageVector`",
+                "requiredOptIns": [],
+                "androidxOptIns": []
+            },
+            "signatureKnown": true,
+            "callableFromAnotherFile": true,
+            "hasTypeParameters": false,
+            "hasContextReceivers": false,
+            "overloadsCollided": false,
+            "builder": null,
+            "requiredOptIns": [],
+            "androidxOptIns": []
+        },
+        {
+            "canonicalId": "app/androidx.compose.material3.ProgressIndicatorKt.CircularProgressIndicator",
+            "componentIds": [],
+            "symbol": {
+                "jvmOwner": "androidx.compose.material3.ProgressIndicatorKt",
+                "callable": "androidx.compose.material3.CircularProgressIndicator",
+                "name": "CircularProgressIndicator",
+                "origin": "LIBRARY",
+                "jvmName": "CircularProgressIndicator-4lLiAd8",
+                "descriptor": "(Landroidx/compose/ui/Modifier;JFJIFLandroidx/compose/runtime/Composer;II)V",
+                "sourceFile": null,
+                "docs": "unavailable",
+                "receiver": null
+            },
+            "parameters": [
+                {
+                    "name": "modifier",
+                    "type": "Modifier",
+                    "typeFqn": "androidx.compose.ui.Modifier",
+                    "hasDefault": true,
+                    "composableSlot": false,
+                    "composableSlotReceiver": null,
+                    "nullable": false,
+                    "noArgConstructible": false,
+                    "noArgFactory": null,
+                    "scopeDslReceiver": null,
+                    "lambdaReturnTypeFqn": null
+                },
+                {
+                    "name": "color",
+                    "type": "Color",
+                    "typeFqn": "androidx.compose.ui.graphics.Color",
+                    "hasDefault": true,
+                    "composableSlot": false,
+                    "composableSlotReceiver": null,
+                    "nullable": false,
+                    "noArgConstructible": false,
+                    "noArgFactory": null,
+                    "scopeDslReceiver": null,
+                    "lambdaReturnTypeFqn": null
+                },
+                {
+                    "name": "strokeWidth",
+                    "type": "Dp",
+                    "typeFqn": "androidx.compose.ui.unit.Dp",
+                    "hasDefault": true,
+                    "composableSlot": false,
+                    "composableSlotReceiver": null,
+                    "nullable": false,
+                    "noArgConstructible": false,
+                    "noArgFactory": null,
+                    "scopeDslReceiver": null,
+                    "lambdaReturnTypeFqn": null
+                },
+                {
+                    "name": "trackColor",
+                    "type": "Color",
+                    "typeFqn": "androidx.compose.ui.graphics.Color",
+                    "hasDefault": true,
+                    "composableSlot": false,
+                    "composableSlotReceiver": null,
+                    "nullable": false,
+                    "noArgConstructible": false,
+                    "noArgFactory": null,
+                    "scopeDslReceiver": null,
+                    "lambdaReturnTypeFqn": null
+                },
+                {
+                    "name": "strokeCap",
+                    "type": "StrokeCap",
+                    "typeFqn": "androidx.compose.ui.graphics.StrokeCap",
+                    "hasDefault": true,
+                    "composableSlot": false,
+                    "composableSlotReceiver": null,
+                    "nullable": false,
+                    "noArgConstructible": false,
+                    "noArgFactory": null,
+                    "scopeDslReceiver": null,
+                    "lambdaReturnTypeFqn": null
+                },
+                {
+                    "name": "gapSize",
+                    "type": "Dp",
+                    "typeFqn": "androidx.compose.ui.unit.Dp",
+                    "hasDefault": true,
+                    "composableSlot": false,
+                    "composableSlotReceiver": null,
+                    "nullable": false,
+                    "noArgConstructible": false,
+                    "noArgFactory": null,
+                    "scopeDslReceiver": null,
+                    "lambdaReturnTypeFqn": null
+                }
+            ],
+            "slots": [],
+            "bindings": [
+                {
+                    "previewId": "dev.johnoreilly.peopleinspace.ui.PeopleInSpacePreviewsKt.PersonListScreenDarkPreview",
+                    "componentId": null,
+                    "group": null
+                },
+                {
+                    "previewId": "dev.johnoreilly.peopleinspace.ui.PeopleInSpacePreviewsKt.PersonListScreenEmptyPreview",
+                    "componentId": null,
+                    "group": null
+                },
+                {
+                    "previewId": "dev.johnoreilly.peopleinspace.ui.PeopleInSpacePreviewsKt.PersonListScreenErrorPreview",
+                    "componentId": null,
+                    "group": null
+                },
+                {
+                    "previewId": "dev.johnoreilly.peopleinspace.ui.PeopleInSpacePreviewsKt.PersonListScreenLoadingPreview",
+                    "componentId": null,
+                    "group": null
+                },
+                {
+                    "previewId": "dev.johnoreilly.peopleinspace.ui.PeopleInSpacePreviewsKt.PersonListScreenSuccessPreview",
+                    "componentId": null,
+                    "group": null
+                }
+            ],
+            "code": {
+                "call": "CircularProgressIndicator()",
+                "imports": [
+                    "androidx.compose.material3.CircularProgressIndicator"
+                ],
+                "refusedReason": null,
+                "requiredOptIns": [],
+                "androidxOptIns": []
+            },
+            "signatureKnown": true,
+            "callableFromAnotherFile": true,
+            "hasTypeParameters": false,
+            "hasContextReceivers": false,
+            "overloadsCollided": false,
+            "builder": null,
+            "requiredOptIns": [],
+            "androidxOptIns": []
+        },
+        {
+            "canonicalId": "app/androidx.compose.material3.ScaffoldKt.Scaffold",
+            "componentIds": [],
+            "symbol": {
+                "jvmOwner": "androidx.compose.material3.ScaffoldKt",
+                "callable": "androidx.compose.material3.Scaffold",
+                "name": "Scaffold",
+                "origin": "LIBRARY",
+                "jvmName": "Scaffold-TvnljyQ",
+                "descriptor": "(Landroidx/compose/ui/Modifier;Lkotlin/jvm/functions/Function2;Lkotlin/jvm/functions/Function2;Lkotlin/jvm/functions/Function2;Lkotlin/jvm/functions/Function2;IJJLandroidx/compose/foundation/layout/WindowInsets;Lkotlin/jvm/functions/Function3;Landroidx/compose/runtime/Composer;II)V",
+                "sourceFile": null,
+                "docs": "unavailable",
+                "receiver": null
+            },
+            "parameters": [
+                {
+                    "name": "modifier",
+                    "type": "Modifier",
+                    "typeFqn": "androidx.compose.ui.Modifier",
+                    "hasDefault": true,
+                    "composableSlot": false,
+                    "composableSlotReceiver": null,
+                    "nullable": false,
+                    "noArgConstructible": false,
+                    "noArgFactory": null,
+                    "scopeDslReceiver": null,
+                    "lambdaReturnTypeFqn": null
+                },
+                {
+                    "name": "topBar",
+                    "type": "() -> Unit",
+                    "typeFqn": "kotlin.Function0",
+                    "hasDefault": true,
+                    "composableSlot": true,
+                    "composableSlotReceiver": null,
+                    "nullable": false,
+                    "noArgConstructible": false,
+                    "noArgFactory": null,
+                    "scopeDslReceiver": null,
+                    "lambdaReturnTypeFqn": "kotlin.Unit"
+                },
+                {
+                    "name": "bottomBar",
+                    "type": "() -> Unit",
+                    "typeFqn": "kotlin.Function0",
+                    "hasDefault": true,
+                    "composableSlot": true,
+                    "composableSlotReceiver": null,
+                    "nullable": false,
+                    "noArgConstructible": false,
+                    "noArgFactory": null,
+                    "scopeDslReceiver": null,
+                    "lambdaReturnTypeFqn": "kotlin.Unit"
+                },
+                {
+                    "name": "snackbarHost",
+                    "type": "() -> Unit",
+                    "typeFqn": "kotlin.Function0",
+                    "hasDefault": true,
+                    "composableSlot": true,
+                    "composableSlotReceiver": null,
+                    "nullable": false,
+                    "noArgConstructible": false,
+                    "noArgFactory": null,
+                    "scopeDslReceiver": null,
+                    "lambdaReturnTypeFqn": "kotlin.Unit"
+                },
+                {
+                    "name": "floatingActionButton",
+                    "type": "() -> Unit",
+                    "typeFqn": "kotlin.Function0",
+                    "hasDefault": true,
+                    "composableSlot": true,
+                    "composableSlotReceiver": null,
+                    "nullable": false,
+                    "noArgConstructible": false,
+                    "noArgFactory": null,
+                    "scopeDslReceiver": null,
+                    "lambdaReturnTypeFqn": "kotlin.Unit"
+                },
+                {
+                    "name": "floatingActionButtonPosition",
+                    "type": "FabPosition",
+                    "typeFqn": "androidx.compose.material3.FabPosition",
+                    "hasDefault": true,
+                    "composableSlot": false,
+                    "composableSlotReceiver": null,
+                    "nullable": false,
+                    "noArgConstructible": false,
+                    "noArgFactory": null,
+                    "scopeDslReceiver": null,
+                    "lambdaReturnTypeFqn": null
+                },
+                {
+                    "name": "containerColor",
+                    "type": "Color",
+                    "typeFqn": "androidx.compose.ui.graphics.Color",
+                    "hasDefault": true,
+                    "composableSlot": false,
+                    "composableSlotReceiver": null,
+                    "nullable": false,
+                    "noArgConstructible": false,
+                    "noArgFactory": null,
+                    "scopeDslReceiver": null,
+                    "lambdaReturnTypeFqn": null
+                },
+                {
+                    "name": "contentColor",
+                    "type": "Color",
+                    "typeFqn": "androidx.compose.ui.graphics.Color",
+                    "hasDefault": true,
+                    "composableSlot": false,
+                    "composableSlotReceiver": null,
+                    "nullable": false,
+                    "noArgConstructible": false,
+                    "noArgFactory": null,
+                    "scopeDslReceiver": null,
+                    "lambdaReturnTypeFqn": null
+                },
+                {
+                    "name": "contentWindowInsets",
+                    "type": "WindowInsets",
+                    "typeFqn": "androidx.compose.foundation.layout.WindowInsets",
+                    "hasDefault": true,
+                    "composableSlot": false,
+                    "composableSlotReceiver": null,
+                    "nullable": false,
+                    "noArgConstructible": false,
+                    "noArgFactory": null,
+                    "scopeDslReceiver": null,
+                    "lambdaReturnTypeFqn": null
+                },
+                {
+                    "name": "content",
+                    "type": "(PaddingValues) -> Unit",
+                    "typeFqn": "kotlin.Function1",
+                    "hasDefault": false,
+                    "composableSlot": true,
+                    "composableSlotReceiver": null,
+                    "nullable": false,
+                    "noArgConstructible": false,
+                    "noArgFactory": null,
+                    "scopeDslReceiver": null,
+                    "lambdaReturnTypeFqn": "kotlin.Unit"
+                }
+            ],
+            "slots": [
+                {
+                    "name": "topBar",
+                    "required": false,
+                    "receiverScope": null
+                },
+                {
+                    "name": "bottomBar",
+                    "required": false,
+                    "receiverScope": null
+                },
+                {
+                    "name": "snackbarHost",
+                    "required": false,
+                    "receiverScope": null
+                },
+                {
+                    "name": "floatingActionButton",
+                    "required": false,
+                    "receiverScope": null
+                },
+                {
+                    "name": "content",
+                    "required": true,
+                    "receiverScope": null
+                }
+            ],
+            "bindings": [
+                {
+                    "previewId": "dev.johnoreilly.peopleinspace.ui.PeopleInSpacePreviewsKt.PersonListScreenDarkPreview",
+                    "componentId": null,
+                    "group": null
+                },
+                {
+                    "previewId": "dev.johnoreilly.peopleinspace.ui.PeopleInSpacePreviewsKt.PersonListScreenEmptyPreview",
+                    "componentId": null,
+                    "group": null
+                },
+                {
+                    "previewId": "dev.johnoreilly.peopleinspace.ui.PeopleInSpacePreviewsKt.PersonListScreenErrorPreview",
+                    "componentId": null,
+                    "group": null
+                },
+                {
+                    "previewId": "dev.johnoreilly.peopleinspace.ui.PeopleInSpacePreviewsKt.PersonListScreenLoadingPreview",
+                    "componentId": null,
+                    "group": null
+                },
+                {
+                    "previewId": "dev.johnoreilly.peopleinspace.ui.PeopleInSpacePreviewsKt.PersonListScreenSuccessPreview",
+                    "componentId": null,
+                    "group": null
+                }
+            ],
+            "code": {
+                "call": "Scaffold(content = {})",
+                "imports": [
+                    "androidx.compose.material3.Scaffold"
+                ],
+                "refusedReason": null,
+                "requiredOptIns": [],
+                "androidxOptIns": []
+            },
+            "signatureKnown": true,
+            "callableFromAnotherFile": true,
+            "hasTypeParameters": false,
+            "hasContextReceivers": false,
+            "overloadsCollided": false,
+            "builder": null,
+            "requiredOptIns": [],
+            "androidxOptIns": []
+        },
+        {
+            "canonicalId": "app/androidx.compose.material3.SurfaceKt.Surface",
+            "componentIds": [],
+            "symbol": {
+                "jvmOwner": "androidx.compose.material3.SurfaceKt",
+                "callable": "androidx.compose.material3.Surface",
+                "name": "Surface",
+                "origin": "LIBRARY",
+                "jvmName": "Surface-T9BRK9s",
+                "descriptor": "(Landroidx/compose/ui/Modifier;Landroidx/compose/ui/graphics/Shape;JJFFLandroidx/compose/foundation/BorderStroke;Lkotlin/jvm/functions/Function2;Landroidx/compose/runtime/Composer;II)V",
+                "sourceFile": null,
+                "docs": "unavailable",
+                "receiver": null
+            },
+            "parameters": [
+                {
+                    "name": "modifier",
+                    "type": "Modifier",
+                    "typeFqn": "androidx.compose.ui.Modifier",
+                    "hasDefault": true,
+                    "composableSlot": false,
+                    "composableSlotReceiver": null,
+                    "nullable": false,
+                    "noArgConstructible": false,
+                    "noArgFactory": null,
+                    "scopeDslReceiver": null,
+                    "lambdaReturnTypeFqn": null
+                },
+                {
+                    "name": "shape",
+                    "type": "Shape",
+                    "typeFqn": "androidx.compose.ui.graphics.Shape",
+                    "hasDefault": true,
+                    "composableSlot": false,
+                    "composableSlotReceiver": null,
+                    "nullable": false,
+                    "noArgConstructible": false,
+                    "noArgFactory": null,
+                    "scopeDslReceiver": null,
+                    "lambdaReturnTypeFqn": null
+                },
+                {
+                    "name": "color",
+                    "type": "Color",
+                    "typeFqn": "androidx.compose.ui.graphics.Color",
+                    "hasDefault": true,
+                    "composableSlot": false,
+                    "composableSlotReceiver": null,
+                    "nullable": false,
+                    "noArgConstructible": false,
+                    "noArgFactory": null,
+                    "scopeDslReceiver": null,
+                    "lambdaReturnTypeFqn": null
+                },
+                {
+                    "name": "contentColor",
+                    "type": "Color",
+                    "typeFqn": "androidx.compose.ui.graphics.Color",
+                    "hasDefault": true,
+                    "composableSlot": false,
+                    "composableSlotReceiver": null,
+                    "nullable": false,
+                    "noArgConstructible": false,
+                    "noArgFactory": null,
+                    "scopeDslReceiver": null,
+                    "lambdaReturnTypeFqn": null
+                },
+                {
+                    "name": "tonalElevation",
+                    "type": "Dp",
+                    "typeFqn": "androidx.compose.ui.unit.Dp",
+                    "hasDefault": true,
+                    "composableSlot": false,
+                    "composableSlotReceiver": null,
+                    "nullable": false,
+                    "noArgConstructible": false,
+                    "noArgFactory": null,
+                    "scopeDslReceiver": null,
+                    "lambdaReturnTypeFqn": null
+                },
+                {
+                    "name": "shadowElevation",
+                    "type": "Dp",
+                    "typeFqn": "androidx.compose.ui.unit.Dp",
+                    "hasDefault": true,
+                    "composableSlot": false,
+                    "composableSlotReceiver": null,
+                    "nullable": false,
+                    "noArgConstructible": false,
+                    "noArgFactory": null,
+                    "scopeDslReceiver": null,
+                    "lambdaReturnTypeFqn": null
+                },
+                {
+                    "name": "border",
+                    "type": "BorderStroke?",
+                    "typeFqn": "androidx.compose.foundation.BorderStroke",
+                    "hasDefault": true,
+                    "composableSlot": false,
+                    "composableSlotReceiver": null,
+                    "nullable": true,
+                    "noArgConstructible": false,
+                    "noArgFactory": null,
+                    "scopeDslReceiver": null,
+                    "lambdaReturnTypeFqn": null
+                },
+                {
+                    "name": "content",
+                    "type": "() -> Unit",
+                    "typeFqn": "kotlin.Function0",
+                    "hasDefault": false,
+                    "composableSlot": true,
+                    "composableSlotReceiver": null,
+                    "nullable": false,
+                    "noArgConstructible": false,
+                    "noArgFactory": null,
+                    "scopeDslReceiver": null,
+                    "lambdaReturnTypeFqn": "kotlin.Unit"
+                }
+            ],
+            "slots": [
+                {
+                    "name": "content",
+                    "required": true,
+                    "receiverScope": null
+                }
+            ],
+            "bindings": [
+                {
+                    "previewId": "dev.johnoreilly.peopleinspace.ui.PeopleInSpacePreviewsKt.ColorSchemeAndroidPreview",
+                    "componentId": null,
+                    "group": null
+                },
+                {
+                    "previewId": "dev.johnoreilly.peopleinspace.ui.PeopleInSpacePreviewsKt.ColorSchemeDarkPreview",
+                    "componentId": null,
+                    "group": null
+                },
+                {
+                    "previewId": "dev.johnoreilly.peopleinspace.ui.PeopleInSpacePreviewsKt.ColorSchemeLightPreview",
+                    "componentId": null,
+                    "group": null
+                },
+                {
+                    "previewId": "dev.johnoreilly.peopleinspace.ui.PeopleInSpacePreviewsKt.PersonBioMissingPreview",
+                    "componentId": null,
+                    "group": null
+                },
+                {
+                    "previewId": "dev.johnoreilly.peopleinspace.ui.PeopleInSpacePreviewsKt.PersonBioPreview",
+                    "componentId": null,
+                    "group": null
+                },
+                {
+                    "previewId": "dev.johnoreilly.peopleinspace.ui.PeopleInSpacePreviewsKt.PersonImagePlaceholderPreview",
+                    "componentId": null,
+                    "group": null
+                },
+                {
+                    "previewId": "dev.johnoreilly.peopleinspace.ui.PeopleInSpacePreviewsKt.PersonViewNoNationalityPreview",
+                    "componentId": null,
+                    "group": null
+                },
+                {
+                    "previewId": "dev.johnoreilly.peopleinspace.ui.PeopleInSpacePreviewsKt.PersonViewRowsPreview",
+                    "componentId": null,
+                    "group": null
+                },
+                {
+                    "previewId": "dev.johnoreilly.peopleinspace.ui.PeopleInSpacePreviewsKt.TypographySpecimenPreview",
+                    "componentId": null,
+                    "group": null
+                }
+            ],
+            "code": {
+                "call": "Surface(content = {})",
+                "imports": [
+                    "androidx.compose.material3.Surface"
+                ],
+                "refusedReason": null,
+                "requiredOptIns": [],
+                "androidxOptIns": []
+            },
+            "signatureKnown": true,
+            "callableFromAnotherFile": true,
+            "hasTypeParameters": false,
+            "hasContextReceivers": false,
+            "overloadsCollided": false,
+            "builder": null,
+            "requiredOptIns": [],
+            "androidxOptIns": []
+        },
+        {
+            "canonicalId": "app/androidx.compose.material3.TextKt.Text",
+            "componentIds": [],
+            "symbol": {
+                "jvmOwner": "androidx.compose.material3.TextKt",
+                "callable": "androidx.compose.material3.Text",
+                "name": "Text",
+                "origin": "LIBRARY",
+                "jvmName": "Text-Nvy7gAk",
+                "descriptor": "(Ljava/lang/String;Landroidx/compose/ui/Modifier;JLandroidx/compose/foundation/text/TextAutoSize;JLandroidx/compose/ui/text/font/FontStyle;Landroidx/compose/ui/text/font/FontWeight;Landroidx/compose/ui/text/font/FontFamily;JLandroidx/compose/ui/text/style/TextDecoration;Landroidx/compose/ui/text/style/TextAlign;JIZIILkotlin/jvm/functions/Function1;Landroidx/compose/ui/text/TextStyle;Landroidx/compose/runtime/Composer;III)V",
+                "sourceFile": null,
+                "docs": "unavailable",
+                "receiver": null
+            },
+            "parameters": [
+                {
+                    "name": "text",
+                    "type": "String",
+                    "typeFqn": "kotlin.String",
+                    "hasDefault": false,
+                    "composableSlot": false,
+                    "composableSlotReceiver": null,
+                    "nullable": false,
+                    "noArgConstructible": false,
+                    "noArgFactory": null,
+                    "scopeDslReceiver": null,
+                    "lambdaReturnTypeFqn": null
+                },
+                {
+                    "name": "modifier",
+                    "type": "Modifier",
+                    "typeFqn": "androidx.compose.ui.Modifier",
+                    "hasDefault": true,
+                    "composableSlot": false,
+                    "composableSlotReceiver": null,
+                    "nullable": false,
+                    "noArgConstructible": false,
+                    "noArgFactory": null,
+                    "scopeDslReceiver": null,
+                    "lambdaReturnTypeFqn": null
+                },
+                {
+                    "name": "color",
+                    "type": "Color",
+                    "typeFqn": "androidx.compose.ui.graphics.Color",
+                    "hasDefault": true,
+                    "composableSlot": false,
+                    "composableSlotReceiver": null,
+                    "nullable": false,
+                    "noArgConstructible": false,
+                    "noArgFactory": null,
+                    "scopeDslReceiver": null,
+                    "lambdaReturnTypeFqn": null
+                },
+                {
+                    "name": "autoSize",
+                    "type": "TextAutoSize?",
+                    "typeFqn": "androidx.compose.foundation.text.TextAutoSize",
+                    "hasDefault": true,
+                    "composableSlot": false,
+                    "composableSlotReceiver": null,
+                    "nullable": true,
+                    "noArgConstructible": false,
+                    "noArgFactory": null,
+                    "scopeDslReceiver": null,
+                    "lambdaReturnTypeFqn": null
+                },
+                {
+                    "name": "fontSize",
+                    "type": "TextUnit",
+                    "typeFqn": "androidx.compose.ui.unit.TextUnit",
+                    "hasDefault": true,
+                    "composableSlot": false,
+                    "composableSlotReceiver": null,
+                    "nullable": false,
+                    "noArgConstructible": false,
+                    "noArgFactory": null,
+                    "scopeDslReceiver": null,
+                    "lambdaReturnTypeFqn": null
+                },
+                {
+                    "name": "fontStyle",
+                    "type": "FontStyle?",
+                    "typeFqn": "androidx.compose.ui.text.font.FontStyle",
+                    "hasDefault": true,
+                    "composableSlot": false,
+                    "composableSlotReceiver": null,
+                    "nullable": true,
+                    "noArgConstructible": false,
+                    "noArgFactory": null,
+                    "scopeDslReceiver": null,
+                    "lambdaReturnTypeFqn": null
+                },
+                {
+                    "name": "fontWeight",
+                    "type": "FontWeight?",
+                    "typeFqn": "androidx.compose.ui.text.font.FontWeight",
+                    "hasDefault": true,
+                    "composableSlot": false,
+                    "composableSlotReceiver": null,
+                    "nullable": true,
+                    "noArgConstructible": false,
+                    "noArgFactory": null,
+                    "scopeDslReceiver": null,
+                    "lambdaReturnTypeFqn": null
+                },
+                {
+                    "name": "fontFamily",
+                    "type": "FontFamily?",
+                    "typeFqn": "androidx.compose.ui.text.font.FontFamily",
+                    "hasDefault": true,
+                    "composableSlot": false,
+                    "composableSlotReceiver": null,
+                    "nullable": true,
+                    "noArgConstructible": false,
+                    "noArgFactory": null,
+                    "scopeDslReceiver": null,
+                    "lambdaReturnTypeFqn": null
+                },
+                {
+                    "name": "letterSpacing",
+                    "type": "TextUnit",
+                    "typeFqn": "androidx.compose.ui.unit.TextUnit",
+                    "hasDefault": true,
+                    "composableSlot": false,
+                    "composableSlotReceiver": null,
+                    "nullable": false,
+                    "noArgConstructible": false,
+                    "noArgFactory": null,
+                    "scopeDslReceiver": null,
+                    "lambdaReturnTypeFqn": null
+                },
+                {
+                    "name": "textDecoration",
+                    "type": "TextDecoration?",
+                    "typeFqn": "androidx.compose.ui.text.style.TextDecoration",
+                    "hasDefault": true,
+                    "composableSlot": false,
+                    "composableSlotReceiver": null,
+                    "nullable": true,
+                    "noArgConstructible": false,
+                    "noArgFactory": null,
+                    "scopeDslReceiver": null,
+                    "lambdaReturnTypeFqn": null
+                },
+                {
+                    "name": "textAlign",
+                    "type": "TextAlign?",
+                    "typeFqn": "androidx.compose.ui.text.style.TextAlign",
+                    "hasDefault": true,
+                    "composableSlot": false,
+                    "composableSlotReceiver": null,
+                    "nullable": true,
+                    "noArgConstructible": false,
+                    "noArgFactory": null,
+                    "scopeDslReceiver": null,
+                    "lambdaReturnTypeFqn": null
+                },
+                {
+                    "name": "lineHeight",
+                    "type": "TextUnit",
+                    "typeFqn": "androidx.compose.ui.unit.TextUnit",
+                    "hasDefault": true,
+                    "composableSlot": false,
+                    "composableSlotReceiver": null,
+                    "nullable": false,
+                    "noArgConstructible": false,
+                    "noArgFactory": null,
+                    "scopeDslReceiver": null,
+                    "lambdaReturnTypeFqn": null
+                },
+                {
+                    "name": "overflow",
+                    "type": "TextOverflow",
+                    "typeFqn": "androidx.compose.ui.text.style.TextOverflow",
+                    "hasDefault": true,
+                    "composableSlot": false,
+                    "composableSlotReceiver": null,
+                    "nullable": false,
+                    "noArgConstructible": false,
+                    "noArgFactory": null,
+                    "scopeDslReceiver": null,
+                    "lambdaReturnTypeFqn": null
+                },
+                {
+                    "name": "softWrap",
+                    "type": "Boolean",
+                    "typeFqn": "kotlin.Boolean",
+                    "hasDefault": true,
+                    "composableSlot": false,
+                    "composableSlotReceiver": null,
+                    "nullable": false,
+                    "noArgConstructible": false,
+                    "noArgFactory": null,
+                    "scopeDslReceiver": null,
+                    "lambdaReturnTypeFqn": null
+                },
+                {
+                    "name": "maxLines",
+                    "type": "Int",
+                    "typeFqn": "kotlin.Int",
+                    "hasDefault": true,
+                    "composableSlot": false,
+                    "composableSlotReceiver": null,
+                    "nullable": false,
+                    "noArgConstructible": false,
+                    "noArgFactory": null,
+                    "scopeDslReceiver": null,
+                    "lambdaReturnTypeFqn": null
+                },
+                {
+                    "name": "minLines",
+                    "type": "Int",
+                    "typeFqn": "kotlin.Int",
+                    "hasDefault": true,
+                    "composableSlot": false,
+                    "composableSlotReceiver": null,
+                    "nullable": false,
+                    "noArgConstructible": false,
+                    "noArgFactory": null,
+                    "scopeDslReceiver": null,
+                    "lambdaReturnTypeFqn": null
+                },
+                {
+                    "name": "onTextLayout",
+                    "type": "((TextLayoutResult) -> Unit)?",
+                    "typeFqn": "kotlin.Function1",
+                    "hasDefault": true,
+                    "composableSlot": false,
+                    "composableSlotReceiver": null,
+                    "nullable": true,
+                    "noArgConstructible": false,
+                    "noArgFactory": null,
+                    "scopeDslReceiver": null,
+                    "lambdaReturnTypeFqn": "kotlin.Unit"
+                },
+                {
+                    "name": "style",
+                    "type": "TextStyle",
+                    "typeFqn": "androidx.compose.ui.text.TextStyle",
+                    "hasDefault": true,
+                    "composableSlot": false,
+                    "composableSlotReceiver": null,
+                    "nullable": false,
+                    "noArgConstructible": false,
+                    "noArgFactory": null,
+                    "scopeDslReceiver": null,
+                    "lambdaReturnTypeFqn": null
+                }
+            ],
+            "slots": [],
+            "bindings": [
+                {
+                    "previewId": "dev.johnoreilly.peopleinspace.personlist.PersonListScreenKt.PersonViewPreview",
+                    "componentId": null,
+                    "group": null
+                },
+                {
+                    "previewId": "dev.johnoreilly.peopleinspace.ui.PeopleInSpacePreviewsKt.ColorSchemeAndroidPreview",
+                    "componentId": null,
+                    "group": null
+                },
+                {
+                    "previewId": "dev.johnoreilly.peopleinspace.ui.PeopleInSpacePreviewsKt.ColorSchemeDarkPreview",
+                    "componentId": null,
+                    "group": null
+                },
+                {
+                    "previewId": "dev.johnoreilly.peopleinspace.ui.PeopleInSpacePreviewsKt.ColorSchemeLightPreview",
+                    "componentId": null,
+                    "group": null
+                },
+                {
+                    "previewId": "dev.johnoreilly.peopleinspace.ui.PeopleInSpacePreviewsKt.PersonBioMissingPreview",
+                    "componentId": null,
+                    "group": null
+                },
+                {
+                    "previewId": "dev.johnoreilly.peopleinspace.ui.PeopleInSpacePreviewsKt.PersonBioPreview",
+                    "componentId": null,
+                    "group": null
+                },
+                {
+                    "previewId": "dev.johnoreilly.peopleinspace.ui.PeopleInSpacePreviewsKt.PersonDetailsTopAppBarNoBackPreview",
+                    "componentId": null,
+                    "group": null
+                },
+                {
+                    "previewId": "dev.johnoreilly.peopleinspace.ui.PeopleInSpacePreviewsKt.PersonDetailsTopAppBarPreview",
+                    "componentId": null,
+                    "group": null
+                },
+                {
+                    "previewId": "dev.johnoreilly.peopleinspace.ui.PeopleInSpacePreviewsKt.PersonListScreenDarkPreview",
+                    "componentId": null,
+                    "group": null
+                },
+                {
+                    "previewId": "dev.johnoreilly.peopleinspace.ui.PeopleInSpacePreviewsKt.PersonListScreenEmptyPreview",
+                    "componentId": null,
+                    "group": null
+                },
+                {
+                    "previewId": "dev.johnoreilly.peopleinspace.ui.PeopleInSpacePreviewsKt.PersonListScreenErrorPreview",
+                    "componentId": null,
+                    "group": null
+                },
+                {
+                    "previewId": "dev.johnoreilly.peopleinspace.ui.PeopleInSpacePreviewsKt.PersonListScreenLoadingPreview",
+                    "componentId": null,
+                    "group": null
+                },
+                {
+                    "previewId": "dev.johnoreilly.peopleinspace.ui.PeopleInSpacePreviewsKt.PersonListScreenSuccessPreview",
+                    "componentId": null,
+                    "group": null
+                },
+                {
+                    "previewId": "dev.johnoreilly.peopleinspace.ui.PeopleInSpacePreviewsKt.PersonViewNoNationalityPreview",
+                    "componentId": null,
+                    "group": null
+                },
+                {
+                    "previewId": "dev.johnoreilly.peopleinspace.ui.PeopleInSpacePreviewsKt.PersonViewRowsPreview",
+                    "componentId": null,
+                    "group": null
+                },
+                {
+                    "previewId": "dev.johnoreilly.peopleinspace.ui.PeopleInSpacePreviewsKt.TypographySpecimenPreview",
+                    "componentId": null,
+                    "group": null
+                }
+            ],
+            "code": {
+                "call": "Text(text = \"\")",
+                "imports": [
+                    "androidx.compose.material3.Text"
+                ],
+                "refusedReason": null,
+                "requiredOptIns": [],
+                "androidxOptIns": []
+            },
+            "signatureKnown": true,
+            "callableFromAnotherFile": true,
+            "hasTypeParameters": false,
+            "hasContextReceivers": false,
+            "overloadsCollided": false,
+            "builder": null,
+            "requiredOptIns": [],
+            "androidxOptIns": []
+        },
+        {
+            "canonicalId": "app/dev.johnoreilly.peopleinspace.peopleinspace.remotecompose.PeopleInSpaceCardKt.PeopleInSpaceCard",
+            "componentIds": [],
+            "symbol": {
+                "jvmOwner": "dev.johnoreilly.peopleinspace.peopleinspace.remotecompose.PeopleInSpaceCardKt",
+                "callable": "dev.johnoreilly.peopleinspace.peopleinspace.remotecompose.PeopleInSpaceCard",
+                "name": "PeopleInSpaceCard",
+                "origin": "PROJECT",
+                "jvmName": "PeopleInSpaceCard",
+                "descriptor": "(Ldev/johnoreilly/peopleinspace/peopleinspace/remotecompose/util/MapResult;Landroidx/compose/runtime/Composer;I)V",
+                "sourceFile": "src/main/java/dev/johnoreilly/peopleinspace/peopleinspace/remotecompose/PeopleInSpaceCard.kt",
+                "docs": "unavailable",
+                "receiver": null
+            },
+            "parameters": [
+                {
+                    "name": "mapResult",
+                    "type": "MapResult",
+                    "typeFqn": "dev.johnoreilly.peopleinspace.peopleinspace.remotecompose.util.MapResult",
+                    "hasDefault": false,
+                    "composableSlot": false,
+                    "composableSlotReceiver": null,
+                    "nullable": false,
+                    "noArgConstructible": false,
+                    "noArgFactory": null,
+                    "scopeDslReceiver": null,
+                    "lambdaReturnTypeFqn": null
+                }
+            ],
+            "slots": [],
+            "bindings": [
+                {
+                    "previewId": "dev.johnoreilly.peopleinspace.peopleinspace.remotecompose.PeopleInSpaceCardKt.PeopleInSpaceCardPreview",
+                    "componentId": null,
+                    "group": null
+                }
+            ],
+            "code": {
+                "call": null,
+                "imports": [],
+                "refusedReason": "no placeholder can be written for required parameter `mapResult: MapResult`",
+                "requiredOptIns": [],
+                "androidxOptIns": []
+            },
+            "signatureKnown": true,
+            "callableFromAnotherFile": true,
+            "hasTypeParameters": false,
+            "hasContextReceivers": false,
+            "overloadsCollided": false,
+            "builder": null,
+            "requiredOptIns": [],
+            "androidxOptIns": []
+        },
+        {
+            "canonicalId": "app/dev.johnoreilly.peopleinspace.persondetails.PersonDetailsScreenKt.PersonBio",
+            "componentIds": [],
+            "symbol": {
+                "jvmOwner": "dev.johnoreilly.peopleinspace.persondetails.PersonDetailsScreenKt",
+                "callable": "dev.johnoreilly.peopleinspace.persondetails.PersonBio",
+                "name": "PersonBio",
+                "origin": "PROJECT",
+                "jvmName": "PersonBio",
+                "descriptor": "(Ljava/lang/String;Landroidx/compose/runtime/Composer;I)V",
+                "sourceFile": "dev/johnoreilly/peopleinspace/persondetails/PersonDetailsScreen.kt",
+                "docs": "unavailable",
+                "receiver": null
+            },
+            "parameters": [
+                {
+                    "name": "bio",
+                    "type": "String?",
+                    "typeFqn": "kotlin.String",
+                    "hasDefault": false,
+                    "composableSlot": false,
+                    "composableSlotReceiver": null,
+                    "nullable": true,
+                    "noArgConstructible": false,
+                    "noArgFactory": null,
+                    "scopeDslReceiver": null,
+                    "lambdaReturnTypeFqn": null
+                }
+            ],
+            "slots": [],
+            "bindings": [
+                {
+                    "previewId": "dev.johnoreilly.peopleinspace.ui.PeopleInSpacePreviewsKt.PersonBioMissingPreview",
+                    "componentId": null,
+                    "group": null
+                },
+                {
+                    "previewId": "dev.johnoreilly.peopleinspace.ui.PeopleInSpacePreviewsKt.PersonBioPreview",
+                    "componentId": null,
+                    "group": null
+                }
+            ],
+            "code": {
+                "call": "PersonBio(bio = null)",
+                "imports": [
+                    "dev.johnoreilly.peopleinspace.persondetails.PersonBio"
+                ],
+                "refusedReason": null,
+                "requiredOptIns": [],
+                "androidxOptIns": []
+            },
+            "signatureKnown": true,
+            "callableFromAnotherFile": true,
+            "hasTypeParameters": false,
+            "hasContextReceivers": false,
+            "overloadsCollided": false,
+            "builder": null,
+            "requiredOptIns": [],
+            "androidxOptIns": []
+        },
+        {
+            "canonicalId": "app/dev.johnoreilly.peopleinspace.persondetails.PersonDetailsScreenKt.PersonDetailsTopAppBar",
+            "componentIds": [],
+            "symbol": {
+                "jvmOwner": "dev.johnoreilly.peopleinspace.persondetails.PersonDetailsScreenKt",
+                "callable": "dev.johnoreilly.peopleinspace.persondetails.PersonDetailsTopAppBar",
+                "name": "PersonDetailsTopAppBar",
+                "origin": "PROJECT",
+                "jvmName": "PersonDetailsTopAppBar",
+                "descriptor": "(Ljava/lang/String;ZLkotlin/jvm/functions/Function0;Landroidx/compose/runtime/Composer;I)V",
+                "sourceFile": "dev/johnoreilly/peopleinspace/persondetails/PersonDetailsScreen.kt",
+                "docs": "unavailable",
+                "receiver": null
+            },
+            "parameters": [
+                {
+                    "name": "personName",
+                    "type": "String",
+                    "typeFqn": "kotlin.String",
+                    "hasDefault": false,
+                    "composableSlot": false,
+                    "composableSlotReceiver": null,
+                    "nullable": false,
+                    "noArgConstructible": false,
+                    "noArgFactory": null,
+                    "scopeDslReceiver": null,
+                    "lambdaReturnTypeFqn": null
+                },
+                {
+                    "name": "showBackButton",
+                    "type": "Boolean",
+                    "typeFqn": "kotlin.Boolean",
+                    "hasDefault": false,
+                    "composableSlot": false,
+                    "composableSlotReceiver": null,
+                    "nullable": false,
+                    "noArgConstructible": false,
+                    "noArgFactory": null,
+                    "scopeDslReceiver": null,
+                    "lambdaReturnTypeFqn": null
+                },
+                {
+                    "name": "popBack",
+                    "type": "() -> Unit",
+                    "typeFqn": "kotlin.Function0",
+                    "hasDefault": false,
+                    "composableSlot": false,
+                    "composableSlotReceiver": null,
+                    "nullable": false,
+                    "noArgConstructible": false,
+                    "noArgFactory": null,
+                    "scopeDslReceiver": null,
+                    "lambdaReturnTypeFqn": "kotlin.Unit"
+                }
+            ],
+            "slots": [],
+            "bindings": [
+                {
+                    "previewId": "dev.johnoreilly.peopleinspace.ui.PeopleInSpacePreviewsKt.PersonDetailsTopAppBarNoBackPreview",
+                    "componentId": null,
+                    "group": null
+                },
+                {
+                    "previewId": "dev.johnoreilly.peopleinspace.ui.PeopleInSpacePreviewsKt.PersonDetailsTopAppBarPreview",
+                    "componentId": null,
+                    "group": null
+                }
+            ],
+            "code": {
+                "call": "PersonDetailsTopAppBar(personName = \"\", showBackButton = false, popBack = {})",
+                "imports": [
+                    "dev.johnoreilly.peopleinspace.persondetails.PersonDetailsTopAppBar"
+                ],
+                "refusedReason": null,
+                "requiredOptIns": [],
+                "androidxOptIns": []
+            },
+            "signatureKnown": true,
+            "callableFromAnotherFile": true,
+            "hasTypeParameters": false,
+            "hasContextReceivers": false,
+            "overloadsCollided": false,
+            "builder": null,
+            "requiredOptIns": [],
+            "androidxOptIns": []
+        },
+        {
+            "canonicalId": "app/dev.johnoreilly.peopleinspace.persondetails.PersonDetailsScreenKt.PersonImage",
+            "componentIds": [],
+            "symbol": {
+                "jvmOwner": "dev.johnoreilly.peopleinspace.persondetails.PersonDetailsScreenKt",
+                "callable": "dev.johnoreilly.peopleinspace.persondetails.PersonImage",
+                "name": "PersonImage",
+                "origin": "PROJECT",
+                "jvmName": "PersonImage",
+                "descriptor": "(Ljava/lang/String;Ljava/lang/String;Landroidx/compose/runtime/Composer;I)V",
+                "sourceFile": "dev/johnoreilly/peopleinspace/persondetails/PersonDetailsScreen.kt",
+                "docs": "unavailable",
+                "receiver": null
+            },
+            "parameters": [
+                {
+                    "name": "imageUrl",
+                    "type": "String?",
+                    "typeFqn": "kotlin.String",
+                    "hasDefault": false,
+                    "composableSlot": false,
+                    "composableSlotReceiver": null,
+                    "nullable": true,
+                    "noArgConstructible": false,
+                    "noArgFactory": null,
+                    "scopeDslReceiver": null,
+                    "lambdaReturnTypeFqn": null
+                },
+                {
+                    "name": "name",
+                    "type": "String",
+                    "typeFqn": "kotlin.String",
+                    "hasDefault": false,
+                    "composableSlot": false,
+                    "composableSlotReceiver": null,
+                    "nullable": false,
+                    "noArgConstructible": false,
+                    "noArgFactory": null,
+                    "scopeDslReceiver": null,
+                    "lambdaReturnTypeFqn": null
+                }
+            ],
+            "slots": [],
+            "bindings": [
+                {
+                    "previewId": "dev.johnoreilly.peopleinspace.ui.PeopleInSpacePreviewsKt.PersonImagePlaceholderPreview",
+                    "componentId": null,
+                    "group": null
+                }
+            ],
+            "code": {
+                "call": "PersonImage(imageUrl = null, name = \"\")",
+                "imports": [
+                    "dev.johnoreilly.peopleinspace.persondetails.PersonImage"
+                ],
+                "refusedReason": null,
+                "requiredOptIns": [],
+                "androidxOptIns": []
+            },
+            "signatureKnown": true,
+            "callableFromAnotherFile": true,
+            "hasTypeParameters": false,
+            "hasContextReceivers": false,
+            "overloadsCollided": false,
+            "builder": null,
+            "requiredOptIns": [],
+            "androidxOptIns": []
+        },
+        {
+            "canonicalId": "app/dev.johnoreilly.peopleinspace.personlist.PersonListScreenKt.PersonListScreen",
+            "componentIds": [],
+            "symbol": {
+                "jvmOwner": "dev.johnoreilly.peopleinspace.personlist.PersonListScreenKt",
+                "callable": "dev.johnoreilly.peopleinspace.personlist.PersonListScreen",
+                "name": "PersonListScreen",
+                "origin": "PROJECT",
+                "jvmName": "PersonListScreen",
+                "descriptor": "(Ldev/johnoreilly/common/viewmodel/PersonListUiState;Lkotlin/jvm/functions/Function1;Lkotlin/jvm/functions/Function0;Landroidx/compose/runtime/Composer;I)V",
+                "sourceFile": "dev/johnoreilly/peopleinspace/personlist/PersonListScreen.kt",
+                "docs": "unavailable",
+                "receiver": null
+            },
+            "parameters": [
+                {
+                    "name": "uiState",
+                    "type": "PersonListUiState",
+                    "typeFqn": "dev.johnoreilly.common.viewmodel.PersonListUiState",
+                    "hasDefault": false,
+                    "composableSlot": false,
+                    "composableSlotReceiver": null,
+                    "nullable": false,
+                    "noArgConstructible": false,
+                    "noArgFactory": null,
+                    "scopeDslReceiver": null,
+                    "lambdaReturnTypeFqn": null
+                },
+                {
+                    "name": "navigateToPerson",
+                    "type": "(Assignment) -> Unit",
+                    "typeFqn": "kotlin.Function1",
+                    "hasDefault": false,
+                    "composableSlot": false,
+                    "composableSlotReceiver": null,
+                    "nullable": false,
+                    "noArgConstructible": false,
+                    "noArgFactory": null,
+                    "scopeDslReceiver": null,
+                    "lambdaReturnTypeFqn": "kotlin.Unit"
+                },
+                {
+                    "name": "onRefresh",
+                    "type": "() -> Unit",
+                    "typeFqn": "kotlin.Function0",
+                    "hasDefault": false,
+                    "composableSlot": false,
+                    "composableSlotReceiver": null,
+                    "nullable": false,
+                    "noArgConstructible": false,
+                    "noArgFactory": null,
+                    "scopeDslReceiver": null,
+                    "lambdaReturnTypeFqn": "kotlin.Unit"
+                }
+            ],
+            "slots": [],
+            "bindings": [
+                {
+                    "previewId": "dev.johnoreilly.peopleinspace.ui.PeopleInSpacePreviewsKt.PersonListScreenDarkPreview",
+                    "componentId": null,
+                    "group": null
+                },
+                {
+                    "previewId": "dev.johnoreilly.peopleinspace.ui.PeopleInSpacePreviewsKt.PersonListScreenEmptyPreview",
+                    "componentId": null,
+                    "group": null
+                },
+                {
+                    "previewId": "dev.johnoreilly.peopleinspace.ui.PeopleInSpacePreviewsKt.PersonListScreenErrorPreview",
+                    "componentId": null,
+                    "group": null
+                },
+                {
+                    "previewId": "dev.johnoreilly.peopleinspace.ui.PeopleInSpacePreviewsKt.PersonListScreenLoadingPreview",
+                    "componentId": null,
+                    "group": null
+                },
+                {
+                    "previewId": "dev.johnoreilly.peopleinspace.ui.PeopleInSpacePreviewsKt.PersonListScreenSuccessPreview",
+                    "componentId": null,
+                    "group": null
+                }
+            ],
+            "code": {
+                "call": null,
+                "imports": [],
+                "refusedReason": "no placeholder can be written for required parameter `uiState: PersonListUiState`",
+                "requiredOptIns": [],
+                "androidxOptIns": []
+            },
+            "signatureKnown": true,
+            "callableFromAnotherFile": true,
+            "hasTypeParameters": false,
+            "hasContextReceivers": false,
+            "overloadsCollided": false,
+            "builder": null,
+            "requiredOptIns": [],
+            "androidxOptIns": []
+        },
+        {
+            "canonicalId": "app/dev.johnoreilly.peopleinspace.personlist.PersonListScreenKt.PersonView",
+            "componentIds": [],
+            "symbol": {
+                "jvmOwner": "dev.johnoreilly.peopleinspace.personlist.PersonListScreenKt",
+                "callable": "dev.johnoreilly.peopleinspace.personlist.PersonView",
+                "name": "PersonView",
+                "origin": "PROJECT",
+                "jvmName": "PersonView",
+                "descriptor": "(ILdev/johnoreilly/common/remote/Assignment;Lkotlin/jvm/functions/Function1;Landroidx/compose/runtime/Composer;I)V",
+                "sourceFile": "dev/johnoreilly/peopleinspace/personlist/PersonListScreen.kt",
+                "docs": "unavailable",
+                "receiver": null
+            },
+            "parameters": [
+                {
+                    "name": "index",
+                    "type": "Int",
+                    "typeFqn": "kotlin.Int",
+                    "hasDefault": false,
+                    "composableSlot": false,
+                    "composableSlotReceiver": null,
+                    "nullable": false,
+                    "noArgConstructible": false,
+                    "noArgFactory": null,
+                    "scopeDslReceiver": null,
+                    "lambdaReturnTypeFqn": null
+                },
+                {
+                    "name": "person",
+                    "type": "Assignment",
+                    "typeFqn": "dev.johnoreilly.common.remote.Assignment",
+                    "hasDefault": false,
+                    "composableSlot": false,
+                    "composableSlotReceiver": null,
+                    "nullable": false,
+                    "noArgConstructible": false,
+                    "noArgFactory": null,
+                    "scopeDslReceiver": null,
+                    "lambdaReturnTypeFqn": null
+                },
+                {
+                    "name": "personSelected",
+                    "type": "(Assignment) -> Unit",
+                    "typeFqn": "kotlin.Function1",
+                    "hasDefault": false,
+                    "composableSlot": false,
+                    "composableSlotReceiver": null,
+                    "nullable": false,
+                    "noArgConstructible": false,
+                    "noArgFactory": null,
+                    "scopeDslReceiver": null,
+                    "lambdaReturnTypeFqn": "kotlin.Unit"
+                }
+            ],
+            "slots": [],
+            "bindings": [
+                {
+                    "previewId": "dev.johnoreilly.peopleinspace.personlist.PersonListScreenKt.PersonViewPreview",
+                    "componentId": null,
+                    "group": null
+                },
+                {
+                    "previewId": "dev.johnoreilly.peopleinspace.ui.PeopleInSpacePreviewsKt.PersonViewNoNationalityPreview",
+                    "componentId": null,
+                    "group": null
+                },
+                {
+                    "previewId": "dev.johnoreilly.peopleinspace.ui.PeopleInSpacePreviewsKt.PersonViewRowsPreview",
+                    "componentId": null,
+                    "group": null
+                }
+            ],
+            "code": {
+                "call": null,
+                "imports": [],
+                "refusedReason": "no placeholder can be written for required parameter `person: Assignment`",
+                "requiredOptIns": [],
+                "androidxOptIns": []
+            },
+            "signatureKnown": true,
+            "callableFromAnotherFile": true,
+            "hasTypeParameters": false,
+            "hasContextReceivers": false,
+            "overloadsCollided": false,
+            "builder": null,
+            "requiredOptIns": [],
+            "androidxOptIns": []
+        }
+    ],
+    "builderOrphans": []
+}
