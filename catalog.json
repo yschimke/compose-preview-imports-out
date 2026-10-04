@@ -959,8 +959,8 @@
   "library": [
     "Wear Compose Material"
   ],
-  "renderer": "compose-preview 2.32.4",
-  "generatedAt": "2026-10-03T12:09:36.132Z",
+  "renderer": "compose-preview 2.34.0",
+  "generatedAt": "2026-10-04T14:29:50.428Z",
   "display": {
     "surface": "dark",
     "hero": "Screens/Playback effects"
