@@ -9,7 +9,7 @@
           <g id="LayoutNodeSubcompositionsState">
           </g>
           <g id="Column">
-            <image href="ideal__default.figma-raster/577.png" x="0" y="0" width="1050" height="341"/>
+            <image href="ideal__default.figma-raster/1464.png" x="0" y="0" width="1050" height="341"/>
             <g id="Spacer">
             </g>
             <g id="Row">
@@ -24,16 +24,16 @@
               <g id="Spacer">
               </g>
               <g id="TextField">
-                <image href="ideal__default.figma-raster/585.png" x="168" y="32" width="840" height="147"/>
+                <image href="ideal__default.figma-raster/1472.png" x="168" y="32" width="840" height="147"/>
               </g>
             </g>
             <clipPath id="clip-1"><rect x="0" y="179" width="1050" height="127"/></clipPath>
             <g id="LayoutNodeSubcompositionsState">
-              <image href="ideal__default.figma-raster/603.png" x="0" y="179" width="1050" height="127"/>
+              <image href="ideal__default.figma-raster/1490.png" x="0" y="179" width="1050" height="127"/>
               <g clip-path="url(#clip-1)">
                 <clipPath id="clip-2"><rect x="42" y="200" width="193" height="85" rx="31.5" ry="31.5"/></clipPath>
                 <g id="Row">
-                  <image href="ideal__default.figma-raster/607.png" x="42" y="200" width="193" height="85" clip-path="url(#clip-2)"/>
+                  <image href="ideal__default.figma-raster/1494.png" x="42" y="200" width="193" height="85" clip-path="url(#clip-2)"/>
                   <g clip-path="url(#clip-2)">
                     <g id="BoxKt">
                       <g transform="translate(74 222) scale(1.75 1.75)">
@@ -44,13 +44,13 @@
                       </g>
                     </g>
                     <g id="Empty">
-                      <text x="137" y="254.92" font-size="36.75" font-family="outfit-medium.ttf:FontWeight(weight=500):Normal:SettingFloat(ital,0.0),SettingInt(wght,500, sans-serif" font-weight="500" fill="#FFFFFF">ALL</text>
+                      <text x="137" y="254.92" font-size="36.75" font-family="outfit-medium.ttf:FontWeight(weight=500):Normal:SettingFloat(ital,0.0),SettingInt(wght,500, sans-serif" font-weight="500" style="font-variation-settings:&apos;ital&apos; 0.0,&apos;wght&apos; 500.0" fill="#FFFFFF">ALL</text>
                     </g>
                   </g>
                 </g>
                 <clipPath id="clip-3"><rect x="256" y="200" width="214" height="85" rx="31.5" ry="31.5"/></clipPath>
                 <g id="Row">
-                  <image href="ideal__default.figma-raster/611.png" x="256" y="200" width="214" height="85" clip-path="url(#clip-3)"/>
+                  <image href="ideal__default.figma-raster/1498.png" x="256" y="200" width="214" height="85" clip-path="url(#clip-3)"/>
                   <g clip-path="url(#clip-3)">
                     <g id="BoxKt">
                       <g transform="translate(288 222) scale(0.04 0.04)">
@@ -58,13 +58,13 @@
                       </g>
                     </g>
                     <g id="Empty">
-                      <text x="351" y="254.92" font-size="36.75" font-family="outfit-medium.ttf:FontWeight(weight=500):Normal:SettingFloat(ital,0.0),SettingInt(wght,500, sans-serif" font-weight="500" fill="#141E16">Filter</text>
+                      <text x="351" y="254.92" font-size="36.75" font-family="outfit-medium.ttf:FontWeight(weight=500):Normal:SettingFloat(ital,0.0),SettingInt(wght,500, sans-serif" font-weight="500" style="font-variation-settings:&apos;ital&apos; 0.0,&apos;wght&apos; 500.0" fill="#141E16">Filter</text>
                     </g>
                   </g>
                 </g>
                 <clipPath id="clip-4"><rect x="491" y="200" width="311" height="85" rx="31.5" ry="31.5"/></clipPath>
                 <g id="Row">
-                  <image href="ideal__default.figma-raster/615.png" x="491" y="200" width="311" height="85" clip-path="url(#clip-4)"/>
+                  <image href="ideal__default.figma-raster/1502.png" x="491" y="200" width="311" height="85" clip-path="url(#clip-4)"/>
                   <g clip-path="url(#clip-4)">
                     <g id="BoxKt">
                       <g transform="translate(523 222) scale(1.75 1.75)">
@@ -72,13 +72,13 @@
                       </g>
                     </g>
                     <g id="Empty">
-                      <text x="586" y="254.92" font-size="36.75" font-family="outfit-medium.ttf:FontWeight(weight=500):Normal:SettingFloat(ital,0.0),SettingInt(wght,500, sans-serif" font-weight="500" fill="#141E16">Bookmarks</text>
+                      <text x="586" y="254.92" font-size="36.75" font-family="outfit-medium.ttf:FontWeight(weight=500):Normal:SettingFloat(ital,0.0),SettingInt(wght,500, sans-serif" font-weight="500" style="font-variation-settings:&apos;ital&apos; 0.0,&apos;wght&apos; 500.0" fill="#141E16">Bookmarks</text>
                     </g>
                   </g>
                 </g>
                 <clipPath id="clip-5"><rect x="823" y="200" width="250" height="85" rx="31.5" ry="31.5"/></clipPath>
                 <g id="Row">
-                  <image href="ideal__default.figma-raster/619.png" x="823" y="200" width="250" height="85" clip-path="url(#clip-5)"/>
+                  <image href="ideal__default.figma-raster/1506.png" x="823" y="200" width="250" height="85" clip-path="url(#clip-5)"/>
                   <g clip-path="url(#clip-5)">
                     <g id="BoxKt">
                       <g transform="translate(855 222) scale(1.75 1.75)">
@@ -86,7 +86,7 @@
                       </g>
                     </g>
                     <g id="Empty">
-                      <text x="918" y="254.92" font-size="36.75" font-family="outfit-medium.ttf:FontWeight(weight=500):Normal:SettingFloat(ital,0.0),SettingInt(wght,500, sans-serif" font-weight="500" fill="#141E16">Unread</text>
+                      <text x="918" y="254.92" font-size="36.75" font-family="outfit-medium.ttf:FontWeight(weight=500):Normal:SettingFloat(ital,0.0),SettingInt(wght,500, sans-serif" font-weight="500" style="font-variation-settings:&apos;ital&apos; 0.0,&apos;wght&apos; 500.0" fill="#141E16">Unread</text>
                     </g>
                   </g>
                 </g>

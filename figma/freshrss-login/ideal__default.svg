@@ -8,18 +8,18 @@
           <g id="Spacer">
           </g>
           <g id="OutlinedTextField">
-            <image href="ideal__default.figma-raster/162.png" x="63" y="273" width="924" height="147"/>
+            <image href="ideal__default.figma-raster/1139.png" x="63" y="273" width="924" height="147"/>
           </g>
           <g id="OutlinedTextField">
-            <image href="ideal__default.figma-raster/173.png" x="63" y="462" width="924" height="147"/>
+            <image href="ideal__default.figma-raster/1150.png" x="63" y="462" width="924" height="147"/>
           </g>
           <g id="OutlinedTextField">
-            <image href="ideal__default.figma-raster/184.png" x="63" y="651" width="924" height="147"/>
+            <image href="ideal__default.figma-raster/1161.png" x="63" y="651" width="924" height="147"/>
           </g>
         </g>
         <g id="Box">
           <g id="Box">
-            <image href="ideal__default.figma-raster/136.png" x="0" y="0" width="1050" height="210"/>
+            <image href="ideal__default.figma-raster/1113.png" x="0" y="0" width="1050" height="210"/>
             <g id="TopAppBar">
               <g id="Box">
                 <rect x="43" y="52" width="105" height="105" rx="52.5" ry="52.5" fill="#141E16" fill-opacity="0.07"/>
@@ -30,7 +30,7 @@
                 </g>
               </g>
               <g id="Empty">
-                <text x="191" y="124.67" font-size="57.75" font-family="outfit-medium.ttf:FontWeight(weight=500):Normal:SettingFloat(ital,0.0),SettingInt(wght,500, sans-serif" font-weight="500" fill="#141E16">FreshRSS</text>
+                <text x="191" y="124.67" font-size="57.75" font-family="outfit-medium.ttf:FontWeight(weight=500):Normal:SettingFloat(ital,0.0),SettingInt(wght,500, sans-serif" font-weight="500" style="font-variation-settings:&apos;ital&apos; 0.0,&apos;wght&apos; 500.0" fill="#141E16">FreshRSS</text>
               </g>
               <g id="Row">
               </g>
@@ -47,7 +47,7 @@
         <g id="Box">
           <rect x="0" y="1911" width="1050" height="189" rx="73.5" ry="73.5" fill="#E8F4E7"/>
           <g id="Empty">
-            <text x="469" y="2017.92" font-size="36.75" font-family="outfit-medium.ttf:FontWeight(weight=500):Normal:SettingFloat(ital,0.0),SettingInt(wght,500, sans-serif" font-weight="500" fill="#49454F" fill-opacity="0.38">LOGIN</text>
+            <text x="469" y="2017.92" font-size="36.75" font-family="outfit-medium.ttf:FontWeight(weight=500):Normal:SettingFloat(ital,0.0),SettingInt(wght,500, sans-serif" font-weight="500" style="font-variation-settings:&apos;ital&apos; 0.0,&apos;wght&apos; 500.0" fill="#49454F" fill-opacity="0.38">LOGIN</text>
           </g>
         </g>
       </g>

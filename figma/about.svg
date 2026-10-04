@@ -9,18 +9,18 @@
             <g id="Row">
               <g id="Column">
                 <g id="Empty">
-                  <text x="63" y="353.92" font-size="36.75" font-family="outfit-regular.ttf:FontWeight(weight=400):Normal:SettingFloat(ital,0.0),SettingInt(wght,400, sans-serif" font-weight="400" fill="#3D4A3F">Developer</text>
+                  <text x="63" y="353.92" font-size="36.75" font-family="outfit-regular.ttf:FontWeight(weight=400):Normal:SettingFloat(ital,0.0),SettingInt(wght,400, sans-serif" font-weight="400" style="font-variation-settings:&apos;ital&apos; 0.0,&apos;wght&apos; 400.0" fill="#3D4A3F">Developer</text>
                 </g>
                 <g id="Spacer">
                 </g>
                 <g id="Empty">
-                  <text x="63" y="445.67" font-size="57.75" font-family="outfit-medium.ttf:FontWeight(weight=500):Normal:SettingFloat(ital,0.0),SettingInt(wght,500, sans-serif" font-weight="500" fill="#141E16">Sasikanth</text>
+                  <text x="63" y="445.67" font-size="57.75" font-family="outfit-medium.ttf:FontWeight(weight=500):Normal:SettingFloat(ital,0.0),SettingInt(wght,500, sans-serif" font-weight="500" style="font-variation-settings:&apos;ital&apos; 0.0,&apos;wght&apos; 500.0" fill="#141E16">Sasikanth</text>
                 </g>
               </g>
               <g id="Spacer">
               </g>
               <g id="UtilsKt">
-                <image href="about.figma-raster/416.png" x="840" y="315" width="147" height="147"/>
+                <image href="about.figma-raster/33.png" x="840" y="315" width="147" height="147"/>
               </g>
             </g>
             <g id="Spacer">
@@ -36,7 +36,7 @@
         </g>
         <g id="Box">
           <g id="Box">
-            <image href="about.figma-raster/390.png" x="0" y="0" width="1050" height="210"/>
+            <image href="about.figma-raster/7.png" x="0" y="0" width="1050" height="210"/>
             <g id="TopAppBar">
               <g id="Box">
                 <rect x="43" y="52" width="105" height="105" rx="52.5" ry="52.5" fill="#141E16" fill-opacity="0.07"/>
@@ -47,7 +47,7 @@
                 </g>
               </g>
               <g id="Empty">
-                <text x="191" y="124.67" font-size="57.75" font-family="outfit-medium.ttf:FontWeight(weight=500):Normal:SettingFloat(ital,0.0),SettingInt(wght,500, sans-serif" font-weight="500" fill="#141E16">About</text>
+                <text x="191" y="124.67" font-size="57.75" font-family="outfit-medium.ttf:FontWeight(weight=500):Normal:SettingFloat(ital,0.0),SettingInt(wght,500, sans-serif" font-weight="500" style="font-variation-settings:&apos;ital&apos; 0.0,&apos;wght&apos; 500.0" fill="#141E16">About</text>
               </g>
               <g id="Row">
               </g>

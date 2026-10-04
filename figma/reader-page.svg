@@ -3,7 +3,7 @@
   <g id="Root">
     <g id="Column">
       <g id="Empty">
-        <text x="63" y="100.35" font-size="73.5" font-family="outfit-bold.ttf:FontWeight(weight=700):Normal:SettingFloat(ital,0.0),SettingInt(wght,700, sans-serif" font-weight="700" letter-spacing="-1.47" fill="#3D6657">Post Title</text>
+        <text x="63" y="100.35" font-size="73.5" font-family="outfit-bold.ttf:FontWeight(weight=700):Normal:SettingFloat(ital,0.0),SettingInt(wght,700, sans-serif" font-weight="700" letter-spacing="-1.47" style="font-variation-settings:&apos;ital&apos; 0.0,&apos;wght&apos; 700.0" fill="#3D6657">Post Title</text>
       </g>
       <g id="Spacer">
       </g>
@@ -12,7 +12,7 @@
           <g id="Row">
             <g id="Box">
               <g id="Box">
-                <image href="reader-page.figma-raster/311.png" x="66" y="170" width="42" height="42"/>
+                <image href="reader-page.figma-raster/196.png" x="66" y="170" width="42" height="42"/>
               </g>
               <g id="BoxKt">
                 <g transform="translate(94 167) scale(1 1)">
@@ -23,7 +23,7 @@
             <g id="Spacer">
             </g>
             <g id="Empty">
-              <text x="121" y="200.86" font-size="31.5" font-family="outfit-regular.ttf:FontWeight(weight=400):Normal:SettingFloat(ital,0.0),SettingInt(wght,400, sans-serif" font-weight="400" letter-spacing="0.63" fill="#3D4A3F">Feed Name</text>
+              <text x="121" y="200.86" font-size="31.5" font-family="outfit-regular.ttf:FontWeight(weight=400):Normal:SettingFloat(ital,0.0),SettingInt(wght,400, sans-serif" font-weight="400" letter-spacing="0.63" style="font-variation-settings:&apos;ital&apos; 0.0,&apos;wght&apos; 400.0" fill="#3D4A3F">Feed Name</text>
             </g>
           </g>
           <g id="Empty">

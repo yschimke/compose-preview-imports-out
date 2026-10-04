@@ -16,10 +16,10 @@
             </g>
             <g id="Column">
               <g id="Empty">
-                <text x="189" y="318.99" font-size="42" font-family="outfit-medium.ttf:FontWeight(weight=500):Normal:SettingFloat(ital,0.0),SettingInt(wght,500, sans-serif" font-weight="500" fill="#141E16">Appearance &amp; layout</text>
+                <text x="189" y="318.99" font-size="42" font-family="outfit-medium.ttf:FontWeight(weight=500):Normal:SettingFloat(ital,0.0),SettingInt(wght,500, sans-serif" font-weight="500" style="font-variation-settings:&apos;ital&apos; 0.0,&apos;wght&apos; 500.0" fill="#141E16">Appearance &amp; layout</text>
               </g>
               <g id="Empty">
-                <text x="189" y="374.92" font-size="36.75" font-family="outfit-regular.ttf:FontWeight(weight=400):Normal:SettingFloat(ital,0.0),SettingInt(wght,400, sans-serif" font-weight="400" fill="#3D4A3F">Customize how Twine looks</text>
+                <text x="189" y="374.92" font-size="36.75" font-family="outfit-regular.ttf:FontWeight(weight=400):Normal:SettingFloat(ital,0.0),SettingInt(wght,400, sans-serif" font-weight="400" style="font-variation-settings:&apos;ital&apos; 0.0,&apos;wght&apos; 400.0" fill="#3D4A3F">Customize how Twine looks</text>
               </g>
             </g>
           </g>
@@ -34,10 +34,10 @@
             </g>
             <g id="Column">
               <g id="Empty">
-                <text x="189" y="518.99" font-size="42" font-family="outfit-medium.ttf:FontWeight(weight=500):Normal:SettingFloat(ital,0.0),SettingInt(wght,500, sans-serif" font-weight="500" fill="#141E16">Features &amp; behaviors</text>
+                <text x="189" y="518.99" font-size="42" font-family="outfit-medium.ttf:FontWeight(weight=500):Normal:SettingFloat(ital,0.0),SettingInt(wght,500, sans-serif" font-weight="500" style="font-variation-settings:&apos;ital&apos; 0.0,&apos;wght&apos; 500.0" fill="#141E16">Features &amp; behaviors</text>
               </g>
               <g id="Empty">
-                <text x="189" y="574.92" font-size="36.75" font-family="outfit-regular.ttf:FontWeight(weight=400):Normal:SettingFloat(ital,0.0),SettingInt(wght,400, sans-serif" font-weight="400" fill="#3D4A3F">Customize how Twine works</text>
+                <text x="189" y="574.92" font-size="36.75" font-family="outfit-regular.ttf:FontWeight(weight=400):Normal:SettingFloat(ital,0.0),SettingInt(wght,400, sans-serif" font-weight="400" style="font-variation-settings:&apos;ital&apos; 0.0,&apos;wght&apos; 400.0" fill="#3D4A3F">Customize how Twine works</text>
               </g>
             </g>
           </g>
@@ -52,10 +52,10 @@
             </g>
             <g id="Column">
               <g id="Empty">
-                <text x="189" y="718.99" font-size="42" font-family="outfit-medium.ttf:FontWeight(weight=500):Normal:SettingFloat(ital,0.0),SettingInt(wght,500, sans-serif" font-weight="500" fill="#141E16">Services &amp; sync</text>
+                <text x="189" y="718.99" font-size="42" font-family="outfit-medium.ttf:FontWeight(weight=500):Normal:SettingFloat(ital,0.0),SettingInt(wght,500, sans-serif" font-weight="500" style="font-variation-settings:&apos;ital&apos; 0.0,&apos;wght&apos; 500.0" fill="#141E16">Services &amp; sync</text>
               </g>
               <g id="Empty">
-                <text x="189" y="774.92" font-size="36.75" font-family="outfit-regular.ttf:FontWeight(weight=400):Normal:SettingFloat(ital,0.0),SettingInt(wght,400, sans-serif" font-weight="400" fill="#3D4A3F">Manage RSS services</text>
+                <text x="189" y="774.92" font-size="36.75" font-family="outfit-regular.ttf:FontWeight(weight=400):Normal:SettingFloat(ital,0.0),SettingInt(wght,400, sans-serif" font-weight="400" style="font-variation-settings:&apos;ital&apos; 0.0,&apos;wght&apos; 400.0" fill="#3D4A3F">Manage RSS services</text>
               </g>
             </g>
           </g>
@@ -70,10 +70,10 @@
             </g>
             <g id="Column">
               <g id="Empty">
-                <text x="189" y="918.99" font-size="42" font-family="outfit-medium.ttf:FontWeight(weight=500):Normal:SettingFloat(ital,0.0),SettingInt(wght,500, sans-serif" font-weight="500" fill="#141E16">Your insights</text>
+                <text x="189" y="918.99" font-size="42" font-family="outfit-medium.ttf:FontWeight(weight=500):Normal:SettingFloat(ital,0.0),SettingInt(wght,500, sans-serif" font-weight="500" style="font-variation-settings:&apos;ital&apos; 0.0,&apos;wght&apos; 500.0" fill="#141E16">Your insights</text>
               </g>
               <g id="Empty">
-                <text x="189" y="974.92" font-size="36.75" font-family="outfit-regular.ttf:FontWeight(weight=400):Normal:SettingFloat(ital,0.0),SettingInt(wght,400, sans-serif" font-weight="400" fill="#3D4A3F">Manage your reading data</text>
+                <text x="189" y="974.92" font-size="36.75" font-family="outfit-regular.ttf:FontWeight(weight=400):Normal:SettingFloat(ital,0.0),SettingInt(wght,400, sans-serif" font-weight="400" style="font-variation-settings:&apos;ital&apos; 0.0,&apos;wght&apos; 400.0" fill="#3D4A3F">Manage your reading data</text>
               </g>
             </g>
           </g>
@@ -87,13 +87,13 @@
               </g>
             </g>
             <g id="Empty">
-              <text x="189" y="1139.99" font-size="42" font-family="outfit-medium.ttf:FontWeight(weight=500):Normal:SettingFloat(ital,0.0),SettingInt(wght,500, sans-serif" font-weight="500" fill="#141E16">App info &amp; feedback</text>
+              <text x="189" y="1139.99" font-size="42" font-family="outfit-medium.ttf:FontWeight(weight=500):Normal:SettingFloat(ital,0.0),SettingInt(wght,500, sans-serif" font-weight="500" style="font-variation-settings:&apos;ital&apos; 0.0,&apos;wght&apos; 500.0" fill="#141E16">App info &amp; feedback</text>
             </g>
           </g>
         </g>
         <g id="Box">
           <g id="Box">
-            <image href="settings.figma-raster/1458.png" x="0" y="0" width="1050" height="210"/>
+            <image href="settings.figma-raster/44.png" x="0" y="0" width="1050" height="210"/>
             <g id="TopAppBar">
               <g id="Box">
                 <rect x="43" y="52" width="105" height="105" rx="52.5" ry="52.5" fill="#141E16" fill-opacity="0.07"/>
@@ -104,7 +104,7 @@
                 </g>
               </g>
               <g id="Empty">
-                <text x="191" y="124.67" font-size="57.75" font-family="outfit-medium.ttf:FontWeight(weight=500):Normal:SettingFloat(ital,0.0),SettingInt(wght,500, sans-serif" font-weight="500" fill="#141E16">Settings</text>
+                <text x="191" y="124.67" font-size="57.75" font-family="outfit-medium.ttf:FontWeight(weight=500):Normal:SettingFloat(ital,0.0),SettingInt(wght,500, sans-serif" font-weight="500" style="font-variation-settings:&apos;ital&apos; 0.0,&apos;wght&apos; 500.0" fill="#141E16">Settings</text>
               </g>
               <g id="Row">
               </g>

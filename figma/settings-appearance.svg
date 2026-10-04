@@ -10,17 +10,17 @@
           <g id="LayoutNodeSubcompositionsState">
             <g clip-path="url(#clip-1)">
               <g id="Empty">
-                <text x="63" y="332.92" font-size="36.75" font-family="outfit-medium.ttf:FontWeight(weight=500):Normal:SettingFloat(ital,0.0),SettingInt(wght,500, sans-serif" font-weight="500" fill="#3D4A3F">Theme</text>
+                <text x="63" y="332.92" font-size="36.75" font-family="outfit-medium.ttf:FontWeight(weight=500):Normal:SettingFloat(ital,0.0),SettingInt(wght,500, sans-serif" font-weight="500" style="font-variation-settings:&apos;ital&apos; 0.0,&apos;wght&apos; 500.0" fill="#3D4A3F">Theme</text>
               </g>
               <g id="Row">
                 <g id="Empty">
-                  <text x="63" y="458.35" font-size="73.5" font-family="outfit-bold.ttf:FontWeight(weight=700):Normal:SettingFloat(ital,0.0),SettingInt(wght,700, sans-serif" font-weight="600" letter-spacing="-1.47" fill="#141E16">Dynamic</text>
+                  <text x="63" y="458.35" font-size="73.5" font-family="outfit-bold.ttf:FontWeight(weight=700):Normal:SettingFloat(ital,0.0),SettingInt(wght,700, sans-serif" font-weight="600" letter-spacing="-1.47" style="font-variation-settings:&apos;ital&apos; 0.0,&apos;wght&apos; 700.0" fill="#141E16">Dynamic</text>
                 </g>
                 <g id="Box">
                   <rect x="739" y="379" width="248" height="105" rx="52.5" ry="52.5" fill="#141E16" fill-opacity="0.07"/>
                   <g id="Row">
                     <g id="Empty">
-                      <text x="792" y="443.92" font-size="36.75" font-family="outfit-medium.ttf:FontWeight(weight=500):Normal:SettingFloat(ital,0.0),SettingInt(wght,500, sans-serif" font-weight="500" fill="#141E16">Auto</text>
+                      <text x="792" y="443.92" font-size="36.75" font-family="outfit-medium.ttf:FontWeight(weight=500):Normal:SettingFloat(ital,0.0),SettingInt(wght,500, sans-serif" font-weight="500" style="font-variation-settings:&apos;ital&apos; 0.0,&apos;wght&apos; 500.0" fill="#141E16">Auto</text>
                     </g>
                     <g id="Spacer">
                     </g>
@@ -45,7 +45,7 @@
                   <g id="Spacer">
                   </g>
                   <g id="Empty">
-                    <text x="147" y="837.92" font-size="36.75" font-family="outfit-regular.ttf:FontWeight(weight=400):Normal:SettingFloat(ital,0.0),SettingInt(wght,400, sans-serif" font-weight="400" text-anchor="middle" fill="#3D4A3F">Solarized</text>
+                    <text x="147" y="837.92" font-size="36.75" font-family="outfit-regular.ttf:FontWeight(weight=400):Normal:SettingFloat(ital,0.0),SettingInt(wght,400, sans-serif" font-weight="400" style="font-variation-settings:&apos;ital&apos; 0.0,&apos;wght&apos; 400.0" text-anchor="middle" fill="#3D4A3F">Solarized</text>
                   </g>
                 </g>
                 <g id="Column">
@@ -60,7 +60,7 @@
                   <g id="Spacer">
                   </g>
                   <g id="Empty">
-                    <text x="347" y="837.92" font-size="36.75" font-family="outfit-regular.ttf:FontWeight(weight=400):Normal:SettingFloat(ital,0.0),SettingInt(wght,400, sans-serif" font-weight="400" text-anchor="middle" fill="#3D4A3F">Forest</text>
+                    <text x="347" y="837.92" font-size="36.75" font-family="outfit-regular.ttf:FontWeight(weight=400):Normal:SettingFloat(ital,0.0),SettingInt(wght,400, sans-serif" font-weight="400" style="font-variation-settings:&apos;ital&apos; 0.0,&apos;wght&apos; 400.0" text-anchor="middle" fill="#3D4A3F">Forest</text>
                   </g>
                 </g>
                 <g id="Column">
@@ -75,7 +75,7 @@
                   <g id="Spacer">
                   </g>
                   <g id="Empty">
-                    <text x="547" y="837.92" font-size="36.75" font-family="outfit-regular.ttf:FontWeight(weight=400):Normal:SettingFloat(ital,0.0),SettingInt(wght,400, sans-serif" font-weight="400" text-anchor="middle" fill="#3D4A3F">Amber</text>
+                    <text x="547" y="837.92" font-size="36.75" font-family="outfit-regular.ttf:FontWeight(weight=400):Normal:SettingFloat(ital,0.0),SettingInt(wght,400, sans-serif" font-weight="400" style="font-variation-settings:&apos;ital&apos; 0.0,&apos;wght&apos; 400.0" text-anchor="middle" fill="#3D4A3F">Amber</text>
                   </g>
                 </g>
                 <g id="Column">
@@ -90,7 +90,7 @@
                   <g id="Spacer">
                   </g>
                   <g id="Empty">
-                    <text x="747" y="837.92" font-size="36.75" font-family="outfit-regular.ttf:FontWeight(weight=400):Normal:SettingFloat(ital,0.0),SettingInt(wght,400, sans-serif" font-weight="400" text-anchor="middle" fill="#3D4A3F">Coral</text>
+                    <text x="747" y="837.92" font-size="36.75" font-family="outfit-regular.ttf:FontWeight(weight=400):Normal:SettingFloat(ital,0.0),SettingInt(wght,400, sans-serif" font-weight="400" style="font-variation-settings:&apos;ital&apos; 0.0,&apos;wght&apos; 400.0" text-anchor="middle" fill="#3D4A3F">Coral</text>
                   </g>
                 </g>
                 <g id="Column">
@@ -105,26 +105,26 @@
                   <g id="Spacer">
                   </g>
                   <g id="Empty">
-                    <text x="948" y="837.92" font-size="36.75" font-family="outfit-regular.ttf:FontWeight(weight=400):Normal:SettingFloat(ital,0.0),SettingInt(wght,400, sans-serif" font-weight="400" text-anchor="middle" fill="#3D4A3F">Raspberry</text>
+                    <text x="948" y="837.92" font-size="36.75" font-family="outfit-regular.ttf:FontWeight(weight=400):Normal:SettingFloat(ital,0.0),SettingInt(wght,400, sans-serif" font-weight="400" style="font-variation-settings:&apos;ital&apos; 0.0,&apos;wght&apos; 400.0" text-anchor="middle" fill="#3D4A3F">Raspberry</text>
                   </g>
                 </g>
               </g>
               <g id="Empty">
-                <text x="63" y="1048.92" font-size="36.75" font-family="outfit-medium.ttf:FontWeight(weight=500):Normal:SettingFloat(ital,0.0),SettingInt(wght,500, sans-serif" font-weight="500" fill="#3D4A3F">Layout</text>
+                <text x="63" y="1048.92" font-size="36.75" font-family="outfit-medium.ttf:FontWeight(weight=500):Normal:SettingFloat(ital,0.0),SettingInt(wght,500, sans-serif" font-weight="500" style="font-variation-settings:&apos;ital&apos; 0.0,&apos;wght&apos; 500.0" fill="#3D4A3F">Layout</text>
               </g>
               <g id="Column">
                 <g id="Box">
                   <rect x="64" y="1138" width="922" height="124" rx="62" ry="62" fill="none" stroke="#6D7B6E" stroke-width="2.62"/>
                   <g id="Row">
-                    <image href="settings-appearance.figma-raster/944.png" x="74" y="1137" width="902" height="126"/>
+                    <image href="settings-appearance.figma-raster/590.png" x="74" y="1137" width="902" height="126"/>
                     <g id="Box">
                       <g id="Empty">
-                        <text x="153" y="1212.92" font-size="36.75" font-family="outfit-medium.ttf:FontWeight(weight=500):Normal:SettingFloat(ital,0.0),SettingInt(wght,500, sans-serif" font-weight="500" fill="#E8F4E7">Detailed</text>
+                        <text x="153" y="1212.92" font-size="36.75" font-family="outfit-medium.ttf:FontWeight(weight=500):Normal:SettingFloat(ital,0.0),SettingInt(wght,500, sans-serif" font-weight="500" style="font-variation-settings:&apos;ital&apos; 0.0,&apos;wght&apos; 500.0" fill="#E8F4E7">Detailed</text>
                       </g>
                     </g>
                     <g id="Box">
                       <g id="Empty">
-                        <text x="469" y="1212.92" font-size="36.75" font-family="outfit-medium.ttf:FontWeight(weight=500):Normal:SettingFloat(ital,0.0),SettingInt(wght,500, sans-serif" font-weight="500" fill="#3D4A3F">Simple</text>
+                        <text x="469" y="1212.92" font-size="36.75" font-family="outfit-medium.ttf:FontWeight(weight=500):Normal:SettingFloat(ital,0.0),SettingInt(wght,500, sans-serif" font-weight="500" style="font-variation-settings:&apos;ital&apos; 0.0,&apos;wght&apos; 500.0" fill="#3D4A3F">Simple</text>
                       </g>
                     </g>
                     <g id="Row">
@@ -135,7 +135,7 @@
                       </g>
                       <g id="Box">
                         <g id="Empty">
-                          <text x="752" y="1212.92" font-size="36.75" font-family="outfit-medium.ttf:FontWeight(weight=500):Normal:SettingFloat(ital,0.0),SettingInt(wght,500, sans-serif" font-weight="500" fill="#3D4A3F">Compact</text>
+                          <text x="752" y="1212.92" font-size="36.75" font-family="outfit-medium.ttf:FontWeight(weight=500):Normal:SettingFloat(ital,0.0),SettingInt(wght,500, sans-serif" font-weight="500" style="font-variation-settings:&apos;ital&apos; 0.0,&apos;wght&apos; 500.0" fill="#3D4A3F">Compact</text>
                         </g>
                       </g>
                     </g>
@@ -147,21 +147,21 @@
                     <rect x="64" y="1306" width="922" height="441" rx="51.5" ry="51.5" fill="none" stroke="#BCCABC" stroke-width="2.62"/>
                   <clipPath id="clip-2"><rect x="63" y="1326" width="924" height="401" rx="63" ry="63"/></clipPath>
                   <g id="Column">
-                    <image href="settings-appearance.figma-raster/966.png" x="63" y="1326" width="924" height="401" clip-path="url(#clip-2)"/>
+                    <image href="settings-appearance.figma-raster/612.png" x="63" y="1326" width="924" height="401" clip-path="url(#clip-2)"/>
                     <g clip-path="url(#clip-2)">
                       <g id="Row">
                         <g id="Column">
                           <g id="Empty">
-                            <text font-size="42" font-family="outfit-medium.ttf:FontWeight(weight=500):Normal:SettingFloat(ital,0.0),SettingInt(wght,500, sans-serif" font-weight="500" fill="#141E16"><tspan x="126" y="1415" textLength="551" lengthAdjust="spacing">Phones are going to get weird</tspan><tspan x="126" y="1478" textLength="187" lengthAdjust="spacing">next week</tspan></text>
+                            <text font-size="42" font-family="outfit-medium.ttf:FontWeight(weight=500):Normal:SettingFloat(ital,0.0),SettingInt(wght,500, sans-serif" font-weight="500" style="font-variation-settings:&apos;ital&apos; 0.0,&apos;wght&apos; 500.0" fill="#141E16"><tspan x="126" y="1415" textLength="551" lengthAdjust="spacing">Phones are going to get weird</tspan><tspan x="126" y="1478" textLength="187" lengthAdjust="spacing">next week</tspan></text>
                           </g>
                           <g id="Spacer">
                           </g>
                           <g id="Empty">
-                            <text font-size="36.75" font-family="outfit-regular.ttf:FontWeight(weight=400):Normal:SettingFloat(ital,0.0),SettingInt(wght,400, sans-serif" font-weight="400" fill="#3D4A3F"><tspan x="126" y="1545" textLength="581" lengthAdjust="spacing">Expect rotating camera rings, robot</tspan><tspan x="126" y="1598" textLength="549" lengthAdjust="spacing">arms, and magnetic modules at M</tspan></text>
+                            <text font-size="36.75" font-family="outfit-regular.ttf:FontWeight(weight=400):Normal:SettingFloat(ital,0.0),SettingInt(wght,400, sans-serif" font-weight="400" style="font-variation-settings:&apos;ital&apos; 0.0,&apos;wght&apos; 400.0" fill="#3D4A3F"><tspan x="126" y="1545" textLength="581" lengthAdjust="spacing">Expect rotating camera rings, robot</tspan><tspan x="126" y="1598" textLength="549" lengthAdjust="spacing">arms, and magnetic modules at M</tspan></text>
                           </g>
                         </g>
                         <g id="UtilsKt">
-                          <image href="settings-appearance.figma-raster/973.png" x="756" y="1368" width="168" height="168"/>
+                          <image href="settings-appearance.figma-raster/619.png" x="756" y="1368" width="168" height="168"/>
                         </g>
                       </g>
                       <g id="Spacer">
@@ -171,7 +171,7 @@
                           <g id="Row">
                             <g id="Box">
                               <g id="Box">
-                                <image href="settings-appearance.figma-raster/979.png" x="129" y="1644" width="42" height="42"/>
+                                <image href="settings-appearance.figma-raster/625.png" x="129" y="1644" width="42" height="42"/>
                               </g>
                               <g id="BoxKt">
                                 <g transform="translate(157 1641) scale(1 1)">
@@ -182,7 +182,7 @@
                             <g id="Spacer">
                             </g>
                             <g id="Empty">
-                              <text x="184" y="1674.86" font-size="31.5" font-family="outfit-regular.ttf:FontWeight(weight=400):Normal:SettingFloat(ital,0.0),SettingInt(wght,400, sans-serif" font-weight="400" letter-spacing="0.63" fill="#141E16">The Verge</text>
+                              <text x="184" y="1674.86" font-size="31.5" font-family="outfit-regular.ttf:FontWeight(weight=400):Normal:SettingFloat(ital,0.0),SettingInt(wght,400, sans-serif" font-weight="400" letter-spacing="0.63" style="font-variation-settings:&apos;ital&apos; 0.0,&apos;wght&apos; 400.0" fill="#141E16">The Verge</text>
                             </g>
                           </g>
                           <g id="Empty">
@@ -222,17 +222,17 @@
                 </g>
               </g>
               <g id="Empty">
-                <text x="63" y="1891.92" font-size="36.75" font-family="outfit-medium.ttf:FontWeight(weight=500):Normal:SettingFloat(ital,0.0),SettingInt(wght,500, sans-serif" font-weight="500" fill="#3D4A3F">Other</text>
+                <text x="63" y="1891.92" font-size="36.75" font-family="outfit-medium.ttf:FontWeight(weight=500):Normal:SettingFloat(ital,0.0),SettingInt(wght,500, sans-serif" font-weight="500" style="font-variation-settings:&apos;ital&apos; 0.0,&apos;wght&apos; 500.0" fill="#3D4A3F">Other</text>
               </g>
               <g id="Row">
                 <g id="Spacer">
                 </g>
                 <g id="Column">
                   <g id="Empty">
-                    <text x="63" y="2025.99" font-size="42" font-family="outfit-medium.ttf:FontWeight(weight=500):Normal:SettingFloat(ital,0.0),SettingInt(wght,500, sans-serif" font-weight="500" fill="#141E16">Show featured section</text>
+                    <text x="63" y="2025.99" font-size="42" font-family="outfit-medium.ttf:FontWeight(weight=500):Normal:SettingFloat(ital,0.0),SettingInt(wght,500, sans-serif" font-weight="500" style="font-variation-settings:&apos;ital&apos; 0.0,&apos;wght&apos; 500.0" fill="#141E16">Show featured section</text>
                   </g>
                   <g id="Empty">
-                    <text font-size="36.75" font-family="outfit-regular.ttf:FontWeight(weight=400):Normal:SettingFloat(ital,0.0),SettingInt(wght,400, sans-serif" font-weight="400" fill="#3D4A3F"><tspan x="63" y="2083" textLength="648" lengthAdjust="spacing">Displays a carousel with the most recent</tspan><tspan x="63" y="2136" textLength="119" lengthAdjust="spacing">articles</tspan></text>
+                    <text font-size="36.75" font-family="outfit-regular.ttf:FontWeight(weight=400):Normal:SettingFloat(ital,0.0),SettingInt(wght,400, sans-serif" font-weight="400" style="font-variation-settings:&apos;ital&apos; 0.0,&apos;wght&apos; 400.0" fill="#3D4A3F"><tspan x="63" y="2083" textLength="648" lengthAdjust="spacing">Displays a carousel with the most recent</tspan><tspan x="63" y="2136" textLength="119" lengthAdjust="spacing">articles</tspan></text>
                   </g>
                 </g>
                 <g id="Spacer">
@@ -255,7 +255,7 @@
           </g>
           <g id="Box">
             <g id="Box">
-              <image href="settings-appearance.figma-raster/873.png" x="0" y="0" width="1050" height="210"/>
+              <image href="settings-appearance.figma-raster/519.png" x="0" y="0" width="1050" height="210"/>
               <g id="TopAppBar">
                 <g id="Box">
                   <rect x="43" y="52" width="105" height="105" rx="52.5" ry="52.5" fill="#141E16" fill-opacity="0.07"/>
@@ -266,7 +266,7 @@
                   </g>
                 </g>
                 <g id="Empty">
-                  <text x="191" y="124.67" font-size="57.75" font-family="outfit-medium.ttf:FontWeight(weight=500):Normal:SettingFloat(ital,0.0),SettingInt(wght,500, sans-serif" font-weight="500" fill="#141E16">Appearance &amp; layout</text>
+                  <text x="191" y="124.67" font-size="57.75" font-family="outfit-medium.ttf:FontWeight(weight=500):Normal:SettingFloat(ital,0.0),SettingInt(wght,500, sans-serif" font-weight="500" style="font-variation-settings:&apos;ital&apos; 0.0,&apos;wght&apos; 500.0" fill="#141E16">Appearance &amp; layout</text>
                 </g>
                 <g id="Row">
                 </g>

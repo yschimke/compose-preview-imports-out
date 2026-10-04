@@ -2,7 +2,7 @@
 <g transform="translate(0, 0)">
   <g id="Root">
     <g id="Column">
-      <image href="navigation-drawer.figma-raster/808.png" x="0" y="0" width="1050" height="2100"/>
+      <image href="navigation-drawer.figma-raster/1173.png" x="0" y="0" width="1050" height="2100"/>
       <g id="Box">
         <g id="LayoutNodeSubcompositionsState">
           <g id="Box">
@@ -26,7 +26,7 @@
               <g id="Spacer">
               </g>
               <g id="Empty">
-                <text x="138" y="301.92" font-size="36.75" font-family="outfit-medium.ttf:FontWeight(weight=500):Normal:SettingFloat(ital,0.0),SettingInt(wght,500, sans-serif" font-weight="500" fill="#141E16">Home</text>
+                <text x="138" y="301.92" font-size="36.75" font-family="outfit-medium.ttf:FontWeight(weight=500):Normal:SettingFloat(ital,0.0),SettingInt(wght,500, sans-serif" font-weight="500" style="font-variation-settings:&apos;ital&apos; 0.0,&apos;wght&apos; 500.0" fill="#141E16">Home</text>
               </g>
             </g>
           </g>
@@ -40,7 +40,7 @@
               <g id="Spacer">
               </g>
               <g id="Empty">
-                <text x="138" y="417.92" font-size="36.75" font-family="outfit-regular.ttf:FontWeight(weight=400):Normal:SettingFloat(ital,0.0),SettingInt(wght,400, sans-serif" font-weight="400" fill="#141E16">Search</text>
+                <text x="138" y="417.92" font-size="36.75" font-family="outfit-regular.ttf:FontWeight(weight=400):Normal:SettingFloat(ital,0.0),SettingInt(wght,400, sans-serif" font-weight="400" style="font-variation-settings:&apos;ital&apos; 0.0,&apos;wght&apos; 400.0" fill="#141E16">Search</text>
               </g>
             </g>
           </g>
@@ -54,7 +54,7 @@
               <g id="Spacer">
               </g>
               <g id="Empty">
-                <text x="138" y="533.92" font-size="36.75" font-family="outfit-regular.ttf:FontWeight(weight=400):Normal:SettingFloat(ital,0.0),SettingInt(wght,400, sans-serif" font-weight="400" fill="#141E16">Discover</text>
+                <text x="138" y="533.92" font-size="36.75" font-family="outfit-regular.ttf:FontWeight(weight=400):Normal:SettingFloat(ital,0.0),SettingInt(wght,400, sans-serif" font-weight="400" style="font-variation-settings:&apos;ital&apos; 0.0,&apos;wght&apos; 400.0" fill="#141E16">Discover</text>
               </g>
             </g>
           </g>
@@ -68,7 +68,7 @@
               <g id="Spacer">
               </g>
               <g id="Empty">
-                <text x="138" y="649.92" font-size="36.75" font-family="outfit-regular.ttf:FontWeight(weight=400):Normal:SettingFloat(ital,0.0),SettingInt(wght,400, sans-serif" font-weight="400" fill="#141E16">Bookmarks</text>
+                <text x="138" y="649.92" font-size="36.75" font-family="outfit-regular.ttf:FontWeight(weight=400):Normal:SettingFloat(ital,0.0),SettingInt(wght,400, sans-serif" font-weight="400" style="font-variation-settings:&apos;ital&apos; 0.0,&apos;wght&apos; 400.0" fill="#141E16">Bookmarks</text>
               </g>
             </g>
           </g>
@@ -83,7 +83,7 @@
               <g id="Spacer">
               </g>
               <g id="Empty">
-                <text x="138" y="765.92" font-size="36.75" font-family="outfit-regular.ttf:FontWeight(weight=400):Normal:SettingFloat(ital,0.0),SettingInt(wght,400, sans-serif" font-weight="400" fill="#141E16">Settings</text>
+                <text x="138" y="765.92" font-size="36.75" font-family="outfit-regular.ttf:FontWeight(weight=400):Normal:SettingFloat(ital,0.0),SettingInt(wght,400, sans-serif" font-weight="400" style="font-variation-settings:&apos;ital&apos; 0.0,&apos;wght&apos; 400.0" fill="#141E16">Settings</text>
               </g>
             </g>
           </g>
@@ -95,10 +95,10 @@
           <g id="Row">
             <g id="Column">
               <g id="Empty">
-                <text x="63" y="964.99" font-size="42" font-family="outfit-medium.ttf:FontWeight(weight=500):Normal:SettingFloat(ital,0.0),SettingInt(wght,500, sans-serif" font-weight="500" fill="#141E16">Feeds</text>
+                <text x="63" y="964.99" font-size="42" font-family="outfit-medium.ttf:FontWeight(weight=500):Normal:SettingFloat(ital,0.0),SettingInt(wght,500, sans-serif" font-weight="500" style="font-variation-settings:&apos;ital&apos; 0.0,&apos;wght&apos; 500.0" fill="#141E16">Feeds</text>
               </g>
               <g id="Empty">
-                <text x="63" y="1013.86" font-size="31.5" font-family="outfit-regular.ttf:FontWeight(weight=400):Normal:SettingFloat(ital,0.0),SettingInt(wght,400, sans-serif" font-weight="400" letter-spacing="0.63" fill="#3D4A3F">0 sources</text>
+                <text x="63" y="1013.86" font-size="31.5" font-family="outfit-regular.ttf:FontWeight(weight=400):Normal:SettingFloat(ital,0.0),SettingInt(wght,400, sans-serif" font-weight="400" letter-spacing="0.63" style="font-variation-settings:&apos;ital&apos; 0.0,&apos;wght&apos; 400.0" fill="#3D4A3F">0 sources</text>
               </g>
             </g>
             <g id="Spacer">
@@ -113,7 +113,7 @@
             </g>
           </g>
           <g id="Empty">
-            <text font-size="36.75" font-family="outfit-medium.ttf:FontWeight(weight=500):Normal:SettingFloat(ital,0.0),SettingInt(wght,500, sans-serif" font-weight="500" fill="#3D4A3F"><tspan x="98" y="1148" textLength="853" lengthAdjust="spacing">You will see all your feeds here, let's start by adding a</tspan><tspan x="482" y="1201" textLength="85" lengthAdjust="spacing">feed.</tspan></text>
+            <text font-size="36.75" font-family="outfit-medium.ttf:FontWeight(weight=500):Normal:SettingFloat(ital,0.0),SettingInt(wght,500, sans-serif" font-weight="500" style="font-variation-settings:&apos;ital&apos; 0.0,&apos;wght&apos; 500.0" fill="#3D4A3F"><tspan x="98" y="1148" textLength="853" lengthAdjust="spacing">You will see all your feeds here, let's start by adding a</tspan><tspan x="482" y="1201" textLength="85" lengthAdjust="spacing">feed.</tspan></text>
           </g>
         </g>
         <g id="Box">

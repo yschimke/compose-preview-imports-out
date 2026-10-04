@@ -12,23 +12,23 @@
           </g>
           <g id="Row">
             <g id="Empty">
-              <text x="63" y="384.99" font-size="42" font-family="outfit-medium.ttf:FontWeight(weight=500):Normal:SettingFloat(ital,0.0),SettingInt(wght,500, sans-serif" font-weight="500" fill="#141E16">OPML</text>
+              <text x="63" y="384.99" font-size="42" font-family="outfit-medium.ttf:FontWeight(weight=500):Normal:SettingFloat(ital,0.0),SettingInt(wght,500, sans-serif" font-weight="500" style="font-variation-settings:&apos;ital&apos; 0.0,&apos;wght&apos; 500.0" fill="#141E16">OPML</text>
             </g>
             <g id="BoxKt">
             </g>
           </g>
           <g id="Empty">
-            <text x="63" y="566.92" font-size="36.75" font-family="outfit-medium.ttf:FontWeight(weight=500):Normal:SettingFloat(ital,0.0),SettingInt(wght,500, sans-serif" font-weight="500" fill="#3D4A3F">Data usage</text>
+            <text x="63" y="566.92" font-size="36.75" font-family="outfit-medium.ttf:FontWeight(weight=500):Normal:SettingFloat(ital,0.0),SettingInt(wght,500, sans-serif" font-weight="500" style="font-variation-settings:&apos;ital&apos; 0.0,&apos;wght&apos; 500.0" fill="#3D4A3F">Data usage</text>
           </g>
           <g id="Row">
             <g id="Spacer">
             </g>
             <g id="Column">
               <g id="Empty">
-                <text x="63" y="705.99" font-size="42" font-family="outfit-medium.ttf:FontWeight(weight=500):Normal:SettingFloat(ital,0.0),SettingInt(wght,500, sans-serif" font-weight="500" fill="#141E16">Enable background sync</text>
+                <text x="63" y="705.99" font-size="42" font-family="outfit-medium.ttf:FontWeight(weight=500):Normal:SettingFloat(ital,0.0),SettingInt(wght,500, sans-serif" font-weight="500" style="font-variation-settings:&apos;ital&apos; 0.0,&apos;wght&apos; 500.0" fill="#141E16">Enable background sync</text>
               </g>
               <g id="Empty">
-                <text x="63" y="761.92" font-size="36.75" font-family="outfit-regular.ttf:FontWeight(weight=400):Normal:SettingFloat(ital,0.0),SettingInt(wght,400, sans-serif" font-weight="400" fill="#3D4A3F">Articles will be fetched in the background</text>
+                <text x="63" y="761.92" font-size="36.75" font-family="outfit-regular.ttf:FontWeight(weight=400):Normal:SettingFloat(ital,0.0),SettingInt(wght,400, sans-serif" font-weight="400" style="font-variation-settings:&apos;ital&apos; 0.0,&apos;wght&apos; 400.0" fill="#3D4A3F">Articles will be fetched in the background</text>
               </g>
             </g>
             <g id="Spacer">
@@ -52,10 +52,10 @@
             </g>
             <g id="Column">
               <g id="Empty">
-                <text x="63" y="915.99" font-size="42" font-family="outfit-medium.ttf:FontWeight(weight=500):Normal:SettingFloat(ital,0.0),SettingInt(wght,500, sans-serif" font-weight="500" fill="#141E16">Enable article notifications</text>
+                <text x="63" y="915.99" font-size="42" font-family="outfit-medium.ttf:FontWeight(weight=500):Normal:SettingFloat(ital,0.0),SettingInt(wght,500, sans-serif" font-weight="500" style="font-variation-settings:&apos;ital&apos; 0.0,&apos;wght&apos; 500.0" fill="#141E16">Enable article notifications</text>
               </g>
               <g id="Empty">
-                <text x="63" y="971.92" font-size="36.75" font-family="outfit-regular.ttf:FontWeight(weight=400):Normal:SettingFloat(ital,0.0),SettingInt(wght,400, sans-serif" font-weight="400" fill="#3D4A3F">Get notified when new articles are fetched</text>
+                <text x="63" y="971.92" font-size="36.75" font-family="outfit-regular.ttf:FontWeight(weight=400):Normal:SettingFloat(ital,0.0),SettingInt(wght,400, sans-serif" font-weight="400" style="font-variation-settings:&apos;ital&apos; 0.0,&apos;wght&apos; 400.0" fill="#3D4A3F">Get notified when new articles are fetched</text>
               </g>
             </g>
             <g id="Spacer">
@@ -84,10 +84,10 @@
             </g>
             <g id="Column">
               <g id="Empty">
-                <text x="63" y="1170.99" font-size="42" font-family="outfit-medium.ttf:FontWeight(weight=500):Normal:SettingFloat(ital,0.0),SettingInt(wght,500, sans-serif" font-weight="500" fill="#141E16">Disable all images</text>
+                <text x="63" y="1170.99" font-size="42" font-family="outfit-medium.ttf:FontWeight(weight=500):Normal:SettingFloat(ital,0.0),SettingInt(wght,500, sans-serif" font-weight="500" style="font-variation-settings:&apos;ital&apos; 0.0,&apos;wght&apos; 500.0" fill="#141E16">Disable all images</text>
               </g>
               <g id="Empty">
-                <text x="63" y="1226.92" font-size="36.75" font-family="outfit-regular.ttf:FontWeight(weight=400):Normal:SettingFloat(ital,0.0),SettingInt(wght,400, sans-serif" font-weight="400" fill="#3D4A3F">Twine will not load or display any images</text>
+                <text x="63" y="1226.92" font-size="36.75" font-family="outfit-regular.ttf:FontWeight(weight=400):Normal:SettingFloat(ital,0.0),SettingInt(wght,400, sans-serif" font-weight="400" style="font-variation-settings:&apos;ital&apos; 0.0,&apos;wght&apos; 400.0" fill="#3D4A3F">Twine will not load or display any images</text>
               </g>
             </g>
             <g id="Spacer">
@@ -111,10 +111,10 @@
             </g>
             <g id="Column">
               <g id="Empty">
-                <text x="63" y="1375.99" font-size="42" font-family="outfit-medium.ttf:FontWeight(weight=500):Normal:SettingFloat(ital,0.0),SettingInt(wght,500, sans-serif" font-weight="500" fill="#141E16">Download full articles</text>
+                <text x="63" y="1375.99" font-size="42" font-family="outfit-medium.ttf:FontWeight(weight=500):Normal:SettingFloat(ital,0.0),SettingInt(wght,500, sans-serif" font-weight="500" style="font-variation-settings:&apos;ital&apos; 0.0,&apos;wght&apos; 500.0" fill="#141E16">Download full articles</text>
               </g>
               <g id="Empty">
-                <text font-size="36.75" font-family="outfit-regular.ttf:FontWeight(weight=400):Normal:SettingFloat(ital,0.0),SettingInt(wght,400, sans-serif" font-weight="400" fill="#3D4A3F"><tspan x="63" y="1433" textLength="732" lengthAdjust="spacing">When enabled, the app will try and download</tspan><tspan x="63" y="1486" textLength="369" lengthAdjust="spacing">full articles during sync</tspan></text>
+                <text font-size="36.75" font-family="outfit-regular.ttf:FontWeight(weight=400):Normal:SettingFloat(ital,0.0),SettingInt(wght,400, sans-serif" font-weight="400" style="font-variation-settings:&apos;ital&apos; 0.0,&apos;wght&apos; 400.0" fill="#3D4A3F"><tspan x="63" y="1433" textLength="732" lengthAdjust="spacing">When enabled, the app will try and download</tspan><tspan x="63" y="1486" textLength="369" lengthAdjust="spacing">full articles during sync</tspan></text>
               </g>
             </g>
             <g id="Spacer">
@@ -136,7 +136,7 @@
         </g>
         <g id="Box">
           <g id="Box">
-            <image href="ideal__default.figma-raster/1378.png" x="0" y="0" width="1050" height="210"/>
+            <image href="ideal__default.figma-raster/275.png" x="0" y="0" width="1050" height="210"/>
             <g id="TopAppBar">
               <g id="Box">
                 <rect x="43" y="52" width="105" height="105" rx="52.5" ry="52.5" fill="#141E16" fill-opacity="0.07"/>
@@ -147,7 +147,7 @@
                 </g>
               </g>
               <g id="Empty">
-                <text x="191" y="124.67" font-size="57.75" font-family="outfit-medium.ttf:FontWeight(weight=500):Normal:SettingFloat(ital,0.0),SettingInt(wght,500, sans-serif" font-weight="500" fill="#141E16">Services &amp; sync</text>
+                <text x="191" y="124.67" font-size="57.75" font-family="outfit-medium.ttf:FontWeight(weight=500):Normal:SettingFloat(ital,0.0),SettingInt(wght,500, sans-serif" font-weight="500" style="font-variation-settings:&apos;ital&apos; 0.0,&apos;wght&apos; 500.0" fill="#141E16">Services &amp; sync</text>
               </g>
               <g id="Row">
               </g>

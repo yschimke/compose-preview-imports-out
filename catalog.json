@@ -87,7 +87,7 @@
       "wireframe": "wireframes/home.svg",
       "sourceFile": "src/commonMain/kotlin/dev/sasikanth/rss/reader/home/ui/HomeScreen.kt",
       "sourceModule": ":shared",
-      "bodyLine": 844,
+      "bodyLine": 896,
       "sourceDirectory": "shared",
       "sourceFunction": "HomePreview"
     },
@@ -898,7 +898,65 @@
       "sourceModule": ":shared",
       "bodyLine": 956,
       "sourceDirectory": "shared",
-      "sourceFunction": "NavigationDrawerPreview"
+      "sourceFunction": "NavigationDrawerPreview",
+      "parameters": [
+        {
+          "name": "feedsViewModel",
+          "type": "FeedsViewModel"
+        },
+        {
+          "name": "selectedDestination",
+          "type": "MainDestination"
+        },
+        {
+          "name": "onDestinationSelected",
+          "type": "(MainDestination) -> Unit"
+        },
+        {
+          "name": "openFeedInfoSheet",
+          "type": "(String) -> Unit"
+        },
+        {
+          "name": "openGroupScreen",
+          "type": "(String) -> Unit"
+        },
+        {
+          "name": "openGroupSelectionSheet",
+          "type": "() -> Unit"
+        },
+        {
+          "name": "openAddFeedScreen",
+          "type": "() -> Unit"
+        },
+        {
+          "name": "openPaywall",
+          "type": "() -> Unit"
+        },
+        {
+          "name": "closeDrawer",
+          "type": "() -> Unit"
+        },
+        {
+          "name": "modifier",
+          "type": "Modifier",
+          "hasDefault": true
+        },
+        {
+          "name": "expanded",
+          "type": "Boolean",
+          "hasDefault": true
+        },
+        {
+          "name": "showCloseIcon",
+          "type": "Boolean",
+          "hasDefault": true
+        },
+        {
+          "name": "dismissOnSelection",
+          "type": "Boolean",
+          "hasDefault": true
+        }
+      ]
     },
     {
       "componentId": "add-feed",
@@ -2302,7 +2360,43 @@
       "sourceModule": ":shared",
       "bodyLine": 470,
       "sourceDirectory": "shared",
-      "sourceFunction": "PremiumPaywallScreenPreview"
+      "sourceFunction": "PremiumPaywallScreenPreview",
+      "parameters": [
+        {
+          "name": "packages",
+          "type": "List<TwinePackage>"
+        },
+        {
+          "name": "inProgress",
+          "type": "Boolean"
+        },
+        {
+          "name": "hasPremium",
+          "type": "Boolean"
+        },
+        {
+          "name": "isFromOnboarding",
+          "type": "Boolean",
+          "hasDefault": true
+        },
+        {
+          "name": "onPurchase",
+          "type": "(String) -> Unit"
+        },
+        {
+          "name": "onRestore",
+          "type": "() -> Unit"
+        },
+        {
+          "name": "goBack",
+          "type": "() -> Unit"
+        },
+        {
+          "name": "modifier",
+          "type": "Modifier",
+          "hasDefault": true
+        }
+      ]
     },
     {
       "componentId": "settings",
@@ -3523,6 +3617,69 @@
         {
           "bounds": {
             "x": 0,
+            "y": 0,
+            "width": 0,
+            "height": 0
+          },
+          "cornerRadius": 2
+        },
+        {
+          "bounds": {
+            "x": 0,
+            "y": 0,
+            "width": 0,
+            "height": 0
+          },
+          "cornerRadius": 2
+        },
+        {
+          "bounds": {
+            "x": 0,
+            "y": 0,
+            "width": 0,
+            "height": 0
+          },
+          "cornerRadius": 2
+        },
+        {
+          "bounds": {
+            "x": 0,
+            "y": 0,
+            "width": 0,
+            "height": 0
+          },
+          "cornerRadius": 2
+        },
+        {
+          "bounds": {
+            "x": 0,
+            "y": 0,
+            "width": 0,
+            "height": 0
+          },
+          "cornerRadius": 2
+        },
+        {
+          "bounds": {
+            "x": 0,
+            "y": 0,
+            "width": 0,
+            "height": 0
+          },
+          "cornerRadius": 2
+        },
+        {
+          "bounds": {
+            "x": 0,
+            "y": 0,
+            "width": 0,
+            "height": 0
+          },
+          "cornerRadius": 2
+        },
+        {
+          "bounds": {
+            "x": 0,
             "y": 673,
             "width": 20,
             "height": 32
@@ -4910,60 +5067,6 @@
           "bounds": {
             "x": 934,
             "y": 673,
-            "width": 32,
-            "height": 32
-          },
-          "cornerRadius": 2
-        },
-        {
-          "bounds": {
-            "x": 934,
-            "y": 716,
-            "width": 32,
-            "height": 32
-          },
-          "cornerRadius": 2
-        },
-        {
-          "bounds": {
-            "x": 934,
-            "y": 759,
-            "width": 32,
-            "height": 32
-          },
-          "cornerRadius": 2
-        },
-        {
-          "bounds": {
-            "x": 934,
-            "y": 802,
-            "width": 32,
-            "height": 32
-          },
-          "cornerRadius": 2
-        },
-        {
-          "bounds": {
-            "x": 934,
-            "y": 845,
-            "width": 32,
-            "height": 32
-          },
-          "cornerRadius": 2
-        },
-        {
-          "bounds": {
-            "x": 934,
-            "y": 888,
-            "width": 32,
-            "height": 32
-          },
-          "cornerRadius": 2
-        },
-        {
-          "bounds": {
-            "x": 934,
-            "y": 931,
             "width": 32,
             "height": 32
           },
@@ -5847,8 +5950,11 @@
       "sourceFunction": "AboutPreview"
     }
   ],
-  "renderer": "compose-preview 1.79.0",
-  "generatedAt": "2026-09-05T09:50:25.004Z",
+  "renderer": "compose-preview 2.34.0",
+  "generatedAt": "2026-10-04T14:22:30.362Z",
+  "display": {
+    "hero": "settings-appearance"
+  },
   "liveBundle": {
     "path": "bundle/",
     "file": "bundle.png"
@@ -5861,9 +5967,10 @@
       "previewIdPrefix": ""
     }
   ],
+  "componentsFile": "components.json",
   "source": {
     "repo": "msasikanth/twine",
-    "ref": "bce23e5de2f56b0e34752f89c564beff26dad98b",
+    "ref": "ca63e338fa4e8a9e1c5884b02224a2997a671753",
     "module": ":shared"
   }
 }
