@@ -3617,69 +3617,6 @@
         {
           "bounds": {
             "x": 0,
-            "y": 0,
-            "width": 0,
-            "height": 0
-          },
-          "cornerRadius": 2
-        },
-        {
-          "bounds": {
-            "x": 0,
-            "y": 0,
-            "width": 0,
-            "height": 0
-          },
-          "cornerRadius": 2
-        },
-        {
-          "bounds": {
-            "x": 0,
-            "y": 0,
-            "width": 0,
-            "height": 0
-          },
-          "cornerRadius": 2
-        },
-        {
-          "bounds": {
-            "x": 0,
-            "y": 0,
-            "width": 0,
-            "height": 0
-          },
-          "cornerRadius": 2
-        },
-        {
-          "bounds": {
-            "x": 0,
-            "y": 0,
-            "width": 0,
-            "height": 0
-          },
-          "cornerRadius": 2
-        },
-        {
-          "bounds": {
-            "x": 0,
-            "y": 0,
-            "width": 0,
-            "height": 0
-          },
-          "cornerRadius": 2
-        },
-        {
-          "bounds": {
-            "x": 0,
-            "y": 0,
-            "width": 0,
-            "height": 0
-          },
-          "cornerRadius": 2
-        },
-        {
-          "bounds": {
-            "x": 0,
             "y": 673,
             "width": 20,
             "height": 32
@@ -5074,6 +5011,15 @@
         },
         {
           "bounds": {
+            "x": 934,
+            "y": 716,
+            "width": 32,
+            "height": 32
+          },
+          "cornerRadius": 2
+        },
+        {
+          "bounds": {
             "x": 709,
             "y": 1005,
             "width": 32,
@@ -5950,8 +5896,8 @@
       "sourceFunction": "AboutPreview"
     }
   ],
-  "renderer": "compose-preview 2.34.0",
-  "generatedAt": "2026-10-04T14:22:30.362Z",
+  "renderer": "compose-preview 2.34.1",
+  "generatedAt": "2026-10-05T12:47:54.635Z",
   "display": {
     "hero": "settings-appearance"
   },

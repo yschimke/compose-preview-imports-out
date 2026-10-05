@@ -33,8 +33,6 @@
                 <g id="Column">
                   <g clip-path="url(#clip-2)">
                     <g id="Row">
-                      <g id="Box">
-                      </g>
                       <g id="Empty">
                         <text x="-220" y="644.8" font-size="26.25" font-family="outfit-regular.ttf:FontWeight(weight=400):Normal:SettingFloat(ital,0.0),SettingInt(wght,400, sans-serif" font-weight="400" letter-spacing="1.05" style="font-variation-settings:&apos;ital&apos; 0.0,&apos;wght&apos; 400.0" fill="#3D4A3F">Apr</text>
                       </g>
@@ -100,29 +98,6 @@
                     <g id="Spacer">
                     </g>
                     <g id="Row">
-                      <g id="Column">
-                        <g id="BoxKt">
-                          <rect x="-227" y="673" width="32" height="32" rx="5.25" ry="5.25" fill="#141E16" fill-opacity="0.1"/>
-                        </g>
-                        <g id="BoxKt">
-                          <rect x="-227" y="716" width="32" height="32" rx="5.25" ry="5.25" fill="#141E16" fill-opacity="0.1"/>
-                        </g>
-                        <g id="BoxKt">
-                          <rect x="-227" y="759" width="32" height="32" rx="5.25" ry="5.25" fill="#141E16" fill-opacity="0.1"/>
-                        </g>
-                        <g id="BoxKt">
-                          <rect x="-227" y="802" width="32" height="32" rx="5.25" ry="5.25" fill="#141E16" fill-opacity="0.1"/>
-                        </g>
-                        <g id="BoxKt">
-                          <rect x="-227" y="845" width="32" height="32" rx="5.25" ry="5.25" fill="#141E16" fill-opacity="0.1"/>
-                        </g>
-                        <g id="BoxKt">
-                          <rect x="-227" y="888" width="32" height="32" rx="5.25" ry="5.25" fill="#141E16" fill-opacity="0.1"/>
-                        </g>
-                        <g id="BoxKt">
-                          <rect x="-227" y="931" width="32" height="32" rx="5.25" ry="5.25" fill="#141E16" fill-opacity="0.1"/>
-                        </g>
-                      </g>
                       <g id="Column">
                         <g id="BoxKt">
                           <rect x="-184" y="673" width="32" height="32" rx="5.25" ry="5.25" fill="#141E16" fill-opacity="0.1"/>
@@ -721,8 +696,13 @@
                           <rect x="891" y="931" width="32" height="32" rx="5.25" ry="5.25" fill="#141E16" fill-opacity="0.1"/>
                         </g>
                       </g>
-                      <g id="BoxKt">
-                        <rect x="934" y="673" width="32" height="32" rx="5.25" ry="5.25" fill="#141E16" fill-opacity="0.1"/>
+                      <g id="Column">
+                        <g id="BoxKt">
+                          <rect x="934" y="673" width="32" height="32" rx="5.25" ry="5.25" fill="#141E16" fill-opacity="0.1"/>
+                        </g>
+                        <g id="BoxKt">
+                          <rect x="934" y="716" width="32" height="32" rx="5.25" ry="5.25" fill="#141E16" fill-opacity="0.1"/>
+                        </g>
                       </g>
                     </g>
                   </g>
@@ -772,7 +752,7 @@
                 <g id="Box">
                     <rect x="63" y="1239" width="126" height="126" rx="31.5" ry="31.5" fill="#FFFFFF"/>
                   <g id="UtilsKt">
-                    <image href="ideal__default.figma-raster/1055.png" x="63" y="1239" width="126" height="126"/>
+                    <image href="ideal__default.figma-raster/339.png" x="63" y="1239" width="126" height="126"/>
                   </g>
                 </g>
                 <g id="Spacer">
@@ -798,7 +778,7 @@
                 <g id="Box">
                     <rect x="63" y="1407" width="63" height="63" rx="15.75" ry="15.75" fill="#FFFFFF"/>
                   <g id="UtilsKt">
-                    <image href="ideal__default.figma-raster/1067.png" x="63" y="1407" width="63" height="63"/>
+                    <image href="ideal__default.figma-raster/351.png" x="63" y="1407" width="63" height="63"/>
                   </g>
                 </g>
                 <g id="Spacer">
@@ -819,7 +799,7 @@
                 <g id="Box">
                     <rect x="63" y="1512" width="63" height="63" rx="15.75" ry="15.75" fill="#FFFFFF"/>
                   <g id="UtilsKt">
-                    <image href="ideal__default.figma-raster/1078.png" x="63" y="1512" width="63" height="63"/>
+                    <image href="ideal__default.figma-raster/362.png" x="63" y="1512" width="63" height="63"/>
                   </g>
                 </g>
                 <g id="Spacer">
@@ -840,7 +820,7 @@
                 <g id="Box">
                     <rect x="63" y="1617" width="63" height="63" rx="15.75" ry="15.75" fill="#FFFFFF"/>
                   <g id="UtilsKt">
-                    <image href="ideal__default.figma-raster/1089.png" x="63" y="1617" width="63" height="63"/>
+                    <image href="ideal__default.figma-raster/373.png" x="63" y="1617" width="63" height="63"/>
                   </g>
                 </g>
                 <g id="Spacer">
@@ -861,7 +841,7 @@
                 <g id="Box">
                     <rect x="63" y="1722" width="63" height="63" rx="15.75" ry="15.75" fill="#FFFFFF"/>
                   <g id="UtilsKt">
-                    <image href="ideal__default.figma-raster/1100.png" x="63" y="1722" width="63" height="63"/>
+                    <image href="ideal__default.figma-raster/384.png" x="63" y="1722" width="63" height="63"/>
                   </g>
                 </g>
                 <g id="Spacer">
@@ -882,7 +862,7 @@
           </g>
           <g id="Box">
             <g id="Box">
-              <image href="ideal__default.figma-raster/752.png" x="0" y="0" width="1050" height="210"/>
+              <image href="ideal__default.figma-raster/44.png" x="0" y="0" width="1050" height="210"/>
               <g id="TopAppBar">
                 <g id="Box">
                   <rect x="43" y="52" width="105" height="105" rx="52.5" ry="52.5" fill="#141E16" fill-opacity="0.07"/>
