@@ -5770,8 +5770,8 @@
       ]
     }
   ],
-  "renderer": "compose-preview 2.34.0",
-  "generatedAt": "2026-10-04T14:13:52.537Z",
+  "renderer": "compose-preview 2.34.1",
+  "generatedAt": "2026-10-05T13:51:33.320Z",
   "display": {
     "hero": "home"
   },
@@ -5946,7 +5946,7 @@
   "componentsFile": "components.json",
   "source": {
     "repo": "tunjid/heron",
-    "ref": "010d493034c4ea391816c1385e9913d7d2cc4365",
+    "ref": "b55ee02e5335cd7caec4ccfdbdbf21d0cc173508",
     "module": ""
   }
 }

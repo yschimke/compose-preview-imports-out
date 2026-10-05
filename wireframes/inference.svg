@@ -402,11 +402,11 @@
     <rect x="0" y="1890" width="1050" height="210" fill="none" fill-opacity="0" stroke="#7A7A33" stroke-width="1" stroke-opacity="0.5"/>
   </g>
   <g>
-    <path d="M42,1890 H1008 A42,42 0 0 1 1050,1932 V2100 A0,0 0 0 1 1050,2100 H0 A0,0 0 0 1 0,2100 V1932 A42,42 0 0 1 42,1890 Z" fill="#ECEEF4" fill-opacity="0.98" stroke="#5B6470" stroke-width="1.5" stroke-opacity="1"/>
-    <text x="3" y="1902" font-family="system-ui, sans-serif" font-size="9" fill="#5B6470">#FAECEEF4</text>
+    <rect x="0" y="1890" width="1050" height="210" fill="none" fill-opacity="0" stroke="#5B6470" stroke-width="1" stroke-opacity="0.5"/>
   </g>
   <g>
-    <rect x="0" y="1890" width="1050" height="210" fill="none" fill-opacity="0" stroke="#2E7D6B" stroke-width="1" stroke-opacity="0.5"/>
+    <path d="M42,1890 H1008 A42,42 0 0 1 1050,1932 V2100 A0,0 0 0 1 1050,2100 H0 A0,0 0 0 1 0,2100 V1932 A42,42 0 0 1 42,1890 Z" fill="#ECEEF4" fill-opacity="0.98" stroke="#2E7D6B" stroke-width="1.5" stroke-opacity="1"/>
+    <text x="3" y="1902" font-family="system-ui, sans-serif" font-size="9" fill="#2E7D6B">#FAECEEF4</text>
   </g>
   <g>
     <rect x="0" y="1890" width="1050" height="210" fill="none" fill-opacity="0" stroke="#8E6BA8" stroke-width="1" stroke-opacity="0.5"/>
@@ -415,14 +415,14 @@
     <rect x="0" y="1890" width="1050" height="210" fill="none" fill-opacity="0" stroke="#B0813B" stroke-width="1" stroke-opacity="0.5"/>
   </g>
   <g>
-    <path d="M493,1953 H556 A42,42 0 0 1 598,1995 V1995 A42,42 0 0 1 556,2037 H493 A42,42 0 0 1 451,1995 V1995 A42,42 0 0 1 493,1953 Z" fill="#D7E3F8" fill-opacity="1" stroke="#3B72A8" stroke-width="1.5" stroke-opacity="1"/>
-    <text x="454" y="1965" font-family="system-ui, sans-serif" font-size="9" fill="#3B72A8">#FFD7E3F8</text>
+    <rect x="0" y="1890" width="1050" height="210" fill="none" fill-opacity="0" stroke="#3B72A8" stroke-width="1" stroke-opacity="0.5"/>
   </g>
   <g>
-    <rect x="493" y="1963" width="63" height="63" fill="none" fill-opacity="0" stroke="#3B72A8" stroke-width="1" stroke-opacity="0.5"/>
+    <rect x="0" y="1890" width="1050" height="210" fill="none" fill-opacity="0" stroke="#A85B6B" stroke-width="1" stroke-opacity="0.5"/>
   </g>
   <g>
-    <rect x="493" y="1963" width="63" height="63" fill="none" fill-opacity="0" stroke="#A85B6B" stroke-width="1" stroke-opacity="0.5"/>
+    <path d="M493,1953 H556 A42,42 0 0 1 598,1995 V1995 A42,42 0 0 1 556,2037 H493 A42,42 0 0 1 451,1995 V1995 A42,42 0 0 1 493,1953 Z" fill="#D7E3F8" fill-opacity="1" stroke="#4F8A4A" stroke-width="1.5" stroke-opacity="1"/>
+    <text x="454" y="1965" font-family="system-ui, sans-serif" font-size="9" fill="#4F8A4A">#FFD7E3F8</text>
   </g>
   <g>
     <rect x="493" y="1963" width="63" height="63" fill="none" fill-opacity="0" stroke="#4F8A4A" stroke-width="1" stroke-opacity="0.5"/>
@@ -434,6 +434,12 @@
     <rect x="493" y="1963" width="63" height="63" fill="none" fill-opacity="0" stroke="#5B6470" stroke-width="1" stroke-opacity="0.5"/>
   </g>
   <g>
-    <path d="M493,1953 H556 A42,42 0 0 1 598,1995 V1995 A42,42 0 0 1 556,2037 H493 A42,42 0 0 1 451,1995 V1995 A42,42 0 0 1 493,1953 Z" fill="none" fill-opacity="0" stroke="#3B72A8" stroke-width="1.5" stroke-opacity="1"/>
+    <rect x="493" y="1963" width="63" height="63" fill="none" fill-opacity="0" stroke="#2E7D6B" stroke-width="1" stroke-opacity="0.5"/>
+  </g>
+  <g>
+    <rect x="493" y="1963" width="63" height="63" fill="none" fill-opacity="0" stroke="#8E6BA8" stroke-width="1" stroke-opacity="0.5"/>
+  </g>
+  <g>
+    <path d="M493,1953 H556 A42,42 0 0 1 598,1995 V1995 A42,42 0 0 1 556,2037 H493 A42,42 0 0 1 451,1995 V1995 A42,42 0 0 1 493,1953 Z" fill="none" fill-opacity="0" stroke="#4F8A4A" stroke-width="1.5" stroke-opacity="1"/>
   </g>
 </svg>
