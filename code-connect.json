@@ -1,0 +1,184 @@
+{
+  "system": "compose-samples-jetlagged",
+  "title": "JetLagged",
+  "label": "Compose",
+  "source": {
+    "repo": "android/compose-samples",
+    "ref": "5a390e4a9d3c4e5b30e942041bde93582c4d9492",
+    "module": ":app"
+  },
+  "generatedAt": "2026-10-10T10:46:37.590Z",
+  "mappings": [
+    {
+      "componentId": "Charts/Sleep bar",
+      "figmaLayerName": "Charts/Sleep bar",
+      "componentName": "SleepBar",
+      "source": "https://github.com/android/compose-samples/blob/5a390e4a9d3c4e5b30e942041bde93582c4d9492/app/src/main/java/com/example/jetlagged/sleep/SleepBar.kt",
+      "label": "Compose",
+      "confidence": "HIGH",
+      "previewName": "SleepBarPreview",
+      "codeSnippet": "SleepBar(\n    sleepData = TODO(\"SleepDayData\"),\n)",
+      "imports": [
+        "import com.example.jetlagged.sleep.SleepBar"
+      ],
+      "parameters": [
+        {
+          "name": "sleepData",
+          "type": "SleepDayData",
+          "typeFqn": "com.example.jetlagged.sleep.SleepDayData",
+          "hasDefault": false,
+          "composableSlot": false,
+          "composableSlotReceiver": null,
+          "nullable": false,
+          "noArgConstructible": false,
+          "noArgFactory": null,
+          "scopeDslReceiver": null,
+          "lambdaReturnTypeFqn": null
+        },
+        {
+          "name": "modifier",
+          "type": "Modifier",
+          "typeFqn": "androidx.compose.ui.Modifier",
+          "hasDefault": true,
+          "composableSlot": false,
+          "composableSlotReceiver": null,
+          "nullable": false,
+          "noArgConstructible": false,
+          "noArgFactory": null,
+          "scopeDslReceiver": null,
+          "lambdaReturnTypeFqn": null
+        }
+      ]
+    },
+    {
+      "componentId": "Charts/Detail legend",
+      "figmaLayerName": "Charts/Detail legend",
+      "componentName": "LegendItem",
+      "source": "https://github.com/android/compose-samples/blob/5a390e4a9d3c4e5b30e942041bde93582c4d9492/app/src/main/java/com/example/jetlagged/sleep/SleepBar.kt",
+      "label": "Compose",
+      "confidence": "HIGH",
+      "previewName": "DetailLegend",
+      "codeSnippet": "LegendItem(\n    sleepType = TODO(\"SleepType\"),\n)",
+      "imports": [
+        "import com.example.jetlagged.sleep.LegendItem"
+      ],
+      "parameters": [
+        {
+          "name": "sleepType",
+          "type": "SleepType",
+          "typeFqn": "com.example.jetlagged.sleep.SleepType",
+          "hasDefault": false,
+          "composableSlot": false,
+          "composableSlotReceiver": null,
+          "nullable": false,
+          "noArgConstructible": false,
+          "noArgFactory": null,
+          "scopeDslReceiver": null,
+          "lambdaReturnTypeFqn": null
+        }
+      ]
+    },
+    {
+      "componentId": "Cards/Time in bed",
+      "figmaLayerName": "Cards/Time in bed",
+      "componentName": "getExtraColors",
+      "source": "https://github.com/android/compose-samples/blob/5a390e4a9d3c4e5b30e942041bde93582c4d9492/app/src/main/java/com/example/jetlagged/ui/theme/Theme.kt",
+      "label": "Compose",
+      "confidence": "LOW",
+      "previewName": "AverageTimeInBedCard",
+      "codeSnippet": "getExtraColors()",
+      "imports": [
+        "import com.example.jetlagged.ui.theme.getExtraColors"
+      ]
+    },
+    {
+      "componentId": "Cards/Time asleep",
+      "figmaLayerName": "Cards/Time asleep",
+      "componentName": "getExtraColors",
+      "source": "https://github.com/android/compose-samples/blob/5a390e4a9d3c4e5b30e942041bde93582c4d9492/app/src/main/java/com/example/jetlagged/ui/theme/Theme.kt",
+      "label": "Compose",
+      "confidence": "LOW",
+      "previewName": "AverageTimeAsleepCard",
+      "codeSnippet": "getExtraColors()",
+      "imports": [
+        "import com.example.jetlagged.ui.theme.getExtraColors"
+      ]
+    },
+    {
+      "componentId": "Cards/Wellness",
+      "figmaLayerName": "Cards/Wellness",
+      "componentName": "getExtraColors",
+      "source": "https://github.com/android/compose-samples/blob/5a390e4a9d3c4e5b30e942041bde93582c4d9492/app/src/main/java/com/example/jetlagged/ui/theme/Theme.kt",
+      "label": "Compose",
+      "confidence": "LOW",
+      "previewName": "WellnessCard",
+      "codeSnippet": "getExtraColors()",
+      "imports": [
+        "import com.example.jetlagged.ui.theme.getExtraColors"
+      ]
+    },
+    {
+      "componentId": "Cards/Heart rate",
+      "figmaLayerName": "Cards/Heart rate",
+      "componentName": "getExtraColors",
+      "source": "https://github.com/android/compose-samples/blob/5a390e4a9d3c4e5b30e942041bde93582c4d9492/app/src/main/java/com/example/jetlagged/ui/theme/Theme.kt",
+      "label": "Compose",
+      "confidence": "LOW",
+      "previewName": "HeartRateCard",
+      "codeSnippet": "getExtraColors()",
+      "imports": [
+        "import com.example.jetlagged.ui.theme.getExtraColors"
+      ]
+    },
+    {
+      "componentId": "Chrome/Header",
+      "figmaLayerName": "Chrome/Header",
+      "componentName": "JetLaggedHeader",
+      "source": "https://github.com/android/compose-samples/blob/5a390e4a9d3c4e5b30e942041bde93582c4d9492/app/src/main/java/com/example/jetlagged/sleep/JetLaggedHeader.kt",
+      "label": "Compose",
+      "confidence": "preview-fallback",
+      "previewName": "JetLaggedHeader"
+    },
+    {
+      "componentId": "Motion/Fading circle",
+      "figmaLayerName": "Motion/Fading circle",
+      "componentName": "FadingCircleBackground",
+      "source": "https://github.com/android/compose-samples/blob/5a390e4a9d3c4e5b30e942041bde93582c4d9492/app/src/main/java/com/example/jetlagged/backgrounds/FadingCircleBackground.kt",
+      "label": "Compose",
+      "confidence": "HIGH",
+      "previewName": "FadingCirclePreview",
+      "codeSnippet": "FadingCircleBackground(\n    bubbleSize = TODO(\"Dp\"),\n    color = TODO(\"Color\"),\n)",
+      "imports": [
+        "import com.example.jetlagged.backgrounds.FadingCircleBackground"
+      ],
+      "parameters": [
+        {
+          "name": "bubbleSize",
+          "type": "Dp",
+          "typeFqn": "androidx.compose.ui.unit.Dp",
+          "hasDefault": false,
+          "composableSlot": false,
+          "composableSlotReceiver": null,
+          "nullable": false,
+          "noArgConstructible": false,
+          "noArgFactory": null,
+          "scopeDslReceiver": null,
+          "lambdaReturnTypeFqn": null
+        },
+        {
+          "name": "color",
+          "type": "Color",
+          "typeFqn": "androidx.compose.ui.graphics.Color",
+          "hasDefault": false,
+          "composableSlot": false,
+          "composableSlotReceiver": null,
+          "nullable": false,
+          "noArgConstructible": false,
+          "noArgFactory": null,
+          "scopeDslReceiver": null,
+          "lambdaReturnTypeFqn": null
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,529 @@
+{
+  "schema": "design-parity-catalog/v1",
+  "system": "compose-samples-jetlagged",
+  "title": "JetLagged",
+  "components": [
+    {
+      "componentId": "Charts/Sleep bar",
+      "images": [
+        {
+          "variant": "ideal",
+          "path": "images/charts-sleep-bar/ideal__default.png",
+          "state": "default",
+          "width": 1050,
+          "height": 63,
+          "livePreview": "https://preview.coo.ee/compose-samples-jetlagged/p/charts-sleep-bar__ideal__default",
+          "previewId": "com.example.jetlagged.sleep.SleepBarKt.SleepBarPreview",
+          "density": 2.625
+        }
+      ],
+      "greenlines": [],
+      "redlines": [],
+      "section": "Components",
+      "group": "Charts",
+      "caption": "The sleep bar — a bespoke Canvas chart with per-stage gradients.",
+      "wireframe": "wireframes/charts-sleep-bar.svg",
+      "sourceFile": "src/main/java/com/example/jetlagged/sleep/SleepBar.kt",
+      "sourceModule": ":app",
+      "bodyLine": 325,
+      "sourceDirectory": "JetLagged/app",
+      "sourceFunction": "SleepBarPreview",
+      "parameters": [
+        {
+          "name": "sleepData",
+          "type": "SleepDayData"
+        },
+        {
+          "name": "modifier",
+          "type": "Modifier",
+          "hasDefault": true
+        }
+      ]
+    },
+    {
+      "componentId": "Charts/Detail legend",
+      "images": [
+        {
+          "variant": "ideal",
+          "path": "images/charts-detail-legend/ideal__default.png",
+          "state": "default",
+          "width": 487,
+          "height": 53,
+          "livePreview": "https://preview.coo.ee/compose-samples-jetlagged/p/charts-detail-legend__ideal__default",
+          "previewId": "com.example.jetlagged.sleep.SleepBarKt.DetailLegend",
+          "density": 2.625
+        }
+      ],
+      "greenlines": [],
+      "redlines": [
+        {
+          "bounds": {
+            "x": 0,
+            "y": 24,
+            "width": 26,
+            "height": 26
+          },
+          "cornerRadius": 4.95
+        },
+        {
+          "bounds": {
+            "x": 37,
+            "y": 21,
+            "width": 85,
+            "height": 32
+          },
+          "label": "Awake",
+          "padding": {
+            "start": 4,
+            "top": 0,
+            "end": 0,
+            "bottom": 0
+          }
+        },
+        {
+          "bounds": {
+            "x": 143,
+            "y": 24,
+            "width": 26,
+            "height": 26
+          },
+          "cornerRadius": 4.95
+        },
+        {
+          "bounds": {
+            "x": 180,
+            "y": 21,
+            "width": 60,
+            "height": 32
+          },
+          "label": "REM",
+          "padding": {
+            "start": 4,
+            "top": 0,
+            "end": 0,
+            "bottom": 0
+          }
+        },
+        {
+          "bounds": {
+            "x": 261,
+            "y": 24,
+            "width": 26,
+            "height": 26
+          },
+          "cornerRadius": 4.95
+        },
+        {
+          "bounds": {
+            "x": 298,
+            "y": 21,
+            "width": 64,
+            "height": 32
+          },
+          "label": "Light",
+          "padding": {
+            "start": 4,
+            "top": 0,
+            "end": 0,
+            "bottom": 0
+          }
+        },
+        {
+          "bounds": {
+            "x": 383,
+            "y": 24,
+            "width": 26,
+            "height": 26
+          },
+          "cornerRadius": 4.95
+        },
+        {
+          "bounds": {
+            "x": 420,
+            "y": 21,
+            "width": 67,
+            "height": 32
+          },
+          "label": "Deep",
+          "padding": {
+            "start": 4,
+            "top": 0,
+            "end": 0,
+            "bottom": 0
+          }
+        }
+      ],
+      "section": "Components",
+      "group": "Charts",
+      "caption": "The legend mapping each sleep stage to its colour.",
+      "wireframe": "wireframes/charts-detail-legend.svg",
+      "sourceFile": "src/main/java/com/example/jetlagged/sleep/SleepBar.kt",
+      "sourceModule": ":app",
+      "bodyLine": 295,
+      "sourceDirectory": "JetLagged/app",
+      "sourceFunction": "DetailLegend",
+      "parameters": [
+        {
+          "name": "sleepType",
+          "type": "SleepType"
+        }
+      ]
+    },
+    {
+      "componentId": "Cards/Time in bed",
+      "images": [
+        {
+          "variant": "ideal",
+          "path": "images/cards-time-in-bed/ideal__default.png",
+          "state": "default",
+          "width": 525,
+          "height": 525,
+          "livePreview": "https://preview.coo.ee/compose-samples-jetlagged/p/cards-time-in-bed__ideal__default",
+          "previewId": "com.example.jetlagged.HomeScreenCardsKt.AverageTimeInBedCard",
+          "density": 2.625
+        },
+        {
+          "variant": "ideal",
+          "path": "images/cards-time-in-bed/ideal__default__compact.png",
+          "state": "default",
+          "width": 1313,
+          "height": 525,
+          "size": "compact",
+          "livePreview": "https://preview.coo.ee/compose-samples-jetlagged/p/cards-time-in-bed__ideal__default__compact",
+          "previewId": "com.example.jetlagged.HomeScreenCardsKt.AverageTimeInBedCard",
+          "density": 2.625
+        }
+      ],
+      "greenlines": [],
+      "redlines": [
+        {
+          "bounds": {
+            "x": 21,
+            "y": 21,
+            "width": 483,
+            "height": 483
+          },
+          "padding": {
+            "start": 8,
+            "top": 8,
+            "end": 8,
+            "bottom": 8
+          },
+          "cornerRadius": 24
+        }
+      ],
+      "section": "Components",
+      "group": "Cards",
+      "caption": "Average time in bed, at default width and at 500dp.",
+      "wireframe": "wireframes/cards-time-in-bed.svg",
+      "sourceFile": "src/main/java/com/example/jetlagged/HomeScreenCards.kt",
+      "sourceModule": ":app",
+      "bodyLine": 169,
+      "sourceDirectory": "JetLagged/app",
+      "sourceFunction": "AverageTimeInBedCard"
+    },
+    {
+      "componentId": "Cards/Time asleep",
+      "images": [
+        {
+          "variant": "ideal",
+          "path": "images/cards-time-asleep/ideal__default.png",
+          "state": "default",
+          "width": 525,
+          "height": 525,
+          "livePreview": "https://preview.coo.ee/compose-samples-jetlagged/p/cards-time-asleep__ideal__default",
+          "previewId": "com.example.jetlagged.HomeScreenCardsKt.AverageTimeAsleepCard",
+          "density": 2.625
+        },
+        {
+          "variant": "ideal",
+          "path": "images/cards-time-asleep/ideal__default__compact.png",
+          "state": "default",
+          "width": 1313,
+          "height": 525,
+          "size": "compact",
+          "livePreview": "https://preview.coo.ee/compose-samples-jetlagged/p/cards-time-asleep__ideal__default__compact",
+          "previewId": "com.example.jetlagged.HomeScreenCardsKt.AverageTimeAsleepCard",
+          "density": 2.625
+        }
+      ],
+      "greenlines": [],
+      "redlines": [
+        {
+          "bounds": {
+            "x": 21,
+            "y": 21,
+            "width": 483,
+            "height": 483
+          },
+          "padding": {
+            "start": 8,
+            "top": 8,
+            "end": 8,
+            "bottom": 8
+          },
+          "cornerRadius": 24
+        }
+      ],
+      "section": "Components",
+      "group": "Cards",
+      "caption": "Average time asleep, at default width and at 500dp.",
+      "wireframe": "wireframes/cards-time-asleep.svg",
+      "sourceFile": "src/main/java/com/example/jetlagged/HomeScreenCards.kt",
+      "sourceModule": ":app",
+      "bodyLine": 184,
+      "sourceDirectory": "JetLagged/app",
+      "sourceFunction": "AverageTimeAsleepCard"
+    },
+    {
+      "componentId": "Cards/Wellness",
+      "images": [
+        {
+          "variant": "ideal",
+          "path": "images/cards-wellness/ideal__default.png",
+          "state": "default",
+          "width": 1050,
+          "height": 2100,
+          "livePreview": "https://preview.coo.ee/compose-samples-jetlagged/p/cards-wellness__ideal__default",
+          "previewId": "com.example.jetlagged.HomeScreenCardsKt.WellnessCard",
+          "density": 2.625
+        }
+      ],
+      "greenlines": [],
+      "redlines": [
+        {
+          "bounds": {
+            "x": 21,
+            "y": 21,
+            "width": 1008,
+            "height": 2058
+          },
+          "padding": {
+            "start": 8,
+            "top": 8,
+            "end": 8,
+            "bottom": 8
+          },
+          "cornerRadius": 24
+        },
+        {
+          "bounds": {
+            "x": 21,
+            "y": 42,
+            "width": 1008,
+            "height": 75
+          },
+          "label": "Wellness",
+          "padding": {
+            "start": 0,
+            "top": 8,
+            "end": 0,
+            "bottom": 0
+          }
+        }
+      ],
+      "section": "Components",
+      "group": "Cards",
+      "caption": "The wellness summary card.",
+      "wireframe": "wireframes/cards-wellness.svg",
+      "sourceFile": "src/main/java/com/example/jetlagged/HomeScreenCards.kt",
+      "sourceModule": ":app",
+      "bodyLine": 199,
+      "sourceDirectory": "JetLagged/app",
+      "sourceFunction": "WellnessCard"
+    },
+    {
+      "componentId": "Cards/Heart rate",
+      "images": [
+        {
+          "variant": "ideal",
+          "path": "images/cards-heart-rate/ideal__default.png",
+          "state": "default",
+          "width": 1050,
+          "height": 683,
+          "livePreview": "https://preview.coo.ee/compose-samples-jetlagged/p/cards-heart-rate__ideal__default",
+          "previewId": "com.example.jetlagged.heartrate.HeartRateCardKt.HeartRateCard",
+          "density": 2.625
+        }
+      ],
+      "greenlines": [],
+      "redlines": [
+        {
+          "bounds": {
+            "x": 21,
+            "y": 21,
+            "width": 1008,
+            "height": 641
+          },
+          "padding": {
+            "start": 8,
+            "top": 8,
+            "end": 8,
+            "bottom": 8
+          },
+          "cornerRadius": 24
+        },
+        {
+          "bounds": {
+            "x": 21,
+            "y": 42,
+            "width": 1008,
+            "height": 75
+          },
+          "label": "Heart Rate",
+          "padding": {
+            "start": 0,
+            "top": 8,
+            "end": 0,
+            "bottom": 0
+          }
+        }
+      ],
+      "section": "Components",
+      "group": "Cards",
+      "caption": "The heart-rate card with its smoothed trace.",
+      "wireframe": "wireframes/cards-heart-rate.svg",
+      "sourceFile": "src/main/java/com/example/jetlagged/heartrate/HeartRateCard.kt",
+      "sourceModule": ":app",
+      "bodyLine": 43,
+      "sourceDirectory": "JetLagged/app",
+      "sourceFunction": "HeartRateCard"
+    },
+    {
+      "componentId": "Chrome/Header",
+      "images": [
+        {
+          "variant": "ideal",
+          "path": "images/chrome-header/ideal__default.png",
+          "state": "default",
+          "width": 1050,
+          "height": 394,
+          "livePreview": "https://preview.coo.ee/compose-samples-jetlagged/p/chrome-header__ideal__default",
+          "previewId": "com.example.jetlagged.sleep.JetLaggedHeaderKt.JetLaggedHeader",
+          "density": 2.625
+        }
+      ],
+      "greenlines": [
+        {
+          "kind": "a11y",
+          "severity": "info",
+          "message": "button",
+          "detail": {
+            "role": "button",
+            "bounds": {
+              "x": 11,
+              "y": 11,
+              "width": 105,
+              "height": 105
+            }
+          },
+          "bounds": {
+            "x": 11,
+            "y": 11,
+            "width": 105,
+            "height": 105
+          }
+        }
+      ],
+      "redlines": [
+        {
+          "bounds": {
+            "x": 11,
+            "y": 11,
+            "width": 105,
+            "height": 105
+          },
+          "role": "Button",
+          "cornerRadius": 20
+        },
+        {
+          "bounds": {
+            "x": 126,
+            "y": 21,
+            "width": 924,
+            "height": 69
+          },
+          "label": "JetLagged",
+          "padding": {
+            "start": 0,
+            "top": 8,
+            "end": 0,
+            "bottom": 0
+          }
+        }
+      ],
+      "section": "Components",
+      "group": "Chrome",
+      "caption": "Screen header — menu button and title over the moving-stripes background.",
+      "wireframe": "wireframes/chrome-header.svg",
+      "sourceFile": "src/main/java/com/example/jetlagged/sleep/JetLaggedHeader.kt",
+      "sourceModule": ":app",
+      "bodyLine": 42,
+      "sourceDirectory": "JetLagged/app",
+      "sourceFunction": "JetLaggedHeader"
+    },
+    {
+      "componentId": "Motion/Fading circle",
+      "images": [
+        {
+          "variant": "ideal",
+          "path": "images/motion-fading-circle/ideal__default.png",
+          "state": "default",
+          "width": 1050,
+          "height": 2100,
+          "livePreview": "https://preview.coo.ee/compose-samples-jetlagged/p/motion-fading-circle__ideal__default",
+          "previewId": "com.example.jetlagged.backgrounds.FadingCircleBackgroundKt.FadingCirclePreview",
+          "density": 2.625
+        }
+      ],
+      "greenlines": [],
+      "redlines": [],
+      "section": "Animations",
+      "group": "Motion",
+      "caption": "The fading-circle background animation, captured as a still frame.",
+      "wireframe": "wireframes/motion-fading-circle.svg",
+      "sourceFile": "src/main/java/com/example/jetlagged/backgrounds/FadingCircleBackground.kt",
+      "sourceModule": ":app",
+      "bodyLine": 86,
+      "sourceDirectory": "JetLagged/app",
+      "sourceFunction": "FadingCirclePreview",
+      "parameters": [
+        {
+          "name": "bubbleSize",
+          "type": "Dp"
+        },
+        {
+          "name": "color",
+          "type": "Color"
+        }
+      ]
+    }
+  ],
+  "library": [
+    "custom Canvas drawing + custom layouts"
+  ],
+  "renderer": "compose-preview 2.40.0",
+  "generatedAt": "2026-10-10T10:46:37.254Z",
+  "display": {
+    "surface": "light",
+    "hero": "Cards/Heart rate"
+  },
+  "liveBundle": {
+    "path": "bundle/",
+    "file": "bundle.png"
+  },
+  "liveBundles": [
+    {
+      "path": "bundle/",
+      "file": "bundle.png",
+      "module": ":app",
+      "previewIdPrefix": ""
+    }
+  ],
+  "componentsFile": "components.json",
+  "source": {
+    "repo": "android/compose-samples",
+    "ref": "5a390e4a9d3c4e5b30e942041bde93582c4d9492",
+    "module": ":app"
+  }
+}

@@ -1,0 +1,1037 @@
+{
+    "schemaVersion": 2,
+    "module": "app",
+    "variant": "debug",
+    "components": [
+        {
+            "canonicalId": "app/androidx.compose.material3.CardKt.Card",
+            "componentIds": [],
+            "symbol": {
+                "jvmOwner": "androidx.compose.material3.CardKt",
+                "callable": "androidx.compose.material3.Card",
+                "name": "Card",
+                "origin": "LIBRARY",
+                "jvmName": "Card",
+                "descriptor": "(Landroidx/compose/ui/Modifier;Landroidx/compose/ui/graphics/Shape;Landroidx/compose/material3/CardColors;Landroidx/compose/material3/CardElevation;Landroidx/compose/foundation/BorderStroke;Lkotlin/jvm/functions/Function3;Landroidx/compose/runtime/Composer;II)V",
+                "sourceFile": null,
+                "docs": "unavailable",
+                "receiver": null
+            },
+            "parameters": [
+                {
+                    "name": "modifier",
+                    "type": "Modifier",
+                    "typeFqn": "androidx.compose.ui.Modifier",
+                    "hasDefault": true,
+                    "composableSlot": false,
+                    "composableSlotReceiver": null,
+                    "nullable": false,
+                    "noArgConstructible": false,
+                    "noArgFactory": null,
+                    "scopeDslReceiver": null,
+                    "lambdaReturnTypeFqn": null
+                },
+                {
+                    "name": "shape",
+                    "type": "Shape",
+                    "typeFqn": "androidx.compose.ui.graphics.Shape",
+                    "hasDefault": true,
+                    "composableSlot": false,
+                    "composableSlotReceiver": null,
+                    "nullable": false,
+                    "noArgConstructible": false,
+                    "noArgFactory": null,
+                    "scopeDslReceiver": null,
+                    "lambdaReturnTypeFqn": null
+                },
+                {
+                    "name": "colors",
+                    "type": "CardColors",
+                    "typeFqn": "androidx.compose.material3.CardColors",
+                    "hasDefault": true,
+                    "composableSlot": false,
+                    "composableSlotReceiver": null,
+                    "nullable": false,
+                    "noArgConstructible": false,
+                    "noArgFactory": null,
+                    "scopeDslReceiver": null,
+                    "lambdaReturnTypeFqn": null
+                },
+                {
+                    "name": "elevation",
+                    "type": "CardElevation",
+                    "typeFqn": "androidx.compose.material3.CardElevation",
+                    "hasDefault": true,
+                    "composableSlot": false,
+                    "composableSlotReceiver": null,
+                    "nullable": false,
+                    "noArgConstructible": false,
+                    "noArgFactory": null,
+                    "scopeDslReceiver": null,
+                    "lambdaReturnTypeFqn": null
+                },
+                {
+                    "name": "border",
+                    "type": "BorderStroke?",
+                    "typeFqn": "androidx.compose.foundation.BorderStroke",
+                    "hasDefault": true,
+                    "composableSlot": false,
+                    "composableSlotReceiver": null,
+                    "nullable": true,
+                    "noArgConstructible": false,
+                    "noArgFactory": null,
+                    "scopeDslReceiver": null,
+                    "lambdaReturnTypeFqn": null
+                },
+                {
+                    "name": "content",
+                    "type": "ColumnScope.() -> Unit",
+                    "typeFqn": "kotlin.Function1",
+                    "hasDefault": false,
+                    "composableSlot": true,
+                    "composableSlotReceiver": "androidx.compose.foundation.layout.ColumnScope",
+                    "nullable": false,
+                    "noArgConstructible": false,
+                    "noArgFactory": null,
+                    "scopeDslReceiver": null,
+                    "lambdaReturnTypeFqn": "kotlin.Unit"
+                }
+            ],
+            "slots": [
+                {
+                    "name": "content",
+                    "required": true,
+                    "receiverScope": "androidx.compose.foundation.layout.ColumnScope"
+                }
+            ],
+            "bindings": [
+                {
+                    "previewId": "com.example.jetlagged.HomeScreenCardsKt.AverageTimeAsleepCard",
+                    "componentId": null,
+                    "group": null
+                },
+                {
+                    "previewId": "com.example.jetlagged.HomeScreenCardsKt.AverageTimeAsleepCard_larger_screen",
+                    "componentId": null,
+                    "group": null
+                },
+                {
+                    "previewId": "com.example.jetlagged.HomeScreenCardsKt.AverageTimeInBedCard",
+                    "componentId": null,
+                    "group": null
+                },
+                {
+                    "previewId": "com.example.jetlagged.HomeScreenCardsKt.AverageTimeInBedCard_larger_screen",
+                    "componentId": null,
+                    "group": null
+                },
+                {
+                    "previewId": "com.example.jetlagged.HomeScreenCardsKt.WellnessCard",
+                    "componentId": null,
+                    "group": null
+                },
+                {
+                    "previewId": "com.example.jetlagged.heartrate.HeartRateCardKt.HeartRateCard",
+                    "componentId": null,
+                    "group": null
+                }
+            ],
+            "code": {
+                "call": "Card(content = {})",
+                "imports": [
+                    "androidx.compose.material3.Card"
+                ],
+                "refusedReason": null,
+                "requiredOptIns": [],
+                "androidxOptIns": []
+            },
+            "signatureKnown": true,
+            "callableFromAnotherFile": true,
+            "hasTypeParameters": false,
+            "hasContextReceivers": false,
+            "overloadsCollided": false,
+            "builder": null,
+            "requiredOptIns": [],
+            "androidxOptIns": []
+        },
+        {
+            "canonicalId": "app/androidx.compose.material3.IconButtonKt.IconButton",
+            "componentIds": [],
+            "symbol": {
+                "jvmOwner": "androidx.compose.material3.IconButtonKt",
+                "callable": "androidx.compose.material3.IconButton",
+                "name": "IconButton",
+                "origin": "LIBRARY",
+                "jvmName": "IconButton",
+                "descriptor": "(Lkotlin/jvm/functions/Function0;Landroidx/compose/ui/Modifier;ZLandroidx/compose/material3/IconButtonColors;Landroidx/compose/foundation/interaction/MutableInteractionSource;Lkotlin/jvm/functions/Function2;Landroidx/compose/runtime/Composer;II)V",
+                "sourceFile": null,
+                "docs": "unavailable",
+                "receiver": null
+            },
+            "parameters": [
+                {
+                    "name": "onClick",
+                    "type": "() -> Unit",
+                    "typeFqn": "kotlin.Function0",
+                    "hasDefault": false,
+                    "composableSlot": false,
+                    "composableSlotReceiver": null,
+                    "nullable": false,
+                    "noArgConstructible": false,
+                    "noArgFactory": null,
+                    "scopeDslReceiver": null,
+                    "lambdaReturnTypeFqn": "kotlin.Unit"
+                },
+                {
+                    "name": "modifier",
+                    "type": "Modifier",
+                    "typeFqn": "androidx.compose.ui.Modifier",
+                    "hasDefault": true,
+                    "composableSlot": false,
+                    "composableSlotReceiver": null,
+                    "nullable": false,
+                    "noArgConstructible": false,
+                    "noArgFactory": null,
+                    "scopeDslReceiver": null,
+                    "lambdaReturnTypeFqn": null
+                },
+                {
+                    "name": "enabled",
+                    "type": "Boolean",
+                    "typeFqn": "kotlin.Boolean",
+                    "hasDefault": true,
+                    "composableSlot": false,
+                    "composableSlotReceiver": null,
+                    "nullable": false,
+                    "noArgConstructible": false,
+                    "noArgFactory": null,
+                    "scopeDslReceiver": null,
+                    "lambdaReturnTypeFqn": null
+                },
+                {
+                    "name": "colors",
+                    "type": "IconButtonColors",
+                    "typeFqn": "androidx.compose.material3.IconButtonColors",
+                    "hasDefault": true,
+                    "composableSlot": false,
+                    "composableSlotReceiver": null,
+                    "nullable": false,
+                    "noArgConstructible": false,
+                    "noArgFactory": null,
+                    "scopeDslReceiver": null,
+                    "lambdaReturnTypeFqn": null
+                },
+                {
+                    "name": "interactionSource",
+                    "type": "MutableInteractionSource?",
+                    "typeFqn": "androidx.compose.foundation.interaction.MutableInteractionSource",
+                    "hasDefault": true,
+                    "composableSlot": false,
+                    "composableSlotReceiver": null,
+                    "nullable": true,
+                    "noArgConstructible": false,
+                    "noArgFactory": null,
+                    "scopeDslReceiver": null,
+                    "lambdaReturnTypeFqn": null
+                },
+                {
+                    "name": "content",
+                    "type": "() -> Unit",
+                    "typeFqn": "kotlin.Function0",
+                    "hasDefault": false,
+                    "composableSlot": true,
+                    "composableSlotReceiver": null,
+                    "nullable": false,
+                    "noArgConstructible": false,
+                    "noArgFactory": null,
+                    "scopeDslReceiver": null,
+                    "lambdaReturnTypeFqn": "kotlin.Unit"
+                }
+            ],
+            "slots": [
+                {
+                    "name": "content",
+                    "required": true,
+                    "receiverScope": null
+                }
+            ],
+            "bindings": [
+                {
+                    "previewId": "com.example.jetlagged.JetLaggedScreenKt.JetLaggedScreen-uVTuf4s",
+                    "componentId": null,
+                    "group": null
+                },
+                {
+                    "previewId": "com.example.jetlagged.JetLaggedScreenKt.JetLaggedScreen-uVTuf4s_pixel_2",
+                    "componentId": null,
+                    "group": null
+                },
+                {
+                    "previewId": "com.example.jetlagged.JetLaggedScreenKt.JetLaggedScreen-uVTuf4s_width_1280dp_height_800dp_dpi_240",
+                    "componentId": null,
+                    "group": null
+                },
+                {
+                    "previewId": "com.example.jetlagged.JetLaggedScreenKt.JetLaggedScreen-uVTuf4s_width_673dp_height_841dp",
+                    "componentId": null,
+                    "group": null
+                },
+                {
+                    "previewId": "com.example.jetlagged.sleep.JetLaggedHeaderKt.JetLaggedHeader",
+                    "componentId": null,
+                    "group": null
+                }
+            ],
+            "code": {
+                "call": "IconButton(onClick = {}, content = {})",
+                "imports": [
+                    "androidx.compose.material3.IconButton"
+                ],
+                "refusedReason": null,
+                "requiredOptIns": [],
+                "androidxOptIns": []
+            },
+            "signatureKnown": true,
+            "callableFromAnotherFile": true,
+            "hasTypeParameters": false,
+            "hasContextReceivers": false,
+            "overloadsCollided": false,
+            "builder": null,
+            "requiredOptIns": [],
+            "androidxOptIns": []
+        },
+        {
+            "canonicalId": "app/androidx.compose.material3.IconKt.Icon",
+            "componentIds": [],
+            "symbol": {
+                "jvmOwner": "androidx.compose.material3.IconKt",
+                "callable": "androidx.compose.material3.Icon",
+                "name": "Icon",
+                "origin": "LIBRARY",
+                "jvmName": "Icon-ww6aTOc",
+                "descriptor": "(Landroidx/compose/ui/graphics/vector/ImageVector;Ljava/lang/String;Landroidx/compose/ui/Modifier;JLandroidx/compose/runtime/Composer;II)V",
+                "sourceFile": null,
+                "docs": "unavailable",
+                "receiver": null
+            },
+            "parameters": [
+                {
+                    "name": "imageVector",
+                    "type": "ImageVector",
+                    "typeFqn": "androidx.compose.ui.graphics.vector.ImageVector",
+                    "hasDefault": false,
+                    "composableSlot": false,
+                    "composableSlotReceiver": null,
+                    "nullable": false,
+                    "noArgConstructible": false,
+                    "noArgFactory": null,
+                    "scopeDslReceiver": null,
+                    "lambdaReturnTypeFqn": null
+                },
+                {
+                    "name": "contentDescription",
+                    "type": "String?",
+                    "typeFqn": "kotlin.String",
+                    "hasDefault": false,
+                    "composableSlot": false,
+                    "composableSlotReceiver": null,
+                    "nullable": true,
+                    "noArgConstructible": false,
+                    "noArgFactory": null,
+                    "scopeDslReceiver": null,
+                    "lambdaReturnTypeFqn": null
+                },
+                {
+                    "name": "modifier",
+                    "type": "Modifier",
+                    "typeFqn": "androidx.compose.ui.Modifier",
+                    "hasDefault": true,
+                    "composableSlot": false,
+                    "composableSlotReceiver": null,
+                    "nullable": false,
+                    "noArgConstructible": false,
+                    "noArgFactory": null,
+                    "scopeDslReceiver": null,
+                    "lambdaReturnTypeFqn": null
+                },
+                {
+                    "name": "tint",
+                    "type": "Color",
+                    "typeFqn": "androidx.compose.ui.graphics.Color",
+                    "hasDefault": true,
+                    "composableSlot": false,
+                    "composableSlotReceiver": null,
+                    "nullable": false,
+                    "noArgConstructible": false,
+                    "noArgFactory": null,
+                    "scopeDslReceiver": null,
+                    "lambdaReturnTypeFqn": null
+                }
+            ],
+            "slots": [],
+            "bindings": [
+                {
+                    "previewId": "com.example.jetlagged.HomeScreenCardsKt.AverageTimeAsleepCard",
+                    "componentId": null,
+                    "group": null
+                },
+                {
+                    "previewId": "com.example.jetlagged.HomeScreenCardsKt.AverageTimeAsleepCard_larger_screen",
+                    "componentId": null,
+                    "group": null
+                },
+                {
+                    "previewId": "com.example.jetlagged.HomeScreenCardsKt.AverageTimeInBedCard",
+                    "componentId": null,
+                    "group": null
+                },
+                {
+                    "previewId": "com.example.jetlagged.HomeScreenCardsKt.AverageTimeInBedCard_larger_screen",
+                    "componentId": null,
+                    "group": null
+                },
+                {
+                    "previewId": "com.example.jetlagged.JetLaggedScreenKt.JetLaggedScreen-uVTuf4s",
+                    "componentId": null,
+                    "group": null
+                },
+                {
+                    "previewId": "com.example.jetlagged.JetLaggedScreenKt.JetLaggedScreen-uVTuf4s_pixel_2",
+                    "componentId": null,
+                    "group": null
+                },
+                {
+                    "previewId": "com.example.jetlagged.JetLaggedScreenKt.JetLaggedScreen-uVTuf4s_width_1280dp_height_800dp_dpi_240",
+                    "componentId": null,
+                    "group": null
+                },
+                {
+                    "previewId": "com.example.jetlagged.JetLaggedScreenKt.JetLaggedScreen-uVTuf4s_width_673dp_height_841dp",
+                    "componentId": null,
+                    "group": null
+                },
+                {
+                    "previewId": "com.example.jetlagged.sleep.JetLaggedHeaderKt.JetLaggedHeader",
+                    "componentId": null,
+                    "group": null
+                }
+            ],
+            "code": {
+                "call": null,
+                "imports": [],
+                "refusedReason": "no placeholder can be written for required parameter `imageVector: ImageVector`",
+                "requiredOptIns": [],
+                "androidxOptIns": []
+            },
+            "signatureKnown": true,
+            "callableFromAnotherFile": true,
+            "hasTypeParameters": false,
+            "hasContextReceivers": false,
+            "overloadsCollided": false,
+            "builder": null,
+            "requiredOptIns": [],
+            "androidxOptIns": []
+        },
+        {
+            "canonicalId": "app/androidx.compose.material3.TextKt.Text",
+            "componentIds": [],
+            "symbol": {
+                "jvmOwner": "androidx.compose.material3.TextKt",
+                "callable": "androidx.compose.material3.Text",
+                "name": "Text",
+                "origin": "LIBRARY",
+                "jvmName": "Text-Nvy7gAk",
+                "descriptor": "(Ljava/lang/String;Landroidx/compose/ui/Modifier;JLandroidx/compose/foundation/text/TextAutoSize;JLandroidx/compose/ui/text/font/FontStyle;Landroidx/compose/ui/text/font/FontWeight;Landroidx/compose/ui/text/font/FontFamily;JLandroidx/compose/ui/text/style/TextDecoration;Landroidx/compose/ui/text/style/TextAlign;JIZIILkotlin/jvm/functions/Function1;Landroidx/compose/ui/text/TextStyle;Landroidx/compose/runtime/Composer;III)V",
+                "sourceFile": null,
+                "docs": "unavailable",
+                "receiver": null
+            },
+            "parameters": [
+                {
+                    "name": "text",
+                    "type": "String",
+                    "typeFqn": "kotlin.String",
+                    "hasDefault": false,
+                    "composableSlot": false,
+                    "composableSlotReceiver": null,
+                    "nullable": false,
+                    "noArgConstructible": false,
+                    "noArgFactory": null,
+                    "scopeDslReceiver": null,
+                    "lambdaReturnTypeFqn": null
+                },
+                {
+                    "name": "modifier",
+                    "type": "Modifier",
+                    "typeFqn": "androidx.compose.ui.Modifier",
+                    "hasDefault": true,
+                    "composableSlot": false,
+                    "composableSlotReceiver": null,
+                    "nullable": false,
+                    "noArgConstructible": false,
+                    "noArgFactory": null,
+                    "scopeDslReceiver": null,
+                    "lambdaReturnTypeFqn": null
+                },
+                {
+                    "name": "color",
+                    "type": "Color",
+                    "typeFqn": "androidx.compose.ui.graphics.Color",
+                    "hasDefault": true,
+                    "composableSlot": false,
+                    "composableSlotReceiver": null,
+                    "nullable": false,
+                    "noArgConstructible": false,
+                    "noArgFactory": null,
+                    "scopeDslReceiver": null,
+                    "lambdaReturnTypeFqn": null
+                },
+                {
+                    "name": "autoSize",
+                    "type": "TextAutoSize?",
+                    "typeFqn": "androidx.compose.foundation.text.TextAutoSize",
+                    "hasDefault": true,
+                    "composableSlot": false,
+                    "composableSlotReceiver": null,
+                    "nullable": true,
+                    "noArgConstructible": false,
+                    "noArgFactory": null,
+                    "scopeDslReceiver": null,
+                    "lambdaReturnTypeFqn": null
+                },
+                {
+                    "name": "fontSize",
+                    "type": "TextUnit",
+                    "typeFqn": "androidx.compose.ui.unit.TextUnit",
+                    "hasDefault": true,
+                    "composableSlot": false,
+                    "composableSlotReceiver": null,
+                    "nullable": false,
+                    "noArgConstructible": false,
+                    "noArgFactory": null,
+                    "scopeDslReceiver": null,
+                    "lambdaReturnTypeFqn": null
+                },
+                {
+                    "name": "fontStyle",
+                    "type": "FontStyle?",
+                    "typeFqn": "androidx.compose.ui.text.font.FontStyle",
+                    "hasDefault": true,
+                    "composableSlot": false,
+                    "composableSlotReceiver": null,
+                    "nullable": true,
+                    "noArgConstructible": false,
+                    "noArgFactory": null,
+                    "scopeDslReceiver": null,
+                    "lambdaReturnTypeFqn": null
+                },
+                {
+                    "name": "fontWeight",
+                    "type": "FontWeight?",
+                    "typeFqn": "androidx.compose.ui.text.font.FontWeight",
+                    "hasDefault": true,
+                    "composableSlot": false,
+                    "composableSlotReceiver": null,
+                    "nullable": true,
+                    "noArgConstructible": false,
+                    "noArgFactory": null,
+                    "scopeDslReceiver": null,
+                    "lambdaReturnTypeFqn": null
+                },
+                {
+                    "name": "fontFamily",
+                    "type": "FontFamily?",
+                    "typeFqn": "androidx.compose.ui.text.font.FontFamily",
+                    "hasDefault": true,
+                    "composableSlot": false,
+                    "composableSlotReceiver": null,
+                    "nullable": true,
+                    "noArgConstructible": false,
+                    "noArgFactory": null,
+                    "scopeDslReceiver": null,
+                    "lambdaReturnTypeFqn": null
+                },
+                {
+                    "name": "letterSpacing",
+                    "type": "TextUnit",
+                    "typeFqn": "androidx.compose.ui.unit.TextUnit",
+                    "hasDefault": true,
+                    "composableSlot": false,
+                    "composableSlotReceiver": null,
+                    "nullable": false,
+                    "noArgConstructible": false,
+                    "noArgFactory": null,
+                    "scopeDslReceiver": null,
+                    "lambdaReturnTypeFqn": null
+                },
+                {
+                    "name": "textDecoration",
+                    "type": "TextDecoration?",
+                    "typeFqn": "androidx.compose.ui.text.style.TextDecoration",
+                    "hasDefault": true,
+                    "composableSlot": false,
+                    "composableSlotReceiver": null,
+                    "nullable": true,
+                    "noArgConstructible": false,
+                    "noArgFactory": null,
+                    "scopeDslReceiver": null,
+                    "lambdaReturnTypeFqn": null
+                },
+                {
+                    "name": "textAlign",
+                    "type": "TextAlign?",
+                    "typeFqn": "androidx.compose.ui.text.style.TextAlign",
+                    "hasDefault": true,
+                    "composableSlot": false,
+                    "composableSlotReceiver": null,
+                    "nullable": true,
+                    "noArgConstructible": false,
+                    "noArgFactory": null,
+                    "scopeDslReceiver": null,
+                    "lambdaReturnTypeFqn": null
+                },
+                {
+                    "name": "lineHeight",
+                    "type": "TextUnit",
+                    "typeFqn": "androidx.compose.ui.unit.TextUnit",
+                    "hasDefault": true,
+                    "composableSlot": false,
+                    "composableSlotReceiver": null,
+                    "nullable": false,
+                    "noArgConstructible": false,
+                    "noArgFactory": null,
+                    "scopeDslReceiver": null,
+                    "lambdaReturnTypeFqn": null
+                },
+                {
+                    "name": "overflow",
+                    "type": "TextOverflow",
+                    "typeFqn": "androidx.compose.ui.text.style.TextOverflow",
+                    "hasDefault": true,
+                    "composableSlot": false,
+                    "composableSlotReceiver": null,
+                    "nullable": false,
+                    "noArgConstructible": false,
+                    "noArgFactory": null,
+                    "scopeDslReceiver": null,
+                    "lambdaReturnTypeFqn": null
+                },
+                {
+                    "name": "softWrap",
+                    "type": "Boolean",
+                    "typeFqn": "kotlin.Boolean",
+                    "hasDefault": true,
+                    "composableSlot": false,
+                    "composableSlotReceiver": null,
+                    "nullable": false,
+                    "noArgConstructible": false,
+                    "noArgFactory": null,
+                    "scopeDslReceiver": null,
+                    "lambdaReturnTypeFqn": null
+                },
+                {
+                    "name": "maxLines",
+                    "type": "Int",
+                    "typeFqn": "kotlin.Int",
+                    "hasDefault": true,
+                    "composableSlot": false,
+                    "composableSlotReceiver": null,
+                    "nullable": false,
+                    "noArgConstructible": false,
+                    "noArgFactory": null,
+                    "scopeDslReceiver": null,
+                    "lambdaReturnTypeFqn": null
+                },
+                {
+                    "name": "minLines",
+                    "type": "Int",
+                    "typeFqn": "kotlin.Int",
+                    "hasDefault": true,
+                    "composableSlot": false,
+                    "composableSlotReceiver": null,
+                    "nullable": false,
+                    "noArgConstructible": false,
+                    "noArgFactory": null,
+                    "scopeDslReceiver": null,
+                    "lambdaReturnTypeFqn": null
+                },
+                {
+                    "name": "onTextLayout",
+                    "type": "((TextLayoutResult) -> Unit)?",
+                    "typeFqn": "kotlin.Function1",
+                    "hasDefault": true,
+                    "composableSlot": false,
+                    "composableSlotReceiver": null,
+                    "nullable": true,
+                    "noArgConstructible": false,
+                    "noArgFactory": null,
+                    "scopeDslReceiver": null,
+                    "lambdaReturnTypeFqn": "kotlin.Unit"
+                },
+                {
+                    "name": "style",
+                    "type": "TextStyle",
+                    "typeFqn": "androidx.compose.ui.text.TextStyle",
+                    "hasDefault": true,
+                    "composableSlot": false,
+                    "composableSlotReceiver": null,
+                    "nullable": false,
+                    "noArgConstructible": false,
+                    "noArgFactory": null,
+                    "scopeDslReceiver": null,
+                    "lambdaReturnTypeFqn": null
+                }
+            ],
+            "slots": [],
+            "bindings": [
+                {
+                    "previewId": "com.example.jetlagged.HomeScreenCardsKt.AverageTimeAsleepCard",
+                    "componentId": null,
+                    "group": null
+                },
+                {
+                    "previewId": "com.example.jetlagged.HomeScreenCardsKt.AverageTimeAsleepCard_larger_screen",
+                    "componentId": null,
+                    "group": null
+                },
+                {
+                    "previewId": "com.example.jetlagged.HomeScreenCardsKt.AverageTimeInBedCard",
+                    "componentId": null,
+                    "group": null
+                },
+                {
+                    "previewId": "com.example.jetlagged.HomeScreenCardsKt.AverageTimeInBedCard_larger_screen",
+                    "componentId": null,
+                    "group": null
+                },
+                {
+                    "previewId": "com.example.jetlagged.HomeScreenCardsKt.WellnessCard",
+                    "componentId": null,
+                    "group": null
+                },
+                {
+                    "previewId": "com.example.jetlagged.JetLaggedScreenKt.JetLaggedScreen-uVTuf4s",
+                    "componentId": null,
+                    "group": null
+                },
+                {
+                    "previewId": "com.example.jetlagged.JetLaggedScreenKt.JetLaggedScreen-uVTuf4s_pixel_2",
+                    "componentId": null,
+                    "group": null
+                },
+                {
+                    "previewId": "com.example.jetlagged.JetLaggedScreenKt.JetLaggedScreen-uVTuf4s_width_1280dp_height_800dp_dpi_240",
+                    "componentId": null,
+                    "group": null
+                },
+                {
+                    "previewId": "com.example.jetlagged.JetLaggedScreenKt.JetLaggedScreen-uVTuf4s_width_673dp_height_841dp",
+                    "componentId": null,
+                    "group": null
+                },
+                {
+                    "previewId": "com.example.jetlagged.heartrate.HeartRateCardKt.HeartRateCard",
+                    "componentId": null,
+                    "group": null
+                },
+                {
+                    "previewId": "com.example.jetlagged.sleep.JetLaggedHeaderKt.JetLaggedHeader",
+                    "componentId": null,
+                    "group": null
+                },
+                {
+                    "previewId": "com.example.jetlagged.sleep.SleepBarKt.DetailLegend",
+                    "componentId": null,
+                    "group": null
+                }
+            ],
+            "code": {
+                "call": "Text(text = \"\")",
+                "imports": [
+                    "androidx.compose.material3.Text"
+                ],
+                "refusedReason": null,
+                "requiredOptIns": [],
+                "androidxOptIns": []
+            },
+            "signatureKnown": true,
+            "callableFromAnotherFile": true,
+            "hasTypeParameters": false,
+            "hasContextReceivers": false,
+            "overloadsCollided": false,
+            "builder": null,
+            "requiredOptIns": [],
+            "androidxOptIns": []
+        },
+        {
+            "canonicalId": "app/com.example.jetlagged.backgrounds.FadingCircleBackgroundKt.FadingCircleBackground",
+            "componentIds": [],
+            "symbol": {
+                "jvmOwner": "com.example.jetlagged.backgrounds.FadingCircleBackgroundKt",
+                "callable": "com.example.jetlagged.backgrounds.FadingCircleBackground",
+                "name": "FadingCircleBackground",
+                "origin": "PROJECT",
+                "jvmName": "FadingCircleBackground-1jbw_BE",
+                "descriptor": "(FJLandroidx/compose/runtime/Composer;I)V",
+                "sourceFile": "src/main/java/com/example/jetlagged/backgrounds/FadingCircleBackground.kt",
+                "docs": "unavailable",
+                "receiver": null
+            },
+            "parameters": [
+                {
+                    "name": "bubbleSize",
+                    "type": "Dp",
+                    "typeFqn": "androidx.compose.ui.unit.Dp",
+                    "hasDefault": false,
+                    "composableSlot": false,
+                    "composableSlotReceiver": null,
+                    "nullable": false,
+                    "noArgConstructible": false,
+                    "noArgFactory": null,
+                    "scopeDslReceiver": null,
+                    "lambdaReturnTypeFqn": null
+                },
+                {
+                    "name": "color",
+                    "type": "Color",
+                    "typeFqn": "androidx.compose.ui.graphics.Color",
+                    "hasDefault": false,
+                    "composableSlot": false,
+                    "composableSlotReceiver": null,
+                    "nullable": false,
+                    "noArgConstructible": false,
+                    "noArgFactory": null,
+                    "scopeDslReceiver": null,
+                    "lambdaReturnTypeFqn": null
+                }
+            ],
+            "slots": [],
+            "bindings": [
+                {
+                    "previewId": "com.example.jetlagged.backgrounds.FadingCircleBackgroundKt.FadingCirclePreview",
+                    "componentId": null,
+                    "group": null
+                }
+            ],
+            "code": {
+                "call": null,
+                "imports": [],
+                "refusedReason": "no placeholder can be written for required parameter `bubbleSize: Dp`",
+                "requiredOptIns": [],
+                "androidxOptIns": []
+            },
+            "signatureKnown": true,
+            "callableFromAnotherFile": true,
+            "hasTypeParameters": false,
+            "hasContextReceivers": false,
+            "overloadsCollided": false,
+            "builder": null,
+            "requiredOptIns": [],
+            "androidxOptIns": []
+        },
+        {
+            "canonicalId": "app/com.example.jetlagged.sleep.SleepBarKt.LegendItem",
+            "componentIds": [],
+            "symbol": {
+                "jvmOwner": "com.example.jetlagged.sleep.SleepBarKt",
+                "callable": "com.example.jetlagged.sleep.LegendItem",
+                "name": "LegendItem",
+                "origin": "PROJECT",
+                "jvmName": "LegendItem",
+                "descriptor": "(Lcom/example/jetlagged/sleep/SleepType;Landroidx/compose/runtime/Composer;I)V",
+                "sourceFile": "src/main/java/com/example/jetlagged/sleep/SleepBar.kt",
+                "docs": "unavailable",
+                "receiver": null
+            },
+            "parameters": [
+                {
+                    "name": "sleepType",
+                    "type": "SleepType",
+                    "typeFqn": "com.example.jetlagged.sleep.SleepType",
+                    "hasDefault": false,
+                    "composableSlot": false,
+                    "composableSlotReceiver": null,
+                    "nullable": false,
+                    "noArgConstructible": false,
+                    "noArgFactory": null,
+                    "scopeDslReceiver": null,
+                    "lambdaReturnTypeFqn": null
+                }
+            ],
+            "slots": [],
+            "bindings": [
+                {
+                    "previewId": "com.example.jetlagged.sleep.SleepBarKt.DetailLegend",
+                    "componentId": null,
+                    "group": null
+                }
+            ],
+            "code": {
+                "call": null,
+                "imports": [],
+                "refusedReason": "not public or internal, so a generated file cannot call it",
+                "requiredOptIns": [],
+                "androidxOptIns": []
+            },
+            "signatureKnown": true,
+            "callableFromAnotherFile": false,
+            "hasTypeParameters": false,
+            "hasContextReceivers": false,
+            "overloadsCollided": false,
+            "builder": null,
+            "requiredOptIns": [],
+            "androidxOptIns": []
+        },
+        {
+            "canonicalId": "app/com.example.jetlagged.sleep.SleepBarKt.SleepBar",
+            "componentIds": [],
+            "symbol": {
+                "jvmOwner": "com.example.jetlagged.sleep.SleepBarKt",
+                "callable": "com.example.jetlagged.sleep.SleepBar",
+                "name": "SleepBar",
+                "origin": "PROJECT",
+                "jvmName": "SleepBar",
+                "descriptor": "(Lcom/example/jetlagged/sleep/SleepDayData;Landroidx/compose/ui/Modifier;Landroidx/compose/runtime/Composer;II)V",
+                "sourceFile": "src/main/java/com/example/jetlagged/sleep/SleepBar.kt",
+                "docs": "unavailable",
+                "receiver": null
+            },
+            "parameters": [
+                {
+                    "name": "sleepData",
+                    "type": "SleepDayData",
+                    "typeFqn": "com.example.jetlagged.sleep.SleepDayData",
+                    "hasDefault": false,
+                    "composableSlot": false,
+                    "composableSlotReceiver": null,
+                    "nullable": false,
+                    "noArgConstructible": false,
+                    "noArgFactory": null,
+                    "scopeDslReceiver": null,
+                    "lambdaReturnTypeFqn": null
+                },
+                {
+                    "name": "modifier",
+                    "type": "Modifier",
+                    "typeFqn": "androidx.compose.ui.Modifier",
+                    "hasDefault": true,
+                    "composableSlot": false,
+                    "composableSlotReceiver": null,
+                    "nullable": false,
+                    "noArgConstructible": false,
+                    "noArgFactory": null,
+                    "scopeDslReceiver": null,
+                    "lambdaReturnTypeFqn": null
+                }
+            ],
+            "slots": [],
+            "bindings": [
+                {
+                    "previewId": "com.example.jetlagged.sleep.SleepBarKt.SleepBarPreview",
+                    "componentId": null,
+                    "group": null
+                }
+            ],
+            "code": {
+                "call": null,
+                "imports": [],
+                "refusedReason": "no placeholder can be written for required parameter `sleepData: SleepDayData`",
+                "requiredOptIns": [],
+                "androidxOptIns": []
+            },
+            "signatureKnown": true,
+            "callableFromAnotherFile": true,
+            "hasTypeParameters": false,
+            "hasContextReceivers": false,
+            "overloadsCollided": false,
+            "builder": null,
+            "requiredOptIns": [],
+            "androidxOptIns": []
+        },
+        {
+            "canonicalId": "app/com.example.jetlagged.ui.theme.JetLaggedTheme.getExtraColors",
+            "componentIds": [],
+            "symbol": {
+                "jvmOwner": "com.example.jetlagged.ui.theme.JetLaggedTheme",
+                "callable": "com.example.jetlagged.ui.theme.JetLaggedTheme.getExtraColors",
+                "name": "getExtraColors",
+                "origin": "PROJECT",
+                "jvmName": "getExtraColors",
+                "descriptor": "(Landroidx/compose/runtime/Composer;I)Lcom/example/jetlagged/ui/theme/JetLaggedExtraColors;",
+                "sourceFile": "src/main/java/com/example/jetlagged/ui/theme/Theme.kt",
+                "docs": "unavailable",
+                "receiver": null
+            },
+            "parameters": [],
+            "slots": [],
+            "bindings": [
+                {
+                    "previewId": "com.example.jetlagged.HomeScreenCardsKt.AverageTimeAsleepCard",
+                    "componentId": null,
+                    "group": null
+                },
+                {
+                    "previewId": "com.example.jetlagged.HomeScreenCardsKt.AverageTimeAsleepCard_larger_screen",
+                    "componentId": null,
+                    "group": null
+                },
+                {
+                    "previewId": "com.example.jetlagged.HomeScreenCardsKt.AverageTimeInBedCard",
+                    "componentId": null,
+                    "group": null
+                },
+                {
+                    "previewId": "com.example.jetlagged.HomeScreenCardsKt.AverageTimeInBedCard_larger_screen",
+                    "componentId": null,
+                    "group": null
+                },
+                {
+                    "previewId": "com.example.jetlagged.HomeScreenCardsKt.WellnessCard",
+                    "componentId": null,
+                    "group": null
+                },
+                {
+                    "previewId": "com.example.jetlagged.JetLaggedScreenKt.JetLaggedScreen-uVTuf4s",
+                    "componentId": null,
+                    "group": null
+                },
+                {
+                    "previewId": "com.example.jetlagged.JetLaggedScreenKt.JetLaggedScreen-uVTuf4s_pixel_2",
+                    "componentId": null,
+                    "group": null
+                },
+                {
+                    "previewId": "com.example.jetlagged.JetLaggedScreenKt.JetLaggedScreen-uVTuf4s_width_1280dp_height_800dp_dpi_240",
+                    "componentId": null,
+                    "group": null
+                },
+                {
+                    "previewId": "com.example.jetlagged.JetLaggedScreenKt.JetLaggedScreen-uVTuf4s_width_673dp_height_841dp",
+                    "componentId": null,
+                    "group": null
+                },
+                {
+                    "previewId": "com.example.jetlagged.heartrate.HeartRateCardKt.HeartRateCard",
+                    "componentId": null,
+                    "group": null
+                }
+            ],
+            "code": {
+                "call": null,
+                "imports": [],
+                "refusedReason": "signature was not recovered from @kotlin.Metadata",
+                "requiredOptIns": [],
+                "androidxOptIns": []
+            },
+            "signatureKnown": false,
+            "callableFromAnotherFile": true,
+            "hasTypeParameters": false,
+            "hasContextReceivers": false,
+            "overloadsCollided": false,
+            "builder": null,
+            "requiredOptIns": [],
+            "androidxOptIns": []
+        }
+    ],
+    "builderOrphans": []
+}
