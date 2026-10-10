@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 410 137" width="410" height="137" role="img" aria-label="avatar-row layout wireframe">
+  <title>avatar-row — layout wireframe (slots + tokens)</title>
+  <rect width="410" height="137" fill="#ffffff"/>
+  <g>
+    <rect x="0" y="0" width="410" height="137" fill="none" fill-opacity="0" stroke="#5B6470" stroke-width="1" stroke-opacity="0.5"/>
+  </g>
+  <g>
+    <rect x="0" y="0" width="410" height="137" fill="none" fill-opacity="0" stroke="#2E7D6B" stroke-width="1" stroke-opacity="0.5"/>
+  </g>
+  <g>
+    <rect x="0" y="0" width="410" height="137" fill="#FFFFFF" fill-opacity="1" stroke="#8E6BA8" stroke-width="1.5" stroke-opacity="1"/>
+    <text x="3" y="12" font-family="system-ui, sans-serif" font-size="9" fill="#8E6BA8">#FFFFFFFF</text>
+  </g>
+  <g>
+    <rect x="0" y="0" width="410" height="137" fill="none" fill-opacity="0" stroke="#B0813B" stroke-width="1" stroke-opacity="0.5"/>
+  </g>
+  <g>
+    <path d="M341.5,5 H341.5 A63.5,63.5 0 0 1 405,68.5 V68.5 A63.5,63.5 0 0 1 341.5,132 H341.5 A63.5,63.5 0 0 1 278,68.5 V68.5 A63.5,63.5 0 0 1 341.5,5 Z" fill="#E3F5F8" fill-opacity="1" stroke="#3B72A8" stroke-width="1.5" stroke-opacity="1"/>
+    <text x="281" y="17" font-family="system-ui, sans-serif" font-size="9" fill="#3B72A8">#FFE3F5F8  pad ·</text>
+  </g>
+  <g>
+    <rect x="319" y="27" width="45" height="84" fill="none" fill-opacity="0" stroke="#A85B6B" stroke-width="1" stroke-opacity="0.5"/>
+  </g>
+  <g>
+    <path d="M205.5,5 H205.5 A63.5,63.5 0 0 1 269,68.5 V68.5 A63.5,63.5 0 0 1 205.5,132 H205.5 A63.5,63.5 0 0 1 142,68.5 V68.5 A63.5,63.5 0 0 1 205.5,5 Z" fill="#E0F8D9" fill-opacity="1" stroke="#3B72A8" stroke-width="1.5" stroke-opacity="1"/>
+    <text x="145" y="17" font-family="system-ui, sans-serif" font-size="9" fill="#3B72A8">#FFE0F8D9  pad ·</text>
+  </g>
+  <g>
+    <rect x="184" y="27" width="43" height="84" fill="none" fill-opacity="0" stroke="#A85B6B" stroke-width="1" stroke-opacity="0.5"/>
+  </g>
+  <g>
+    <path d="M68.5,5 H68.5 A63.5,63.5 0 0 1 132,68.5 V68.5 A63.5,63.5 0 0 1 68.5,132 H68.5 A63.5,63.5 0 0 1 5,68.5 V68.5 A63.5,63.5 0 0 1 68.5,5 Z" fill="#FFEFE4" fill-opacity="1" stroke="#3B72A8" stroke-width="1.5" stroke-opacity="1"/>
+    <text x="8" y="17" font-family="system-ui, sans-serif" font-size="9" fill="#3B72A8">#FFFFEFE4  pad 0.0dp</text>
+  </g>
+  <g>
+    <rect x="46" y="27" width="46" height="84" fill="none" fill-opacity="0" stroke="#A85B6B" stroke-width="1" stroke-opacity="0.5"/>
+  </g>
+</svg>

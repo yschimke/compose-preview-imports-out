@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 257 303" width="257" height="303" role="img" aria-label="members-count-molecule layout wireframe">
+  <title>members-count-molecule — layout wireframe (slots + tokens)</title>
+  <rect width="257" height="303" fill="#ffffff"/>
+  <g>
+    <rect x="0" y="0" width="257" height="303" fill="none" fill-opacity="0" stroke="#5B6470" stroke-width="1" stroke-opacity="0.5"/>
+  </g>
+  <g>
+    <rect x="0" y="0" width="257" height="303" fill="none" fill-opacity="0" stroke="#2E7D6B" stroke-width="1" stroke-opacity="0.5"/>
+  </g>
+  <g>
+    <rect x="0" y="0" width="257" height="303" fill="#FFFFFF" fill-opacity="1" stroke="#8E6BA8" stroke-width="1.5" stroke-opacity="1"/>
+    <text x="3" y="12" font-family="system-ui, sans-serif" font-size="9" fill="#8E6BA8">#FFFFFFFF</text>
+  </g>
+  <g>
+    <rect x="21" y="21" width="215" height="261" fill="none" fill-opacity="0" stroke="#B0813B" stroke-width="1" stroke-opacity="0.5"/>
+  </g>
+  <g>
+    <path d="M57.5,26 H87.5 A31.5,31.5 0 0 1 119,57.5 V57.5 A31.5,31.5 0 0 1 87.5,89 H57.5 A31.5,31.5 0 0 1 26,57.5 V57.5 A31.5,31.5 0 0 1 57.5,26 Z" fill="#F0F2F5" fill-opacity="1" stroke="#3B72A8" stroke-width="1.5" stroke-opacity="1"/>
+    <text x="29" y="38" font-family="system-ui, sans-serif" font-size="9" fill="#3B72A8">#FFF0F2F5  pad ·  gap 4.0dp</text>
+  </g>
+  <g>
+    <rect x="26" y="26" width="63" height="63" fill="none" fill-opacity="0" stroke="#A85B6B" stroke-width="1" stroke-opacity="0.5"/>
+  </g>
+  <g>
+    <rect x="100" y="35" width="19" height="45" fill="none" fill-opacity="0" stroke="#A85B6B" stroke-width="1" stroke-opacity="0.5"/>
+  </g>
+  <g>
+    <path d="M57.5,120 H126.5 A31.5,31.5 0 0 1 158,151.5 V151.5 A31.5,31.5 0 0 1 126.5,183 H57.5 A31.5,31.5 0 0 1 26,151.5 V151.5 A31.5,31.5 0 0 1 57.5,120 Z" fill="#F0F2F5" fill-opacity="1" stroke="#3B72A8" stroke-width="1.5" stroke-opacity="1"/>
+    <text x="29" y="132" font-family="system-ui, sans-serif" font-size="9" fill="#3B72A8">#FFF0F2F5  pad ·  gap 4.0dp</text>
+  </g>
+  <g>
+    <rect x="26" y="120" width="63" height="63" fill="none" fill-opacity="0" stroke="#A85B6B" stroke-width="1" stroke-opacity="0.5"/>
+  </g>
+  <g>
+    <rect x="100" y="129" width="58" height="45" fill="none" fill-opacity="0" stroke="#A85B6B" stroke-width="1" stroke-opacity="0.5"/>
+  </g>
+  <g>
+    <path d="M57.5,214 H183.5 A31.5,31.5 0 0 1 215,245.5 V245.5 A31.5,31.5 0 0 1 183.5,277 H57.5 A31.5,31.5 0 0 1 26,245.5 V245.5 A31.5,31.5 0 0 1 57.5,214 Z" fill="#F0F2F5" fill-opacity="1" stroke="#3B72A8" stroke-width="1.5" stroke-opacity="1"/>
+    <text x="29" y="226" font-family="system-ui, sans-serif" font-size="9" fill="#3B72A8">#FFF0F2F5  pad ·  gap 4.0dp</text>
+  </g>
+  <g>
+    <rect x="26" y="214" width="63" height="63" fill="none" fill-opacity="0" stroke="#A85B6B" stroke-width="1" stroke-opacity="0.5"/>
+  </g>
+  <g>
+    <rect x="100" y="223" width="115" height="45" fill="none" fill-opacity="0" stroke="#A85B6B" stroke-width="1" stroke-opacity="0.5"/>
+  </g>
+</svg>

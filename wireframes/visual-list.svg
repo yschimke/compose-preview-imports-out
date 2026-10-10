@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1050 373" width="1050" height="373" role="img" aria-label="visual-list layout wireframe">
+  <title>visual-list — layout wireframe (slots + tokens)</title>
+  <rect width="1050" height="373" fill="#ffffff"/>
+  <g>
+    <rect x="0" y="0" width="1050" height="373" fill="none" fill-opacity="0" stroke="#5B6470" stroke-width="1" stroke-opacity="0.5"/>
+  </g>
+  <g>
+    <rect x="0" y="0" width="1050" height="373" fill="none" fill-opacity="0" stroke="#2E7D6B" stroke-width="1" stroke-opacity="0.5"/>
+  </g>
+  <g>
+    <rect x="0" y="0" width="1050" height="373" fill="#FFFFFF" fill-opacity="1" stroke="#8E6BA8" stroke-width="1.5" stroke-opacity="1"/>
+    <text x="3" y="12" font-family="system-ui, sans-serif" font-size="9" fill="#8E6BA8">#FFFFFFFF</text>
+  </g>
+  <g>
+    <rect x="0" y="0" width="1050" height="373" fill="none" fill-opacity="0" stroke="#B0813B" stroke-width="1" stroke-opacity="0.5"/>
+  </g>
+  <g>
+    <path d="M73.5,32 H976.5 A26.5,26.5 0 0 1 1003,58.5 V85 A0,0 0 0 1 1003,85 H47 A0,0 0 0 1 47,85 V58.5 A26.5,26.5 0 0 1 73.5,32 Z" fill="#F0F2F5" fill-opacity="1" stroke="#3B72A8" stroke-width="1.5" stroke-opacity="1"/>
+    <text x="50" y="44" font-family="system-ui, sans-serif" font-size="9" fill="#3B72A8">#FFF0F2F5  pad ·  gap 12.0dp</text>
+  </g>
+  <g>
+    <rect x="47" y="32" width="173" height="53" fill="none" fill-opacity="0" stroke="#A85B6B" stroke-width="1" stroke-opacity="0.5"/>
+  </g>
+  <g>
+    <path d="M47,160 H1003 A0,0 0 0 1 1003,160 V213 A0,0 0 0 1 1003,213 H47 A0,0 0 0 1 47,213 V160 A0,0 0 0 1 47,160 Z" fill="#F0F2F5" fill-opacity="1" stroke="#3B72A8" stroke-width="1.5" stroke-opacity="1"/>
+    <text x="50" y="172" font-family="system-ui, sans-serif" font-size="9" fill="#3B72A8">#FFF0F2F5  pad ·  gap 12.0dp</text>
+  </g>
+  <g>
+    <rect x="47" y="160" width="230" height="53" fill="none" fill-opacity="0" stroke="#A85B6B" stroke-width="1" stroke-opacity="0.5"/>
+  </g>
+  <g>
+    <path d="M47,288 H1003 A0,0 0 0 1 1003,288 V314.5 A26.5,26.5 0 0 1 976.5,341 H73.5 A26.5,26.5 0 0 1 47,314.5 V288 A0,0 0 0 1 47,288 Z" fill="#F0F2F5" fill-opacity="1" stroke="#3B72A8" stroke-width="1.5" stroke-opacity="1"/>
+    <text x="50" y="300" font-family="system-ui, sans-serif" font-size="9" fill="#3B72A8">#FFF0F2F5  pad ·  gap 12.0dp</text>
+  </g>
+  <g>
+    <rect x="47" y="288" width="239" height="53" fill="none" fill-opacity="0" stroke="#A85B6B" stroke-width="1" stroke-opacity="0.5"/>
+  </g>
+</svg>

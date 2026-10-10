@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1050 2100" width="1050" height="2100" role="img" aria-label="expandable-bottom-sheet-layout layout wireframe">
+  <title>expandable-bottom-sheet-layout — layout wireframe (slots + tokens)</title>
+  <rect width="1050" height="2100" fill="#ffffff"/>
+  <g>
+    <rect x="0" y="0" width="1050" height="2100" fill="none" fill-opacity="0" stroke="#5B6470" stroke-width="1" stroke-opacity="0.5"/>
+  </g>
+  <g>
+    <rect x="0" y="0" width="1050" height="2100" fill="none" fill-opacity="0" stroke="#2E7D6B" stroke-width="1" stroke-opacity="0.5"/>
+  </g>
+  <g>
+    <rect x="0" y="0" width="1050" height="2100" fill="#FF0000" fill-opacity="0.2" stroke="#8E6BA8" stroke-width="1.5" stroke-opacity="1"/>
+    <text x="3" y="12" font-family="system-ui, sans-serif" font-size="9" fill="#8E6BA8">#33FF0000</text>
+  </g>
+  <g>
+    <rect x="0" y="0" width="1050" height="1579" fill="none" fill-opacity="0" stroke="#B0813B" stroke-width="1" stroke-opacity="0.5"/>
+  </g>
+  <g>
+    <rect x="331" y="768" width="388" height="43" fill="none" fill-opacity="0" stroke="#3B72A8" stroke-width="1" stroke-opacity="0.5"/>
+  </g>
+  <g>
+    <path d="M52.5,1579 H997.5 A52.5,52.5 0 0 1 1050,1631.5 V2100 A0,0 0 0 1 1050,2100 H0 A0,0 0 0 1 0,2100 V1631.5 A52.5,52.5 0 0 1 52.5,1579 Z" fill="#FFFFFF" fill-opacity="1" stroke="#B0813B" stroke-width="1.5" stroke-opacity="1"/>
+    <text x="3" y="1591" font-family="system-ui, sans-serif" font-size="9" fill="#B0813B">#FFFFFFFF</text>
+  </g>
+  <g>
+    <rect x="0" y="1579" width="1050" height="53" fill="none" fill-opacity="0" stroke="#3B72A8" stroke-width="1" stroke-opacity="0.5"/>
+  </g>
+  <g>
+    <path d="M404.5,1595 H646.5 A10.5,10.5 0 0 1 657,1605.5 V1605.5 A10.5,10.5 0 0 1 646.5,1616 H404.5 A10.5,10.5 0 0 1 394,1605.5 V1605.5 A10.5,10.5 0 0 1 404.5,1595 Z" fill="#888888" fill-opacity="1" stroke="#A85B6B" stroke-width="1.5" stroke-opacity="1"/>
+    <text x="397" y="1607" font-family="system-ui, sans-serif" font-size="9" fill="#A85B6B">#FF888888  pad ·</text>
+  </g>
+  <g>
+    <path d="M52.25,1632 H997.75 A26.25,26.25 0 0 1 1024,1658.25 V1998.75 A26.25,26.25 0 0 1 997.75,2025 H52.25 A26.25,26.25 0 0 1 26,1998.75 V1658.25 A26.25,26.25 0 0 1 52.25,1632 Z" fill="#0000FF" fill-opacity="1" stroke="#3B72A8" stroke-width="1.5" stroke-opacity="1"/>
+    <text x="29" y="1644" font-family="system-ui, sans-serif" font-size="9" fill="#3B72A8">#FF0000FF  pad ·</text>
+  </g>
+  <g>
+    <rect x="26" y="1632" width="998" height="393" fill="#CCCCCC" fill-opacity="1" stroke="#A85B6B" stroke-width="1.5" stroke-opacity="1"/>
+    <text x="29" y="1644" font-family="system-ui, sans-serif" font-size="9" fill="#A85B6B">#FFCCCCCC</text>
+  </g>
+  <g>
+    <rect x="42" y="2041" width="130" height="43" fill="none" fill-opacity="0" stroke="#3B72A8" stroke-width="1" stroke-opacity="0.5"/>
+  </g>
+</svg>

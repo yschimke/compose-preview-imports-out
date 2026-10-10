@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 730 730" width="730" height="730" role="img" aria-label="element-logo-atom-large-no-blur-shadow layout wireframe">
+  <title>element-logo-atom-large-no-blur-shadow — layout wireframe (slots + tokens)</title>
+  <rect width="730" height="730" fill="#ffffff"/>
+  <g>
+    <rect x="0" y="0" width="730" height="730" fill="none" fill-opacity="0" stroke="#5B6470" stroke-width="1" stroke-opacity="0.5"/>
+  </g>
+  <g>
+    <rect x="0" y="0" width="730" height="730" fill="none" fill-opacity="0" stroke="#2E7D6B" stroke-width="1" stroke-opacity="0.5"/>
+  </g>
+  <g>
+    <rect x="0" y="0" width="730" height="730" fill="#FFFFFF" fill-opacity="1" stroke="#8E6BA8" stroke-width="1.5" stroke-opacity="1"/>
+    <text x="3" y="12" font-family="system-ui, sans-serif" font-size="9" fill="#8E6BA8">#FFFFFFFF</text>
+  </g>
+  <g>
+    <rect x="0" y="0" width="730" height="730" fill="#E1E6EC" fill-opacity="1" stroke="#B0813B" stroke-width="1.5" stroke-opacity="1"/>
+    <text x="3" y="12" font-family="system-ui, sans-serif" font-size="9" fill="#B0813B">#FFE1E6EC</text>
+  </g>
+  <g>
+    <path d="M273.5,158 H457.5 A115.5,115.5 0 0 1 573,273.5 V457.5 A115.5,115.5 0 0 1 457.5,573 H273.5 A115.5,115.5 0 0 1 158,457.5 V273.5 A115.5,115.5 0 0 1 273.5,158 Z" fill="none" fill-opacity="0" stroke="#FFFFFF" stroke-width="1.5" stroke-opacity="1"/>
+    <text x="161" y="170" font-family="system-ui, sans-serif" font-size="9" fill="#FFFFFF">◻ #FFFFFFFF</text>
+  </g>
+  <g>
+    <path d="M273.5,158 H457.5 A115.5,115.5 0 0 1 573,273.5 V457.5 A115.5,115.5 0 0 1 457.5,573 H273.5 A115.5,115.5 0 0 1 158,457.5 V273.5 A115.5,115.5 0 0 1 273.5,158 Z" fill="none" fill-opacity="0" stroke="#A85B6B" stroke-width="1.5" stroke-opacity="1"/>
+  </g>
+  <g>
+    <path d="M273.5,158 H457.5 A115.5,115.5 0 0 1 573,273.5 V457.5 A115.5,115.5 0 0 1 457.5,573 H273.5 A115.5,115.5 0 0 1 158,457.5 V273.5 A115.5,115.5 0 0 1 273.5,158 Z" fill="#FFFFFF" fill-opacity="0.4" stroke="#A85B6B" stroke-width="1.5" stroke-opacity="1"/>
+    <text x="161" y="170" font-family="system-ui, sans-serif" font-size="9" fill="#A85B6B">#66FFFFFF</text>
+  </g>
+  <g>
+    <path d="M365.5,221 H365.5 A144.5,144.5 0 0 1 510,365.5 V365.5 A144.5,144.5 0 0 1 365.5,510 H365.5 A144.5,144.5 0 0 1 221,365.5 V365.5 A144.5,144.5 0 0 1 365.5,221 Z" fill="none" fill-opacity="0" stroke="#A85B6B" stroke-width="1.5" stroke-opacity="1"/>
+  </g>
+</svg>

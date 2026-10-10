@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 26 26" width="26" height="26" role="img" aria-label="red-indicator-atom layout wireframe">
+  <title>red-indicator-atom — layout wireframe (slots + tokens)</title>
+  <rect width="26" height="26" fill="#ffffff"/>
+  <g>
+    <rect x="0" y="0" width="26" height="26" fill="none" fill-opacity="0" stroke="#5B6470" stroke-width="1" stroke-opacity="0.5"/>
+  </g>
+  <g>
+    <rect x="0" y="0" width="26" height="26" fill="none" fill-opacity="0" stroke="#2E7D6B" stroke-width="1" stroke-opacity="0.5"/>
+  </g>
+  <g>
+    <rect x="0" y="0" width="26" height="26" fill="#FFFFFF" fill-opacity="1" stroke="#8E6BA8" stroke-width="1.5" stroke-opacity="1"/>
+    <text x="3" y="12" font-family="system-ui, sans-serif" font-size="9" fill="#8E6BA8">#FFFFFFFF</text>
+  </g>
+  <g>
+    <path d="M13,1 H13 A12,12 0 0 1 25,13 V13 A12,12 0 0 1 13,25 H13 A12,12 0 0 1 1,13 V13 A12,12 0 0 1 13,1 Z" fill="#D51928" fill-opacity="1" stroke="#FFFFFF" stroke-width="1.5" stroke-opacity="1"/>
+  </g>
+</svg>

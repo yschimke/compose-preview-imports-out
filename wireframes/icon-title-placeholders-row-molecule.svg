@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 315 84" width="315" height="84" role="img" aria-label="icon-title-placeholders-row-molecule layout wireframe">
+  <title>icon-title-placeholders-row-molecule — layout wireframe (slots + tokens)</title>
+  <rect width="315" height="84" fill="#ffffff"/>
+  <g>
+    <rect x="0" y="0" width="315" height="84" fill="none" fill-opacity="0" stroke="#5B6470" stroke-width="1" stroke-opacity="0.5"/>
+  </g>
+  <g>
+    <rect x="0" y="0" width="315" height="84" fill="none" fill-opacity="0" stroke="#2E7D6B" stroke-width="1" stroke-opacity="0.5"/>
+  </g>
+  <g>
+    <rect x="0" y="0" width="315" height="84" fill="#FFFFFF" fill-opacity="1" stroke="#8E6BA8" stroke-width="1.5" stroke-opacity="1"/>
+    <text x="3" y="12" font-family="system-ui, sans-serif" font-size="9" fill="#8E6BA8">#FFFFFFFF</text>
+  </g>
+  <g>
+    <rect x="0" y="0" width="315" height="84" fill="none" fill-opacity="0" stroke="#B0813B" stroke-width="1" stroke-opacity="0.5"/>
+  </g>
+  <g>
+    <path d="M42,0 H42 A42,42 0 0 1 84,42 V42 A42,42 0 0 1 42,84 H42 A42,42 0 0 1 0,42 V42 A42,42 0 0 1 42,0 Z" fill="#F0F2F5" fill-opacity="1" stroke="#3B72A8" stroke-width="1.5" stroke-opacity="1"/>
+    <text x="3" y="12" font-family="system-ui, sans-serif" font-size="9" fill="#3B72A8">#FFF0F2F5</text>
+  </g>
+  <g>
+    <path d="M114,33 H149 A9,9 0 0 1 158,42 V42 A9,9 0 0 1 149,51 H114 A9,9 0 0 1 105,42 V42 A9,9 0 0 1 114,33 Z" fill="#F0F2F5" fill-opacity="1" stroke="#3B72A8" stroke-width="1.5" stroke-opacity="1"/>
+    <text x="108" y="45" font-family="system-ui, sans-serif" font-size="9" fill="#3B72A8">#FFF0F2F5</text>
+  </g>
+  <g>
+    <path d="M185,33 H285 A9,9 0 0 1 294,42 V42 A9,9 0 0 1 285,51 H185 A9,9 0 0 1 176,42 V42 A9,9 0 0 1 185,33 Z" fill="#F0F2F5" fill-opacity="1" stroke="#3B72A8" stroke-width="1.5" stroke-opacity="1"/>
+    <text x="179" y="45" font-family="system-ui, sans-serif" font-size="9" fill="#3B72A8">#FFF0F2F5</text>
+  </g>
+</svg>

@@ -1,0 +1,289 @@
+{
+  "schema": "compose-preview-tags/v1",
+  "previews": {
+    "dialog-with-destructive-button__ideal__default": {
+      "dialog-negative": {
+        "count": 2,
+        "bounds": {
+          "x": 212,
+          "y": 338,
+          "width": 198,
+          "height": 110
+        },
+        "space": "render-pixels"
+      },
+      "dialog-positive": {
+        "count": 2,
+        "bounds": {
+          "x": 431,
+          "y": 338,
+          "width": 252,
+          "height": 110
+        },
+        "space": "render-pixels"
+      }
+    },
+    "dialog-with-only-message-and-ok-button__ideal__default": {
+      "dialog-positive": {
+        "count": 2,
+        "bounds": {
+          "x": 771,
+          "y": 389,
+          "width": 152,
+          "height": 110
+        },
+        "space": "render-pixels"
+      }
+    },
+    "dialog-with-third-button__ideal__default": {
+      "dialog-neutral": {
+        "count": 2,
+        "bounds": {
+          "x": 127,
+          "y": 338,
+          "width": 172,
+          "height": 110
+        },
+        "space": "render-pixels"
+      },
+      "dialog-negative": {
+        "count": 2,
+        "bounds": {
+          "x": 320,
+          "y": 338,
+          "width": 198,
+          "height": 110
+        },
+        "space": "render-pixels"
+      },
+      "dialog-positive": {
+        "count": 2,
+        "bounds": {
+          "x": 539,
+          "y": 338,
+          "width": 252,
+          "height": 110
+        },
+        "space": "render-pixels"
+      }
+    },
+    "dialog-with-title-and-ok-button__ideal__default": {
+      "dialog-positive": {
+        "count": 2,
+        "bounds": {
+          "x": 771,
+          "y": 497,
+          "width": 152,
+          "height": 110
+        },
+        "space": "render-pixels"
+      }
+    },
+    "dialog-with-title-icon-and-ok-button__ideal__default": {
+      "dialog-positive": {
+        "count": 2,
+        "bounds": {
+          "x": 771,
+          "y": 581,
+          "width": 152,
+          "height": 110
+        },
+        "space": "render-pixels"
+      }
+    },
+    "dialog-with-very-long-title-and-icon__ideal__default": {
+      "dialog-positive": {
+        "count": 2,
+        "bounds": {
+          "x": 771,
+          "y": 647,
+          "width": 152,
+          "height": 110
+        },
+        "space": "render-pixels"
+      }
+    },
+    "dialog-with-very-long-title__ideal__default": {
+      "dialog-positive": {
+        "count": 2,
+        "bounds": {
+          "x": 771,
+          "y": 563,
+          "width": 152,
+          "height": 110
+        },
+        "space": "render-pixels"
+      }
+    },
+    "floating-action-button__ideal__default": {
+      "floating-action-button": {
+        "count": 2,
+        "bounds": {
+          "x": 32,
+          "y": 32,
+          "width": 147,
+          "height": 147
+        },
+        "space": "render-pixels"
+      }
+    },
+    "horizontal-floating-toolbar__ideal__default": {
+      "floating-action-button": {
+        "count": 3,
+        "bounds": {
+          "x": 495,
+          "y": 73,
+          "width": 147,
+          "height": 147
+        },
+        "space": "render-pixels"
+      }
+    },
+    "horizontal-floating-toolbar__ideal__default__dark": {
+      "floating-action-button": {
+        "count": 3,
+        "bounds": {
+          "x": 495,
+          "y": 73,
+          "width": 147,
+          "height": 147
+        },
+        "space": "render-pixels"
+      }
+    },
+    "alert-dialog-content__ideal__default": {
+      "dialog-positive": {
+        "count": 2,
+        "bounds": {
+          "x": 478,
+          "y": 230,
+          "width": 152,
+          "height": 110
+        },
+        "space": "render-pixels"
+      }
+    },
+    "confirmation-dialog-content__ideal__default": {
+      "dialog-neutral": {
+        "count": 2,
+        "bounds": {
+          "x": 127,
+          "y": 338,
+          "width": 210,
+          "height": 110
+        },
+        "space": "render-pixels"
+      },
+      "dialog-negative": {
+        "count": 2,
+        "bounds": {
+          "x": 358,
+          "y": 338,
+          "width": 198,
+          "height": 110
+        },
+        "space": "render-pixels"
+      },
+      "dialog-positive": {
+        "count": 2,
+        "bounds": {
+          "x": 577,
+          "y": 338,
+          "width": 183,
+          "height": 110
+        },
+        "space": "render-pixels"
+      }
+    },
+    "error-dialog-content__ideal__default": {
+      "dialog-positive": {
+        "count": 2,
+        "bounds": {
+          "x": 478,
+          "y": 338,
+          "width": 152,
+          "height": 110
+        },
+        "space": "render-pixels"
+      }
+    },
+    "list-dialog-content__ideal__default": {
+      "dialog-negative": {
+        "count": 2,
+        "bounds": {
+          "x": 483,
+          "y": 611,
+          "width": 198,
+          "height": 110
+        },
+        "space": "render-pixels"
+      },
+      "dialog-positive": {
+        "count": 2,
+        "bounds": {
+          "x": 702,
+          "y": 611,
+          "width": 221,
+          "height": 110
+        },
+        "space": "render-pixels"
+      }
+    },
+    "multiple-selection-dialog-content__ideal__default": {
+      "dialog-negative": {
+        "count": 2,
+        "bounds": {
+          "x": 483,
+          "y": 810,
+          "width": 198,
+          "height": 110
+        },
+        "space": "render-pixels"
+      },
+      "dialog-positive": {
+        "count": 2,
+        "bounds": {
+          "x": 702,
+          "y": 810,
+          "width": 221,
+          "height": 110
+        },
+        "space": "render-pixels"
+      }
+    },
+    "retry-dialog-content__ideal__default": {
+      "dialog-negative": {
+        "count": 2,
+        "bounds": {
+          "x": 183,
+          "y": 338,
+          "width": 198,
+          "height": 110
+        },
+        "space": "render-pixels"
+      },
+      "dialog-positive": {
+        "count": 2,
+        "bounds": {
+          "x": 402,
+          "y": 338,
+          "width": 228,
+          "height": 110
+        },
+        "space": "render-pixels"
+      }
+    },
+    "single-selection-dialog-content__ideal__default": {
+      "dialog-positive": {
+        "count": 1,
+        "bounds": {
+          "x": 736,
+          "y": 715,
+          "width": 198,
+          "height": 110
+        },
+        "space": "render-pixels"
+      }
+    }
+  }
+}

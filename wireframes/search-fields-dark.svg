@@ -1,0 +1,76 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1050 2625" width="1050" height="2625" role="img" aria-label="search-fields-dark layout wireframe">
+  <title>search-fields-dark — layout wireframe (slots + tokens)</title>
+  <rect width="1050" height="2625" fill="#ffffff"/>
+  <g>
+    <rect x="0" y="0" width="1050" height="2625" fill="none" fill-opacity="0" stroke="#5B6470" stroke-width="1" stroke-opacity="0.5"/>
+  </g>
+  <g>
+    <rect x="0" y="0" width="1050" height="2625" fill="none" fill-opacity="0" stroke="#2E7D6B" stroke-width="1" stroke-opacity="0.5"/>
+  </g>
+  <g>
+    <rect x="0" y="0" width="1050" height="2625" fill="#101317" fill-opacity="1" stroke="#8E6BA8" stroke-width="1.5" stroke-opacity="1"/>
+    <text x="3" y="12" font-family="system-ui, sans-serif" font-size="9" fill="#8E6BA8">#FF101317</text>
+  </g>
+  <g>
+    <rect x="21" y="21" width="1008" height="2583" fill="none" fill-opacity="0" stroke="#B0813B" stroke-width="1" stroke-opacity="0.5"/>
+  </g>
+  <g>
+    <rect x="21" y="21" width="1008" height="126" fill="none" fill-opacity="0" stroke="#3B72A8" stroke-width="1" stroke-opacity="0.5"/>
+  </g>
+  <g>
+    <rect x="21" y="21" width="1008" height="126" fill="none" fill-opacity="0" stroke="#A85B6B" stroke-width="1" stroke-opacity="0.5"/>
+  </g>
+  <g>
+    <path d="M84,21 H966 A63,63 0 0 1 1029,84 V84 A63,63 0 0 1 966,147 H84 A63,63 0 0 1 21,84 V84 A63,63 0 0 1 84,21 Z" fill="#1D1F24" fill-opacity="1" stroke="#3C3F44" stroke-width="1.5" stroke-opacity="1"/>
+    <text x="24" y="33" font-family="system-ui, sans-serif" font-size="9" fill="#3C3F44">#FF1D1F24</text>
+  </g>
+  <g>
+    <rect x="63" y="21" width="966" height="126" fill="none" fill-opacity="0" stroke="#7A7A33" stroke-width="1" stroke-opacity="0.5"/>
+  </g>
+  <g>
+    <rect x="63" y="55" width="798" height="58" fill="none" fill-opacity="0" stroke="#5B6470" stroke-width="1" stroke-opacity="0.5"/>
+  </g>
+  <g>
+    <rect x="63" y="55" width="133" height="58" fill="none" fill-opacity="0" stroke="#2E7D6B" stroke-width="1" stroke-opacity="0.5"/>
+  </g>
+  <g>
+    <rect x="63" y="55" width="306" height="58" fill="none" fill-opacity="0" stroke="#2E7D6B" stroke-width="1" stroke-opacity="0.5"/>
+  </g>
+  <g>
+    <rect x="63" y="55" width="306" height="58" fill="none" fill-opacity="0" stroke="#8E6BA8" stroke-width="1" stroke-opacity="0.5"/>
+  </g>
+  <g>
+    <path d="M966.5,32 H966.5 A52.5,52.5 0 0 1 1019,84.5 V84.5 A52.5,52.5 0 0 1 966.5,137 H966.5 A52.5,52.5 0 0 1 914,84.5 V84.5 A52.5,52.5 0 0 1 966.5,32 Z" fill="none" fill-opacity="0" stroke="#5B6470" stroke-width="1.5" stroke-opacity="1"/>
+  </g>
+  <g>
+    <rect x="935" y="53" width="63" height="63" fill="none" fill-opacity="0" stroke="#2E7D6B" stroke-width="1" stroke-opacity="0.5"/>
+  </g>
+  <g>
+    <rect x="21" y="168" width="1008" height="126" fill="none" fill-opacity="0" stroke="#3B72A8" stroke-width="1" stroke-opacity="0.5"/>
+  </g>
+  <g>
+    <rect x="21" y="168" width="1008" height="126" fill="none" fill-opacity="0" stroke="#A85B6B" stroke-width="1" stroke-opacity="0.5"/>
+  </g>
+  <g>
+    <path d="M84,168 H966 A63,63 0 0 1 1029,231 V231 A63,63 0 0 1 966,294 H84 A63,63 0 0 1 21,231 V231 A63,63 0 0 1 84,168 Z" fill="#1D1F24" fill-opacity="1" stroke="#3C3F44" stroke-width="1.5" stroke-opacity="1"/>
+    <text x="24" y="180" font-family="system-ui, sans-serif" font-size="9" fill="#3C3F44">#FF1D1F24</text>
+  </g>
+  <g>
+    <rect x="63" y="168" width="966" height="126" fill="none" fill-opacity="0" stroke="#7A7A33" stroke-width="1" stroke-opacity="0.5"/>
+  </g>
+  <g>
+    <rect x="63" y="202" width="798" height="58" fill="none" fill-opacity="0" stroke="#5B6470" stroke-width="1" stroke-opacity="0.5"/>
+  </g>
+  <g>
+    <rect x="63" y="202" width="306" height="58" fill="none" fill-opacity="0" stroke="#2E7D6B" stroke-width="1" stroke-opacity="0.5"/>
+  </g>
+  <g>
+    <rect x="63" y="202" width="306" height="58" fill="none" fill-opacity="0" stroke="#8E6BA8" stroke-width="1" stroke-opacity="0.5"/>
+  </g>
+  <g>
+    <path d="M966.5,179 H966.5 A52.5,52.5 0 0 1 1019,231.5 V231.5 A52.5,52.5 0 0 1 966.5,284 H966.5 A52.5,52.5 0 0 1 914,231.5 V231.5 A52.5,52.5 0 0 1 966.5,179 Z" fill="none" fill-opacity="0" stroke="#5B6470" stroke-width="1.5" stroke-opacity="1"/>
+  </g>
+  <g>
+    <rect x="935" y="200" width="63" height="63" fill="none" fill-opacity="0" stroke="#2E7D6B" stroke-width="1" stroke-opacity="0.5"/>
+  </g>
+</svg>

@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1050 462" width="1050" height="462" role="img" aria-label="button-column-molecule layout wireframe">
+  <title>button-column-molecule — layout wireframe (slots + tokens)</title>
+  <rect width="1050" height="462" fill="#ffffff"/>
+  <g>
+    <rect x="0" y="0" width="1050" height="462" fill="none" fill-opacity="0" stroke="#5B6470" stroke-width="1" stroke-opacity="0.5"/>
+  </g>
+  <g>
+    <rect x="0" y="0" width="1050" height="462" fill="none" fill-opacity="0" stroke="#2E7D6B" stroke-width="1" stroke-opacity="0.5"/>
+  </g>
+  <g>
+    <rect x="0" y="0" width="1050" height="462" fill="#FFFFFF" fill-opacity="1" stroke="#8E6BA8" stroke-width="1.5" stroke-opacity="1"/>
+    <text x="3" y="12" font-family="system-ui, sans-serif" font-size="9" fill="#8E6BA8">#FFFFFFFF</text>
+  </g>
+  <g>
+    <rect x="0" y="0" width="1050" height="462" fill="none" fill-opacity="0" stroke="#B0813B" stroke-width="1" stroke-opacity="0.5"/>
+  </g>
+  <g>
+    <path d="M63,0 H987 A63,63 0 0 1 1050,63 V63 A63,63 0 0 1 987,126 H63 A63,63 0 0 1 0,63 V63 A63,63 0 0 1 63,0 Z" fill="#1B1D22" fill-opacity="1" stroke="#3B72A8" stroke-width="1.5" stroke-opacity="1"/>
+    <text x="3" y="12" font-family="system-ui, sans-serif" font-size="9" fill="#3B72A8">#FF1B1D22</text>
+  </g>
+  <g>
+    <rect x="84" y="34" width="882" height="58" fill="none" fill-opacity="0" stroke="#A85B6B" stroke-width="1" stroke-opacity="0.5"/>
+  </g>
+  <g>
+    <rect x="461" y="34" width="129" height="58" fill="none" fill-opacity="0" stroke="#4F8A4A" stroke-width="1" stroke-opacity="0.5"/>
+  </g>
+  <g>
+    <path d="M63,168 H987 A63,63 0 0 1 1050,231 V231 A63,63 0 0 1 987,294 H63 A63,63 0 0 1 0,231 V231 A63,63 0 0 1 63,168 Z" fill="none" fill-opacity="0" stroke="#BDC4CC" stroke-width="1.5" stroke-opacity="1"/>
+    <text x="3" y="180" font-family="system-ui, sans-serif" font-size="9" fill="#BDC4CC">◻ #FFBDC4CC</text>
+  </g>
+  <g>
+    <rect x="84" y="202" width="882" height="58" fill="none" fill-opacity="0" stroke="#A85B6B" stroke-width="1" stroke-opacity="0.5"/>
+  </g>
+  <g>
+    <rect x="379" y="202" width="292" height="58" fill="none" fill-opacity="0" stroke="#4F8A4A" stroke-width="1" stroke-opacity="0.5"/>
+  </g>
+  <g>
+    <path d="M63,336 H987 A63,63 0 0 1 1050,399 V399 A63,63 0 0 1 987,462 H63 A63,63 0 0 1 0,399 V399 A63,63 0 0 1 63,336 Z" fill="none" fill-opacity="0" stroke="#3B72A8" stroke-width="1.5" stroke-opacity="1"/>
+  </g>
+  <g>
+    <rect x="42" y="370" width="966" height="58" fill="none" fill-opacity="0" stroke="#A85B6B" stroke-width="1" stroke-opacity="0.5"/>
+  </g>
+  <g>
+    <rect x="418" y="370" width="214" height="58" fill="none" fill-opacity="0" stroke="#4F8A4A" stroke-width="1" stroke-opacity="0.5"/>
+  </g>
+</svg>

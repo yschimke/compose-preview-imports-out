@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 95 195" width="95" height="195" role="img" aria-label="rounded-icon-atom layout wireframe">
+  <title>rounded-icon-atom — layout wireframe (slots + tokens)</title>
+  <rect width="95" height="195" fill="#ffffff"/>
+  <g>
+    <rect x="0" y="0" width="95" height="195" fill="none" fill-opacity="0" stroke="#5B6470" stroke-width="1" stroke-opacity="0.5"/>
+  </g>
+  <g>
+    <rect x="0" y="0" width="95" height="195" fill="none" fill-opacity="0" stroke="#2E7D6B" stroke-width="1" stroke-opacity="0.5"/>
+  </g>
+  <g>
+    <rect x="0" y="0" width="95" height="195" fill="#FFFFFF" fill-opacity="1" stroke="#8E6BA8" stroke-width="1.5" stroke-opacity="1"/>
+    <text x="3" y="12" font-family="system-ui, sans-serif" font-size="9" fill="#8E6BA8">#FFFFFFFF</text>
+  </g>
+  <g>
+    <rect x="0" y="0" width="95" height="195" fill="none" fill-opacity="0" stroke="#B0813B" stroke-width="1" stroke-opacity="0.5"/>
+  </g>
+  <g>
+    <path d="M21,0 H58 A21,21 0 0 1 79,21 V58 A21,21 0 0 1 58,79 H21 A21,21 0 0 1 0,58 V21 A21,21 0 0 1 21,0 Z" fill="#E4E8F0" fill-opacity="1" stroke="#3B72A8" stroke-width="1.5" stroke-opacity="1"/>
+    <text x="3" y="12" font-family="system-ui, sans-serif" font-size="9" fill="#3B72A8">#FFE4E8F0</text>
+  </g>
+  <g>
+    <rect x="19" y="19" width="42" height="42" fill="none" fill-opacity="0" stroke="#A85B6B" stroke-width="1" stroke-opacity="0.5"/>
+  </g>
+  <g>
+    <path d="M21,100 H74 A21,21 0 0 1 95,121 V174 A21,21 0 0 1 74,195 H21 A21,21 0 0 1 0,174 V121 A21,21 0 0 1 21,100 Z" fill="#E4E8F0" fill-opacity="1" stroke="#3B72A8" stroke-width="1.5" stroke-opacity="1"/>
+    <text x="3" y="112" font-family="system-ui, sans-serif" font-size="9" fill="#3B72A8">#FFE4E8F0</text>
+  </g>
+  <g>
+    <rect x="16" y="116" width="63" height="63" fill="none" fill-opacity="0" stroke="#A85B6B" stroke-width="1" stroke-opacity="0.5"/>
+  </g>
+</svg>
