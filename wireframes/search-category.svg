@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1301 724" width="1301" height="724" role="img" aria-label="Search/Category layout wireframe">
+  <title>Search/Category — layout wireframe (slots + tokens)</title>
+  <rect width="1301" height="724" fill="#ffffff"/>
+  <g>
+    <rect x="0" y="0" width="1050" height="724" fill="none" fill-opacity="0" stroke="#5B6470" stroke-width="1" stroke-opacity="0.5"/>
+  </g>
+  <g>
+    <rect x="0" y="0" width="1050" height="724" fill="none" fill-opacity="0" stroke="#2E7D6B" stroke-width="1" stroke-opacity="0.5"/>
+  </g>
+  <g>
+    <path d="M26.25,0 H1023.75 A26.25,26.25 0 0 1 1050,26.25 V697.75 A26.25,26.25 0 0 1 1023.75,724 H26.25 A26.25,26.25 0 0 1 0,697.75 V26.25 A26.25,26.25 0 0 1 26.25,0 Z" fill="none" fill-opacity="0" stroke="#8E6BA8" stroke-width="1.5" stroke-opacity="1"/>
+  </g>
+  <g>
+    <rect x="32" y="336" width="534" height="52" fill="none" fill-opacity="0" stroke="#B0813B" stroke-width="1" stroke-opacity="0.5"/>
+  </g>
+  <g>
+    <path d="M938.9875,0 H939.0125 A361.9875,361.9875 0 0 1 1301,361.9875 V362.0125 A361.9875,361.9875 0 0 1 939.0125,724 H938.9875 A361.9875,361.9875 0 0 1 577,362.0125 V361.9875 A361.9875,361.9875 0 0 1 938.9875,0 Z" fill="#121212" fill-opacity="1" stroke="#B0813B" stroke-width="1.5" stroke-opacity="1"/>
+    <text x="580" y="12" font-family="system-ui, sans-serif" font-size="9" fill="#B0813B">#FF121212</text>
+  </g>
+  <g>
+    <rect x="577" y="0" width="724" height="724" fill="none" fill-opacity="0" stroke="#3B72A8" stroke-width="1" stroke-opacity="0.5"/>
+  </g>
+</svg>

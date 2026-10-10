@@ -1,0 +1,4040 @@
+{
+  "schema": "design-parity-catalog/v1",
+  "system": "compose-samples-jetsnack",
+  "title": "Jetsnack",
+  "components": [
+    {
+      "componentId": "Screens/App shell",
+      "images": [
+        {
+          "variant": "ideal",
+          "path": "images/screens-app-shell/ideal__default.png",
+          "state": "default",
+          "width": 1050,
+          "height": 2100,
+          "livePreview": "https://preview.coo.ee/compose-samples-jetsnack/p/screens-app-shell__ideal__default",
+          "previewId": "com.example.jetsnack.ui.JetsnackAppKt.JetsnackApp",
+          "density": 2.625
+        }
+      ],
+      "greenlines": [
+        {
+          "kind": "a11y",
+          "severity": "info",
+          "message": "button",
+          "detail": {
+            "role": "button",
+            "bounds": {
+              "x": 43,
+              "y": 169,
+              "width": 105,
+              "height": 105
+            }
+          },
+          "bounds": {
+            "x": 43,
+            "y": 169,
+            "width": 105,
+            "height": 105
+          }
+        },
+        {
+          "kind": "a11y",
+          "severity": "info",
+          "message": "button",
+          "detail": {
+            "role": "button",
+            "bounds": {
+              "x": 935,
+              "y": 316,
+              "width": 105,
+              "height": 105
+            }
+          },
+          "bounds": {
+            "x": 935,
+            "y": 316,
+            "width": 105,
+            "height": 105
+          }
+        },
+        {
+          "kind": "a11y",
+          "severity": "info",
+          "message": "button",
+          "detail": {
+            "role": "button",
+            "bounds": {
+              "x": 935,
+              "y": 1166,
+              "width": 105,
+              "height": 105
+            }
+          },
+          "bounds": {
+            "x": 935,
+            "y": 1166,
+            "width": 105,
+            "height": 105
+          }
+        },
+        {
+          "kind": "a11y",
+          "severity": "info",
+          "message": "button",
+          "detail": {
+            "role": "button",
+            "bounds": {
+              "x": 935,
+              "y": 1769,
+              "width": 105,
+              "height": 105
+            }
+          },
+          "bounds": {
+            "x": 935,
+            "y": 1769,
+            "width": 105,
+            "height": 105
+          }
+        },
+        {
+          "kind": "a11y",
+          "severity": "info",
+          "message": "button",
+          "detail": {
+            "role": "button",
+            "bounds": {
+              "x": 934,
+              "y": 32,
+              "width": 105,
+              "height": 105
+            }
+          },
+          "bounds": {
+            "x": 934,
+            "y": 32,
+            "width": 105,
+            "height": 105
+          }
+        }
+      ],
+      "redlines": [
+        {
+          "bounds": {
+            "x": 43,
+            "y": 169,
+            "width": 105,
+            "height": 105
+          },
+          "role": "Button",
+          "cornerRadius": 20
+        },
+        {
+          "bounds": {
+            "x": 64,
+            "y": 190,
+            "width": 63,
+            "height": 63
+          },
+          "role": "Image",
+          "label": "Filters",
+          "cornerRadius": 12
+        },
+        {
+          "bounds": {
+            "x": 179,
+            "y": 186,
+            "width": 228,
+            "height": 69
+          },
+          "cornerRadius": 13.14
+        },
+        {
+          "bounds": {
+            "x": 179,
+            "y": 186,
+            "width": 228,
+            "height": 69
+          },
+          "cornerRadius": 13.14
+        },
+        {
+          "bounds": {
+            "x": 232,
+            "y": 202,
+            "width": 122,
+            "height": 37
+          },
+          "label": "Organic",
+          "padding": {
+            "start": 20,
+            "top": 6,
+            "end": 20,
+            "bottom": 6
+          }
+        },
+        {
+          "bounds": {
+            "x": 428,
+            "y": 186,
+            "width": 282,
+            "height": 69
+          },
+          "cornerRadius": 13.14
+        },
+        {
+          "bounds": {
+            "x": 428,
+            "y": 186,
+            "width": 282,
+            "height": 69
+          },
+          "cornerRadius": 13.14
+        },
+        {
+          "bounds": {
+            "x": 481,
+            "y": 202,
+            "width": 176,
+            "height": 37
+          },
+          "label": "Gluten-free",
+          "padding": {
+            "start": 20,
+            "top": 6,
+            "end": 20,
+            "bottom": 6
+          }
+        },
+        {
+          "bounds": {
+            "x": 731,
+            "y": 186,
+            "width": 263,
+            "height": 69
+          },
+          "cornerRadius": 13.14
+        },
+        {
+          "bounds": {
+            "x": 731,
+            "y": 186,
+            "width": 263,
+            "height": 69
+          },
+          "cornerRadius": 13.14
+        },
+        {
+          "bounds": {
+            "x": 784,
+            "y": 202,
+            "width": 157,
+            "height": 37
+          },
+          "label": "Dairy-free",
+          "padding": {
+            "start": 20,
+            "top": 6,
+            "end": 20,
+            "bottom": 6
+          }
+        },
+        {
+          "bounds": {
+            "x": 1015,
+            "y": 186,
+            "width": 35,
+            "height": 69
+          },
+          "cornerRadius": 13.14
+        },
+        {
+          "bounds": {
+            "x": 1015,
+            "y": 186,
+            "width": 35,
+            "height": 69
+          },
+          "cornerRadius": 13.14
+        },
+        {
+          "bounds": {
+            "x": 0,
+            "y": 0,
+            "width": 0,
+            "height": 0
+          },
+          "label": "Sweet",
+          "padding": {
+            "start": 20,
+            "top": 6,
+            "end": 20,
+            "bottom": 6
+          }
+        },
+        {
+          "bounds": {
+            "x": 935,
+            "y": 316,
+            "width": 105,
+            "height": 105
+          },
+          "role": "Button",
+          "cornerRadius": 20
+        },
+        {
+          "bounds": {
+            "x": 63,
+            "y": 441,
+            "width": 446,
+            "height": 656
+          },
+          "padding": {
+            "start": 0,
+            "top": 0,
+            "end": 0,
+            "bottom": 16
+          },
+          "cornerRadius": 20
+        },
+        {
+          "bounds": {
+            "x": 129,
+            "y": 546,
+            "width": 315,
+            "height": 315
+          },
+          "cornerRadius": 60
+        },
+        {
+          "bounds": {
+            "x": 105,
+            "y": 882,
+            "width": 235,
+            "height": 64
+          },
+          "label": "Cupcake",
+          "padding": {
+            "start": 16,
+            "top": 0,
+            "end": 16,
+            "bottom": 0
+          }
+        },
+        {
+          "bounds": {
+            "x": 105,
+            "y": 957,
+            "width": 185,
+            "height": 50
+          },
+          "label": "A tag line",
+          "padding": {
+            "start": 16,
+            "top": 0,
+            "end": 16,
+            "bottom": 0
+          }
+        },
+        {
+          "bounds": {
+            "x": 551,
+            "y": 441,
+            "width": 446,
+            "height": 656
+          },
+          "padding": {
+            "start": 0,
+            "top": 0,
+            "end": 0,
+            "bottom": 16
+          },
+          "cornerRadius": 20
+        },
+        {
+          "bounds": {
+            "x": 617,
+            "y": 546,
+            "width": 315,
+            "height": 315
+          },
+          "cornerRadius": 60
+        },
+        {
+          "bounds": {
+            "x": 593,
+            "y": 882,
+            "width": 170,
+            "height": 64
+          },
+          "label": "Donut",
+          "padding": {
+            "start": 16,
+            "top": 0,
+            "end": 16,
+            "bottom": 0
+          }
+        },
+        {
+          "bounds": {
+            "x": 593,
+            "y": 957,
+            "width": 185,
+            "height": 50
+          },
+          "label": "A tag line",
+          "padding": {
+            "start": 16,
+            "top": 0,
+            "end": 16,
+            "bottom": 0
+          }
+        },
+        {
+          "bounds": {
+            "x": 1039,
+            "y": 441,
+            "width": 11,
+            "height": 656
+          },
+          "padding": {
+            "start": 0,
+            "top": 0,
+            "end": 0,
+            "bottom": 16
+          },
+          "cornerRadius": 20
+        },
+        {
+          "bounds": {
+            "x": 0,
+            "y": 0,
+            "width": 0,
+            "height": 0
+          },
+          "cornerRadius": 60
+        },
+        {
+          "bounds": {
+            "x": 0,
+            "y": 0,
+            "width": 0,
+            "height": 0
+          },
+          "label": "Eclair",
+          "padding": {
+            "start": 16,
+            "top": 0,
+            "end": 16,
+            "bottom": 0
+          }
+        },
+        {
+          "bounds": {
+            "x": 0,
+            "y": 0,
+            "width": 0,
+            "height": 0
+          },
+          "label": "A tag line",
+          "padding": {
+            "start": 16,
+            "top": 0,
+            "end": 16,
+            "bottom": 0
+          }
+        },
+        {
+          "bounds": {
+            "x": 935,
+            "y": 1166,
+            "width": 105,
+            "height": 105
+          },
+          "role": "Button",
+          "cornerRadius": 20
+        },
+        {
+          "bounds": {
+            "x": 43,
+            "y": 1291,
+            "width": 357,
+            "height": 430
+          },
+          "padding": {
+            "start": 4,
+            "top": 0,
+            "end": 4,
+            "bottom": 8
+          },
+          "cornerRadius": 20
+        },
+        {
+          "bounds": {
+            "x": 43,
+            "y": 1291,
+            "width": 357,
+            "height": 430
+          },
+          "padding": {
+            "start": 8,
+            "top": 8,
+            "end": 8,
+            "bottom": 8
+          }
+        },
+        {
+          "bounds": {
+            "x": 159,
+            "y": 1648,
+            "width": 126,
+            "height": 52
+          },
+          "label": "Chips",
+          "padding": {
+            "start": 0,
+            "top": 8,
+            "end": 0,
+            "bottom": 0
+          }
+        },
+        {
+          "bounds": {
+            "x": 64,
+            "y": 1312,
+            "width": 315,
+            "height": 315
+          },
+          "cornerRadius": 60
+        },
+        {
+          "bounds": {
+            "x": 422,
+            "y": 1291,
+            "width": 357,
+            "height": 430
+          },
+          "padding": {
+            "start": 4,
+            "top": 0,
+            "end": 4,
+            "bottom": 8
+          },
+          "cornerRadius": 20
+        },
+        {
+          "bounds": {
+            "x": 422,
+            "y": 1291,
+            "width": 357,
+            "height": 430
+          },
+          "padding": {
+            "start": 8,
+            "top": 8,
+            "end": 8,
+            "bottom": 8
+          }
+        },
+        {
+          "bounds": {
+            "x": 512,
+            "y": 1648,
+            "width": 177,
+            "height": 52
+          },
+          "label": "Pretzels",
+          "padding": {
+            "start": 0,
+            "top": 8,
+            "end": 0,
+            "bottom": 0
+          }
+        },
+        {
+          "bounds": {
+            "x": 443,
+            "y": 1312,
+            "width": 315,
+            "height": 315
+          },
+          "cornerRadius": 60
+        },
+        {
+          "bounds": {
+            "x": 801,
+            "y": 1291,
+            "width": 249,
+            "height": 430
+          },
+          "padding": {
+            "start": 4,
+            "top": 0,
+            "end": 4,
+            "bottom": 8
+          },
+          "cornerRadius": 20
+        },
+        {
+          "bounds": {
+            "x": 801,
+            "y": 1291,
+            "width": 249,
+            "height": 430
+          },
+          "padding": {
+            "start": 8,
+            "top": 8,
+            "end": 8,
+            "bottom": 8
+          }
+        },
+        {
+          "bounds": {
+            "x": 862,
+            "y": 1648,
+            "width": 188,
+            "height": 52
+          },
+          "label": "Smoothies",
+          "padding": {
+            "start": 0,
+            "top": 8,
+            "end": 0,
+            "bottom": 0
+          }
+        },
+        {
+          "bounds": {
+            "x": 822,
+            "y": 1312,
+            "width": 228,
+            "height": 315
+          },
+          "cornerRadius": 60
+        },
+        {
+          "bounds": {
+            "x": 935,
+            "y": 1769,
+            "width": 105,
+            "height": 105
+          },
+          "role": "Button",
+          "cornerRadius": 20
+        },
+        {
+          "bounds": {
+            "x": 63,
+            "y": 1894,
+            "width": 446,
+            "height": 59
+          },
+          "padding": {
+            "start": 0,
+            "top": 0,
+            "end": 0,
+            "bottom": 16
+          },
+          "cornerRadius": 20
+        },
+        {
+          "bounds": {
+            "x": 0,
+            "y": 0,
+            "width": 0,
+            "height": 0
+          },
+          "cornerRadius": 60
+        },
+        {
+          "bounds": {
+            "x": 0,
+            "y": 0,
+            "width": 0,
+            "height": 0
+          },
+          "label": "Cupcake",
+          "padding": {
+            "start": 16,
+            "top": 0,
+            "end": 16,
+            "bottom": 0
+          }
+        },
+        {
+          "bounds": {
+            "x": 0,
+            "y": 0,
+            "width": 0,
+            "height": 0
+          },
+          "label": "A tag line",
+          "padding": {
+            "start": 16,
+            "top": 0,
+            "end": 16,
+            "bottom": 0
+          }
+        },
+        {
+          "bounds": {
+            "x": 551,
+            "y": 1894,
+            "width": 446,
+            "height": 59
+          },
+          "padding": {
+            "start": 0,
+            "top": 0,
+            "end": 0,
+            "bottom": 16
+          },
+          "cornerRadius": 20
+        },
+        {
+          "bounds": {
+            "x": 0,
+            "y": 0,
+            "width": 0,
+            "height": 0
+          },
+          "cornerRadius": 60
+        },
+        {
+          "bounds": {
+            "x": 0,
+            "y": 0,
+            "width": 0,
+            "height": 0
+          },
+          "label": "Donut",
+          "padding": {
+            "start": 16,
+            "top": 0,
+            "end": 16,
+            "bottom": 0
+          }
+        },
+        {
+          "bounds": {
+            "x": 0,
+            "y": 0,
+            "width": 0,
+            "height": 0
+          },
+          "label": "A tag line",
+          "padding": {
+            "start": 16,
+            "top": 0,
+            "end": 16,
+            "bottom": 0
+          }
+        },
+        {
+          "bounds": {
+            "x": 1039,
+            "y": 1894,
+            "width": 11,
+            "height": 59
+          },
+          "padding": {
+            "start": 0,
+            "top": 0,
+            "end": 0,
+            "bottom": 16
+          },
+          "cornerRadius": 20
+        },
+        {
+          "bounds": {
+            "x": 0,
+            "y": 0,
+            "width": 0,
+            "height": 0
+          },
+          "cornerRadius": 60
+        },
+        {
+          "bounds": {
+            "x": 0,
+            "y": 0,
+            "width": 0,
+            "height": 0
+          },
+          "label": "Eclair",
+          "padding": {
+            "start": 16,
+            "top": 0,
+            "end": 16,
+            "bottom": 0
+          }
+        },
+        {
+          "bounds": {
+            "x": 0,
+            "y": 0,
+            "width": 0,
+            "height": 0
+          },
+          "label": "A tag line",
+          "padding": {
+            "start": 16,
+            "top": 0,
+            "end": 16,
+            "bottom": 0
+          }
+        },
+        {
+          "bounds": {
+            "x": 43,
+            "y": 21,
+            "width": 1006,
+            "height": 126
+          },
+          "padding": {
+            "start": 4,
+            "top": 0,
+            "end": 4,
+            "bottom": 0
+          }
+        },
+        {
+          "bounds": {
+            "x": 934,
+            "y": 32,
+            "width": 105,
+            "height": 105
+          },
+          "role": "Button",
+          "cornerRadius": 20
+        },
+        {
+          "bounds": {
+            "x": 42,
+            "y": 1974,
+            "width": 336,
+            "height": 105
+          },
+          "padding": {
+            "start": 16,
+            "top": 8,
+            "end": 16,
+            "bottom": 8
+          },
+          "cornerRadius": 20
+        },
+        {
+          "bounds": {
+            "x": 42,
+            "y": 1974,
+            "width": 336,
+            "height": 105
+          },
+          "padding": {
+            "start": 16,
+            "top": 8,
+            "end": 16,
+            "bottom": 8
+          },
+          "cornerRadius": 20
+        },
+        {
+          "bounds": {
+            "x": 182,
+            "y": 2004,
+            "width": 128,
+            "height": 45
+          },
+          "padding": {
+            "start": 2,
+            "top": 0,
+            "end": 2,
+            "bottom": 0
+          }
+        },
+        {
+          "bounds": {
+            "x": 462,
+            "y": 1974,
+            "width": 126,
+            "height": 105
+          },
+          "padding": {
+            "start": 16,
+            "top": 8,
+            "end": 16,
+            "bottom": 8
+          },
+          "cornerRadius": 20
+        },
+        {
+          "bounds": {
+            "x": 462,
+            "y": 1974,
+            "width": 116,
+            "height": 43
+          },
+          "padding": {
+            "start": 2,
+            "top": 0,
+            "end": 2,
+            "bottom": 0
+          }
+        },
+        {
+          "bounds": {
+            "x": 672,
+            "y": 1974,
+            "width": 126,
+            "height": 105
+          },
+          "padding": {
+            "start": 16,
+            "top": 8,
+            "end": 16,
+            "bottom": 8
+          },
+          "cornerRadius": 20
+        },
+        {
+          "bounds": {
+            "x": 672,
+            "y": 1974,
+            "width": 116,
+            "height": 43
+          },
+          "padding": {
+            "start": 2,
+            "top": 0,
+            "end": 2,
+            "bottom": 0
+          }
+        },
+        {
+          "bounds": {
+            "x": 882,
+            "y": 1974,
+            "width": 126,
+            "height": 105
+          },
+          "padding": {
+            "start": 16,
+            "top": 8,
+            "end": 16,
+            "bottom": 8
+          },
+          "cornerRadius": 20
+        },
+        {
+          "bounds": {
+            "x": 882,
+            "y": 1974,
+            "width": 116,
+            "height": 43
+          },
+          "padding": {
+            "start": 2,
+            "top": 0,
+            "end": 2,
+            "bottom": 0
+          }
+        }
+      ],
+      "section": "Screens",
+      "group": "Screens",
+      "caption": "The whole app at its start destination: feed, bottom navigation and shared-element scaffolding.",
+      "wireframe": "wireframes/screens-app-shell.svg",
+      "sourceFile": "src/main/java/com/example/jetsnack/ui/JetsnackApp.kt",
+      "sourceModule": ":app",
+      "bodyLine": 62,
+      "sourceDirectory": "Jetsnack/app",
+      "sourceFunction": "JetsnackApp"
+    },
+    {
+      "componentId": "Screens/Search",
+      "images": [
+        {
+          "variant": "ideal",
+          "path": "images/screens-search/ideal__default__dark.png",
+          "state": "default",
+          "width": 1050,
+          "height": 347,
+          "theme": "dark",
+          "livePreview": "https://preview.coo.ee/compose-samples-jetsnack/p/screens-search__ideal__default__dark",
+          "previewId": "com.example.jetsnack.ui.home.search.ResultsKt.SearchResultPreview_dark_theme",
+          "previewParams": {
+            "uiMode": 32
+          },
+          "density": 2.625
+        },
+        {
+          "variant": "ideal",
+          "path": "images/screens-search/ideal__default.png",
+          "state": "default",
+          "width": 1050,
+          "height": 347,
+          "livePreview": "https://preview.coo.ee/compose-samples-jetsnack/p/screens-search__ideal__default",
+          "previewId": "com.example.jetsnack.ui.home.search.ResultsKt.SearchResultPreview_default",
+          "density": 2.625
+        },
+        {
+          "variant": "ideal",
+          "path": "images/screens-search/ideal__default__fontscale-2.0.png",
+          "state": "default",
+          "width": 1050,
+          "height": 369,
+          "props": {
+            "fontScale": "2.0"
+          },
+          "livePreview": "https://preview.coo.ee/compose-samples-jetsnack/p/screens-search__ideal__default__fontscale-2.0"
+        },
+        {
+          "variant": "ideal",
+          "path": "images/screens-search/ideal__suggestions__dark.png",
+          "state": "suggestions",
+          "width": 1050,
+          "height": 1324,
+          "theme": "dark",
+          "livePreview": "https://preview.coo.ee/compose-samples-jetsnack/p/screens-search__ideal__suggestions__dark",
+          "previewId": "com.example.jetsnack.ui.home.search.SuggestionsKt.PreviewSuggestions_dark_theme",
+          "previewParams": {
+            "uiMode": 32
+          },
+          "density": 2.625
+        },
+        {
+          "variant": "ideal",
+          "path": "images/screens-search/ideal__suggestions.png",
+          "state": "suggestions",
+          "width": 1050,
+          "height": 1324,
+          "livePreview": "https://preview.coo.ee/compose-samples-jetsnack/p/screens-search__ideal__suggestions",
+          "previewId": "com.example.jetsnack.ui.home.search.SuggestionsKt.PreviewSuggestions_default",
+          "density": 2.625
+        },
+        {
+          "variant": "ideal",
+          "path": "images/screens-search/ideal__suggestions__fontscale-2.0.png",
+          "state": "suggestions",
+          "width": 1050,
+          "height": 1324,
+          "props": {
+            "fontScale": "2.0"
+          },
+          "livePreview": "https://preview.coo.ee/compose-samples-jetsnack/p/screens-search__ideal__suggestions__fontscale-2.0"
+        }
+      ],
+      "greenlines": [
+        {
+          "kind": "a11y",
+          "severity": "info",
+          "message": "button",
+          "detail": {
+            "role": "button",
+            "bounds": {
+              "x": 892,
+              "y": 126,
+              "width": 95,
+              "height": 95
+            }
+          },
+          "bounds": {
+            "x": 892,
+            "y": 126,
+            "width": 95,
+            "height": 95
+          }
+        }
+      ],
+      "redlines": [
+        {
+          "bounds": {
+            "x": 0,
+            "y": 0,
+            "width": 1050,
+            "height": 347
+          },
+          "padding": {
+            "start": 24,
+            "top": 0,
+            "end": 24,
+            "bottom": 0
+          }
+        },
+        {
+          "bounds": {
+            "x": 63,
+            "y": 42,
+            "width": 263,
+            "height": 263
+          },
+          "cornerRadius": 50.1
+        },
+        {
+          "bounds": {
+            "x": 892,
+            "y": 126,
+            "width": 95,
+            "height": 95
+          },
+          "role": "Button",
+          "cornerRadius": 18.1
+        }
+      ],
+      "section": "Screens",
+      "group": "Screens",
+      "caption": "Search results for a query.",
+      "wireframe": "wireframes/screens-search.svg",
+      "sourceFile": "src/main/java/com/example/jetsnack/ui/home/search/Results.kt",
+      "sourceModule": ":app",
+      "bodyLine": 167,
+      "sourceDirectory": "Jetsnack/app",
+      "sourceFunction": "SearchResultPreview",
+      "parameters": [
+        {
+          "name": "modifier",
+          "type": "Modifier",
+          "hasDefault": true
+        },
+        {
+          "name": "shape",
+          "type": "Shape",
+          "hasDefault": true
+        },
+        {
+          "name": "color",
+          "type": "Color",
+          "hasDefault": true
+        },
+        {
+          "name": "contentColor",
+          "type": "Color",
+          "hasDefault": true
+        },
+        {
+          "name": "border",
+          "type": "BorderStroke?",
+          "hasDefault": true
+        },
+        {
+          "name": "elevation",
+          "type": "Dp",
+          "hasDefault": true
+        },
+        {
+          "name": "content",
+          "type": "() -> Unit",
+          "composableSlot": true
+        }
+      ]
+    },
+    {
+      "componentId": "Screens/Profile",
+      "images": [
+        {
+          "variant": "ideal",
+          "path": "images/screens-profile/ideal__default__dark.png",
+          "state": "default",
+          "width": 1050,
+          "height": 2100,
+          "theme": "dark",
+          "livePreview": "https://preview.coo.ee/compose-samples-jetsnack/p/screens-profile__ideal__default__dark",
+          "previewId": "com.example.jetsnack.ui.home.ProfileKt.ProfilePreview_dark_theme",
+          "previewParams": {
+            "uiMode": 32
+          },
+          "density": 2.625
+        },
+        {
+          "variant": "ideal",
+          "path": "images/screens-profile/ideal__default.png",
+          "state": "default",
+          "width": 1050,
+          "height": 2100,
+          "livePreview": "https://preview.coo.ee/compose-samples-jetsnack/p/screens-profile__ideal__default",
+          "previewId": "com.example.jetsnack.ui.home.ProfileKt.ProfilePreview_default",
+          "density": 2.625
+        },
+        {
+          "variant": "ideal",
+          "path": "images/screens-profile/ideal__default__fontscale-2.0.png",
+          "state": "default",
+          "width": 1050,
+          "height": 2100,
+          "props": {
+            "fontScale": "2.0"
+          },
+          "livePreview": "https://preview.coo.ee/compose-samples-jetsnack/p/screens-profile__ideal__default__fontscale-2.0"
+        }
+      ],
+      "greenlines": [],
+      "redlines": [],
+      "section": "Screens",
+      "group": "Screens",
+      "caption": "The profile destination.",
+      "wireframe": "wireframes/screens-profile.svg",
+      "sourceFile": "src/main/java/com/example/jetsnack/ui/home/Profile.kt",
+      "sourceModule": ":app",
+      "bodyLine": 75,
+      "sourceDirectory": "Jetsnack/app",
+      "sourceFunction": "ProfilePreview",
+      "parameters": [
+        {
+          "name": "modifier",
+          "type": "Modifier",
+          "hasDefault": true
+        }
+      ]
+    },
+    {
+      "componentId": "Screens/Snack detail",
+      "images": [
+        {
+          "variant": "ideal",
+          "path": "images/screens-snack-detail/ideal__default__dark.png",
+          "state": "default",
+          "width": 1050,
+          "height": 2100,
+          "theme": "dark",
+          "livePreview": "https://preview.coo.ee/compose-samples-jetsnack/p/screens-snack-detail__ideal__default__dark",
+          "previewId": "com.example.jetsnack.ui.snackdetail.SnackDetailKt.SnackDetailPreview_dark_theme",
+          "previewParams": {
+            "uiMode": 32
+          },
+          "density": 2.625
+        },
+        {
+          "variant": "ideal",
+          "path": "images/screens-snack-detail/ideal__default.png",
+          "state": "default",
+          "width": 1050,
+          "height": 2100,
+          "livePreview": "https://preview.coo.ee/compose-samples-jetsnack/p/screens-snack-detail__ideal__default",
+          "previewId": "com.example.jetsnack.ui.snackdetail.SnackDetailKt.SnackDetailPreview_default",
+          "density": 2.625
+        },
+        {
+          "variant": "ideal",
+          "path": "images/screens-snack-detail/ideal__default__fontscale-2.0.png",
+          "state": "default",
+          "width": 1050,
+          "height": 2100,
+          "props": {
+            "fontScale": "2.0"
+          },
+          "livePreview": "https://preview.coo.ee/compose-samples-jetsnack/p/screens-snack-detail__ideal__default__fontscale-2.0"
+        }
+      ],
+      "greenlines": [
+        {
+          "kind": "a11y",
+          "severity": "info",
+          "message": "button",
+          "detail": {
+            "role": "button",
+            "bounds": {
+              "x": 0,
+              "y": 0,
+              "width": 0,
+              "height": 0
+            }
+          },
+          "bounds": {
+            "x": 0,
+            "y": 0,
+            "width": 0,
+            "height": 0
+          }
+        },
+        {
+          "kind": "a11y",
+          "severity": "info",
+          "message": "button",
+          "detail": {
+            "role": "button",
+            "bounds": {
+              "x": 0,
+              "y": 0,
+              "width": 0,
+              "height": 0
+            }
+          },
+          "bounds": {
+            "x": 0,
+            "y": 0,
+            "width": 0,
+            "height": 0
+          }
+        },
+        {
+          "kind": "a11y",
+          "severity": "info",
+          "message": "button",
+          "detail": {
+            "role": "button",
+            "bounds": {
+              "x": 43,
+              "y": 27,
+              "width": 95,
+              "height": 95
+            }
+          },
+          "bounds": {
+            "x": 43,
+            "y": 27,
+            "width": 95,
+            "height": 95
+          }
+        },
+        {
+          "kind": "a11y",
+          "severity": "info",
+          "message": "button",
+          "detail": {
+            "role": "button",
+            "bounds": {
+              "x": 418,
+              "y": 1974,
+              "width": 569,
+              "height": 105
+            }
+          },
+          "bounds": {
+            "x": 418,
+            "y": 1974,
+            "width": 569,
+            "height": 105
+          }
+        }
+      ],
+      "redlines": [
+        {
+          "bounds": {
+            "x": 0,
+            "y": 0,
+            "width": 1050,
+            "height": 2100
+          },
+          "cornerRadius": 0
+        },
+        {
+          "bounds": {
+            "x": 0,
+            "y": 964,
+            "width": 1050,
+            "height": 1136
+          },
+          "padding": {
+            "start": 0,
+            "top": 16,
+            "end": 0,
+            "bottom": 0
+          }
+        },
+        {
+          "bounds": {
+            "x": 63,
+            "y": 1300,
+            "width": 128,
+            "height": 38
+          },
+          "label": "Details",
+          "padding": {
+            "start": 24,
+            "top": 0,
+            "end": 24,
+            "bottom": 0
+          }
+        },
+        {
+          "bounds": {
+            "x": 63,
+            "y": 1380,
+            "width": 924,
+            "height": 346
+          },
+          "label": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut tempus, sem vitae convallis imperdiet, lectus nunc pharetra diam, ac rhoncus quam eros eu risus. Nulla pulvinar condimentum erat, pulvinar tempus turpis blandit ut. Etiam sed ipsum sed lacus eleifend hendrerit eu quis quam. Etiam ligula eros, finibus vestibulum tortor ac, ultrices accumsan dolor. Vivamus vel nisl a libero lobortis posuere. Aenean facilisis nibh vel ultrices bibendum. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Suspendisse ac est vitae lacus commodo efficitur at ut massa. Etiam vestibulum sit amet sapien sed varius. Aliquam non ipsum imperdiet, pulvinar enim nec, mollis risus. Fusce id tincidunt nisl.",
+          "padding": {
+            "start": 24,
+            "top": 0,
+            "end": 24,
+            "bottom": 0
+          }
+        },
+        {
+          "bounds": {
+            "x": 0,
+            "y": 1765,
+            "width": 1050,
+            "height": 45
+          },
+          "label": "SEE MORE",
+          "padding": {
+            "start": 0,
+            "top": 15,
+            "end": 0,
+            "bottom": 0
+          }
+        },
+        {
+          "bounds": {
+            "x": 63,
+            "y": 1915,
+            "width": 211,
+            "height": 38
+          },
+          "label": "Ingredients",
+          "padding": {
+            "start": 24,
+            "top": 0,
+            "end": 24,
+            "bottom": 0
+          }
+        },
+        {
+          "bounds": {
+            "x": 63,
+            "y": 1964,
+            "width": 924,
+            "height": 124
+          },
+          "label": "Vanilla, Almond Flour, Eggs, Butter, Cream, Sugar",
+          "padding": {
+            "start": 24,
+            "top": 0,
+            "end": 24,
+            "bottom": 0
+          }
+        },
+        {
+          "bounds": {
+            "x": 0,
+            "y": 0,
+            "width": 0,
+            "height": 0
+          },
+          "role": "Button",
+          "cornerRadius": 20
+        },
+        {
+          "bounds": {
+            "x": 0,
+            "y": 0,
+            "width": 0,
+            "height": 0
+          },
+          "padding": {
+            "start": 4,
+            "top": 0,
+            "end": 4,
+            "bottom": 8
+          },
+          "cornerRadius": 20
+        },
+        {
+          "bounds": {
+            "x": 0,
+            "y": 0,
+            "width": 0,
+            "height": 0
+          },
+          "padding": {
+            "start": 8,
+            "top": 8,
+            "end": 8,
+            "bottom": 8
+          }
+        },
+        {
+          "bounds": {
+            "x": 0,
+            "y": 0,
+            "width": 0,
+            "height": 0
+          },
+          "label": "Cupcake",
+          "padding": {
+            "start": 0,
+            "top": 8,
+            "end": 0,
+            "bottom": 0
+          }
+        },
+        {
+          "bounds": {
+            "x": 0,
+            "y": 0,
+            "width": 0,
+            "height": 0
+          },
+          "cornerRadius": 60
+        },
+        {
+          "bounds": {
+            "x": 0,
+            "y": 0,
+            "width": 0,
+            "height": 0
+          },
+          "padding": {
+            "start": 4,
+            "top": 0,
+            "end": 4,
+            "bottom": 8
+          },
+          "cornerRadius": 20
+        },
+        {
+          "bounds": {
+            "x": 0,
+            "y": 0,
+            "width": 0,
+            "height": 0
+          },
+          "padding": {
+            "start": 8,
+            "top": 8,
+            "end": 8,
+            "bottom": 8
+          }
+        },
+        {
+          "bounds": {
+            "x": 0,
+            "y": 0,
+            "width": 0,
+            "height": 0
+          },
+          "label": "Donut",
+          "padding": {
+            "start": 0,
+            "top": 8,
+            "end": 0,
+            "bottom": 0
+          }
+        },
+        {
+          "bounds": {
+            "x": 0,
+            "y": 0,
+            "width": 0,
+            "height": 0
+          },
+          "cornerRadius": 60
+        },
+        {
+          "bounds": {
+            "x": 0,
+            "y": 0,
+            "width": 0,
+            "height": 0
+          },
+          "padding": {
+            "start": 4,
+            "top": 0,
+            "end": 4,
+            "bottom": 8
+          },
+          "cornerRadius": 20
+        },
+        {
+          "bounds": {
+            "x": 0,
+            "y": 0,
+            "width": 0,
+            "height": 0
+          },
+          "padding": {
+            "start": 8,
+            "top": 8,
+            "end": 8,
+            "bottom": 8
+          }
+        },
+        {
+          "bounds": {
+            "x": 0,
+            "y": 0,
+            "width": 0,
+            "height": 0
+          },
+          "label": "Eclair",
+          "padding": {
+            "start": 0,
+            "top": 8,
+            "end": 0,
+            "bottom": 0
+          }
+        },
+        {
+          "bounds": {
+            "x": 0,
+            "y": 0,
+            "width": 0,
+            "height": 0
+          },
+          "cornerRadius": 60
+        },
+        {
+          "bounds": {
+            "x": 0,
+            "y": 0,
+            "width": 0,
+            "height": 0
+          },
+          "role": "Button",
+          "cornerRadius": 20
+        },
+        {
+          "bounds": {
+            "x": 0,
+            "y": 0,
+            "width": 0,
+            "height": 0
+          },
+          "padding": {
+            "start": 4,
+            "top": 0,
+            "end": 4,
+            "bottom": 8
+          },
+          "cornerRadius": 20
+        },
+        {
+          "bounds": {
+            "x": 0,
+            "y": 0,
+            "width": 0,
+            "height": 0
+          },
+          "padding": {
+            "start": 8,
+            "top": 8,
+            "end": 8,
+            "bottom": 8
+          }
+        },
+        {
+          "bounds": {
+            "x": 0,
+            "y": 0,
+            "width": 0,
+            "height": 0
+          },
+          "label": "Chips",
+          "padding": {
+            "start": 0,
+            "top": 8,
+            "end": 0,
+            "bottom": 0
+          }
+        },
+        {
+          "bounds": {
+            "x": 0,
+            "y": 0,
+            "width": 0,
+            "height": 0
+          },
+          "cornerRadius": 60
+        },
+        {
+          "bounds": {
+            "x": 0,
+            "y": 0,
+            "width": 0,
+            "height": 0
+          },
+          "padding": {
+            "start": 4,
+            "top": 0,
+            "end": 4,
+            "bottom": 8
+          },
+          "cornerRadius": 20
+        },
+        {
+          "bounds": {
+            "x": 0,
+            "y": 0,
+            "width": 0,
+            "height": 0
+          },
+          "padding": {
+            "start": 8,
+            "top": 8,
+            "end": 8,
+            "bottom": 8
+          }
+        },
+        {
+          "bounds": {
+            "x": 0,
+            "y": 0,
+            "width": 0,
+            "height": 0
+          },
+          "label": "Pretzels",
+          "padding": {
+            "start": 0,
+            "top": 8,
+            "end": 0,
+            "bottom": 0
+          }
+        },
+        {
+          "bounds": {
+            "x": 0,
+            "y": 0,
+            "width": 0,
+            "height": 0
+          },
+          "cornerRadius": 60
+        },
+        {
+          "bounds": {
+            "x": 0,
+            "y": 0,
+            "width": 0,
+            "height": 0
+          },
+          "padding": {
+            "start": 4,
+            "top": 0,
+            "end": 4,
+            "bottom": 8
+          },
+          "cornerRadius": 20
+        },
+        {
+          "bounds": {
+            "x": 0,
+            "y": 0,
+            "width": 0,
+            "height": 0
+          },
+          "padding": {
+            "start": 8,
+            "top": 8,
+            "end": 8,
+            "bottom": 8
+          }
+        },
+        {
+          "bounds": {
+            "x": 0,
+            "y": 0,
+            "width": 0,
+            "height": 0
+          },
+          "label": "Smoothies",
+          "padding": {
+            "start": 0,
+            "top": 8,
+            "end": 0,
+            "bottom": 0
+          }
+        },
+        {
+          "bounds": {
+            "x": 0,
+            "y": 0,
+            "width": 0,
+            "height": 0
+          },
+          "cornerRadius": 60
+        },
+        {
+          "bounds": {
+            "x": 63,
+            "y": 1001,
+            "width": 352,
+            "height": 96
+          },
+          "label": "Cupcake",
+          "padding": {
+            "start": 24,
+            "top": 0,
+            "end": 24,
+            "bottom": 0
+          }
+        },
+        {
+          "bounds": {
+            "x": 63,
+            "y": 1097,
+            "width": 237,
+            "height": 61
+          },
+          "label": "A tag line",
+          "padding": {
+            "start": 24,
+            "top": 0,
+            "end": 24,
+            "bottom": 0
+          }
+        },
+        {
+          "bounds": {
+            "x": 63,
+            "y": 1169,
+            "width": 143,
+            "height": 64
+          },
+          "label": "$2.99",
+          "padding": {
+            "start": 24,
+            "top": 0,
+            "end": 24,
+            "bottom": 0
+          }
+        },
+        {
+          "bounds": {
+            "x": 131,
+            "y": 147,
+            "width": 788,
+            "height": 788
+          },
+          "cornerRadius": 150.1
+        },
+        {
+          "bounds": {
+            "x": 43,
+            "y": 27,
+            "width": 95,
+            "height": 95
+          },
+          "role": "Button",
+          "padding": {
+            "start": 16,
+            "top": 10,
+            "end": 16,
+            "bottom": 10
+          },
+          "cornerRadius": 18.1
+        },
+        {
+          "bounds": {
+            "x": 63,
+            "y": 2001,
+            "width": 77,
+            "height": 52
+          },
+          "label": "Qty",
+          "padding": {
+            "start": 0,
+            "top": 0,
+            "end": 18,
+            "bottom": 0
+          }
+        },
+        {
+          "bounds": {
+            "x": 187,
+            "y": 1995,
+            "width": 63,
+            "height": 63
+          },
+          "cornerRadius": 12
+        },
+        {
+          "bounds": {
+            "x": 313,
+            "y": 1995,
+            "width": 63,
+            "height": 63
+          },
+          "cornerRadius": 12
+        },
+        {
+          "bounds": {
+            "x": 418,
+            "y": 1974,
+            "width": 569,
+            "height": 105
+          },
+          "role": "Button",
+          "cornerRadius": 20
+        }
+      ],
+      "section": "Screens",
+      "group": "Screens",
+      "caption": "Product detail — the collapsing-header screen that anchors the shared-element transition.",
+      "wireframe": "wireframes/screens-snack-detail.svg",
+      "sourceFile": "src/main/java/com/example/jetsnack/ui/snackdetail/SnackDetail.kt",
+      "sourceModule": ":app",
+      "bodyLine": 607,
+      "sourceDirectory": "Jetsnack/app",
+      "sourceFunction": "SnackDetailPreview",
+      "parameters": [
+        {
+          "name": "snackId",
+          "type": "Long"
+        },
+        {
+          "name": "origin",
+          "type": "String"
+        },
+        {
+          "name": "upPress",
+          "type": "() -> Unit"
+        }
+      ]
+    },
+    {
+      "componentId": "Screens/Filter",
+      "images": [
+        {
+          "variant": "ideal",
+          "path": "images/screens-filter/ideal__default.png",
+          "state": "default",
+          "width": 1050,
+          "height": 2100,
+          "livePreview": "https://preview.coo.ee/compose-samples-jetsnack/p/screens-filter__ideal__default",
+          "previewId": "com.example.jetsnack.ui.home.FilterScreenKt.FilterScreenPreview_filter_screen",
+          "density": 2.625
+        }
+      ],
+      "greenlines": [
+        {
+          "kind": "a11y",
+          "severity": "info",
+          "message": "button",
+          "detail": {
+            "role": "button",
+            "bounds": {
+              "x": 116,
+              "y": 513,
+              "width": 105,
+              "height": 105
+            }
+          },
+          "bounds": {
+            "x": 116,
+            "y": 513,
+            "width": 105,
+            "height": 105
+          }
+        },
+        {
+          "kind": "a11y",
+          "severity": "info",
+          "message": "button",
+          "detail": {
+            "role": "button",
+            "bounds": {
+              "x": 0,
+              "y": 0,
+              "width": 0,
+              "height": 0
+            }
+          },
+          "bounds": {
+            "x": 0,
+            "y": 0,
+            "width": 0,
+            "height": 0
+          }
+        }
+      ],
+      "redlines": [
+        {
+          "bounds": {
+            "x": 42,
+            "y": 460,
+            "width": 966,
+            "height": 1181
+          },
+          "padding": {
+            "start": 16,
+            "top": 16,
+            "end": 16,
+            "bottom": 16
+          },
+          "cornerRadius": 20
+        },
+        {
+          "bounds": {
+            "x": 116,
+            "y": 513,
+            "width": 105,
+            "height": 105
+          },
+          "role": "Button",
+          "cornerRadius": 20
+        },
+        {
+          "bounds": {
+            "x": 231,
+            "y": 523,
+            "width": 588,
+            "height": 105
+          },
+          "label": "Filters",
+          "padding": {
+            "start": 0,
+            "top": 8,
+            "end": 48,
+            "bottom": 0
+          }
+        },
+        {
+          "bounds": {
+            "x": 105,
+            "y": 628,
+            "width": 112,
+            "height": 64
+          },
+          "label": "Sort",
+          "padding": {
+            "start": 0,
+            "top": 0,
+            "end": 0,
+            "bottom": 8
+          }
+        },
+        {
+          "bounds": {
+            "x": 105,
+            "y": 750,
+            "width": 840,
+            "height": 63
+          },
+          "padding": {
+            "start": 0,
+            "top": 14,
+            "end": 0,
+            "bottom": 0
+          }
+        },
+        {
+          "bounds": {
+            "x": 194,
+            "y": 750,
+            "width": 688,
+            "height": 52
+          },
+          "label": "Android's favorite (default)",
+          "padding": {
+            "start": 10,
+            "top": 0,
+            "end": 0,
+            "bottom": 0
+          }
+        },
+        {
+          "bounds": {
+            "x": 105,
+            "y": 850,
+            "width": 840,
+            "height": 63
+          },
+          "padding": {
+            "start": 0,
+            "top": 14,
+            "end": 0,
+            "bottom": 0
+          }
+        },
+        {
+          "bounds": {
+            "x": 194,
+            "y": 850,
+            "width": 751,
+            "height": 52
+          },
+          "label": "Rating",
+          "padding": {
+            "start": 10,
+            "top": 0,
+            "end": 0,
+            "bottom": 0
+          }
+        },
+        {
+          "bounds": {
+            "x": 105,
+            "y": 950,
+            "width": 840,
+            "height": 63
+          },
+          "padding": {
+            "start": 0,
+            "top": 14,
+            "end": 0,
+            "bottom": 0
+          }
+        },
+        {
+          "bounds": {
+            "x": 194,
+            "y": 950,
+            "width": 751,
+            "height": 52
+          },
+          "label": "Alphabetical",
+          "padding": {
+            "start": 10,
+            "top": 0,
+            "end": 0,
+            "bottom": 0
+          }
+        },
+        {
+          "bounds": {
+            "x": 105,
+            "y": 1076,
+            "width": 136,
+            "height": 64
+          },
+          "label": "Price",
+          "padding": {
+            "start": 0,
+            "top": 0,
+            "end": 0,
+            "bottom": 8
+          }
+        },
+        {
+          "bounds": {
+            "x": 116,
+            "y": 1193,
+            "width": 128,
+            "height": 69
+          },
+          "padding": {
+            "start": 0,
+            "top": 0,
+            "end": 4,
+            "bottom": 8
+          },
+          "cornerRadius": 13.14
+        },
+        {
+          "bounds": {
+            "x": 116,
+            "y": 1193,
+            "width": 128,
+            "height": 69
+          },
+          "cornerRadius": 13.14
+        },
+        {
+          "bounds": {
+            "x": 169,
+            "y": 1209,
+            "width": 22,
+            "height": 37
+          },
+          "label": "$",
+          "padding": {
+            "start": 20,
+            "top": 6,
+            "end": 20,
+            "bottom": 6
+          }
+        },
+        {
+          "bounds": {
+            "x": 255,
+            "y": 1193,
+            "width": 151,
+            "height": 69
+          },
+          "padding": {
+            "start": 0,
+            "top": 0,
+            "end": 4,
+            "bottom": 8
+          },
+          "cornerRadius": 13.14
+        },
+        {
+          "bounds": {
+            "x": 255,
+            "y": 1193,
+            "width": 151,
+            "height": 69
+          },
+          "cornerRadius": 13.14
+        },
+        {
+          "bounds": {
+            "x": 308,
+            "y": 1209,
+            "width": 45,
+            "height": 37
+          },
+          "label": "$$",
+          "padding": {
+            "start": 20,
+            "top": 6,
+            "end": 20,
+            "bottom": 6
+          }
+        },
+        {
+          "bounds": {
+            "x": 417,
+            "y": 1193,
+            "width": 173,
+            "height": 69
+          },
+          "padding": {
+            "start": 0,
+            "top": 0,
+            "end": 4,
+            "bottom": 8
+          },
+          "cornerRadius": 13.14
+        },
+        {
+          "bounds": {
+            "x": 417,
+            "y": 1193,
+            "width": 173,
+            "height": 69
+          },
+          "cornerRadius": 13.14
+        },
+        {
+          "bounds": {
+            "x": 470,
+            "y": 1209,
+            "width": 67,
+            "height": 37
+          },
+          "label": "$$$",
+          "padding": {
+            "start": 20,
+            "top": 6,
+            "end": 20,
+            "bottom": 6
+          }
+        },
+        {
+          "bounds": {
+            "x": 601,
+            "y": 1193,
+            "width": 195,
+            "height": 69
+          },
+          "padding": {
+            "start": 0,
+            "top": 0,
+            "end": 4,
+            "bottom": 8
+          },
+          "cornerRadius": 13.14
+        },
+        {
+          "bounds": {
+            "x": 601,
+            "y": 1193,
+            "width": 195,
+            "height": 69
+          },
+          "cornerRadius": 13.14
+        },
+        {
+          "bounds": {
+            "x": 654,
+            "y": 1209,
+            "width": 89,
+            "height": 37
+          },
+          "label": "$$$$",
+          "padding": {
+            "start": 20,
+            "top": 6,
+            "end": 20,
+            "bottom": 6
+          }
+        },
+        {
+          "bounds": {
+            "x": 105,
+            "y": 1325,
+            "width": 246,
+            "height": 64
+          },
+          "label": "Category",
+          "padding": {
+            "start": 0,
+            "top": 0,
+            "end": 0,
+            "bottom": 8
+          }
+        },
+        {
+          "bounds": {
+            "x": 116,
+            "y": 1442,
+            "width": 379,
+            "height": 69
+          },
+          "padding": {
+            "start": 0,
+            "top": 0,
+            "end": 4,
+            "bottom": 8
+          },
+          "cornerRadius": 13.14
+        },
+        {
+          "bounds": {
+            "x": 116,
+            "y": 1442,
+            "width": 379,
+            "height": 69
+          },
+          "cornerRadius": 13.14
+        },
+        {
+          "bounds": {
+            "x": 169,
+            "y": 1458,
+            "width": 273,
+            "height": 37
+          },
+          "label": "Chips & crackers",
+          "padding": {
+            "start": 20,
+            "top": 6,
+            "end": 20,
+            "bottom": 6
+          }
+        },
+        {
+          "bounds": {
+            "x": 506,
+            "y": 1442,
+            "width": 301,
+            "height": 69
+          },
+          "padding": {
+            "start": 0,
+            "top": 0,
+            "end": 4,
+            "bottom": 8
+          },
+          "cornerRadius": 13.14
+        },
+        {
+          "bounds": {
+            "x": 506,
+            "y": 1442,
+            "width": 301,
+            "height": 69
+          },
+          "cornerRadius": 13.14
+        },
+        {
+          "bounds": {
+            "x": 559,
+            "y": 1458,
+            "width": 195,
+            "height": 37
+          },
+          "label": "Fruit snacks",
+          "padding": {
+            "start": 20,
+            "top": 6,
+            "end": 20,
+            "bottom": 6
+          }
+        },
+        {
+          "bounds": {
+            "x": 116,
+            "y": 1532,
+            "width": 241,
+            "height": 69
+          },
+          "padding": {
+            "start": 0,
+            "top": 0,
+            "end": 4,
+            "bottom": 8
+          },
+          "cornerRadius": 13.14
+        },
+        {
+          "bounds": {
+            "x": 116,
+            "y": 1532,
+            "width": 241,
+            "height": 69
+          },
+          "cornerRadius": 13.14
+        },
+        {
+          "bounds": {
+            "x": 169,
+            "y": 1548,
+            "width": 135,
+            "height": 37
+          },
+          "label": "Desserts",
+          "padding": {
+            "start": 20,
+            "top": 6,
+            "end": 20,
+            "bottom": 6
+          }
+        },
+        {
+          "bounds": {
+            "x": 368,
+            "y": 1532,
+            "width": 180,
+            "height": 69
+          },
+          "padding": {
+            "start": 0,
+            "top": 0,
+            "end": 4,
+            "bottom": 8
+          },
+          "cornerRadius": 13.14
+        },
+        {
+          "bounds": {
+            "x": 368,
+            "y": 1532,
+            "width": 180,
+            "height": 69
+          },
+          "cornerRadius": 13.14
+        },
+        {
+          "bounds": {
+            "x": 421,
+            "y": 1548,
+            "width": 74,
+            "height": 37
+          },
+          "label": "Nuts",
+          "padding": {
+            "start": 20,
+            "top": 6,
+            "end": 20,
+            "bottom": 6
+          }
+        },
+        {
+          "bounds": {
+            "x": 0,
+            "y": 0,
+            "width": 0,
+            "height": 0
+          },
+          "label": "Max Calories",
+          "padding": {
+            "start": 0,
+            "top": 0,
+            "end": 0,
+            "bottom": 8
+          }
+        },
+        {
+          "bounds": {
+            "x": 0,
+            "y": 0,
+            "width": 0,
+            "height": 0
+          },
+          "label": "per serving",
+          "padding": {
+            "start": 10,
+            "top": 5,
+            "end": 0,
+            "bottom": 0
+          }
+        },
+        {
+          "bounds": {
+            "x": 0,
+            "y": 0,
+            "width": 0,
+            "height": 0
+          },
+          "padding": {
+            "start": 10,
+            "top": 0,
+            "end": 10,
+            "bottom": 0
+          }
+        },
+        {
+          "bounds": {
+            "x": 0,
+            "y": 0,
+            "width": 0,
+            "height": 0
+          },
+          "cornerRadius": 2.1
+        },
+        {
+          "bounds": {
+            "x": 0,
+            "y": 0,
+            "width": 0,
+            "height": 0
+          },
+          "label": "LifeStyle",
+          "padding": {
+            "start": 0,
+            "top": 0,
+            "end": 0,
+            "bottom": 8
+          }
+        },
+        {
+          "bounds": {
+            "x": 0,
+            "y": 0,
+            "width": 0,
+            "height": 0
+          },
+          "padding": {
+            "start": 0,
+            "top": 0,
+            "end": 4,
+            "bottom": 8
+          },
+          "cornerRadius": 13.14
+        },
+        {
+          "bounds": {
+            "x": 0,
+            "y": 0,
+            "width": 0,
+            "height": 0
+          },
+          "cornerRadius": 13.14
+        },
+        {
+          "bounds": {
+            "x": 0,
+            "y": 0,
+            "width": 0,
+            "height": 0
+          },
+          "label": "Organic",
+          "padding": {
+            "start": 20,
+            "top": 6,
+            "end": 20,
+            "bottom": 6
+          }
+        },
+        {
+          "bounds": {
+            "x": 0,
+            "y": 0,
+            "width": 0,
+            "height": 0
+          },
+          "padding": {
+            "start": 0,
+            "top": 0,
+            "end": 4,
+            "bottom": 8
+          },
+          "cornerRadius": 13.14
+        },
+        {
+          "bounds": {
+            "x": 0,
+            "y": 0,
+            "width": 0,
+            "height": 0
+          },
+          "cornerRadius": 13.14
+        },
+        {
+          "bounds": {
+            "x": 0,
+            "y": 0,
+            "width": 0,
+            "height": 0
+          },
+          "label": "Gluten-free",
+          "padding": {
+            "start": 20,
+            "top": 6,
+            "end": 20,
+            "bottom": 6
+          }
+        },
+        {
+          "bounds": {
+            "x": 0,
+            "y": 0,
+            "width": 0,
+            "height": 0
+          },
+          "padding": {
+            "start": 0,
+            "top": 0,
+            "end": 4,
+            "bottom": 8
+          },
+          "cornerRadius": 13.14
+        },
+        {
+          "bounds": {
+            "x": 0,
+            "y": 0,
+            "width": 0,
+            "height": 0
+          },
+          "cornerRadius": 13.14
+        },
+        {
+          "bounds": {
+            "x": 0,
+            "y": 0,
+            "width": 0,
+            "height": 0
+          },
+          "label": "Dairy-free",
+          "padding": {
+            "start": 20,
+            "top": 6,
+            "end": 20,
+            "bottom": 6
+          }
+        },
+        {
+          "bounds": {
+            "x": 0,
+            "y": 0,
+            "width": 0,
+            "height": 0
+          },
+          "padding": {
+            "start": 0,
+            "top": 0,
+            "end": 4,
+            "bottom": 8
+          },
+          "cornerRadius": 13.14
+        },
+        {
+          "bounds": {
+            "x": 0,
+            "y": 0,
+            "width": 0,
+            "height": 0
+          },
+          "cornerRadius": 13.14
+        },
+        {
+          "bounds": {
+            "x": 0,
+            "y": 0,
+            "width": 0,
+            "height": 0
+          },
+          "label": "Sweet",
+          "padding": {
+            "start": 20,
+            "top": 6,
+            "end": 20,
+            "bottom": 6
+          }
+        },
+        {
+          "bounds": {
+            "x": 0,
+            "y": 0,
+            "width": 0,
+            "height": 0
+          },
+          "padding": {
+            "start": 0,
+            "top": 0,
+            "end": 4,
+            "bottom": 8
+          },
+          "cornerRadius": 13.14
+        },
+        {
+          "bounds": {
+            "x": 0,
+            "y": 0,
+            "width": 0,
+            "height": 0
+          },
+          "cornerRadius": 13.14
+        },
+        {
+          "bounds": {
+            "x": 0,
+            "y": 0,
+            "width": 0,
+            "height": 0
+          },
+          "label": "Savory",
+          "padding": {
+            "start": 20,
+            "top": 6,
+            "end": 20,
+            "bottom": 6
+          }
+        }
+      ],
+      "section": "Screens",
+      "group": "Screens",
+      "caption": "The filter sheet — sort, price, category and lifestyle sections.",
+      "wireframe": "wireframes/screens-filter.svg",
+      "sourceFile": "src/main/java/com/example/jetsnack/ui/home/FilterScreen.kt",
+      "sourceModule": ":app",
+      "bodyLine": 309,
+      "sourceDirectory": "Jetsnack/app",
+      "sourceFunction": "FilterScreenPreview",
+      "parameters": [
+        {
+          "name": "sharedTransitionScope",
+          "type": "SharedTransitionScope"
+        },
+        {
+          "name": "animatedVisibilityScope",
+          "type": "AnimatedVisibilityScope"
+        },
+        {
+          "name": "onDismiss",
+          "type": "() -> Unit"
+        }
+      ]
+    },
+    {
+      "componentId": "Foundations/Button",
+      "images": [
+        {
+          "variant": "ideal",
+          "path": "images/foundations-button/ideal__default__dark.png",
+          "state": "default",
+          "width": 250,
+          "height": 105,
+          "theme": "dark",
+          "livePreview": "https://preview.coo.ee/compose-samples-jetsnack/p/foundations-button__ideal__default__dark",
+          "previewId": "com.example.jetsnack.ui.components.ButtonKt.ButtonPreview_dark_theme",
+          "previewParams": {
+            "uiMode": 32
+          },
+          "density": 2.625
+        },
+        {
+          "variant": "ideal",
+          "path": "images/foundations-button/ideal__default.png",
+          "state": "default",
+          "width": 250,
+          "height": 105,
+          "livePreview": "https://preview.coo.ee/compose-samples-jetsnack/p/foundations-button__ideal__default",
+          "previewId": "com.example.jetsnack.ui.components.ButtonKt.ButtonPreview_default",
+          "density": 2.625
+        },
+        {
+          "variant": "ideal",
+          "path": "images/foundations-button/ideal__default__fontscale-2.0.png",
+          "state": "default",
+          "width": 361,
+          "height": 126,
+          "props": {
+            "fontScale": "2.0"
+          },
+          "livePreview": "https://preview.coo.ee/compose-samples-jetsnack/p/foundations-button__ideal__default__fontscale-2.0"
+        },
+        {
+          "variant": "ideal",
+          "path": "images/foundations-button/ideal__rectangle__dark.png",
+          "state": "rectangle",
+          "width": 250,
+          "height": 105,
+          "theme": "dark",
+          "livePreview": "https://preview.coo.ee/compose-samples-jetsnack/p/foundations-button__ideal__rectangle__dark",
+          "previewId": "com.example.jetsnack.ui.components.ButtonKt.RectangleButtonPreview_dark_theme",
+          "previewParams": {
+            "uiMode": 32
+          },
+          "density": 2.625
+        },
+        {
+          "variant": "ideal",
+          "path": "images/foundations-button/ideal__rectangle.png",
+          "state": "rectangle",
+          "width": 250,
+          "height": 105,
+          "livePreview": "https://preview.coo.ee/compose-samples-jetsnack/p/foundations-button__ideal__rectangle",
+          "previewId": "com.example.jetsnack.ui.components.ButtonKt.RectangleButtonPreview_default",
+          "density": 2.625
+        },
+        {
+          "variant": "ideal",
+          "path": "images/foundations-button/ideal__rectangle__fontscale-2.0.png",
+          "state": "rectangle",
+          "width": 361,
+          "height": 126,
+          "props": {
+            "fontScale": "2.0"
+          },
+          "livePreview": "https://preview.coo.ee/compose-samples-jetsnack/p/foundations-button__ideal__rectangle__fontscale-2.0"
+        }
+      ],
+      "greenlines": [
+        {
+          "kind": "a11y",
+          "severity": "info",
+          "message": "button",
+          "detail": {
+            "role": "button",
+            "bounds": {
+              "x": 0,
+              "y": 0,
+              "width": 250,
+              "height": 105
+            }
+          },
+          "bounds": {
+            "x": 0,
+            "y": 0,
+            "width": 250,
+            "height": 105
+          }
+        }
+      ],
+      "redlines": [
+        {
+          "bounds": {
+            "x": 0,
+            "y": 0,
+            "width": 250,
+            "height": 105
+          },
+          "role": "Button",
+          "cornerRadius": 20
+        }
+      ],
+      "section": "Components",
+      "group": "Foundations",
+      "caption": "JetsnackButton — the gradient-filled primary action.",
+      "wireframe": "wireframes/foundations-button.svg",
+      "sourceFile": "src/main/java/com/example/jetsnack/ui/components/Button.kt",
+      "sourceModule": ":app",
+      "bodyLine": 110,
+      "sourceDirectory": "Jetsnack/app",
+      "sourceFunction": "ButtonPreview",
+      "parameters": [
+        {
+          "name": "onClick",
+          "type": "() -> Unit"
+        },
+        {
+          "name": "modifier",
+          "type": "Modifier",
+          "hasDefault": true
+        },
+        {
+          "name": "enabled",
+          "type": "Boolean",
+          "hasDefault": true
+        },
+        {
+          "name": "interactionSource",
+          "type": "MutableInteractionSource",
+          "hasDefault": true
+        },
+        {
+          "name": "shape",
+          "type": "Shape",
+          "hasDefault": true
+        },
+        {
+          "name": "border",
+          "type": "BorderStroke?",
+          "hasDefault": true
+        },
+        {
+          "name": "backgroundGradient",
+          "type": "List<Color>",
+          "hasDefault": true
+        },
+        {
+          "name": "disabledBackgroundGradient",
+          "type": "List<Color>",
+          "hasDefault": true
+        },
+        {
+          "name": "contentColor",
+          "type": "Color",
+          "hasDefault": true
+        },
+        {
+          "name": "disabledContentColor",
+          "type": "Color",
+          "hasDefault": true
+        },
+        {
+          "name": "contentPadding",
+          "type": "PaddingValues",
+          "hasDefault": true
+        },
+        {
+          "name": "content",
+          "type": "RowScope.() -> Unit",
+          "composableSlot": true
+        }
+      ]
+    },
+    {
+      "componentId": "Foundations/Card",
+      "images": [
+        {
+          "variant": "ideal",
+          "path": "images/foundations-card/ideal__default__dark.png",
+          "state": "default",
+          "width": 199,
+          "height": 158,
+          "theme": "dark",
+          "livePreview": "https://preview.coo.ee/compose-samples-jetsnack/p/foundations-card__ideal__default__dark",
+          "previewId": "com.example.jetsnack.ui.components.CardKt.CardPreview_dark_theme",
+          "previewParams": {
+            "uiMode": 32
+          },
+          "density": 2.625
+        },
+        {
+          "variant": "ideal",
+          "path": "images/foundations-card/ideal__default.png",
+          "state": "default",
+          "width": 199,
+          "height": 158,
+          "livePreview": "https://preview.coo.ee/compose-samples-jetsnack/p/foundations-card__ideal__default",
+          "previewId": "com.example.jetsnack.ui.components.CardKt.CardPreview_default",
+          "density": 2.625
+        },
+        {
+          "variant": "ideal",
+          "path": "images/foundations-card/ideal__default__fontscale-2.0.png",
+          "state": "default",
+          "width": 282,
+          "height": 213,
+          "props": {
+            "fontScale": "2.0"
+          },
+          "livePreview": "https://preview.coo.ee/compose-samples-jetsnack/p/foundations-card__ideal__default__fontscale-2.0"
+        }
+      ],
+      "greenlines": [],
+      "redlines": [
+        {
+          "bounds": {
+            "x": 0,
+            "y": 0,
+            "width": 199,
+            "height": 158
+          },
+          "cornerRadius": 20
+        },
+        {
+          "bounds": {
+            "x": 42,
+            "y": 42,
+            "width": 115,
+            "height": 74
+          },
+          "label": "Demo",
+          "padding": {
+            "start": 16,
+            "top": 16,
+            "end": 16,
+            "bottom": 16
+          }
+        }
+      ],
+      "section": "Components",
+      "group": "Foundations",
+      "caption": "JetsnackCard — the surface product tiles are built on.",
+      "wireframe": "wireframes/foundations-card.svg",
+      "sourceFile": "src/main/java/com/example/jetsnack/ui/components/Card.kt",
+      "sourceModule": ":app",
+      "bodyLine": 58,
+      "sourceDirectory": "Jetsnack/app",
+      "sourceFunction": "CardPreview",
+      "parameters": [
+        {
+          "name": "modifier",
+          "type": "Modifier",
+          "hasDefault": true
+        },
+        {
+          "name": "shape",
+          "type": "Shape",
+          "hasDefault": true
+        },
+        {
+          "name": "color",
+          "type": "Color",
+          "hasDefault": true
+        },
+        {
+          "name": "contentColor",
+          "type": "Color",
+          "hasDefault": true
+        },
+        {
+          "name": "border",
+          "type": "BorderStroke?",
+          "hasDefault": true
+        },
+        {
+          "name": "elevation",
+          "type": "Dp",
+          "hasDefault": true
+        },
+        {
+          "name": "content",
+          "type": "() -> Unit",
+          "composableSlot": true
+        }
+      ]
+    },
+    {
+      "componentId": "Foundations/Divider",
+      "images": [
+        {
+          "variant": "ideal",
+          "path": "images/foundations-divider/ideal__default__dark.png",
+          "state": "default",
+          "width": 263,
+          "height": 26,
+          "theme": "dark",
+          "livePreview": "https://preview.coo.ee/compose-samples-jetsnack/p/foundations-divider__ideal__default__dark",
+          "previewId": "com.example.jetsnack.ui.components.DividerKt.DividerPreview_dark_theme",
+          "previewParams": {
+            "uiMode": 32,
+            "showBackground": true
+          },
+          "density": 2.625
+        },
+        {
+          "variant": "ideal",
+          "path": "images/foundations-divider/ideal__default.png",
+          "state": "default",
+          "width": 263,
+          "height": 26,
+          "livePreview": "https://preview.coo.ee/compose-samples-jetsnack/p/foundations-divider__ideal__default",
+          "previewId": "com.example.jetsnack.ui.components.DividerKt.DividerPreview_default",
+          "previewParams": {
+            "showBackground": true
+          },
+          "density": 2.625
+        }
+      ],
+      "greenlines": [],
+      "redlines": [],
+      "section": "Components",
+      "group": "Foundations",
+      "caption": "The system divider.",
+      "wireframe": "wireframes/foundations-divider.svg",
+      "sourceFile": "src/main/java/com/example/jetsnack/ui/components/Divider.kt",
+      "sourceModule": ":app",
+      "bodyLine": 50,
+      "sourceDirectory": "Jetsnack/app",
+      "sourceFunction": "DividerPreview",
+      "parameters": [
+        {
+          "name": "modifier",
+          "type": "Modifier",
+          "hasDefault": true
+        },
+        {
+          "name": "color",
+          "type": "Color",
+          "hasDefault": true
+        },
+        {
+          "name": "thickness",
+          "type": "Dp",
+          "hasDefault": true
+        }
+      ]
+    },
+    {
+      "componentId": "Foundations/Icon button",
+      "images": [
+        {
+          "variant": "ideal",
+          "path": "images/foundations-icon-button/ideal__default__dark.png",
+          "state": "default",
+          "width": 85,
+          "height": 85,
+          "theme": "dark",
+          "livePreview": "https://preview.coo.ee/compose-samples-jetsnack/p/foundations-icon-button__ideal__default__dark",
+          "previewId": "com.example.jetsnack.ui.components.GradientTintedIconButtonKt.GradientTintedIconButtonPreview_dark_theme",
+          "previewParams": {
+            "uiMode": 32
+          },
+          "density": 2.625
+        },
+        {
+          "variant": "ideal",
+          "path": "images/foundations-icon-button/ideal__default.png",
+          "state": "default",
+          "width": 85,
+          "height": 85,
+          "livePreview": "https://preview.coo.ee/compose-samples-jetsnack/p/foundations-icon-button__ideal__default",
+          "previewId": "com.example.jetsnack.ui.components.GradientTintedIconButtonKt.GradientTintedIconButtonPreview_default",
+          "density": 2.625
+        }
+      ],
+      "greenlines": [],
+      "redlines": [
+        {
+          "bounds": {
+            "x": 11,
+            "y": 11,
+            "width": 63,
+            "height": 63
+          },
+          "padding": {
+            "start": 4,
+            "top": 4,
+            "end": 4,
+            "bottom": 4
+          },
+          "cornerRadius": 12
+        }
+      ],
+      "section": "Components",
+      "group": "Foundations",
+      "caption": "The gradient-tinted icon button.",
+      "wireframe": "wireframes/foundations-icon-button.svg",
+      "sourceFile": "src/main/java/com/example/jetsnack/ui/components/GradientTintedIconButton.kt",
+      "sourceModule": ":app",
+      "bodyLine": 102,
+      "sourceDirectory": "Jetsnack/app",
+      "sourceFunction": "GradientTintedIconButtonPreview",
+      "parameters": [
+        {
+          "name": "iconResourceId",
+          "type": "Int"
+        },
+        {
+          "name": "onClick",
+          "type": "() -> Unit"
+        },
+        {
+          "name": "contentDescription",
+          "type": "String?"
+        },
+        {
+          "name": "modifier",
+          "type": "Modifier",
+          "hasDefault": true
+        },
+        {
+          "name": "colors",
+          "type": "List<Color>",
+          "hasDefault": true
+        }
+      ]
+    },
+    {
+      "componentId": "Snack/Card",
+      "images": [
+        {
+          "variant": "ideal",
+          "path": "images/snack-card/ideal__default__dark.png",
+          "state": "default",
+          "width": 446,
+          "height": 698,
+          "theme": "dark",
+          "livePreview": "https://preview.coo.ee/compose-samples-jetsnack/p/snack-card__ideal__default__dark",
+          "previewId": "com.example.jetsnack.ui.components.SnacksKt.SnackCardPreview_dark_theme",
+          "previewParams": {
+            "uiMode": 32
+          },
+          "density": 2.625
+        },
+        {
+          "variant": "ideal",
+          "path": "images/snack-card/ideal__default.png",
+          "state": "default",
+          "width": 446,
+          "height": 698,
+          "livePreview": "https://preview.coo.ee/compose-samples-jetsnack/p/snack-card__ideal__default",
+          "previewId": "com.example.jetsnack.ui.components.SnacksKt.SnackCardPreview_default",
+          "density": 2.625
+        },
+        {
+          "variant": "ideal",
+          "path": "images/snack-card/ideal__default__fontscale-2.0.png",
+          "state": "default",
+          "width": 446,
+          "height": 698,
+          "props": {
+            "fontScale": "2.0"
+          },
+          "livePreview": "https://preview.coo.ee/compose-samples-jetsnack/p/snack-card__ideal__default__fontscale-2.0"
+        }
+      ],
+      "greenlines": [],
+      "redlines": [
+        {
+          "bounds": {
+            "x": 0,
+            "y": 0,
+            "width": 446,
+            "height": 656
+          },
+          "padding": {
+            "start": 0,
+            "top": 0,
+            "end": 0,
+            "bottom": 16
+          },
+          "cornerRadius": 20
+        },
+        {
+          "bounds": {
+            "x": 66,
+            "y": 105,
+            "width": 315,
+            "height": 315
+          },
+          "cornerRadius": 60
+        },
+        {
+          "bounds": {
+            "x": 42,
+            "y": 441,
+            "width": 235,
+            "height": 64
+          },
+          "label": "Cupcake",
+          "padding": {
+            "start": 16,
+            "top": 0,
+            "end": 16,
+            "bottom": 0
+          }
+        },
+        {
+          "bounds": {
+            "x": 42,
+            "y": 516,
+            "width": 185,
+            "height": 50
+          },
+          "label": "A tag line",
+          "padding": {
+            "start": 16,
+            "top": 0,
+            "end": 16,
+            "bottom": 0
+          }
+        }
+      ],
+      "section": "Components",
+      "group": "Catalog",
+      "caption": "The product card as it appears in highlighted collections.",
+      "wireframe": "wireframes/snack-card.svg",
+      "sourceFile": "src/main/java/com/example/jetsnack/ui/components/Snacks.kt",
+      "sourceModule": ":app",
+      "bodyLine": 479,
+      "sourceDirectory": "Jetsnack/app",
+      "sourceFunction": "SnackCardPreview"
+    },
+    {
+      "componentId": "Catalog/Filter",
+      "images": [
+        {
+          "variant": "ideal",
+          "path": "images/catalog-filter/ideal__default__dark.png",
+          "state": "default",
+          "width": 195,
+          "height": 69,
+          "theme": "dark",
+          "livePreview": "https://preview.coo.ee/compose-samples-jetsnack/p/catalog-filter__ideal__default__dark",
+          "previewId": "com.example.jetsnack.ui.components.FiltersKt.FilterEnabledPreview_dark_theme",
+          "previewParams": {
+            "uiMode": 32
+          },
+          "density": 2.625
+        },
+        {
+          "variant": "ideal",
+          "path": "images/catalog-filter/ideal__default.png",
+          "state": "default",
+          "width": 195,
+          "height": 69,
+          "livePreview": "https://preview.coo.ee/compose-samples-jetsnack/p/catalog-filter__ideal__default",
+          "previewId": "com.example.jetsnack.ui.components.FiltersKt.FilterEnabledPreview_default",
+          "density": 2.625
+        },
+        {
+          "variant": "ideal",
+          "path": "images/catalog-filter/ideal__default__fontscale-2.0.png",
+          "state": "default",
+          "width": 286,
+          "height": 106,
+          "props": {
+            "fontScale": "2.0"
+          },
+          "livePreview": "https://preview.coo.ee/compose-samples-jetsnack/p/catalog-filter__ideal__default__fontscale-2.0"
+        },
+        {
+          "variant": "ideal",
+          "path": "images/catalog-filter/ideal__disabled__dark.png",
+          "state": "disabled",
+          "width": 217,
+          "height": 91,
+          "theme": "dark",
+          "livePreview": "https://preview.coo.ee/compose-samples-jetsnack/p/catalog-filter__ideal__disabled__dark",
+          "previewId": "com.example.jetsnack.ui.components.FiltersKt.FilterDisabledPreview_dark_theme",
+          "previewParams": {
+            "uiMode": 32
+          },
+          "density": 2.625
+        },
+        {
+          "variant": "ideal",
+          "path": "images/catalog-filter/ideal__disabled.png",
+          "state": "disabled",
+          "width": 217,
+          "height": 91,
+          "livePreview": "https://preview.coo.ee/compose-samples-jetsnack/p/catalog-filter__ideal__disabled",
+          "previewId": "com.example.jetsnack.ui.components.FiltersKt.FilterDisabledPreview_default",
+          "density": 2.625
+        },
+        {
+          "variant": "ideal",
+          "path": "images/catalog-filter/ideal__disabled__fontscale-2.0.png",
+          "state": "disabled",
+          "width": 308,
+          "height": 128,
+          "props": {
+            "fontScale": "2.0"
+          },
+          "livePreview": "https://preview.coo.ee/compose-samples-jetsnack/p/catalog-filter__ideal__disabled__fontscale-2.0"
+        }
+      ],
+      "greenlines": [],
+      "redlines": [
+        {
+          "bounds": {
+            "x": 0,
+            "y": 0,
+            "width": 195,
+            "height": 69
+          },
+          "cornerRadius": 13.14
+        },
+        {
+          "bounds": {
+            "x": 0,
+            "y": 0,
+            "width": 195,
+            "height": 69
+          },
+          "cornerRadius": 13.14
+        },
+        {
+          "bounds": {
+            "x": 53,
+            "y": 16,
+            "width": 89,
+            "height": 37
+          },
+          "label": "Demo",
+          "padding": {
+            "start": 20,
+            "top": 6,
+            "end": 20,
+            "bottom": 6
+          }
+        }
+      ],
+      "section": "Components",
+      "group": "Catalog",
+      "caption": "A filter chip, enabled.",
+      "wireframe": "wireframes/catalog-filter.svg",
+      "sourceFile": "src/main/java/com/example/jetsnack/ui/components/Filters.kt",
+      "sourceModule": ":app",
+      "bodyLine": 177,
+      "sourceDirectory": "Jetsnack/app",
+      "sourceFunction": "FilterEnabledPreview",
+      "parameters": [
+        {
+          "name": "filter",
+          "type": "Filter"
+        },
+        {
+          "name": "modifier",
+          "type": "Modifier",
+          "hasDefault": true
+        },
+        {
+          "name": "shape",
+          "type": "Shape",
+          "hasDefault": true
+        }
+      ]
+    },
+    {
+      "componentId": "Search/Category",
+      "images": [
+        {
+          "variant": "ideal",
+          "path": "images/search-category/ideal__default__dark.png",
+          "state": "default",
+          "width": 1050,
+          "height": 724,
+          "theme": "dark",
+          "livePreview": "https://preview.coo.ee/compose-samples-jetsnack/p/search-category__ideal__default__dark",
+          "previewId": "com.example.jetsnack.ui.home.search.CategoriesKt.SearchCategoryPreview_dark_theme",
+          "previewParams": {
+            "uiMode": 32
+          },
+          "density": 2.625
+        },
+        {
+          "variant": "ideal",
+          "path": "images/search-category/ideal__default.png",
+          "state": "default",
+          "width": 1050,
+          "height": 724,
+          "livePreview": "https://preview.coo.ee/compose-samples-jetsnack/p/search-category__ideal__default",
+          "previewId": "com.example.jetsnack.ui.home.search.CategoriesKt.SearchCategoryPreview_default",
+          "density": 2.625
+        },
+        {
+          "variant": "ideal",
+          "path": "images/search-category/ideal__default__fontscale-2.0.png",
+          "state": "default",
+          "width": 1050,
+          "height": 724,
+          "props": {
+            "fontScale": "2.0"
+          },
+          "livePreview": "https://preview.coo.ee/compose-samples-jetsnack/p/search-category__ideal__default__fontscale-2.0"
+        }
+      ],
+      "greenlines": [],
+      "redlines": [
+        {
+          "bounds": {
+            "x": 0,
+            "y": 0,
+            "width": 1050,
+            "height": 724
+          },
+          "cornerRadius": 10
+        },
+        {
+          "bounds": {
+            "x": 32,
+            "y": 336,
+            "width": 534,
+            "height": 52
+          },
+          "label": "Desserts",
+          "padding": {
+            "start": 4,
+            "top": 4,
+            "end": 4,
+            "bottom": 4
+          }
+        },
+        {
+          "bounds": {
+            "x": 577,
+            "y": 0,
+            "width": 473,
+            "height": 724
+          },
+          "cornerRadius": 137.9
+        }
+      ],
+      "section": "Components",
+      "group": "Catalog",
+      "caption": "A search category tile.",
+      "wireframe": "wireframes/search-category.svg",
+      "sourceFile": "src/main/java/com/example/jetsnack/ui/home/search/Categories.kt",
+      "sourceModule": ":app",
+      "bodyLine": 150,
+      "sourceDirectory": "Jetsnack/app",
+      "sourceFunction": "SearchCategoryPreview"
+    },
+    {
+      "componentId": "Search/Bar",
+      "images": [
+        {
+          "variant": "ideal",
+          "path": "images/search-bar/ideal__default__dark.png",
+          "state": "default",
+          "width": 1050,
+          "height": 147,
+          "theme": "dark",
+          "livePreview": "https://preview.coo.ee/compose-samples-jetsnack/p/search-bar__ideal__default__dark",
+          "previewId": "com.example.jetsnack.ui.home.search.SearchKt.SearchBarPreview_dark_theme",
+          "previewParams": {
+            "uiMode": 32
+          },
+          "density": 2.625
+        },
+        {
+          "variant": "ideal",
+          "path": "images/search-bar/ideal__default.png",
+          "state": "default",
+          "width": 1050,
+          "height": 147,
+          "livePreview": "https://preview.coo.ee/compose-samples-jetsnack/p/search-bar__ideal__default",
+          "previewId": "com.example.jetsnack.ui.home.search.SearchKt.SearchBarPreview_default",
+          "density": 2.625
+        },
+        {
+          "variant": "ideal",
+          "path": "images/search-bar/ideal__default__fontscale-2.0.png",
+          "state": "default",
+          "width": 1050,
+          "height": 147,
+          "props": {
+            "fontScale": "2.0"
+          },
+          "livePreview": "https://preview.coo.ee/compose-samples-jetsnack/p/search-bar__ideal__default__fontscale-2.0"
+        }
+      ],
+      "greenlines": [],
+      "redlines": [
+        {
+          "bounds": {
+            "x": 63,
+            "y": 21,
+            "width": 924,
+            "height": 105
+          },
+          "padding": {
+            "start": 24,
+            "top": 8,
+            "end": 24,
+            "bottom": 8
+          },
+          "cornerRadius": 20
+        }
+      ],
+      "section": "Components",
+      "group": "Catalog",
+      "caption": "The search entry field.",
+      "wireframe": "wireframes/search-bar.svg",
+      "sourceFile": "src/main/java/com/example/jetsnack/ui/home/search/Search.kt",
+      "sourceModule": ":app",
+      "bodyLine": 251,
+      "sourceDirectory": "Jetsnack/app",
+      "sourceFunction": "SearchBarPreview",
+      "parameters": [
+        {
+          "name": "modifier",
+          "type": "Modifier",
+          "hasDefault": true
+        },
+        {
+          "name": "shape",
+          "type": "Shape",
+          "hasDefault": true
+        },
+        {
+          "name": "color",
+          "type": "Color",
+          "hasDefault": true
+        },
+        {
+          "name": "contentColor",
+          "type": "Color",
+          "hasDefault": true
+        },
+        {
+          "name": "border",
+          "type": "BorderStroke?",
+          "hasDefault": true
+        },
+        {
+          "name": "elevation",
+          "type": "Dp",
+          "hasDefault": true
+        },
+        {
+          "name": "content",
+          "type": "() -> Unit",
+          "composableSlot": true
+        }
+      ]
+    },
+    {
+      "componentId": "Cart/Quantity",
+      "images": [
+        {
+          "variant": "ideal",
+          "path": "images/cart-quantity/ideal__default__dark.png",
+          "state": "default",
+          "width": 313,
+          "height": 63,
+          "theme": "dark",
+          "livePreview": "https://preview.coo.ee/compose-samples-jetsnack/p/cart-quantity__ideal__default__dark",
+          "previewId": "com.example.jetsnack.ui.components.QuantitySelectorKt.QuantitySelectorPreview_dark_theme",
+          "previewParams": {
+            "uiMode": 32
+          },
+          "density": 2.625
+        },
+        {
+          "variant": "ideal",
+          "path": "images/cart-quantity/ideal__default.png",
+          "state": "default",
+          "width": 313,
+          "height": 63,
+          "livePreview": "https://preview.coo.ee/compose-samples-jetsnack/p/cart-quantity__ideal__default",
+          "previewId": "com.example.jetsnack.ui.components.QuantitySelectorKt.QuantitySelectorPreview_default",
+          "density": 2.625
+        },
+        {
+          "variant": "ideal",
+          "path": "images/cart-quantity/ideal__default__fontscale-2.0.png",
+          "state": "default",
+          "width": 370,
+          "height": 92,
+          "props": {
+            "fontScale": "2.0"
+          },
+          "livePreview": "https://preview.coo.ee/compose-samples-jetsnack/p/cart-quantity__ideal__default__fontscale-2.0"
+        },
+        {
+          "variant": "ideal",
+          "path": "images/cart-quantity/ideal__rtl.png",
+          "state": "rtl",
+          "width": 313,
+          "height": 63,
+          "livePreview": "https://preview.coo.ee/compose-samples-jetsnack/p/cart-quantity__ideal__rtl",
+          "previewId": "com.example.jetsnack.ui.components.QuantitySelectorKt.QuantitySelectorPreviewRtl_RTL",
+          "density": 2.625
+        }
+      ],
+      "greenlines": [],
+      "redlines": [
+        {
+          "bounds": {
+            "x": 0,
+            "y": 6,
+            "width": 77,
+            "height": 52
+          },
+          "label": "Qty",
+          "padding": {
+            "start": 0,
+            "top": 0,
+            "end": 18,
+            "bottom": 0
+          }
+        },
+        {
+          "bounds": {
+            "x": 124,
+            "y": 0,
+            "width": 63,
+            "height": 63
+          },
+          "cornerRadius": 12
+        },
+        {
+          "bounds": {
+            "x": 250,
+            "y": 0,
+            "width": 63,
+            "height": 63
+          },
+          "cornerRadius": 12
+        }
+      ],
+      "section": "Components",
+      "group": "Cart",
+      "caption": "The quantity stepper.",
+      "wireframe": "wireframes/cart-quantity.svg",
+      "sourceFile": "src/main/java/com/example/jetsnack/ui/components/QuantitySelector.kt",
+      "sourceModule": ":app",
+      "bodyLine": 86,
+      "sourceDirectory": "Jetsnack/app",
+      "sourceFunction": "QuantitySelectorPreview",
+      "parameters": [
+        {
+          "name": "count",
+          "type": "Int"
+        },
+        {
+          "name": "decreaseItemCount",
+          "type": "() -> Unit"
+        },
+        {
+          "name": "increaseItemCount",
+          "type": "() -> Unit"
+        },
+        {
+          "name": "modifier",
+          "type": "Modifier",
+          "hasDefault": true
+        }
+      ]
+    },
+    {
+      "componentId": "Chrome/Bottom nav",
+      "images": [
+        {
+          "variant": "ideal",
+          "path": "images/chrome-bottom-nav/ideal__default.png",
+          "state": "default",
+          "width": 1050,
+          "height": 147,
+          "livePreview": "https://preview.coo.ee/compose-samples-jetsnack/p/chrome-bottom-nav__ideal__default",
+          "previewId": "com.example.jetsnack.ui.home.HomeKt.JetsnackBottomNavPreview",
+          "density": 2.625
+        }
+      ],
+      "greenlines": [],
+      "redlines": [
+        {
+          "bounds": {
+            "x": 42,
+            "y": 21,
+            "width": 336,
+            "height": 105
+          },
+          "padding": {
+            "start": 16,
+            "top": 8,
+            "end": 16,
+            "bottom": 8
+          },
+          "cornerRadius": 20
+        },
+        {
+          "bounds": {
+            "x": 42,
+            "y": 21,
+            "width": 336,
+            "height": 105
+          },
+          "padding": {
+            "start": 16,
+            "top": 8,
+            "end": 16,
+            "bottom": 8
+          },
+          "cornerRadius": 20
+        },
+        {
+          "bounds": {
+            "x": 182,
+            "y": 51,
+            "width": 128,
+            "height": 45
+          },
+          "padding": {
+            "start": 2,
+            "top": 0,
+            "end": 2,
+            "bottom": 0
+          }
+        },
+        {
+          "bounds": {
+            "x": 462,
+            "y": 21,
+            "width": 126,
+            "height": 105
+          },
+          "padding": {
+            "start": 16,
+            "top": 8,
+            "end": 16,
+            "bottom": 8
+          },
+          "cornerRadius": 20
+        },
+        {
+          "bounds": {
+            "x": 462,
+            "y": 21,
+            "width": 116,
+            "height": 43
+          },
+          "padding": {
+            "start": 2,
+            "top": 0,
+            "end": 2,
+            "bottom": 0
+          }
+        },
+        {
+          "bounds": {
+            "x": 672,
+            "y": 21,
+            "width": 126,
+            "height": 105
+          },
+          "padding": {
+            "start": 16,
+            "top": 8,
+            "end": 16,
+            "bottom": 8
+          },
+          "cornerRadius": 20
+        },
+        {
+          "bounds": {
+            "x": 672,
+            "y": 21,
+            "width": 116,
+            "height": 43
+          },
+          "padding": {
+            "start": 2,
+            "top": 0,
+            "end": 2,
+            "bottom": 0
+          }
+        },
+        {
+          "bounds": {
+            "x": 882,
+            "y": 21,
+            "width": 126,
+            "height": 105
+          },
+          "padding": {
+            "start": 16,
+            "top": 8,
+            "end": 16,
+            "bottom": 8
+          },
+          "cornerRadius": 20
+        },
+        {
+          "bounds": {
+            "x": 882,
+            "y": 21,
+            "width": 116,
+            "height": 43
+          },
+          "padding": {
+            "start": 2,
+            "top": 0,
+            "end": 2,
+            "bottom": 0
+          }
+        }
+      ],
+      "section": "Components",
+      "group": "Chrome",
+      "caption": "The custom animated bottom navigation bar.",
+      "wireframe": "wireframes/chrome-bottom-nav.svg",
+      "sourceFile": "src/main/java/com/example/jetsnack/ui/home/Home.kt",
+      "sourceModule": ":app",
+      "bodyLine": 422,
+      "sourceDirectory": "Jetsnack/app",
+      "sourceFunction": "JetsnackBottomNavPreview",
+      "parameters": [
+        {
+          "name": "tabs",
+          "type": "Array<HomeSections>"
+        },
+        {
+          "name": "currentRoute",
+          "type": "String"
+        },
+        {
+          "name": "navigateToRoute",
+          "type": "(String) -> Unit"
+        },
+        {
+          "name": "modifier",
+          "type": "Modifier",
+          "hasDefault": true
+        },
+        {
+          "name": "color",
+          "type": "Color",
+          "hasDefault": true
+        },
+        {
+          "name": "contentColor",
+          "type": "Color",
+          "hasDefault": true
+        }
+      ]
+    },
+    {
+      "componentId": "Chrome/Destination bar",
+      "images": [
+        {
+          "variant": "ideal",
+          "path": "images/chrome-destination-bar/ideal__default__dark.png",
+          "state": "default",
+          "width": 1050,
+          "height": 171,
+          "theme": "dark",
+          "livePreview": "https://preview.coo.ee/compose-samples-jetsnack/p/chrome-destination-bar__ideal__default__dark",
+          "previewId": "com.example.jetsnack.ui.home.DestinationBarKt.PreviewDestinationBar_dark_theme",
+          "previewParams": {
+            "uiMode": 32
+          },
+          "density": 2.625
+        },
+        {
+          "variant": "ideal",
+          "path": "images/chrome-destination-bar/ideal__default.png",
+          "state": "default",
+          "width": 1050,
+          "height": 171,
+          "livePreview": "https://preview.coo.ee/compose-samples-jetsnack/p/chrome-destination-bar__ideal__default",
+          "previewId": "com.example.jetsnack.ui.home.DestinationBarKt.PreviewDestinationBar_default",
+          "density": 2.625
+        },
+        {
+          "variant": "ideal",
+          "path": "images/chrome-destination-bar/ideal__default__fontscale-2.0.png",
+          "state": "default",
+          "width": 1050,
+          "height": 171,
+          "props": {
+            "fontScale": "2.0"
+          },
+          "livePreview": "https://preview.coo.ee/compose-samples-jetsnack/p/chrome-destination-bar__ideal__default__fontscale-2.0"
+        }
+      ],
+      "greenlines": [
+        {
+          "kind": "a11y",
+          "severity": "info",
+          "message": "button",
+          "detail": {
+            "role": "button",
+            "bounds": {
+              "x": 934,
+              "y": 32,
+              "width": 105,
+              "height": 105
+            }
+          },
+          "bounds": {
+            "x": 934,
+            "y": 32,
+            "width": 105,
+            "height": 105
+          }
+        }
+      ],
+      "redlines": [
+        {
+          "bounds": {
+            "x": 43,
+            "y": 21,
+            "width": 1006,
+            "height": 126
+          },
+          "padding": {
+            "start": 4,
+            "top": 0,
+            "end": 4,
+            "bottom": 0
+          }
+        },
+        {
+          "bounds": {
+            "x": 934,
+            "y": 32,
+            "width": 105,
+            "height": 105
+          },
+          "role": "Button",
+          "cornerRadius": 20
+        }
+      ],
+      "section": "Components",
+      "group": "Chrome",
+      "caption": "The delivery destination bar pinned above the feed.",
+      "wireframe": "wireframes/chrome-destination-bar.svg",
+      "sourceFile": "src/main/java/com/example/jetsnack/ui/home/DestinationBar.kt",
+      "sourceModule": ":app",
+      "bodyLine": 113,
+      "sourceDirectory": "Jetsnack/app",
+      "sourceFunction": "PreviewDestinationBar",
+      "parameters": [
+        {
+          "name": "modifier",
+          "type": "Modifier",
+          "hasDefault": true
+        }
+      ]
+    },
+    {
+      "componentId": "Widget/Image text list",
+      "images": [
+        {
+          "variant": "ideal",
+          "path": "images/widget-image-text-list/ideal__default__compact.png",
+          "state": "default",
+          "width": 218,
+          "height": 230,
+          "size": "compact",
+          "livePreview": "https://preview.coo.ee/compose-samples-jetsnack/p/widget-image-text-list__ideal__default__compact",
+          "previewId": "com.example.jetsnack.widget.layout.ImageTextListLayoutKt.ImageTextListLayoutPreview"
+        }
+      ],
+      "greenlines": [],
+      "redlines": [],
+      "section": "Components",
+      "group": "Widget",
+      "caption": "The Glance home-screen widget, across upstream's small / medium / large widget size previews.",
+      "wireframe": "wireframes/widget-image-text-list.svg",
+      "sourceFile": "src/main/java/com/example/jetsnack/widget/layout/ImageTextListLayout.kt",
+      "sourceModule": ":app",
+      "bodyLine": 479,
+      "sourceDirectory": "Jetsnack/app",
+      "sourceFunction": "ImageTextListLayoutPreview"
+    }
+  ],
+  "library": [
+    "custom design system (JetsnackTheme)",
+    "androidx.glance:glance-appwidget"
+  ],
+  "renderer": "compose-preview 2.40.0",
+  "generatedAt": "2026-10-10T10:53:20.950Z",
+  "display": {
+    "surface": "light",
+    "hero": "Screens/App shell"
+  },
+  "liveBundle": {
+    "path": "bundle/",
+    "file": "bundle.png"
+  },
+  "liveBundles": [
+    {
+      "path": "bundle/",
+      "file": "bundle.png",
+      "module": ":app",
+      "previewIdPrefix": ""
+    }
+  ],
+  "componentsFile": "components.json",
+  "source": {
+    "repo": "android/compose-samples",
+    "ref": "5a390e4a9d3c4e5b30e942041bde93582c4d9492",
+    "module": ":app"
+  }
+}
