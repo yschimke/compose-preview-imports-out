@@ -1,0 +1,70 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 454 454" width="454" height="454" role="img" aria-label="Queue/Screen layout wireframe">
+  <title>Queue/Screen — layout wireframe (slots + tokens)</title>
+  <rect width="454" height="454" fill="#ffffff"/>
+  <g>
+    <rect x="0" y="0" width="454" height="454" fill="none" fill-opacity="0" stroke="#5B6470" stroke-width="1" stroke-opacity="0.5"/>
+  </g>
+  <g>
+    <rect x="0" y="0" width="454" height="454" fill="none" fill-opacity="0" stroke="#2E7D6B" stroke-width="1" stroke-opacity="0.5"/>
+  </g>
+  <g>
+    <rect x="0" y="0" width="454" height="454" fill="none" fill-opacity="0" stroke="#8E6BA8" stroke-width="1" stroke-opacity="0.5"/>
+  </g>
+  <g>
+    <rect x="181" y="92" width="93" height="36" fill="none" fill-opacity="0" stroke="#B0813B" stroke-width="1" stroke-opacity="0.5"/>
+  </g>
+  <g>
+    <rect x="181" y="92" width="93" height="36" fill="none" fill-opacity="0" stroke="#3B72A8" stroke-width="1" stroke-opacity="0.5"/>
+  </g>
+  <g>
+    <rect x="0" y="161" width="454" height="104" fill="none" fill-opacity="0" stroke="#B0813B" stroke-width="1" stroke-opacity="0.5"/>
+  </g>
+  <g>
+    <rect x="24" y="161" width="406" height="104" fill="none" fill-opacity="0" stroke="#3B72A8" stroke-width="1" stroke-opacity="0.5"/>
+  </g>
+  <g>
+    <path d="M60,161 H267 A36,36 0 0 1 303,197 V229 A36,36 0 0 1 267,265 H60 A36,36 0 0 1 24,229 V197 A36,36 0 0 1 60,161 Z" fill="#E9DDFF" fill-opacity="1" stroke="#A85B6B" stroke-width="1.5" stroke-opacity="1"/>
+    <text x="27" y="173" font-family="system-ui, sans-serif" font-size="9" fill="#A85B6B">#FFE9DDFF</text>
+  </g>
+  <g>
+    <rect x="140" y="189" width="48" height="48" fill="none" fill-opacity="0" stroke="#4F8A4A" stroke-width="1" stroke-opacity="0.5"/>
+  </g>
+  <g>
+    <path d="M363,161 H378 A52,52 0 0 1 430,213 V213 A52,52 0 0 1 378,265 H363 A52,52 0 0 1 311,213 V213 A52,52 0 0 1 363,161 Z" fill="#E9DDFF" fill-opacity="1" stroke="#A85B6B" stroke-width="1.5" stroke-opacity="1"/>
+    <text x="314" y="173" font-family="system-ui, sans-serif" font-size="9" fill="#A85B6B">#FFE9DDFF</text>
+  </g>
+  <g>
+    <rect x="347" y="189" width="48" height="48" fill="none" fill-opacity="0" stroke="#4F8A4A" stroke-width="1" stroke-opacity="0.5"/>
+  </g>
+  <g>
+    <path d="M77,316 H377 A38,38 0 0 1 415,354 V354 A38,38 0 0 1 377,392 H77 A38,38 0 0 1 39,354 V354 A38,38 0 0 1 77,316 Z" fill="#332E3C" fill-opacity="1" stroke="#B0813B" stroke-width="1.5" stroke-opacity="1"/>
+    <text x="42" y="328" font-family="system-ui, sans-serif" font-size="9" fill="#B0813B">#FF332E3C  pad ·</text>
+  </g>
+  <g>
+    <rect x="39" y="324" width="60" height="60" fill="none" fill-opacity="0" stroke="#3B72A8" stroke-width="1" stroke-opacity="0.5"/>
+  </g>
+  <g>
+    <path d="M69,324 H69 A30,30 0 0 1 99,354 V354 A30,30 0 0 1 69,384 H69 A30,30 0 0 1 39,354 V354 A30,30 0 0 1 69,324 Z" fill="none" fill-opacity="0" stroke="#A85B6B" stroke-width="1.5" stroke-opacity="1"/>
+  </g>
+  <g>
+    <rect x="99" y="349" width="12" height="11" fill="none" fill-opacity="0" stroke="#3B72A8" stroke-width="1" stroke-opacity="0.5"/>
+  </g>
+  <g>
+    <rect x="111" y="321" width="304" height="66" fill="none" fill-opacity="0" stroke="#3B72A8" stroke-width="1" stroke-opacity="0.5"/>
+  </g>
+  <g>
+    <rect x="111" y="321" width="304" height="34" fill="none" fill-opacity="0" stroke="#A85B6B" stroke-width="1" stroke-opacity="0.5"/>
+  </g>
+  <g>
+    <rect x="111" y="321" width="304" height="34" fill="none" fill-opacity="0" stroke="#4F8A4A" stroke-width="1" stroke-opacity="0.5"/>
+  </g>
+  <g>
+    <rect x="111" y="355" width="2" height="2" fill="none" fill-opacity="0" stroke="#A85B6B" stroke-width="1" stroke-opacity="0.5"/>
+  </g>
+  <g>
+    <rect x="111" y="357" width="131" height="30" fill="none" fill-opacity="0" stroke="#A85B6B" stroke-width="1" stroke-opacity="0.5"/>
+  </g>
+  <g>
+    <rect x="111" y="357" width="131" height="30" fill="none" fill-opacity="0" stroke="#4F8A4A" stroke-width="1" stroke-opacity="0.5"/>
+  </g>
+</svg>

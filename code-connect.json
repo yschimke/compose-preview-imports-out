@@ -1,0 +1,597 @@
+{
+  "system": "compose-samples-jetcaster-wear",
+  "title": "Jetcaster for Wear OS",
+  "label": "Compose",
+  "source": {
+    "repo": "android/compose-samples",
+    "ref": "5a390e4a9d3c4e5b30e942041bde93582c4d9492",
+    "module": ":wear"
+  },
+  "generatedAt": "2026-10-10T10:36:21.050Z",
+  "mappings": [
+    {
+      "componentId": "Episode/Latest",
+      "figmaLayerName": "Episode/Latest",
+      "componentName": "LatestEpisodesScreen",
+      "source": "https://github.com/android/compose-samples/blob/5a390e4a9d3c4e5b30e942041bde93582c4d9492/wear/src/main/java/com/example/jetcaster/ui/latest_episodes/LatestEpisodesScreen.kt",
+      "label": "Compose",
+      "confidence": "HIGH",
+      "previewName": "LatestEpisodeScreenLoadedPreview",
+      "codeSnippet": "LatestEpisodesScreen(\n    onPlayButtonClick = TODO(\"() -> Unit\"),\n    onDismiss = TODO(\"() -> Unit\"),\n)",
+      "imports": [
+        "import com.example.jetcaster.ui.latest_episodes.LatestEpisodesScreen"
+      ],
+      "parameters": [
+        {
+          "name": "onPlayButtonClick",
+          "type": "() -> Unit",
+          "typeFqn": "kotlin.Function0",
+          "hasDefault": false,
+          "composableSlot": false,
+          "composableSlotReceiver": null,
+          "nullable": false,
+          "noArgConstructible": false,
+          "noArgFactory": null,
+          "scopeDslReceiver": null,
+          "lambdaReturnTypeFqn": "kotlin.Unit"
+        },
+        {
+          "name": "onDismiss",
+          "type": "() -> Unit",
+          "typeFqn": "kotlin.Function0",
+          "hasDefault": false,
+          "composableSlot": false,
+          "composableSlotReceiver": null,
+          "nullable": false,
+          "noArgConstructible": false,
+          "noArgFactory": null,
+          "scopeDslReceiver": null,
+          "lambdaReturnTypeFqn": "kotlin.Unit"
+        },
+        {
+          "name": "modifier",
+          "type": "Modifier",
+          "typeFqn": "androidx.compose.ui.Modifier",
+          "hasDefault": true,
+          "composableSlot": false,
+          "composableSlotReceiver": null,
+          "nullable": false,
+          "noArgConstructible": false,
+          "noArgFactory": null,
+          "scopeDslReceiver": null,
+          "lambdaReturnTypeFqn": null
+        },
+        {
+          "name": "latestEpisodeViewModel",
+          "type": "LatestEpisodeViewModel",
+          "typeFqn": "com.example.jetcaster.ui.latest_episodes.LatestEpisodeViewModel",
+          "hasDefault": true,
+          "composableSlot": false,
+          "composableSlotReceiver": null,
+          "nullable": false,
+          "noArgConstructible": false,
+          "noArgFactory": null,
+          "scopeDslReceiver": null,
+          "lambdaReturnTypeFqn": null
+        }
+      ]
+    },
+    {
+      "componentId": "Library/Screen",
+      "figmaLayerName": "Library/Screen",
+      "componentName": "LibraryScreen",
+      "source": "https://github.com/android/compose-samples/blob/5a390e4a9d3c4e5b30e942041bde93582c4d9492/wear/src/main/java/com/example/jetcaster/ui/library/LibraryScreen.kt",
+      "label": "Compose",
+      "confidence": "HIGH",
+      "previewName": "LibraryScreenPreview",
+      "codeSnippet": "LibraryScreen(\n    onLatestEpisodeClick = TODO(\"() -> Unit\"),\n    onYourPodcastClick = TODO(\"() -> Unit\"),\n    onUpNextClick = TODO(\"() -> Unit\"),\n)",
+      "imports": [
+        "import com.example.jetcaster.ui.library.LibraryScreen"
+      ],
+      "parameters": [
+        {
+          "name": "onLatestEpisodeClick",
+          "type": "() -> Unit",
+          "typeFqn": "kotlin.Function0",
+          "hasDefault": false,
+          "composableSlot": false,
+          "composableSlotReceiver": null,
+          "nullable": false,
+          "noArgConstructible": false,
+          "noArgFactory": null,
+          "scopeDslReceiver": null,
+          "lambdaReturnTypeFqn": "kotlin.Unit"
+        },
+        {
+          "name": "onYourPodcastClick",
+          "type": "() -> Unit",
+          "typeFqn": "kotlin.Function0",
+          "hasDefault": false,
+          "composableSlot": false,
+          "composableSlotReceiver": null,
+          "nullable": false,
+          "noArgConstructible": false,
+          "noArgFactory": null,
+          "scopeDslReceiver": null,
+          "lambdaReturnTypeFqn": "kotlin.Unit"
+        },
+        {
+          "name": "onUpNextClick",
+          "type": "() -> Unit",
+          "typeFqn": "kotlin.Function0",
+          "hasDefault": false,
+          "composableSlot": false,
+          "composableSlotReceiver": null,
+          "nullable": false,
+          "noArgConstructible": false,
+          "noArgFactory": null,
+          "scopeDslReceiver": null,
+          "lambdaReturnTypeFqn": "kotlin.Unit"
+        },
+        {
+          "name": "modifier",
+          "type": "Modifier",
+          "typeFqn": "androidx.compose.ui.Modifier",
+          "hasDefault": true,
+          "composableSlot": false,
+          "composableSlotReceiver": null,
+          "nullable": false,
+          "noArgConstructible": false,
+          "noArgFactory": null,
+          "scopeDslReceiver": null,
+          "lambdaReturnTypeFqn": null
+        },
+        {
+          "name": "libraryScreenViewModel",
+          "type": "LibraryViewModel",
+          "typeFqn": "com.example.jetcaster.ui.library.LibraryViewModel",
+          "hasDefault": true,
+          "composableSlot": false,
+          "composableSlotReceiver": null,
+          "nullable": false,
+          "noArgConstructible": false,
+          "noArgFactory": null,
+          "scopeDslReceiver": null,
+          "lambdaReturnTypeFqn": null
+        }
+      ]
+    },
+    {
+      "componentId": "Podcast/Screen",
+      "figmaLayerName": "Podcast/Screen",
+      "componentName": "PodcastScreenLoaded",
+      "source": "https://github.com/android/compose-samples/blob/5a390e4a9d3c4e5b30e942041bde93582c4d9492/wear/src/main/java/com/example/jetcaster/ui/podcasts/PodcastsScreen.kt",
+      "label": "Compose",
+      "confidence": "HIGH",
+      "previewName": "PodcastScreenLoadedPreview",
+      "codeSnippet": "PodcastScreenLoaded(\n    podcastList = TODO(\"List<PodcastInfo>\"),\n    onPodcastsItemClick = TODO(\"(PodcastInfo) -> Unit\"),\n    contentPadding = TODO(\"PaddingValues\"),\n    columnState = TODO(\"TransformingLazyColumnState\"),\n    placeholderState = TODO(\"PlaceholderState\"),\n)",
+      "imports": [
+        "import com.example.jetcaster.ui.podcasts.PodcastScreenLoaded"
+      ],
+      "parameters": [
+        {
+          "name": "podcastList",
+          "type": "List<PodcastInfo>",
+          "typeFqn": "kotlin.collections.List",
+          "hasDefault": false,
+          "composableSlot": false,
+          "composableSlotReceiver": null,
+          "nullable": false,
+          "noArgConstructible": false,
+          "noArgFactory": null,
+          "scopeDslReceiver": null,
+          "lambdaReturnTypeFqn": null
+        },
+        {
+          "name": "onPodcastsItemClick",
+          "type": "(PodcastInfo) -> Unit",
+          "typeFqn": "kotlin.Function1",
+          "hasDefault": false,
+          "composableSlot": false,
+          "composableSlotReceiver": null,
+          "nullable": false,
+          "noArgConstructible": false,
+          "noArgFactory": null,
+          "scopeDslReceiver": null,
+          "lambdaReturnTypeFqn": "kotlin.Unit"
+        },
+        {
+          "name": "contentPadding",
+          "type": "PaddingValues",
+          "typeFqn": "androidx.compose.foundation.layout.PaddingValues",
+          "hasDefault": false,
+          "composableSlot": false,
+          "composableSlotReceiver": null,
+          "nullable": false,
+          "noArgConstructible": false,
+          "noArgFactory": null,
+          "scopeDslReceiver": null,
+          "lambdaReturnTypeFqn": null
+        },
+        {
+          "name": "columnState",
+          "type": "TransformingLazyColumnState",
+          "typeFqn": "androidx.wear.compose.foundation.lazy.TransformingLazyColumnState",
+          "hasDefault": false,
+          "composableSlot": false,
+          "composableSlotReceiver": null,
+          "nullable": false,
+          "noArgConstructible": false,
+          "noArgFactory": null,
+          "scopeDslReceiver": null,
+          "lambdaReturnTypeFqn": null
+        },
+        {
+          "name": "placeholderState",
+          "type": "PlaceholderState",
+          "typeFqn": "androidx.wear.compose.material3.PlaceholderState",
+          "hasDefault": false,
+          "composableSlot": false,
+          "composableSlotReceiver": null,
+          "nullable": false,
+          "noArgConstructible": false,
+          "noArgFactory": null,
+          "scopeDslReceiver": null,
+          "lambdaReturnTypeFqn": null
+        },
+        {
+          "name": "modifier",
+          "type": "Modifier",
+          "typeFqn": "androidx.compose.ui.Modifier",
+          "hasDefault": true,
+          "composableSlot": false,
+          "composableSlotReceiver": null,
+          "nullable": false,
+          "noArgConstructible": false,
+          "noArgFactory": null,
+          "scopeDslReceiver": null,
+          "lambdaReturnTypeFqn": null
+        }
+      ]
+    },
+    {
+      "componentId": "Podcast/Details",
+      "figmaLayerName": "Podcast/Details",
+      "componentName": "PodcastDetailsScreen",
+      "source": "https://github.com/android/compose-samples/blob/5a390e4a9d3c4e5b30e942041bde93582c4d9492/wear/src/main/java/com/example/jetcaster/ui/podcast/PodcastDetailsScreen.kt",
+      "label": "Compose",
+      "confidence": "HIGH",
+      "previewName": "PodcastDetailsScreenLoadedPreview",
+      "codeSnippet": "PodcastDetailsScreen(\n    onPlayButtonClick = TODO(\"() -> Unit\"),\n    onEpisodeItemClick = TODO(\"(PlayerEpisode) -> Unit\"),\n    onDismiss = TODO(\"() -> Unit\"),\n)",
+      "imports": [
+        "import com.example.jetcaster.ui.podcast.PodcastDetailsScreen"
+      ],
+      "parameters": [
+        {
+          "name": "onPlayButtonClick",
+          "type": "() -> Unit",
+          "typeFqn": "kotlin.Function0",
+          "hasDefault": false,
+          "composableSlot": false,
+          "composableSlotReceiver": null,
+          "nullable": false,
+          "noArgConstructible": false,
+          "noArgFactory": null,
+          "scopeDslReceiver": null,
+          "lambdaReturnTypeFqn": "kotlin.Unit"
+        },
+        {
+          "name": "onEpisodeItemClick",
+          "type": "(PlayerEpisode) -> Unit",
+          "typeFqn": "kotlin.Function1",
+          "hasDefault": false,
+          "composableSlot": false,
+          "composableSlotReceiver": null,
+          "nullable": false,
+          "noArgConstructible": false,
+          "noArgFactory": null,
+          "scopeDslReceiver": null,
+          "lambdaReturnTypeFqn": "kotlin.Unit"
+        },
+        {
+          "name": "onDismiss",
+          "type": "() -> Unit",
+          "typeFqn": "kotlin.Function0",
+          "hasDefault": false,
+          "composableSlot": false,
+          "composableSlotReceiver": null,
+          "nullable": false,
+          "noArgConstructible": false,
+          "noArgFactory": null,
+          "scopeDslReceiver": null,
+          "lambdaReturnTypeFqn": "kotlin.Unit"
+        },
+        {
+          "name": "modifier",
+          "type": "Modifier",
+          "typeFqn": "androidx.compose.ui.Modifier",
+          "hasDefault": true,
+          "composableSlot": false,
+          "composableSlotReceiver": null,
+          "nullable": false,
+          "noArgConstructible": false,
+          "noArgFactory": null,
+          "scopeDslReceiver": null,
+          "lambdaReturnTypeFqn": null
+        },
+        {
+          "name": "podcastDetailsViewModel",
+          "type": "PodcastDetailsViewModel",
+          "typeFqn": "com.example.jetcaster.ui.podcast.PodcastDetailsViewModel",
+          "hasDefault": true,
+          "composableSlot": false,
+          "composableSlotReceiver": null,
+          "nullable": false,
+          "noArgConstructible": false,
+          "noArgFactory": null,
+          "scopeDslReceiver": null,
+          "lambdaReturnTypeFqn": null
+        }
+      ]
+    },
+    {
+      "componentId": "Episode/Screen",
+      "figmaLayerName": "Episode/Screen",
+      "componentName": "EpisodeScreenLoaded",
+      "source": "https://github.com/android/compose-samples/blob/5a390e4a9d3c4e5b30e942041bde93582c4d9492/wear/src/main/java/com/example/jetcaster/ui/episode/EpisodeScreen.kt",
+      "label": "Compose",
+      "confidence": "HIGH",
+      "previewName": "EpisodeScreenLoadedPreview",
+      "codeSnippet": "EpisodeScreenLoaded(\n    title = TODO(\"String\"),\n    episode = TODO(\"PlayerEpisode\"),\n    onPlayButtonClick = TODO(\"() -> Unit\"),\n    onPlayEpisode = TODO(\"(PlayerEpisode) -> Unit\"),\n    onAddToQueue = TODO(\"(PlayerEpisode) -> Unit\"),\n    columnState = TODO(\"TransformingLazyColumnState\"),\n    contentPadding = TODO(\"PaddingValues\"),\n    placeholderState = TODO(\"PlaceholderState\"),\n)",
+      "imports": [
+        "import com.example.jetcaster.ui.episode.EpisodeScreenLoaded"
+      ],
+      "parameters": [
+        {
+          "name": "title",
+          "type": "String",
+          "typeFqn": "kotlin.String",
+          "hasDefault": false,
+          "composableSlot": false,
+          "composableSlotReceiver": null,
+          "nullable": false,
+          "noArgConstructible": false,
+          "noArgFactory": null,
+          "scopeDslReceiver": null,
+          "lambdaReturnTypeFqn": null
+        },
+        {
+          "name": "episode",
+          "type": "PlayerEpisode",
+          "typeFqn": "com.example.jetcaster.core.player.model.PlayerEpisode",
+          "hasDefault": false,
+          "composableSlot": false,
+          "composableSlotReceiver": null,
+          "nullable": false,
+          "noArgConstructible": false,
+          "noArgFactory": null,
+          "scopeDslReceiver": null,
+          "lambdaReturnTypeFqn": null
+        },
+        {
+          "name": "onPlayButtonClick",
+          "type": "() -> Unit",
+          "typeFqn": "kotlin.Function0",
+          "hasDefault": false,
+          "composableSlot": false,
+          "composableSlotReceiver": null,
+          "nullable": false,
+          "noArgConstructible": false,
+          "noArgFactory": null,
+          "scopeDslReceiver": null,
+          "lambdaReturnTypeFqn": "kotlin.Unit"
+        },
+        {
+          "name": "onPlayEpisode",
+          "type": "(PlayerEpisode) -> Unit",
+          "typeFqn": "kotlin.Function1",
+          "hasDefault": false,
+          "composableSlot": false,
+          "composableSlotReceiver": null,
+          "nullable": false,
+          "noArgConstructible": false,
+          "noArgFactory": null,
+          "scopeDslReceiver": null,
+          "lambdaReturnTypeFqn": "kotlin.Unit"
+        },
+        {
+          "name": "onAddToQueue",
+          "type": "(PlayerEpisode) -> Unit",
+          "typeFqn": "kotlin.Function1",
+          "hasDefault": false,
+          "composableSlot": false,
+          "composableSlotReceiver": null,
+          "nullable": false,
+          "noArgConstructible": false,
+          "noArgFactory": null,
+          "scopeDslReceiver": null,
+          "lambdaReturnTypeFqn": "kotlin.Unit"
+        },
+        {
+          "name": "columnState",
+          "type": "TransformingLazyColumnState",
+          "typeFqn": "androidx.wear.compose.foundation.lazy.TransformingLazyColumnState",
+          "hasDefault": false,
+          "composableSlot": false,
+          "composableSlotReceiver": null,
+          "nullable": false,
+          "noArgConstructible": false,
+          "noArgFactory": null,
+          "scopeDslReceiver": null,
+          "lambdaReturnTypeFqn": null
+        },
+        {
+          "name": "contentPadding",
+          "type": "PaddingValues",
+          "typeFqn": "androidx.compose.foundation.layout.PaddingValues",
+          "hasDefault": false,
+          "composableSlot": false,
+          "composableSlotReceiver": null,
+          "nullable": false,
+          "noArgConstructible": false,
+          "noArgFactory": null,
+          "scopeDslReceiver": null,
+          "lambdaReturnTypeFqn": null
+        },
+        {
+          "name": "placeholderState",
+          "type": "PlaceholderState",
+          "typeFqn": "androidx.wear.compose.material3.PlaceholderState",
+          "hasDefault": false,
+          "composableSlot": false,
+          "composableSlotReceiver": null,
+          "nullable": false,
+          "noArgConstructible": false,
+          "noArgFactory": null,
+          "scopeDslReceiver": null,
+          "lambdaReturnTypeFqn": null
+        },
+        {
+          "name": "modifier",
+          "type": "Modifier",
+          "typeFqn": "androidx.compose.ui.Modifier",
+          "hasDefault": true,
+          "composableSlot": false,
+          "composableSlotReceiver": null,
+          "nullable": false,
+          "noArgConstructible": false,
+          "noArgFactory": null,
+          "scopeDslReceiver": null,
+          "lambdaReturnTypeFqn": null
+        }
+      ]
+    },
+    {
+      "componentId": "Queue/Screen",
+      "figmaLayerName": "Queue/Screen",
+      "componentName": "QueueScreenLoaded",
+      "source": "https://github.com/android/compose-samples/blob/5a390e4a9d3c4e5b30e942041bde93582c4d9492/wear/src/main/java/com/example/jetcaster/ui/queue/QueueScreen.kt",
+      "label": "Compose",
+      "confidence": "HIGH",
+      "previewName": "QueueScreenLoadedPreview",
+      "codeSnippet": "QueueScreenLoaded(\n    episodeList = TODO(\"List<PlayerEpisode>\"),\n    onPlayButtonClick = TODO(\"() -> Unit\"),\n    onPlayEpisodes = TODO(\"(List<PlayerEpisode>) -> Unit\"),\n    onDeleteQueueEpisodes = TODO(\"() -> Unit\"),\n    onEpisodeItemClick = TODO(\"(PlayerEpisode) -> Unit\"),\n    columnState = TODO(\"TransformingLazyColumnState\"),\n    contentPadding = TODO(\"PaddingValues\"),\n    placeholderState = TODO(\"PlaceholderState\"),\n)",
+      "imports": [
+        "import com.example.jetcaster.ui.queue.QueueScreenLoaded"
+      ],
+      "parameters": [
+        {
+          "name": "episodeList",
+          "type": "List<PlayerEpisode>",
+          "typeFqn": "kotlin.collections.List",
+          "hasDefault": false,
+          "composableSlot": false,
+          "composableSlotReceiver": null,
+          "nullable": false,
+          "noArgConstructible": false,
+          "noArgFactory": null,
+          "scopeDslReceiver": null,
+          "lambdaReturnTypeFqn": null
+        },
+        {
+          "name": "onPlayButtonClick",
+          "type": "() -> Unit",
+          "typeFqn": "kotlin.Function0",
+          "hasDefault": false,
+          "composableSlot": false,
+          "composableSlotReceiver": null,
+          "nullable": false,
+          "noArgConstructible": false,
+          "noArgFactory": null,
+          "scopeDslReceiver": null,
+          "lambdaReturnTypeFqn": "kotlin.Unit"
+        },
+        {
+          "name": "onPlayEpisodes",
+          "type": "(List<PlayerEpisode>) -> Unit",
+          "typeFqn": "kotlin.Function1",
+          "hasDefault": false,
+          "composableSlot": false,
+          "composableSlotReceiver": null,
+          "nullable": false,
+          "noArgConstructible": false,
+          "noArgFactory": null,
+          "scopeDslReceiver": null,
+          "lambdaReturnTypeFqn": "kotlin.Unit"
+        },
+        {
+          "name": "onDeleteQueueEpisodes",
+          "type": "() -> Unit",
+          "typeFqn": "kotlin.Function0",
+          "hasDefault": false,
+          "composableSlot": false,
+          "composableSlotReceiver": null,
+          "nullable": false,
+          "noArgConstructible": false,
+          "noArgFactory": null,
+          "scopeDslReceiver": null,
+          "lambdaReturnTypeFqn": "kotlin.Unit"
+        },
+        {
+          "name": "onEpisodeItemClick",
+          "type": "(PlayerEpisode) -> Unit",
+          "typeFqn": "kotlin.Function1",
+          "hasDefault": false,
+          "composableSlot": false,
+          "composableSlotReceiver": null,
+          "nullable": false,
+          "noArgConstructible": false,
+          "noArgFactory": null,
+          "scopeDslReceiver": null,
+          "lambdaReturnTypeFqn": "kotlin.Unit"
+        },
+        {
+          "name": "columnState",
+          "type": "TransformingLazyColumnState",
+          "typeFqn": "androidx.wear.compose.foundation.lazy.TransformingLazyColumnState",
+          "hasDefault": false,
+          "composableSlot": false,
+          "composableSlotReceiver": null,
+          "nullable": false,
+          "noArgConstructible": false,
+          "noArgFactory": null,
+          "scopeDslReceiver": null,
+          "lambdaReturnTypeFqn": null
+        },
+        {
+          "name": "contentPadding",
+          "type": "PaddingValues",
+          "typeFqn": "androidx.compose.foundation.layout.PaddingValues",
+          "hasDefault": false,
+          "composableSlot": false,
+          "composableSlotReceiver": null,
+          "nullable": false,
+          "noArgConstructible": false,
+          "noArgFactory": null,
+          "scopeDslReceiver": null,
+          "lambdaReturnTypeFqn": null
+        },
+        {
+          "name": "placeholderState",
+          "type": "PlaceholderState",
+          "typeFqn": "androidx.wear.compose.material3.PlaceholderState",
+          "hasDefault": false,
+          "composableSlot": false,
+          "composableSlotReceiver": null,
+          "nullable": false,
+          "noArgConstructible": false,
+          "noArgFactory": null,
+          "scopeDslReceiver": null,
+          "lambdaReturnTypeFqn": null
+        },
+        {
+          "name": "modifier",
+          "type": "Modifier",
+          "typeFqn": "androidx.compose.ui.Modifier",
+          "hasDefault": true,
+          "composableSlot": false,
+          "composableSlotReceiver": null,
+          "nullable": false,
+          "noArgConstructible": false,
+          "noArgFactory": null,
+          "scopeDslReceiver": null,
+          "lambdaReturnTypeFqn": null
+        }
+      ]
+    }
+  ]
+}
