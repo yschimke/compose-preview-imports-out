@@ -7,6 +7,41 @@
       "system": "bitwarden-android"
     },
     {
+      "importedFrom": "android/compose-samples",
+      "listed": true,
+      "system": "compose-samples-jetcaster-wear"
+    },
+    {
+      "importedFrom": "android/compose-samples",
+      "listed": true,
+      "system": "compose-samples-jetcaster"
+    },
+    {
+      "importedFrom": "android/compose-samples",
+      "listed": true,
+      "system": "compose-samples-jetchat"
+    },
+    {
+      "importedFrom": "android/compose-samples",
+      "listed": true,
+      "system": "compose-samples-jetlagged"
+    },
+    {
+      "importedFrom": "android/compose-samples",
+      "listed": true,
+      "system": "compose-samples-jetnews"
+    },
+    {
+      "importedFrom": "android/compose-samples",
+      "listed": true,
+      "system": "compose-samples-jetsnack"
+    },
+    {
+      "importedFrom": "android/compose-samples",
+      "listed": true,
+      "system": "compose-samples-reply"
+    },
+    {
       "importedFrom": "DroidKaigi/conference-app-2026",
       "listed": true,
       "system": "droidkaigi-conference-app-2026"
