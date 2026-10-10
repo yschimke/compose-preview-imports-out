@@ -1,0 +1,30 @@
+{
+  "schema": "compose-preview-revision-index/v1",
+  "current": [
+    "chrome-home-app-bar__ideal__default",
+    "chrome-home-error__ideal__default",
+    "episode-list-item__ideal__category",
+    "episode-list-item__ideal__default__dark",
+    "episode-list-item__ideal__default__light",
+    "home-screen__ideal__default__foldable",
+    "home-screen__ideal__default__landscape",
+    "home-screen__ideal__default__phone",
+    "home-screen__ideal__default__smallphone",
+    "home-screen__ideal__default__tablet",
+    "player-app-bar__ideal__default",
+    "player-screen__ideal__default__foldable",
+    "player-screen__ideal__default__landscape",
+    "player-screen__ideal__default__phone",
+    "player-screen__ideal__default__smallphone",
+    "player-screen__ideal__default__tablet",
+    "player-transport__ideal__default",
+    "podcast-card__ideal__default",
+    "podcastdetails-header__ideal__default",
+    "podcastdetails-screen__ideal__default__foldable",
+    "podcastdetails-screen__ideal__default__landscape",
+    "podcastdetails-screen__ideal__default__phone",
+    "podcastdetails-screen__ideal__default__smallphone",
+    "podcastdetails-screen__ideal__default__tablet"
+  ],
+  "revisions": []
+}

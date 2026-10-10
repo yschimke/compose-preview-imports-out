@@ -1,0 +1,2277 @@
+{
+  "schema": "design-parity-catalog/v1",
+  "system": "compose-samples-jetcaster",
+  "title": "Jetcaster",
+  "components": [
+    {
+      "componentId": "Home/Screen",
+      "images": [
+        {
+          "variant": "ideal",
+          "path": "images/home-screen/ideal__default__foldable.png",
+          "state": "default",
+          "width": 1766,
+          "height": 2207,
+          "size": "foldable",
+          "livePreview": "https://preview.coo.ee/compose-samples-jetcaster/p/home-screen__ideal__default__foldable",
+          "previewId": "com.example.jetcaster.ui.home.HomeKt.PreviewHome_foldable",
+          "previewParams": {
+            "device": "spec:width=673dp,height=841dp",
+            "widthDp": 673,
+            "heightDp": 841
+          },
+          "density": 2.625
+        },
+        {
+          "variant": "ideal",
+          "path": "images/home-screen/ideal__default__landscape.png",
+          "state": "default",
+          "width": 1920,
+          "height": 1080,
+          "size": "landscape",
+          "livePreview": "https://preview.coo.ee/compose-samples-jetcaster/p/home-screen__ideal__default__landscape",
+          "previewId": "com.example.jetcaster.ui.home.HomeKt.PreviewHome_landscape",
+          "previewParams": {
+            "device": "spec:width=640dp,height=360dp,dpi=480",
+            "widthDp": 640,
+            "heightDp": 360
+          },
+          "density": 3
+        },
+        {
+          "variant": "ideal",
+          "path": "images/home-screen/ideal__default__phone.png",
+          "state": "default",
+          "width": 1078,
+          "height": 2338,
+          "size": "phone",
+          "livePreview": "https://preview.coo.ee/compose-samples-jetcaster/p/home-screen__ideal__default__phone",
+          "previewId": "com.example.jetcaster.ui.home.HomeKt.PreviewHome_phone",
+          "previewParams": {
+            "device": "spec:width=411dp,height=891dp",
+            "widthDp": 411,
+            "heightDp": 891
+          },
+          "density": 2.625
+        },
+        {
+          "variant": "ideal",
+          "path": "images/home-screen/ideal__default__smallphone.png",
+          "state": "default",
+          "width": 1080,
+          "height": 2340,
+          "size": "smallPhone",
+          "livePreview": "https://preview.coo.ee/compose-samples-jetcaster/p/home-screen__ideal__default__smallphone",
+          "previewId": "com.example.jetcaster.ui.home.HomeKt.PreviewHome_small-phone",
+          "previewParams": {
+            "device": "id:pixel_4a",
+            "widthDp": 393,
+            "heightDp": 851
+          },
+          "density": 2.75
+        },
+        {
+          "variant": "ideal",
+          "path": "images/home-screen/ideal__default__tablet.png",
+          "state": "default",
+          "width": 1920,
+          "height": 1200,
+          "size": "tablet",
+          "livePreview": "https://preview.coo.ee/compose-samples-jetcaster/p/home-screen__ideal__default__tablet",
+          "previewId": "com.example.jetcaster.ui.home.HomeKt.PreviewHome_tablet",
+          "previewParams": {
+            "device": "spec:width=1280dp,height=800dp,dpi=240",
+            "widthDp": 1280,
+            "heightDp": 800
+          },
+          "density": 1.5
+        }
+      ],
+      "greenlines": [
+        {
+          "kind": "a11y",
+          "severity": "info",
+          "message": "checkbox",
+          "detail": {
+            "role": "checkbox",
+            "bounds": {
+              "x": 53,
+              "y": 284,
+              "width": 246,
+              "height": 84
+            }
+          },
+          "bounds": {
+            "x": 53,
+            "y": 284,
+            "width": 246,
+            "height": 84
+          }
+        },
+        {
+          "kind": "a11y",
+          "severity": "info",
+          "message": "checkbox",
+          "detail": {
+            "role": "checkbox",
+            "bounds": {
+              "x": 321,
+              "y": 284,
+              "width": 188,
+              "height": 84
+            }
+          },
+          "bounds": {
+            "x": 321,
+            "y": 284,
+            "width": 188,
+            "height": 84
+          }
+        },
+        {
+          "kind": "a11y",
+          "severity": "info",
+          "message": "checkbox",
+          "detail": {
+            "role": "checkbox",
+            "bounds": {
+              "x": 531,
+              "y": 284,
+              "width": 242,
+              "height": 84
+            }
+          },
+          "bounds": {
+            "x": 531,
+            "y": 284,
+            "width": 242,
+            "height": 84
+          }
+        },
+        {
+          "kind": "a11y",
+          "severity": "info",
+          "message": "checkbox",
+          "detail": {
+            "role": "checkbox",
+            "bounds": {
+              "x": 32,
+              "y": 442,
+              "width": 105,
+              "height": 105
+            }
+          },
+          "bounds": {
+            "x": 32,
+            "y": 442,
+            "width": 105,
+            "height": 105
+          }
+        },
+        {
+          "kind": "a11y",
+          "severity": "info",
+          "message": "checkbox",
+          "detail": {
+            "role": "checkbox",
+            "bounds": {
+              "x": 390,
+              "y": 442,
+              "width": 105,
+              "height": 105
+            }
+          },
+          "bounds": {
+            "x": 390,
+            "y": 442,
+            "width": 105,
+            "height": 105
+          }
+        },
+        {
+          "kind": "a11y",
+          "severity": "info",
+          "message": "button \"Play\"",
+          "detail": {
+            "role": "button",
+            "label": "Play",
+            "bounds": {
+              "x": 84,
+              "y": 977,
+              "width": 126,
+              "height": 126
+            }
+          },
+          "bounds": {
+            "x": 84,
+            "y": 977,
+            "width": 126,
+            "height": 126
+          }
+        },
+        {
+          "kind": "a11y",
+          "severity": "info",
+          "message": "button",
+          "detail": {
+            "role": "button",
+            "bounds": {
+              "x": 1439,
+              "y": 988,
+              "width": 105,
+              "height": 105
+            }
+          },
+          "bounds": {
+            "x": 1439,
+            "y": 988,
+            "width": 105,
+            "height": 105
+          }
+        },
+        {
+          "kind": "a11y",
+          "severity": "info",
+          "message": "button",
+          "detail": {
+            "role": "button",
+            "bounds": {
+              "x": 1565,
+              "y": 988,
+              "width": 105,
+              "height": 105
+            }
+          },
+          "bounds": {
+            "x": 1565,
+            "y": 988,
+            "width": 105,
+            "height": 105
+          }
+        },
+        {
+          "kind": "a11y",
+          "severity": "info",
+          "message": "button",
+          "detail": {
+            "role": "button",
+            "bounds": {
+              "x": 32,
+              "y": 32,
+              "width": 341,
+              "height": 105
+            }
+          },
+          "bounds": {
+            "x": 32,
+            "y": 32,
+            "width": 341,
+            "height": 105
+          }
+        },
+        {
+          "kind": "a11y",
+          "severity": "info",
+          "message": "button",
+          "detail": {
+            "role": "button",
+            "bounds": {
+              "x": 373,
+              "y": 32,
+              "width": 371,
+              "height": 105
+            }
+          },
+          "bounds": {
+            "x": 373,
+            "y": 32,
+            "width": 371,
+            "height": 105
+          }
+        }
+      ],
+      "redlines": [
+        {
+          "bounds": {
+            "x": 53,
+            "y": 284,
+            "width": 246,
+            "height": 84
+          },
+          "role": "Checkbox",
+          "padding": {
+            "start": 4,
+            "top": 16,
+            "end": 4,
+            "bottom": 16
+          },
+          "cornerRadius": 16
+        },
+        {
+          "bounds": {
+            "x": 321,
+            "y": 284,
+            "width": 188,
+            "height": 84
+          },
+          "role": "Checkbox",
+          "padding": {
+            "start": 4,
+            "top": 16,
+            "end": 4,
+            "bottom": 16
+          },
+          "cornerRadius": 16
+        },
+        {
+          "bounds": {
+            "x": 531,
+            "y": 284,
+            "width": 242,
+            "height": 84
+          },
+          "role": "Checkbox",
+          "padding": {
+            "start": 4,
+            "top": 16,
+            "end": 4,
+            "bottom": 16
+          },
+          "cornerRadius": 16
+        },
+        {
+          "bounds": {
+            "x": 21,
+            "y": 431,
+            "width": 1743,
+            "height": 336
+          },
+          "role": "Carousel",
+          "padding": {
+            "start": 8,
+            "top": 0,
+            "end": 0,
+            "bottom": 0
+          }
+        },
+        {
+          "bounds": {
+            "x": 21,
+            "y": 431,
+            "width": 336,
+            "height": 336
+          },
+          "cornerRadius": 8
+        },
+        {
+          "bounds": {
+            "x": 32,
+            "y": 442,
+            "width": 105,
+            "height": 105
+          },
+          "role": "Checkbox",
+          "cornerRadius": 20
+        },
+        {
+          "bounds": {
+            "x": 63,
+            "y": 627,
+            "width": 294,
+            "height": 98
+          },
+          "label": "Android Developers Backstage",
+          "padding": {
+            "start": 16,
+            "top": 0,
+            "end": 0,
+            "bottom": 16
+          }
+        },
+        {
+          "bounds": {
+            "x": 379,
+            "y": 431,
+            "width": 336,
+            "height": 336
+          },
+          "cornerRadius": 8
+        },
+        {
+          "bounds": {
+            "x": 390,
+            "y": 442,
+            "width": 105,
+            "height": 105
+          },
+          "role": "Checkbox",
+          "cornerRadius": 10
+        },
+        {
+          "bounds": {
+            "x": 421,
+            "y": 627,
+            "width": 294,
+            "height": 98
+          },
+          "label": "Google Developers podcast",
+          "padding": {
+            "start": 16,
+            "top": 0,
+            "end": 0,
+            "bottom": 16
+          }
+        },
+        {
+          "bounds": {
+            "x": 42,
+            "y": 788,
+            "width": 1680,
+            "height": 336
+          },
+          "cornerRadius": 16
+        },
+        {
+          "bounds": {
+            "x": 84,
+            "y": 814,
+            "width": 695,
+            "height": 52
+          },
+          "label": "Episode 140: Lorem ipsum dolor",
+          "padding": {
+            "start": 0,
+            "top": 2,
+            "end": 0,
+            "bottom": 2
+          }
+        },
+        {
+          "bounds": {
+            "x": 1533,
+            "y": 809,
+            "width": 147,
+            "height": 147
+          },
+          "cornerRadius": 8
+        },
+        {
+          "bounds": {
+            "x": 84,
+            "y": 977,
+            "width": 126,
+            "height": 126
+          },
+          "role": "Button",
+          "label": "Play",
+          "padding": {
+            "start": 6,
+            "top": 6,
+            "end": 6,
+            "bottom": 6
+          }
+        },
+        {
+          "bounds": {
+            "x": 231,
+            "y": 1021,
+            "width": 1176,
+            "height": 38
+          },
+          "label": "Jun 2, 2020",
+          "padding": {
+            "start": 8,
+            "top": 0,
+            "end": 8,
+            "bottom": 0
+          }
+        },
+        {
+          "bounds": {
+            "x": 1439,
+            "y": 988,
+            "width": 105,
+            "height": 105
+          },
+          "role": "Button",
+          "cornerRadius": 20
+        },
+        {
+          "bounds": {
+            "x": 1565,
+            "y": 988,
+            "width": 105,
+            "height": 105
+          },
+          "role": "Button",
+          "cornerRadius": 20
+        },
+        {
+          "bounds": {
+            "x": 21,
+            "y": 21,
+            "width": 734,
+            "height": 126
+          },
+          "padding": {
+            "start": 8,
+            "top": 8,
+            "end": 8,
+            "bottom": 8
+          },
+          "cornerRadius": 24
+        },
+        {
+          "bounds": {
+            "x": 32,
+            "y": 32,
+            "width": 341,
+            "height": 105
+          },
+          "role": "Button",
+          "cornerRadius": 20
+        },
+        {
+          "bounds": {
+            "x": 95,
+            "y": 53,
+            "width": 63,
+            "height": 63
+          },
+          "role": "Image",
+          "label": "Library Tab Icon",
+          "padding": {
+            "start": 0,
+            "top": 0,
+            "end": 8,
+            "bottom": 0
+          }
+        },
+        {
+          "bounds": {
+            "x": 373,
+            "y": 32,
+            "width": 371,
+            "height": 105
+          },
+          "role": "Button",
+          "cornerRadius": 20
+        },
+        {
+          "bounds": {
+            "x": 436,
+            "y": 53,
+            "width": 63,
+            "height": 63
+          },
+          "role": "Image",
+          "label": "Discover Tab Icon",
+          "padding": {
+            "start": 0,
+            "top": 0,
+            "end": 8,
+            "bottom": 0
+          }
+        },
+        {
+          "bounds": {
+            "x": 42,
+            "y": 21,
+            "width": 1680,
+            "height": 168
+          },
+          "padding": {
+            "start": 16,
+            "top": 8,
+            "end": 16,
+            "bottom": 8
+          }
+        },
+        {
+          "bounds": {
+            "x": 42,
+            "y": 184,
+            "width": 1680,
+            "height": 63
+          },
+          "padding": {
+            "start": 16,
+            "top": 0,
+            "end": 16,
+            "bottom": 0
+          }
+        }
+      ],
+      "section": "Screens",
+      "group": "Screens",
+      "caption": "Home on the Discover tab, through upstream's @DevicePreviews: small phone, phone, landscape, foldable and tablet.",
+      "wireframe": "wireframes/home-screen.svg",
+      "sourceFile": "src/main/java/com/example/jetcaster/ui/home/Home.kt",
+      "sourceModule": ":mobile",
+      "bodyLine": 756,
+      "sourceDirectory": "Jetcaster/mobile",
+      "sourceFunction": "PreviewHome"
+    },
+    {
+      "componentId": "PodcastDetails/Screen",
+      "images": [
+        {
+          "variant": "ideal",
+          "path": "images/podcastdetails-screen/ideal__default__foldable.png",
+          "state": "default",
+          "width": 1766,
+          "height": 2207,
+          "size": "foldable",
+          "livePreview": "https://preview.coo.ee/compose-samples-jetcaster/p/podcastdetails-screen__ideal__default__foldable",
+          "previewId": "com.example.jetcaster.ui.podcast.PodcastDetailsScreenKt.PodcastDetailsScreenPreview_foldable",
+          "previewParams": {
+            "device": "spec:width=673dp,height=841dp",
+            "widthDp": 673,
+            "heightDp": 841
+          },
+          "density": 2.625
+        },
+        {
+          "variant": "ideal",
+          "path": "images/podcastdetails-screen/ideal__default__landscape.png",
+          "state": "default",
+          "width": 1920,
+          "height": 1080,
+          "size": "landscape",
+          "livePreview": "https://preview.coo.ee/compose-samples-jetcaster/p/podcastdetails-screen__ideal__default__landscape",
+          "previewId": "com.example.jetcaster.ui.podcast.PodcastDetailsScreenKt.PodcastDetailsScreenPreview_landscape",
+          "previewParams": {
+            "device": "spec:width=640dp,height=360dp,dpi=480",
+            "widthDp": 640,
+            "heightDp": 360
+          },
+          "density": 3
+        },
+        {
+          "variant": "ideal",
+          "path": "images/podcastdetails-screen/ideal__default__phone.png",
+          "state": "default",
+          "width": 1078,
+          "height": 2338,
+          "size": "phone",
+          "livePreview": "https://preview.coo.ee/compose-samples-jetcaster/p/podcastdetails-screen__ideal__default__phone",
+          "previewId": "com.example.jetcaster.ui.podcast.PodcastDetailsScreenKt.PodcastDetailsScreenPreview_phone",
+          "previewParams": {
+            "device": "spec:width=411dp,height=891dp",
+            "widthDp": 411,
+            "heightDp": 891
+          },
+          "density": 2.625
+        },
+        {
+          "variant": "ideal",
+          "path": "images/podcastdetails-screen/ideal__default__smallphone.png",
+          "state": "default",
+          "width": 1080,
+          "height": 2340,
+          "size": "smallPhone",
+          "livePreview": "https://preview.coo.ee/compose-samples-jetcaster/p/podcastdetails-screen__ideal__default__smallphone",
+          "previewId": "com.example.jetcaster.ui.podcast.PodcastDetailsScreenKt.PodcastDetailsScreenPreview_small-phone",
+          "previewParams": {
+            "device": "id:pixel_4a",
+            "widthDp": 393,
+            "heightDp": 851
+          },
+          "density": 2.75
+        },
+        {
+          "variant": "ideal",
+          "path": "images/podcastdetails-screen/ideal__default__tablet.png",
+          "state": "default",
+          "width": 1920,
+          "height": 1200,
+          "size": "tablet",
+          "livePreview": "https://preview.coo.ee/compose-samples-jetcaster/p/podcastdetails-screen__ideal__default__tablet",
+          "previewId": "com.example.jetcaster.ui.podcast.PodcastDetailsScreenKt.PodcastDetailsScreenPreview_tablet",
+          "previewParams": {
+            "device": "spec:width=1280dp,height=800dp,dpi=240",
+            "widthDp": 1280,
+            "heightDp": 800
+          },
+          "density": 1.5
+        }
+      ],
+      "greenlines": [
+        {
+          "kind": "a11y",
+          "severity": "info",
+          "message": "checkbox",
+          "detail": {
+            "role": "checkbox",
+            "bounds": {
+              "x": 42,
+              "y": 1263,
+              "width": 200,
+              "height": 147
+            }
+          },
+          "bounds": {
+            "x": 42,
+            "y": 1263,
+            "width": 200,
+            "height": 147
+          }
+        },
+        {
+          "kind": "a11y",
+          "severity": "info",
+          "message": "checkbox",
+          "detail": {
+            "role": "checkbox",
+            "bounds": {
+              "x": 274,
+              "y": 1263,
+              "width": 147,
+              "height": 147
+            }
+          },
+          "bounds": {
+            "x": 274,
+            "y": 1263,
+            "width": 147,
+            "height": 147
+          }
+        },
+        {
+          "kind": "a11y",
+          "severity": "info",
+          "message": "button \"Play\"",
+          "detail": {
+            "role": "button",
+            "label": "Play",
+            "bounds": {
+              "x": 84,
+              "y": 1694,
+              "width": 126,
+              "height": 126
+            }
+          },
+          "bounds": {
+            "x": 84,
+            "y": 1694,
+            "width": 126,
+            "height": 126
+          }
+        },
+        {
+          "kind": "a11y",
+          "severity": "info",
+          "message": "button",
+          "detail": {
+            "role": "button",
+            "bounds": {
+              "x": 1439,
+              "y": 1705,
+              "width": 105,
+              "height": 105
+            }
+          },
+          "bounds": {
+            "x": 1439,
+            "y": 1705,
+            "width": 105,
+            "height": 105
+          }
+        },
+        {
+          "kind": "a11y",
+          "severity": "info",
+          "message": "button",
+          "detail": {
+            "role": "button",
+            "bounds": {
+              "x": 1565,
+              "y": 1705,
+              "width": 105,
+              "height": 105
+            }
+          },
+          "bounds": {
+            "x": 1565,
+            "y": 1705,
+            "width": 105,
+            "height": 105
+          }
+        },
+        {
+          "kind": "a11y",
+          "severity": "info",
+          "message": "button",
+          "detail": {
+            "role": "button",
+            "bounds": {
+              "x": 22,
+              "y": 32,
+              "width": 105,
+              "height": 105
+            }
+          },
+          "bounds": {
+            "x": 22,
+            "y": 32,
+            "width": 105,
+            "height": 105
+          }
+        }
+      ],
+      "redlines": [
+        {
+          "bounds": {
+            "x": 515,
+            "y": 210,
+            "width": 735,
+            "height": 735
+          },
+          "cornerRadius": 16
+        },
+        {
+          "bounds": {
+            "x": 42,
+            "y": 987,
+            "width": 1607,
+            "height": 139
+          },
+          "label": "Android Developers Backstage",
+          "padding": {
+            "start": 0,
+            "top": 16,
+            "end": 0,
+            "bottom": 0
+          }
+        },
+        {
+          "bounds": {
+            "x": 42,
+            "y": 1168,
+            "width": 1680,
+            "height": 53
+          },
+          "padding": {
+            "start": 0,
+            "top": 16,
+            "end": 0,
+            "bottom": 16
+          }
+        },
+        {
+          "bounds": {
+            "x": 42,
+            "y": 1263,
+            "width": 200,
+            "height": 147
+          },
+          "role": "Checkbox",
+          "cornerRadius": 60
+        },
+        {
+          "bounds": {
+            "x": 274,
+            "y": 1263,
+            "width": 147,
+            "height": 147
+          },
+          "role": "Checkbox",
+          "cornerRadius": 100
+        },
+        {
+          "bounds": {
+            "x": 42,
+            "y": 1473,
+            "width": 1680,
+            "height": 368
+          },
+          "cornerRadius": 16
+        },
+        {
+          "bounds": {
+            "x": 84,
+            "y": 1499,
+            "width": 628,
+            "height": 63
+          },
+          "label": "Episode 140: Lorem ipsum dolor",
+          "padding": {
+            "start": 0,
+            "top": 2,
+            "end": 0,
+            "bottom": 2
+          }
+        },
+        {
+          "bounds": {
+            "x": 84,
+            "y": 1694,
+            "width": 126,
+            "height": 126
+          },
+          "role": "Button",
+          "label": "Play",
+          "padding": {
+            "start": 6,
+            "top": 6,
+            "end": 6,
+            "bottom": 6
+          }
+        },
+        {
+          "bounds": {
+            "x": 231,
+            "y": 1736,
+            "width": 1176,
+            "height": 42
+          },
+          "label": "Jun 2, 2020",
+          "padding": {
+            "start": 8,
+            "top": 0,
+            "end": 8,
+            "bottom": 0
+          }
+        },
+        {
+          "bounds": {
+            "x": 1439,
+            "y": 1705,
+            "width": 105,
+            "height": 105
+          },
+          "role": "Button",
+          "cornerRadius": 20
+        },
+        {
+          "bounds": {
+            "x": 1565,
+            "y": 1705,
+            "width": 105,
+            "height": 105
+          },
+          "role": "Button",
+          "cornerRadius": 20
+        },
+        {
+          "bounds": {
+            "x": 22,
+            "y": 32,
+            "width": 105,
+            "height": 105
+          },
+          "role": "Button",
+          "cornerRadius": 20
+        },
+        {
+          "bounds": {
+            "x": 0,
+            "y": 0,
+            "width": 0,
+            "height": 0
+          },
+          "padding": {
+            "start": 4,
+            "top": 0,
+            "end": 4,
+            "bottom": 0
+          }
+        }
+      ],
+      "section": "Screens",
+      "group": "Screens",
+      "caption": "Podcast details across the same five devices.",
+      "wireframe": "wireframes/podcastdetails-screen.svg",
+      "sourceFile": "src/main/java/com/example/jetcaster/ui/podcast/PodcastDetailsScreen.kt",
+      "sourceModule": ":mobile",
+      "bodyLine": 395,
+      "sourceDirectory": "Jetcaster/mobile",
+      "sourceFunction": "PodcastDetailsScreenPreview",
+      "parameters": [
+        {
+          "name": "viewModel",
+          "type": "PodcastDetailsViewModel"
+        },
+        {
+          "name": "navigateToPlayer",
+          "type": "(EpisodeInfo) -> Unit"
+        },
+        {
+          "name": "navigateBack",
+          "type": "() -> Unit"
+        },
+        {
+          "name": "showBackButton",
+          "type": "Boolean"
+        },
+        {
+          "name": "modifier",
+          "type": "Modifier",
+          "hasDefault": true
+        }
+      ]
+    },
+    {
+      "componentId": "Player/Screen",
+      "images": [
+        {
+          "variant": "ideal",
+          "path": "images/player-screen/ideal__default__foldable.png",
+          "state": "default",
+          "width": 1766,
+          "height": 2207,
+          "size": "foldable",
+          "livePreview": "https://preview.coo.ee/compose-samples-jetcaster/p/player-screen__ideal__default__foldable",
+          "previewId": "com.example.jetcaster.ui.player.PlayerScreenKt.PlayerScreenPreview_foldable",
+          "previewParams": {
+            "device": "spec:width=673dp,height=841dp",
+            "widthDp": 673,
+            "heightDp": 841
+          },
+          "density": 2.625
+        },
+        {
+          "variant": "ideal",
+          "path": "images/player-screen/ideal__default__landscape.png",
+          "state": "default",
+          "width": 1920,
+          "height": 1080,
+          "size": "landscape",
+          "livePreview": "https://preview.coo.ee/compose-samples-jetcaster/p/player-screen__ideal__default__landscape",
+          "previewId": "com.example.jetcaster.ui.player.PlayerScreenKt.PlayerScreenPreview_landscape",
+          "previewParams": {
+            "device": "spec:width=640dp,height=360dp,dpi=480",
+            "widthDp": 640,
+            "heightDp": 360
+          },
+          "density": 3
+        },
+        {
+          "variant": "ideal",
+          "path": "images/player-screen/ideal__default__phone.png",
+          "state": "default",
+          "width": 1078,
+          "height": 2338,
+          "size": "phone",
+          "livePreview": "https://preview.coo.ee/compose-samples-jetcaster/p/player-screen__ideal__default__phone",
+          "previewId": "com.example.jetcaster.ui.player.PlayerScreenKt.PlayerScreenPreview_phone",
+          "previewParams": {
+            "device": "spec:width=411dp,height=891dp",
+            "widthDp": 411,
+            "heightDp": 891
+          },
+          "density": 2.625
+        },
+        {
+          "variant": "ideal",
+          "path": "images/player-screen/ideal__default__smallphone.png",
+          "state": "default",
+          "width": 1080,
+          "height": 2340,
+          "size": "smallPhone",
+          "livePreview": "https://preview.coo.ee/compose-samples-jetcaster/p/player-screen__ideal__default__smallphone",
+          "previewId": "com.example.jetcaster.ui.player.PlayerScreenKt.PlayerScreenPreview_small-phone",
+          "previewParams": {
+            "device": "id:pixel_4a",
+            "widthDp": 393,
+            "heightDp": 851
+          },
+          "density": 2.75
+        },
+        {
+          "variant": "ideal",
+          "path": "images/player-screen/ideal__default__tablet.png",
+          "state": "default",
+          "width": 1920,
+          "height": 1200,
+          "size": "tablet",
+          "livePreview": "https://preview.coo.ee/compose-samples-jetcaster/p/player-screen__ideal__default__tablet",
+          "previewId": "com.example.jetcaster.ui.player.PlayerScreenKt.PlayerScreenPreview_tablet",
+          "previewParams": {
+            "device": "spec:width=1280dp,height=800dp,dpi=240",
+            "widthDp": 1280,
+            "heightDp": 800
+          },
+          "density": 1.5
+        }
+      ],
+      "greenlines": [
+        {
+          "kind": "a11y",
+          "severity": "info",
+          "message": "button",
+          "detail": {
+            "role": "button",
+            "bounds": {
+              "x": 32,
+              "y": 11,
+              "width": 105,
+              "height": 105
+            }
+          },
+          "bounds": {
+            "x": 32,
+            "y": 11,
+            "width": 105,
+            "height": 105
+          }
+        },
+        {
+          "kind": "a11y",
+          "severity": "info",
+          "message": "button",
+          "detail": {
+            "role": "button",
+            "bounds": {
+              "x": 1502,
+              "y": 11,
+              "width": 105,
+              "height": 105
+            }
+          },
+          "bounds": {
+            "x": 1502,
+            "y": 11,
+            "width": 105,
+            "height": 105
+          }
+        },
+        {
+          "kind": "a11y",
+          "severity": "info",
+          "message": "button",
+          "detail": {
+            "role": "button",
+            "bounds": {
+              "x": 1628,
+              "y": 11,
+              "width": 105,
+              "height": 105
+            }
+          },
+          "bounds": {
+            "x": 1628,
+            "y": 11,
+            "width": 105,
+            "height": 105
+          }
+        },
+        {
+          "kind": "a11y",
+          "severity": "info",
+          "message": "checkbox",
+          "detail": {
+            "role": "checkbox",
+            "bounds": {
+              "x": 639,
+              "y": 1566,
+              "width": 488,
+              "height": 357
+            }
+          },
+          "bounds": {
+            "x": 639,
+            "y": 1566,
+            "width": 488,
+            "height": 357
+          }
+        },
+        {
+          "kind": "a11y",
+          "severity": "info",
+          "message": "button",
+          "detail": {
+            "role": "button",
+            "bounds": {
+              "x": 525,
+              "y": 1966,
+              "width": 147,
+              "height": 101
+            }
+          },
+          "bounds": {
+            "x": 525,
+            "y": 1966,
+            "width": 147,
+            "height": 101
+          }
+        },
+        {
+          "kind": "a11y",
+          "severity": "info",
+          "message": "button",
+          "detail": {
+            "role": "button",
+            "bounds": {
+              "x": 693,
+              "y": 1966,
+              "width": 179,
+              "height": 101
+            }
+          },
+          "bounds": {
+            "x": 693,
+            "y": 1966,
+            "width": 179,
+            "height": 101
+          }
+        },
+        {
+          "kind": "a11y",
+          "severity": "info",
+          "message": "button",
+          "detail": {
+            "role": "button",
+            "bounds": {
+              "x": 893,
+              "y": 1966,
+              "width": 179,
+              "height": 101
+            }
+          },
+          "bounds": {
+            "x": 893,
+            "y": 1966,
+            "width": 179,
+            "height": 101
+          }
+        },
+        {
+          "kind": "a11y",
+          "severity": "info",
+          "message": "button",
+          "detail": {
+            "role": "button",
+            "bounds": {
+              "x": 1093,
+              "y": 1966,
+              "width": 147,
+              "height": 101
+            }
+          },
+          "bounds": {
+            "x": 1093,
+            "y": 1966,
+            "width": 147,
+            "height": 101
+          }
+        }
+      ],
+      "redlines": [
+        {
+          "bounds": {
+            "x": 32,
+            "y": 11,
+            "width": 105,
+            "height": 105
+          },
+          "role": "Button",
+          "cornerRadius": 20
+        },
+        {
+          "bounds": {
+            "x": 1502,
+            "y": 11,
+            "width": 105,
+            "height": 105
+          },
+          "role": "Button",
+          "cornerRadius": 20
+        },
+        {
+          "bounds": {
+            "x": 1628,
+            "y": 11,
+            "width": 105,
+            "height": 105
+          },
+          "role": "Button",
+          "cornerRadius": 20
+        },
+        {
+          "bounds": {
+            "x": 505,
+            "y": 202,
+            "width": 755,
+            "height": 755
+          },
+          "cornerRadius": 8
+        },
+        {
+          "bounds": {
+            "x": 58,
+            "y": 1424,
+            "width": 1648,
+            "height": 116
+          },
+          "padding": {
+            "start": 10,
+            "top": 0,
+            "end": 10,
+            "bottom": 0
+          }
+        },
+        {
+          "bounds": {
+            "x": 84,
+            "y": 1424,
+            "width": 11,
+            "height": 116
+          },
+          "cornerRadius": 2.1
+        },
+        {
+          "bounds": {
+            "x": 639,
+            "y": 1566,
+            "width": 488,
+            "height": 357
+          },
+          "role": "Checkbox",
+          "cornerRadius": 60
+        },
+        {
+          "bounds": {
+            "x": 525,
+            "y": 1966,
+            "width": 147,
+            "height": 101
+          },
+          "role": "Button",
+          "cornerRadius": 50
+        },
+        {
+          "bounds": {
+            "x": 693,
+            "y": 1966,
+            "width": 179,
+            "height": 101
+          },
+          "role": "Button",
+          "cornerRadius": 15
+        },
+        {
+          "bounds": {
+            "x": 893,
+            "y": 1966,
+            "width": 179,
+            "height": 101
+          },
+          "role": "Button",
+          "cornerRadius": 15
+        },
+        {
+          "bounds": {
+            "x": 1093,
+            "y": 1966,
+            "width": 147,
+            "height": 101
+          },
+          "role": "Button",
+          "cornerRadius": 50
+        }
+      ],
+      "section": "Screens",
+      "group": "Screens",
+      "caption": "The now-playing screen across the same five devices — the adaptive layout is the point.",
+      "wireframe": "wireframes/player-screen.svg",
+      "sourceFile": "src/main/java/com/example/jetcaster/ui/player/PlayerScreen.kt",
+      "sourceModule": ":mobile",
+      "bodyLine": 910,
+      "sourceDirectory": "Jetcaster/mobile",
+      "sourceFunction": "PlayerScreenPreview"
+    },
+    {
+      "componentId": "Podcast/Card",
+      "images": [
+        {
+          "variant": "ideal",
+          "path": "images/podcast-card/ideal__default.png",
+          "state": "default",
+          "width": 336,
+          "height": 336,
+          "livePreview": "https://preview.coo.ee/compose-samples-jetcaster/p/podcast-card__ideal__default",
+          "previewId": "com.example.jetcaster.ui.home.HomeKt.PreviewPodcastCard",
+          "density": 2.625
+        }
+      ],
+      "greenlines": [
+        {
+          "kind": "a11y",
+          "severity": "info",
+          "message": "checkbox",
+          "detail": {
+            "role": "checkbox",
+            "bounds": {
+              "x": 11,
+              "y": 11,
+              "width": 105,
+              "height": 105
+            }
+          },
+          "bounds": {
+            "x": 11,
+            "y": 11,
+            "width": 105,
+            "height": 105
+          }
+        }
+      ],
+      "redlines": [
+        {
+          "bounds": {
+            "x": 0,
+            "y": 0,
+            "width": 336,
+            "height": 336
+          },
+          "cornerRadius": 8
+        },
+        {
+          "bounds": {
+            "x": 11,
+            "y": 11,
+            "width": 105,
+            "height": 105
+          },
+          "role": "Checkbox",
+          "cornerRadius": 20
+        }
+      ],
+      "section": "Components",
+      "group": "Discover",
+      "caption": "A followed-podcast carousel item.",
+      "wireframe": "wireframes/podcast-card.svg",
+      "sourceFile": "src/main/java/com/example/jetcaster/ui/home/Home.kt",
+      "sourceModule": ":mobile",
+      "bodyLine": 784,
+      "sourceDirectory": "Jetcaster/mobile",
+      "sourceFunction": "PreviewPodcastCard"
+    },
+    {
+      "componentId": "PodcastDetails/Header",
+      "images": [
+        {
+          "variant": "ideal",
+          "path": "images/podcastdetails-header/ideal__default.png",
+          "state": "default",
+          "width": 1050,
+          "height": 1421,
+          "livePreview": "https://preview.coo.ee/compose-samples-jetcaster/p/podcastdetails-header__ideal__default",
+          "previewId": "com.example.jetcaster.ui.podcast.PodcastDetailsScreenKt.PodcastDetailsHeaderItemPreview",
+          "density": 2.625
+        }
+      ],
+      "greenlines": [
+        {
+          "kind": "a11y",
+          "severity": "info",
+          "message": "checkbox",
+          "detail": {
+            "role": "checkbox",
+            "bounds": {
+              "x": 42,
+              "y": 1232,
+              "width": 200,
+              "height": 147
+            }
+          },
+          "bounds": {
+            "x": 42,
+            "y": 1232,
+            "width": 200,
+            "height": 147
+          }
+        },
+        {
+          "kind": "a11y",
+          "severity": "info",
+          "message": "checkbox",
+          "detail": {
+            "role": "checkbox",
+            "bounds": {
+              "x": 274,
+              "y": 1232,
+              "width": 147,
+              "height": 147
+            }
+          },
+          "bounds": {
+            "x": 274,
+            "y": 1232,
+            "width": 147,
+            "height": 147
+          }
+        }
+      ],
+      "redlines": [
+        {
+          "bounds": {
+            "x": 158,
+            "y": 42,
+            "width": 735,
+            "height": 735
+          },
+          "cornerRadius": 16
+        },
+        {
+          "bounds": {
+            "x": 42,
+            "y": 819,
+            "width": 966,
+            "height": 276
+          },
+          "label": "Android Developers Backstage",
+          "padding": {
+            "start": 0,
+            "top": 16,
+            "end": 0,
+            "bottom": 0
+          }
+        },
+        {
+          "bounds": {
+            "x": 42,
+            "y": 1137,
+            "width": 966,
+            "height": 53
+          },
+          "padding": {
+            "start": 0,
+            "top": 16,
+            "end": 0,
+            "bottom": 16
+          }
+        },
+        {
+          "bounds": {
+            "x": 42,
+            "y": 1232,
+            "width": 200,
+            "height": 147
+          },
+          "role": "Checkbox",
+          "cornerRadius": 60
+        },
+        {
+          "bounds": {
+            "x": 274,
+            "y": 1232,
+            "width": 147,
+            "height": 147
+          },
+          "role": "Checkbox",
+          "cornerRadius": 100
+        }
+      ],
+      "section": "Components",
+      "group": "Discover",
+      "caption": "The podcast details header: artwork, title and the follow affordance.",
+      "wireframe": "wireframes/podcastdetails-header.svg",
+      "sourceFile": "src/main/java/com/example/jetcaster/ui/podcast/PodcastDetailsScreen.kt",
+      "sourceModule": ":mobile",
+      "bodyLine": 386,
+      "sourceDirectory": "Jetcaster/mobile",
+      "sourceFunction": "PodcastDetailsHeaderItemPreview",
+      "parameters": [
+        {
+          "name": "podcast",
+          "type": "PodcastInfo"
+        },
+        {
+          "name": "toggleSubscribe",
+          "type": "(PodcastInfo) -> Unit"
+        },
+        {
+          "name": "modifier",
+          "type": "Modifier",
+          "hasDefault": true
+        }
+      ]
+    },
+    {
+      "componentId": "Episode/List item",
+      "images": [
+        {
+          "variant": "ideal",
+          "path": "images/episode-list-item/ideal__default__dark.png",
+          "state": "default",
+          "width": 1050,
+          "height": 454,
+          "theme": "dark",
+          "livePreview": "https://preview.coo.ee/compose-samples-jetcaster/p/episode-list-item__ideal__default__dark",
+          "previewId": "com.example.jetcaster.ui.shared.EpisodeListItemKt.EpisodeListItemPreview_Dark_Mode",
+          "previewParams": {
+            "uiMode": 32,
+            "showBackground": true
+          },
+          "density": 2.625
+        },
+        {
+          "variant": "ideal",
+          "path": "images/episode-list-item/ideal__default__light.png",
+          "state": "default",
+          "width": 1050,
+          "height": 454,
+          "theme": "light",
+          "livePreview": "https://preview.coo.ee/compose-samples-jetcaster/p/episode-list-item__ideal__default__light",
+          "previewId": "com.example.jetcaster.ui.shared.EpisodeListItemKt.EpisodeListItemPreview_Light_Mode",
+          "previewParams": {
+            "uiMode": 16,
+            "showBackground": true
+          },
+          "density": 2.625
+        },
+        {
+          "variant": "ideal",
+          "path": "images/episode-list-item/ideal__category.png",
+          "state": "category",
+          "width": 1050,
+          "height": 401,
+          "livePreview": "https://preview.coo.ee/compose-samples-jetcaster/p/episode-list-item__ideal__category",
+          "previewId": "com.example.jetcaster.ui.home.category.PodcastCategoryKt.PreviewEpisodeListItem",
+          "density": 2.625
+        }
+      ],
+      "greenlines": [
+        {
+          "kind": "a11y",
+          "severity": "info",
+          "message": "button \"Play\"",
+          "detail": {
+            "role": "button",
+            "label": "Play",
+            "bounds": {
+              "x": 84,
+              "y": 286,
+              "width": 126,
+              "height": 126
+            }
+          },
+          "bounds": {
+            "x": 84,
+            "y": 286,
+            "width": 126,
+            "height": 126
+          }
+        },
+        {
+          "kind": "a11y",
+          "severity": "info",
+          "message": "button",
+          "detail": {
+            "role": "button",
+            "bounds": {
+              "x": 725,
+              "y": 297,
+              "width": 105,
+              "height": 105
+            }
+          },
+          "bounds": {
+            "x": 725,
+            "y": 297,
+            "width": 105,
+            "height": 105
+          }
+        },
+        {
+          "kind": "a11y",
+          "severity": "info",
+          "message": "button",
+          "detail": {
+            "role": "button",
+            "bounds": {
+              "x": 851,
+              "y": 297,
+              "width": 105,
+              "height": 105
+            }
+          },
+          "bounds": {
+            "x": 851,
+            "y": 297,
+            "width": 105,
+            "height": 105
+          }
+        }
+      ],
+      "redlines": [
+        {
+          "bounds": {
+            "x": 42,
+            "y": 21,
+            "width": 966,
+            "height": 412
+          },
+          "cornerRadius": 16
+        },
+        {
+          "bounds": {
+            "x": 84,
+            "y": 47,
+            "width": 693,
+            "height": 115
+          },
+          "label": "Episode 140: Lorem ipsum dolor",
+          "padding": {
+            "start": 0,
+            "top": 2,
+            "end": 0,
+            "bottom": 2
+          }
+        },
+        {
+          "bounds": {
+            "x": 819,
+            "y": 42,
+            "width": 147,
+            "height": 147
+          },
+          "cornerRadius": 8
+        },
+        {
+          "bounds": {
+            "x": 84,
+            "y": 286,
+            "width": 126,
+            "height": 126
+          },
+          "role": "Button",
+          "label": "Play",
+          "padding": {
+            "start": 6,
+            "top": 6,
+            "end": 6,
+            "bottom": 6
+          }
+        },
+        {
+          "bounds": {
+            "x": 231,
+            "y": 330,
+            "width": 462,
+            "height": 38
+          },
+          "label": "Jun 2, 2020",
+          "padding": {
+            "start": 8,
+            "top": 0,
+            "end": 8,
+            "bottom": 0
+          }
+        },
+        {
+          "bounds": {
+            "x": 725,
+            "y": 297,
+            "width": 105,
+            "height": 105
+          },
+          "role": "Button",
+          "cornerRadius": 20
+        },
+        {
+          "bounds": {
+            "x": 851,
+            "y": 297,
+            "width": 105,
+            "height": 105
+          },
+          "role": "Button",
+          "cornerRadius": 20
+        }
+      ],
+      "section": "Components",
+      "group": "Episodes",
+      "caption": "The shared episode row, light and dark mode.",
+      "wireframe": "wireframes/episode-list-item.svg",
+      "sourceFile": "src/main/java/com/example/jetcaster/ui/shared/EpisodeListItem.kt",
+      "sourceModule": ":mobile",
+      "bodyLine": 300,
+      "sourceDirectory": "Jetcaster/mobile",
+      "sourceFunction": "EpisodeListItemPreview",
+      "parameters": [
+        {
+          "name": "episode",
+          "type": "EpisodeInfo"
+        },
+        {
+          "name": "podcast",
+          "type": "PodcastInfo"
+        },
+        {
+          "name": "onClick",
+          "type": "(EpisodeInfo) -> Unit"
+        },
+        {
+          "name": "removeFromQueue",
+          "type": "(EpisodeInfo) -> Unit",
+          "hasDefault": true
+        },
+        {
+          "name": "onQueueEpisode",
+          "type": "(PlayerEpisode) -> Unit"
+        },
+        {
+          "name": "modifier",
+          "type": "Modifier",
+          "hasDefault": true
+        },
+        {
+          "name": "imageModifier",
+          "type": "Modifier",
+          "hasDefault": true
+        },
+        {
+          "name": "showPodcastImage",
+          "type": "Boolean",
+          "hasDefault": true
+        },
+        {
+          "name": "showSummary",
+          "type": "Boolean",
+          "hasDefault": true
+        }
+      ]
+    },
+    {
+      "componentId": "Player/Transport",
+      "images": [
+        {
+          "variant": "ideal",
+          "path": "images/player-transport/ideal__default.png",
+          "state": "default",
+          "width": 757,
+          "height": 620,
+          "livePreview": "https://preview.coo.ee/compose-samples-jetcaster/p/player-transport__ideal__default",
+          "previewId": "com.example.jetcaster.ui.player.PlayerScreenKt.PlayerButtonsPreview",
+          "density": 2.625
+        }
+      ],
+      "greenlines": [
+        {
+          "kind": "a11y",
+          "severity": "info",
+          "message": "checkbox",
+          "detail": {
+            "role": "checkbox",
+            "bounds": {
+              "x": 135,
+              "y": 0,
+              "width": 488,
+              "height": 357
+            }
+          },
+          "bounds": {
+            "x": 135,
+            "y": 0,
+            "width": 488,
+            "height": 357
+          }
+        },
+        {
+          "kind": "a11y",
+          "severity": "info",
+          "message": "button",
+          "detail": {
+            "role": "button",
+            "bounds": {
+              "x": 21,
+              "y": 399,
+              "width": 147,
+              "height": 179
+            }
+          },
+          "bounds": {
+            "x": 21,
+            "y": 399,
+            "width": 147,
+            "height": 179
+          }
+        },
+        {
+          "kind": "a11y",
+          "severity": "info",
+          "message": "button",
+          "detail": {
+            "role": "button",
+            "bounds": {
+              "x": 189,
+              "y": 399,
+              "width": 179,
+              "height": 179
+            }
+          },
+          "bounds": {
+            "x": 189,
+            "y": 399,
+            "width": 179,
+            "height": 179
+          }
+        },
+        {
+          "kind": "a11y",
+          "severity": "info",
+          "message": "button",
+          "detail": {
+            "role": "button",
+            "bounds": {
+              "x": 389,
+              "y": 399,
+              "width": 179,
+              "height": 179
+            }
+          },
+          "bounds": {
+            "x": 389,
+            "y": 399,
+            "width": 179,
+            "height": 179
+          }
+        },
+        {
+          "kind": "a11y",
+          "severity": "info",
+          "message": "button",
+          "detail": {
+            "role": "button",
+            "bounds": {
+              "x": 589,
+              "y": 399,
+              "width": 147,
+              "height": 179
+            }
+          },
+          "bounds": {
+            "x": 589,
+            "y": 399,
+            "width": 147,
+            "height": 179
+          }
+        }
+      ],
+      "redlines": [
+        {
+          "bounds": {
+            "x": 135,
+            "y": 0,
+            "width": 488,
+            "height": 357
+          },
+          "role": "Checkbox",
+          "cornerRadius": 30
+        },
+        {
+          "bounds": {
+            "x": 21,
+            "y": 399,
+            "width": 147,
+            "height": 179
+          },
+          "role": "Button",
+          "cornerRadius": 50
+        },
+        {
+          "bounds": {
+            "x": 189,
+            "y": 399,
+            "width": 179,
+            "height": 179
+          },
+          "role": "Button",
+          "cornerRadius": 15
+        },
+        {
+          "bounds": {
+            "x": 389,
+            "y": 399,
+            "width": 179,
+            "height": 179
+          },
+          "role": "Button",
+          "cornerRadius": 15
+        },
+        {
+          "bounds": {
+            "x": 589,
+            "y": 399,
+            "width": 147,
+            "height": 179
+          },
+          "role": "Button",
+          "cornerRadius": 50
+        }
+      ],
+      "section": "Components",
+      "group": "Player",
+      "caption": "Transport controls.",
+      "wireframe": "wireframes/player-transport.svg",
+      "sourceFile": "src/main/java/com/example/jetcaster/ui/player/PlayerScreen.kt",
+      "sourceModule": ":mobile",
+      "bodyLine": 893,
+      "sourceDirectory": "Jetcaster/mobile",
+      "sourceFunction": "PlayerButtonsPreview"
+    },
+    {
+      "componentId": "Player/App bar",
+      "images": [
+        {
+          "variant": "ideal",
+          "path": "images/player-app-bar/ideal__default.png",
+          "state": "default",
+          "width": 1050,
+          "height": 126,
+          "livePreview": "https://preview.coo.ee/compose-samples-jetcaster/p/player-app-bar__ideal__default",
+          "previewId": "com.example.jetcaster.ui.player.PlayerScreenKt.TopAppBarPreview",
+          "density": 2.625
+        }
+      ],
+      "greenlines": [
+        {
+          "kind": "a11y",
+          "severity": "info",
+          "message": "button",
+          "detail": {
+            "role": "button",
+            "bounds": {
+              "x": 11,
+              "y": 11,
+              "width": 105,
+              "height": 105
+            }
+          },
+          "bounds": {
+            "x": 11,
+            "y": 11,
+            "width": 105,
+            "height": 105
+          }
+        },
+        {
+          "kind": "a11y",
+          "severity": "info",
+          "message": "button",
+          "detail": {
+            "role": "button",
+            "bounds": {
+              "x": 809,
+              "y": 11,
+              "width": 105,
+              "height": 105
+            }
+          },
+          "bounds": {
+            "x": 809,
+            "y": 11,
+            "width": 105,
+            "height": 105
+          }
+        },
+        {
+          "kind": "a11y",
+          "severity": "info",
+          "message": "button",
+          "detail": {
+            "role": "button",
+            "bounds": {
+              "x": 935,
+              "y": 11,
+              "width": 105,
+              "height": 105
+            }
+          },
+          "bounds": {
+            "x": 935,
+            "y": 11,
+            "width": 105,
+            "height": 105
+          }
+        }
+      ],
+      "redlines": [
+        {
+          "bounds": {
+            "x": 11,
+            "y": 11,
+            "width": 105,
+            "height": 105
+          },
+          "role": "Button",
+          "cornerRadius": 20
+        },
+        {
+          "bounds": {
+            "x": 809,
+            "y": 11,
+            "width": 105,
+            "height": 105
+          },
+          "role": "Button",
+          "cornerRadius": 20
+        },
+        {
+          "bounds": {
+            "x": 935,
+            "y": 11,
+            "width": 105,
+            "height": 105
+          },
+          "role": "Button",
+          "cornerRadius": 20
+        }
+      ],
+      "section": "Components",
+      "group": "Player",
+      "caption": "The player's top app bar.",
+      "wireframe": "wireframes/player-app-bar.svg",
+      "sourceFile": "src/main/java/com/example/jetcaster/ui/player/PlayerScreen.kt",
+      "sourceModule": ":mobile",
+      "bodyLine": 882,
+      "sourceDirectory": "Jetcaster/mobile",
+      "sourceFunction": "TopAppBarPreview"
+    },
+    {
+      "componentId": "Chrome/Home app bar",
+      "images": [
+        {
+          "variant": "ideal",
+          "path": "images/chrome-home-app-bar/ideal__default.png",
+          "state": "default",
+          "width": 1050,
+          "height": 210,
+          "livePreview": "https://preview.coo.ee/compose-samples-jetcaster/p/chrome-home-app-bar__ideal__default",
+          "previewId": "com.example.jetcaster.ui.home.HomeKt.HomeAppBarPreview",
+          "density": 2.625
+        }
+      ],
+      "greenlines": [],
+      "redlines": [
+        {
+          "bounds": {
+            "x": 42,
+            "y": 21,
+            "width": 966,
+            "height": 168
+          },
+          "padding": {
+            "start": 16,
+            "top": 8,
+            "end": 16,
+            "bottom": 8
+          }
+        }
+      ],
+      "section": "Components",
+      "group": "Chrome",
+      "caption": "The home app bar with its search field.",
+      "wireframe": "wireframes/chrome-home-app-bar.svg",
+      "sourceFile": "src/main/java/com/example/jetcaster/ui/home/Home.kt",
+      "sourceModule": ":mobile",
+      "bodyLine": 746,
+      "sourceDirectory": "Jetcaster/mobile",
+      "sourceFunction": "HomeAppBarPreview"
+    },
+    {
+      "componentId": "Chrome/Home error",
+      "images": [
+        {
+          "variant": "ideal",
+          "path": "images/chrome-home-error/ideal__default.png",
+          "state": "default",
+          "width": 1050,
+          "height": 2100,
+          "livePreview": "https://preview.coo.ee/compose-samples-jetcaster/p/chrome-home-error__ideal__default",
+          "previewId": "com.example.jetcaster.ui.home.HomeKt.HomeScreenErrorPreview",
+          "density": 2.625
+        }
+      ],
+      "greenlines": [
+        {
+          "kind": "a11y",
+          "severity": "info",
+          "message": "button",
+          "detail": {
+            "role": "button",
+            "bounds": {
+              "x": 412,
+              "y": 1072,
+              "width": 227,
+              "height": 105
+            }
+          },
+          "bounds": {
+            "x": 412,
+            "y": 1072,
+            "width": 227,
+            "height": 105
+          }
+        }
+      ],
+      "redlines": [
+        {
+          "bounds": {
+            "x": 275,
+            "y": 956,
+            "width": 501,
+            "height": 63
+          },
+          "label": "An error has occurred.",
+          "padding": {
+            "start": 16,
+            "top": 16,
+            "end": 16,
+            "bottom": 16
+          }
+        },
+        {
+          "bounds": {
+            "x": 412,
+            "y": 1072,
+            "width": 227,
+            "height": 105
+          },
+          "role": "Button",
+          "cornerRadius": 20
+        }
+      ],
+      "section": "Components",
+      "group": "Chrome",
+      "caption": "Home's error state with its retry action.",
+      "wireframe": "wireframes/chrome-home-error.svg",
+      "sourceFile": "src/main/java/com/example/jetcaster/ui/home/Home.kt",
+      "sourceModule": ":mobile",
+      "bodyLine": 224,
+      "sourceDirectory": "Jetcaster/mobile",
+      "sourceFunction": "HomeScreenErrorPreview"
+    }
+  ],
+  "library": [
+    "androidx.compose.material3:material3 (expressive)",
+    "androidx.compose.material3.adaptive:adaptive"
+  ],
+  "renderer": "compose-preview 2.39.2",
+  "generatedAt": "2026-10-10T10:34:16.326Z",
+  "display": {
+    "surface": "dark",
+    "hero": "Home/Screen"
+  },
+  "liveBundle": {
+    "path": "bundle/",
+    "file": "bundle.png"
+  },
+  "liveBundles": [
+    {
+      "path": "bundle/",
+      "file": "bundle.png",
+      "module": ":mobile",
+      "previewIdPrefix": ""
+    }
+  ],
+  "componentsFile": "components.json",
+  "source": {
+    "repo": "android/compose-samples",
+    "ref": "5a390e4a9d3c4e5b30e942041bde93582c4d9492",
+    "module": ":mobile"
+  }
+}
