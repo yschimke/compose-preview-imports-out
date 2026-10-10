@@ -1,0 +1,12 @@
+{
+  "schema": "compose-preview-revision-index/v1",
+  "current": [
+    "adaptive-phone__ideal__default",
+    "adaptive-phone__ideal__desktop-portrait__medium",
+    "adaptive-phone__ideal__desktop__expanded",
+    "adaptive-phone__ideal__tablet-portrait__compact",
+    "adaptive-phone__ideal__tablet__medium",
+    "states-coming-soon__ideal__default"
+  ],
+  "revisions": []
+}

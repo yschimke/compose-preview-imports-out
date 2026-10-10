@@ -1,0 +1,1014 @@
+{
+  "schema": "design-parity-catalog/v1",
+  "system": "compose-samples-reply",
+  "title": "Reply",
+  "components": [
+    {
+      "componentId": "Adaptive/Phone",
+      "images": [
+        {
+          "variant": "ideal",
+          "path": "images/adaptive-phone/ideal__default.png",
+          "state": "default",
+          "width": 1050,
+          "height": 2100,
+          "livePreview": "https://preview.coo.ee/compose-samples-reply/p/adaptive-phone__ideal__default",
+          "previewId": "com.example.reply.ui.MainActivityKt.ReplyAppPreview",
+          "previewParams": {
+            "showBackground": true
+          },
+          "density": 2.625
+        },
+        {
+          "variant": "ideal",
+          "path": "images/adaptive-phone/ideal__tablet-portrait__compact.png",
+          "state": "tablet portrait",
+          "width": 1313,
+          "height": 1838,
+          "size": "compact",
+          "livePreview": "https://preview.coo.ee/compose-samples-reply/p/adaptive-phone__ideal__tablet-portrait__compact",
+          "previewId": "com.example.reply.ui.MainActivityKt.ReplyAppPreviewTabletPortrait",
+          "previewParams": {
+            "showBackground": true
+          },
+          "density": 2.625
+        },
+        {
+          "variant": "ideal",
+          "path": "images/adaptive-phone/ideal__tablet__medium.png",
+          "state": "tablet",
+          "width": 1838,
+          "height": 1313,
+          "size": "medium",
+          "livePreview": "https://preview.coo.ee/compose-samples-reply/p/adaptive-phone__ideal__tablet__medium",
+          "previewId": "com.example.reply.ui.MainActivityKt.ReplyAppPreviewTablet",
+          "previewParams": {
+            "showBackground": true
+          },
+          "density": 2.625
+        },
+        {
+          "variant": "ideal",
+          "path": "images/adaptive-phone/ideal__desktop-portrait__medium.png",
+          "state": "desktop portrait",
+          "width": 1575,
+          "height": 2888,
+          "size": "medium",
+          "livePreview": "https://preview.coo.ee/compose-samples-reply/p/adaptive-phone__ideal__desktop-portrait__medium",
+          "previewId": "com.example.reply.ui.MainActivityKt.ReplyAppPreviewDesktopPortrait",
+          "previewParams": {
+            "showBackground": true
+          },
+          "density": 2.625
+        },
+        {
+          "variant": "ideal",
+          "path": "images/adaptive-phone/ideal__desktop__expanded.png",
+          "state": "desktop",
+          "width": 2888,
+          "height": 1575,
+          "size": "expanded",
+          "livePreview": "https://preview.coo.ee/compose-samples-reply/p/adaptive-phone__ideal__desktop__expanded",
+          "previewId": "com.example.reply.ui.MainActivityKt.ReplyAppPreviewDesktop",
+          "previewParams": {
+            "showBackground": true
+          },
+          "density": 2.625
+        }
+      ],
+      "greenlines": [
+        {
+          "kind": "a11y",
+          "severity": "info",
+          "message": "button",
+          "detail": {
+            "role": "button",
+            "bounds": {
+              "x": 840,
+              "y": 285,
+              "width": 105,
+              "height": 105
+            }
+          },
+          "bounds": {
+            "x": 840,
+            "y": 285,
+            "width": 105,
+            "height": 105
+          }
+        },
+        {
+          "kind": "a11y",
+          "severity": "info",
+          "message": "button",
+          "detail": {
+            "role": "button",
+            "bounds": {
+              "x": 840,
+              "y": 740,
+              "width": 105,
+              "height": 105
+            }
+          },
+          "bounds": {
+            "x": 840,
+            "y": 740,
+            "width": 105,
+            "height": 105
+          }
+        },
+        {
+          "kind": "a11y",
+          "severity": "info",
+          "message": "button",
+          "detail": {
+            "role": "button",
+            "bounds": {
+              "x": 840,
+              "y": 1195,
+              "width": 105,
+              "height": 105
+            }
+          },
+          "bounds": {
+            "x": 840,
+            "y": 1195,
+            "width": 105,
+            "height": 105
+          }
+        },
+        {
+          "kind": "a11y",
+          "severity": "info",
+          "message": "button",
+          "detail": {
+            "role": "button",
+            "bounds": {
+              "x": 840,
+              "y": 1594,
+              "width": 105,
+              "height": 105
+            }
+          },
+          "bounds": {
+            "x": 840,
+            "y": 1594,
+            "width": 105,
+            "height": 105
+          }
+        },
+        {
+          "kind": "a11y",
+          "severity": "info",
+          "message": "button",
+          "detail": {
+            "role": "button",
+            "bounds": {
+              "x": 660,
+              "y": 1701,
+              "width": 348,
+              "height": 147
+            }
+          },
+          "bounds": {
+            "x": 660,
+            "y": 1701,
+            "width": 348,
+            "height": 147
+          }
+        },
+        {
+          "kind": "a11y",
+          "severity": "info",
+          "message": "tab",
+          "detail": {
+            "role": "tab",
+            "bounds": {
+              "x": 0,
+              "y": 1890,
+              "width": 246,
+              "height": 210
+            }
+          },
+          "bounds": {
+            "x": 0,
+            "y": 1890,
+            "width": 246,
+            "height": 210
+          }
+        },
+        {
+          "kind": "a11y",
+          "severity": "info",
+          "message": "tab",
+          "detail": {
+            "role": "tab",
+            "bounds": {
+              "x": 267,
+              "y": 1890,
+              "width": 247,
+              "height": 210
+            }
+          },
+          "bounds": {
+            "x": 267,
+            "y": 1890,
+            "width": 247,
+            "height": 210
+          }
+        },
+        {
+          "kind": "a11y",
+          "severity": "info",
+          "message": "tab",
+          "detail": {
+            "role": "tab",
+            "bounds": {
+              "x": 535,
+              "y": 1890,
+              "width": 247,
+              "height": 210
+            }
+          },
+          "bounds": {
+            "x": 535,
+            "y": 1890,
+            "width": 247,
+            "height": 210
+          }
+        },
+        {
+          "kind": "a11y",
+          "severity": "info",
+          "message": "tab",
+          "detail": {
+            "role": "tab",
+            "bounds": {
+              "x": 803,
+              "y": 1890,
+              "width": 247,
+              "height": 210
+            }
+          },
+          "bounds": {
+            "x": 803,
+            "y": 1890,
+            "width": 247,
+            "height": 210
+          }
+        },
+        {
+          "kind": "a11y",
+          "severity": "info",
+          "message": "button",
+          "detail": {
+            "role": "button",
+            "bounds": {
+              "x": 0,
+              "y": 0,
+              "width": 0,
+              "height": 0
+            }
+          },
+          "bounds": {
+            "x": 0,
+            "y": 0,
+            "width": 0,
+            "height": 0
+          }
+        },
+        {
+          "kind": "a11y",
+          "severity": "info",
+          "message": "button",
+          "detail": {
+            "role": "button",
+            "bounds": {
+              "x": 0,
+              "y": 0,
+              "width": 0,
+              "height": 0
+            }
+          },
+          "bounds": {
+            "x": 0,
+            "y": 0,
+            "width": 0,
+            "height": 0
+          }
+        },
+        {
+          "kind": "a11y",
+          "severity": "info",
+          "message": "tab",
+          "detail": {
+            "role": "tab",
+            "bounds": {
+              "x": 0,
+              "y": 0,
+              "width": 0,
+              "height": 0
+            }
+          },
+          "bounds": {
+            "x": 0,
+            "y": 0,
+            "width": 0,
+            "height": 0
+          }
+        },
+        {
+          "kind": "a11y",
+          "severity": "info",
+          "message": "tab",
+          "detail": {
+            "role": "tab",
+            "bounds": {
+              "x": 0,
+              "y": 0,
+              "width": 0,
+              "height": 0
+            }
+          },
+          "bounds": {
+            "x": 0,
+            "y": 0,
+            "width": 0,
+            "height": 0
+          }
+        },
+        {
+          "kind": "a11y",
+          "severity": "info",
+          "message": "tab",
+          "detail": {
+            "role": "tab",
+            "bounds": {
+              "x": 0,
+              "y": 0,
+              "width": 0,
+              "height": 0
+            }
+          },
+          "bounds": {
+            "x": 0,
+            "y": 0,
+            "width": 0,
+            "height": 0
+          }
+        },
+        {
+          "kind": "a11y",
+          "severity": "info",
+          "message": "tab",
+          "detail": {
+            "role": "tab",
+            "bounds": {
+              "x": 0,
+              "y": 0,
+              "width": 0,
+              "height": 0
+            }
+          },
+          "bounds": {
+            "x": 0,
+            "y": 0,
+            "width": 0,
+            "height": 0
+          }
+        }
+      ],
+      "redlines": [
+        {
+          "bounds": {
+            "x": 0,
+            "y": 210,
+            "width": 1050,
+            "height": 1680
+          },
+          "padding": {
+            "start": 0,
+            "top": 80,
+            "end": 0,
+            "bottom": 0
+          }
+        },
+        {
+          "bounds": {
+            "x": 42,
+            "y": 221,
+            "width": 966,
+            "height": 433
+          },
+          "padding": {
+            "start": 16,
+            "top": 4,
+            "end": 16,
+            "bottom": 4
+          },
+          "cornerRadius": 16
+        },
+        {
+          "bounds": {
+            "x": 95,
+            "y": 274,
+            "width": 105,
+            "height": 105
+          },
+          "role": "Image",
+          "label": "Google Express",
+          "cornerRadius": 20
+        },
+        {
+          "bounds": {
+            "x": 840,
+            "y": 285,
+            "width": 105,
+            "height": 105
+          },
+          "role": "Button",
+          "cornerRadius": 20
+        },
+        {
+          "bounds": {
+            "x": 95,
+            "y": 432,
+            "width": 339,
+            "height": 49
+          },
+          "label": "Package shipped!",
+          "padding": {
+            "start": 0,
+            "top": 12,
+            "end": 0,
+            "bottom": 8
+          }
+        },
+        {
+          "bounds": {
+            "x": 42,
+            "y": 676,
+            "width": 966,
+            "height": 433
+          },
+          "padding": {
+            "start": 16,
+            "top": 4,
+            "end": 16,
+            "bottom": 4
+          },
+          "cornerRadius": 16
+        },
+        {
+          "bounds": {
+            "x": 95,
+            "y": 729,
+            "width": 105,
+            "height": 105
+          },
+          "role": "Image",
+          "label": "Ali Connors",
+          "cornerRadius": 20
+        },
+        {
+          "bounds": {
+            "x": 840,
+            "y": 740,
+            "width": 105,
+            "height": 105
+          },
+          "role": "Button",
+          "cornerRadius": 20
+        },
+        {
+          "bounds": {
+            "x": 95,
+            "y": 887,
+            "width": 415,
+            "height": 49
+          },
+          "label": "Brunch this weekend?",
+          "padding": {
+            "start": 0,
+            "top": 12,
+            "end": 0,
+            "bottom": 8
+          }
+        },
+        {
+          "bounds": {
+            "x": 42,
+            "y": 1131,
+            "width": 966,
+            "height": 377
+          },
+          "padding": {
+            "start": 16,
+            "top": 4,
+            "end": 16,
+            "bottom": 4
+          },
+          "cornerRadius": 16
+        },
+        {
+          "bounds": {
+            "x": 95,
+            "y": 1184,
+            "width": 105,
+            "height": 105
+          },
+          "role": "Image",
+          "label": "Allison Trabucco",
+          "cornerRadius": 20
+        },
+        {
+          "bounds": {
+            "x": 840,
+            "y": 1195,
+            "width": 105,
+            "height": 105
+          },
+          "role": "Button",
+          "cornerRadius": 20
+        },
+        {
+          "bounds": {
+            "x": 95,
+            "y": 1342,
+            "width": 358,
+            "height": 49
+          },
+          "label": "Bonjour from Paris",
+          "padding": {
+            "start": 0,
+            "top": 12,
+            "end": 0,
+            "bottom": 8
+          }
+        },
+        {
+          "bounds": {
+            "x": 42,
+            "y": 1530,
+            "width": 966,
+            "height": 360
+          },
+          "padding": {
+            "start": 16,
+            "top": 4,
+            "end": 16,
+            "bottom": 4
+          },
+          "cornerRadius": 16
+        },
+        {
+          "bounds": {
+            "x": 95,
+            "y": 1583,
+            "width": 105,
+            "height": 105
+          },
+          "role": "Image",
+          "label": "Kim Alen",
+          "cornerRadius": 20
+        },
+        {
+          "bounds": {
+            "x": 840,
+            "y": 1594,
+            "width": 105,
+            "height": 105
+          },
+          "role": "Button",
+          "cornerRadius": 20
+        },
+        {
+          "bounds": {
+            "x": 95,
+            "y": 1741,
+            "width": 400,
+            "height": 49
+          },
+          "label": "High school reunion?",
+          "padding": {
+            "start": 0,
+            "top": 12,
+            "end": 0,
+            "bottom": 8
+          }
+        },
+        {
+          "bounds": {
+            "x": 42,
+            "y": 42,
+            "width": 966,
+            "height": 148
+          },
+          "padding": {
+            "start": 16,
+            "top": 16,
+            "end": 16,
+            "bottom": 16
+          },
+          "cornerRadius": 32
+        },
+        {
+          "bounds": {
+            "x": 106,
+            "y": 85,
+            "width": 63,
+            "height": 63
+          },
+          "role": "Image",
+          "label": "Search",
+          "padding": {
+            "start": 16,
+            "top": 0,
+            "end": 0,
+            "bottom": 0
+          }
+        },
+        {
+          "bounds": {
+            "x": 179,
+            "y": 85,
+            "width": 269,
+            "height": 63
+          },
+          "padding": {
+            "start": 4,
+            "top": 0,
+            "end": 4,
+            "bottom": 0
+          }
+        },
+        {
+          "bounds": {
+            "x": 882,
+            "y": 74,
+            "width": 84,
+            "height": 84
+          },
+          "role": "Image",
+          "label": "Profile",
+          "padding": {
+            "start": 12,
+            "top": 12,
+            "end": 12,
+            "bottom": 12
+          },
+          "cornerRadius": 16
+        },
+        {
+          "bounds": {
+            "x": 660,
+            "y": 1701,
+            "width": 348,
+            "height": 147
+          },
+          "role": "Button",
+          "padding": {
+            "start": 16,
+            "top": 16,
+            "end": 16,
+            "bottom": 16
+          },
+          "cornerRadius": 24
+        },
+        {
+          "bounds": {
+            "x": 0,
+            "y": 1890,
+            "width": 1050,
+            "height": 210
+          },
+          "gap": 8
+        },
+        {
+          "bounds": {
+            "x": 69,
+            "y": 1953,
+            "width": 108,
+            "height": 84
+          },
+          "cornerRadius": 16
+        },
+        {
+          "bounds": {
+            "x": 49,
+            "y": 1953,
+            "width": 147,
+            "height": 84
+          },
+          "cornerRadius": 16
+        },
+        {
+          "bounds": {
+            "x": 317,
+            "y": 1953,
+            "width": 147,
+            "height": 84
+          },
+          "cornerRadius": 16
+        },
+        {
+          "bounds": {
+            "x": 585,
+            "y": 1953,
+            "width": 147,
+            "height": 84
+          },
+          "cornerRadius": 16
+        },
+        {
+          "bounds": {
+            "x": 853,
+            "y": 1953,
+            "width": 147,
+            "height": 84
+          },
+          "cornerRadius": 16
+        },
+        {
+          "bounds": {
+            "x": 0,
+            "y": 0,
+            "width": 0,
+            "height": 0
+          },
+          "cornerRadius": 0
+        },
+        {
+          "bounds": {
+            "x": 0,
+            "y": 0,
+            "width": 0,
+            "height": 0
+          },
+          "padding": {
+            "start": 16,
+            "top": 16,
+            "end": 16,
+            "bottom": 16
+          }
+        },
+        {
+          "bounds": {
+            "x": 0,
+            "y": 0,
+            "width": 0,
+            "height": 0
+          },
+          "role": "Button",
+          "cornerRadius": 20
+        },
+        {
+          "bounds": {
+            "x": 0,
+            "y": 0,
+            "width": 0,
+            "height": 0
+          },
+          "role": "Button",
+          "padding": {
+            "start": 0,
+            "top": 8,
+            "end": 0,
+            "bottom": 40
+          },
+          "cornerRadius": 24
+        },
+        {
+          "bounds": {
+            "x": 0,
+            "y": 0,
+            "width": 0,
+            "height": 0
+          },
+          "role": "Tab",
+          "cornerRadius": 28
+        },
+        {
+          "bounds": {
+            "x": 0,
+            "y": 0,
+            "width": 0,
+            "height": 0
+          },
+          "label": "Inbox",
+          "padding": {
+            "start": 16,
+            "top": 0,
+            "end": 16,
+            "bottom": 0
+          }
+        },
+        {
+          "bounds": {
+            "x": 0,
+            "y": 0,
+            "width": 0,
+            "height": 0
+          },
+          "role": "Tab",
+          "cornerRadius": 28
+        },
+        {
+          "bounds": {
+            "x": 0,
+            "y": 0,
+            "width": 0,
+            "height": 0
+          },
+          "label": "Articles",
+          "padding": {
+            "start": 16,
+            "top": 0,
+            "end": 16,
+            "bottom": 0
+          }
+        },
+        {
+          "bounds": {
+            "x": 0,
+            "y": 0,
+            "width": 0,
+            "height": 0
+          },
+          "role": "Tab",
+          "cornerRadius": 28
+        },
+        {
+          "bounds": {
+            "x": 0,
+            "y": 0,
+            "width": 0,
+            "height": 0
+          },
+          "label": "Direct Messages",
+          "padding": {
+            "start": 16,
+            "top": 0,
+            "end": 16,
+            "bottom": 0
+          }
+        },
+        {
+          "bounds": {
+            "x": 0,
+            "y": 0,
+            "width": 0,
+            "height": 0
+          },
+          "role": "Tab",
+          "cornerRadius": 28
+        },
+        {
+          "bounds": {
+            "x": 0,
+            "y": 0,
+            "width": 0,
+            "height": 0
+          },
+          "label": "Groups",
+          "padding": {
+            "start": 16,
+            "top": 0,
+            "end": 16,
+            "bottom": 0
+          }
+        }
+      ],
+      "section": "Screens",
+      "group": "Adaptive postures",
+      "caption": "Compact width — a single pane with the bottom navigation bar.",
+      "wireframe": "wireframes/adaptive-phone.svg",
+      "sourceFile": "src/main/java/com/example/reply/ui/MainActivity.kt",
+      "sourceModule": ":app",
+      "bodyLine": 74,
+      "sourceDirectory": "Reply/app",
+      "sourceFunction": "ReplyAppPreview",
+      "parameters": [
+        {
+          "name": "windowSize",
+          "type": "WindowSizeClass"
+        },
+        {
+          "name": "displayFeatures",
+          "type": "List<DisplayFeature>"
+        },
+        {
+          "name": "replyHomeUIState",
+          "type": "ReplyHomeUIState"
+        },
+        {
+          "name": "closeDetailScreen",
+          "type": "() -> Unit",
+          "hasDefault": true
+        },
+        {
+          "name": "navigateToDetail",
+          "type": "(Long, ReplyContentType) -> Unit",
+          "hasDefault": true
+        },
+        {
+          "name": "toggleSelectedEmail",
+          "type": "(Long) -> Unit",
+          "hasDefault": true
+        }
+      ]
+    },
+    {
+      "componentId": "States/Coming soon",
+      "images": [
+        {
+          "variant": "ideal",
+          "path": "images/states-coming-soon/ideal__default.png",
+          "state": "default",
+          "width": 1050,
+          "height": 2100,
+          "livePreview": "https://preview.coo.ee/compose-samples-reply/p/states-coming-soon__ideal__default",
+          "previewId": "com.example.reply.ui.EmptyComingSoonKt.ComingSoonPreview",
+          "density": 2.625
+        }
+      ],
+      "greenlines": [],
+      "redlines": [
+        {
+          "bounds": {
+            "x": 193,
+            "y": 971,
+            "width": 664,
+            "height": 74
+          },
+          "label": "Screen under construction",
+          "padding": {
+            "start": 8,
+            "top": 8,
+            "end": 8,
+            "bottom": 8
+          }
+        },
+        {
+          "bounds": {
+            "x": 21,
+            "y": 1066,
+            "width": 1008,
+            "height": 84
+          },
+          "label": "This screen is still under construction. This sample will help you learn about adaptive layouts in Jetpack Compose",
+          "padding": {
+            "start": 8,
+            "top": 0,
+            "end": 8,
+            "bottom": 0
+          }
+        }
+      ],
+      "section": "Components",
+      "group": "States",
+      "caption": "The placeholder shown for destinations the sample does not implement.",
+      "wireframe": "wireframes/states-coming-soon.svg",
+      "sourceFile": "src/main/java/com/example/reply/ui/EmptyComingSoon.kt",
+      "sourceModule": ":app",
+      "bodyLine": 60,
+      "sourceDirectory": "Reply/app",
+      "sourceFunction": "ComingSoonPreview",
+      "parameters": [
+        {
+          "name": "modifier",
+          "type": "Modifier",
+          "hasDefault": true
+        }
+      ]
+    }
+  ],
+  "library": [
+    "androidx.compose.material3:material3",
+    "androidx.compose.material3.adaptive:adaptive"
+  ],
+  "renderer": "compose-preview 2.40.0",
+  "generatedAt": "2026-10-10T10:56:41.335Z",
+  "display": {
+    "surface": "light",
+    "hero": "Adaptive/Phone"
+  },
+  "liveBundle": {
+    "path": "bundle/",
+    "file": "bundle.png"
+  },
+  "liveBundles": [
+    {
+      "path": "bundle/",
+      "file": "bundle.png",
+      "module": ":app",
+      "previewIdPrefix": ""
+    }
+  ],
+  "componentsFile": "components.json",
+  "source": {
+    "repo": "android/compose-samples",
+    "ref": "5a390e4a9d3c4e5b30e942041bde93582c4d9492",
+    "module": ":app"
+  }
+}

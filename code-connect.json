@@ -1,0 +1,134 @@
+{
+  "system": "compose-samples-reply",
+  "title": "Reply",
+  "label": "Compose",
+  "source": {
+    "repo": "android/compose-samples",
+    "ref": "5a390e4a9d3c4e5b30e942041bde93582c4d9492",
+    "module": ":app"
+  },
+  "generatedAt": "2026-10-10T10:56:41.924Z",
+  "mappings": [
+    {
+      "componentId": "Adaptive/Phone",
+      "figmaLayerName": "Adaptive/Phone",
+      "componentName": "ReplyApp",
+      "source": "https://github.com/android/compose-samples/blob/5a390e4a9d3c4e5b30e942041bde93582c4d9492/app/src/main/java/com/example/reply/ui/ReplyApp.kt",
+      "label": "Compose",
+      "confidence": "HIGH",
+      "previewName": "ReplyAppPreview",
+      "codeSnippet": "ReplyApp(\n    windowSize = TODO(\"WindowSizeClass\"),\n    displayFeatures = TODO(\"List<DisplayFeature>\"),\n    replyHomeUIState = TODO(\"ReplyHomeUIState\"),\n)",
+      "imports": [
+        "import com.example.reply.ui.ReplyApp"
+      ],
+      "parameters": [
+        {
+          "name": "windowSize",
+          "type": "WindowSizeClass",
+          "typeFqn": "androidx.compose.material3.windowsizeclass.WindowSizeClass",
+          "hasDefault": false,
+          "composableSlot": false,
+          "composableSlotReceiver": null,
+          "nullable": false,
+          "noArgConstructible": false,
+          "noArgFactory": null,
+          "scopeDslReceiver": null,
+          "lambdaReturnTypeFqn": null
+        },
+        {
+          "name": "displayFeatures",
+          "type": "List<DisplayFeature>",
+          "typeFqn": "kotlin.collections.List",
+          "hasDefault": false,
+          "composableSlot": false,
+          "composableSlotReceiver": null,
+          "nullable": false,
+          "noArgConstructible": false,
+          "noArgFactory": null,
+          "scopeDslReceiver": null,
+          "lambdaReturnTypeFqn": null
+        },
+        {
+          "name": "replyHomeUIState",
+          "type": "ReplyHomeUIState",
+          "typeFqn": "com.example.reply.ui.ReplyHomeUIState",
+          "hasDefault": false,
+          "composableSlot": false,
+          "composableSlotReceiver": null,
+          "nullable": false,
+          "noArgConstructible": false,
+          "noArgFactory": null,
+          "scopeDslReceiver": null,
+          "lambdaReturnTypeFqn": null
+        },
+        {
+          "name": "closeDetailScreen",
+          "type": "() -> Unit",
+          "typeFqn": "kotlin.Function0",
+          "hasDefault": true,
+          "composableSlot": false,
+          "composableSlotReceiver": null,
+          "nullable": false,
+          "noArgConstructible": false,
+          "noArgFactory": null,
+          "scopeDslReceiver": null,
+          "lambdaReturnTypeFqn": "kotlin.Unit"
+        },
+        {
+          "name": "navigateToDetail",
+          "type": "(Long, ReplyContentType) -> Unit",
+          "typeFqn": "kotlin.Function2",
+          "hasDefault": true,
+          "composableSlot": false,
+          "composableSlotReceiver": null,
+          "nullable": false,
+          "noArgConstructible": false,
+          "noArgFactory": null,
+          "scopeDslReceiver": null,
+          "lambdaReturnTypeFqn": "kotlin.Unit"
+        },
+        {
+          "name": "toggleSelectedEmail",
+          "type": "(Long) -> Unit",
+          "typeFqn": "kotlin.Function1",
+          "hasDefault": true,
+          "composableSlot": false,
+          "composableSlotReceiver": null,
+          "nullable": false,
+          "noArgConstructible": false,
+          "noArgFactory": null,
+          "scopeDslReceiver": null,
+          "lambdaReturnTypeFqn": "kotlin.Unit"
+        }
+      ]
+    },
+    {
+      "componentId": "States/Coming soon",
+      "figmaLayerName": "States/Coming soon",
+      "componentName": "EmptyComingSoon",
+      "source": "https://github.com/android/compose-samples/blob/5a390e4a9d3c4e5b30e942041bde93582c4d9492/app/src/main/java/com/example/reply/ui/EmptyComingSoon.kt",
+      "label": "Compose",
+      "confidence": "HIGH",
+      "previewName": "ComingSoonPreview",
+      "codeSnippet": "EmptyComingSoon()",
+      "imports": [
+        "import com.example.reply.ui.EmptyComingSoon"
+      ],
+      "parameters": [
+        {
+          "name": "modifier",
+          "type": "Modifier",
+          "typeFqn": "androidx.compose.ui.Modifier",
+          "hasDefault": true,
+          "composableSlot": false,
+          "composableSlotReceiver": null,
+          "nullable": false,
+          "noArgConstructible": false,
+          "noArgFactory": null,
+          "scopeDslReceiver": null,
+          "lambdaReturnTypeFqn": null
+        }
+      ]
+    }
+  ]
+}
