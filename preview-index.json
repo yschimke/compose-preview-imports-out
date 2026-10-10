@@ -1,0 +1,25 @@
+{
+  "schema": "compose-preview-revision-index/v1",
+  "current": [
+    "chrome-app-bar__ideal__dark",
+    "chrome-app-bar__ideal__default",
+    "chrome-channel-bar__ideal__default",
+    "chrome-drawer__ideal__dark",
+    "chrome-drawer__ideal__default",
+    "conversation-day-header__ideal__default",
+    "conversation-input__ideal__default",
+    "conversation-jump-to-bottom__ideal__default",
+    "conversation-screen__ideal__default",
+    "profile-fab__ideal__default",
+    "profile-screen__ideal__default__compact",
+    "profile-screen__ideal__me-340-dark__dark__compact",
+    "profile-screen__ideal__me-480-dark__dark__compact",
+    "profile-screen__ideal__me-480__compact",
+    "profile-screen__ideal__me-landscape__medium",
+    "profile-screen__ideal__me-portrait__compact",
+    "profile-screen__ideal__other-480-dark__dark__compact",
+    "profile-screen__ideal__other-480__compact",
+    "profile-screen__ideal__other-portrait__compact"
+  ],
+  "revisions": []
+}

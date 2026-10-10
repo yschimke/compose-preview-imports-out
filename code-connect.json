@@ -1,0 +1,564 @@
+{
+  "system": "compose-samples-jetchat",
+  "title": "Jetchat",
+  "label": "Compose",
+  "source": {
+    "repo": "android/compose-samples",
+    "ref": "5a390e4a9d3c4e5b30e942041bde93582c4d9492",
+    "module": ":app"
+  },
+  "generatedAt": "2026-10-10T10:48:11.685Z",
+  "mappings": [
+    {
+      "componentId": "Conversation/Screen",
+      "figmaLayerName": "Conversation/Screen",
+      "componentName": "ConversationContent",
+      "source": "https://github.com/android/compose-samples/blob/5a390e4a9d3c4e5b30e942041bde93582c4d9492/app/src/main/java/com/example/compose/jetchat/conversation/Conversation.kt",
+      "label": "Compose",
+      "confidence": "HIGH",
+      "previewName": "ConversationPreview",
+      "codeSnippet": "ConversationContent(\n    uiState = TODO(\"ConversationUiState\"),\n    navigateToProfile = TODO(\"(String) -> Unit\"),\n)",
+      "imports": [
+        "import com.example.compose.jetchat.conversation.ConversationContent"
+      ],
+      "parameters": [
+        {
+          "name": "uiState",
+          "type": "ConversationUiState",
+          "typeFqn": "com.example.compose.jetchat.conversation.ConversationUiState",
+          "hasDefault": false,
+          "composableSlot": false,
+          "composableSlotReceiver": null,
+          "nullable": false,
+          "noArgConstructible": false,
+          "noArgFactory": null,
+          "scopeDslReceiver": null,
+          "lambdaReturnTypeFqn": null
+        },
+        {
+          "name": "navigateToProfile",
+          "type": "(String) -> Unit",
+          "typeFqn": "kotlin.Function1",
+          "hasDefault": false,
+          "composableSlot": false,
+          "composableSlotReceiver": null,
+          "nullable": false,
+          "noArgConstructible": false,
+          "noArgFactory": null,
+          "scopeDslReceiver": null,
+          "lambdaReturnTypeFqn": "kotlin.Unit"
+        },
+        {
+          "name": "modifier",
+          "type": "Modifier",
+          "typeFqn": "androidx.compose.ui.Modifier",
+          "hasDefault": true,
+          "composableSlot": false,
+          "composableSlotReceiver": null,
+          "nullable": false,
+          "noArgConstructible": false,
+          "noArgFactory": null,
+          "scopeDslReceiver": null,
+          "lambdaReturnTypeFqn": null
+        },
+        {
+          "name": "onNavIconPressed",
+          "type": "() -> Unit",
+          "typeFqn": "kotlin.Function0",
+          "hasDefault": true,
+          "composableSlot": false,
+          "composableSlotReceiver": null,
+          "nullable": false,
+          "noArgConstructible": false,
+          "noArgFactory": null,
+          "scopeDslReceiver": null,
+          "lambdaReturnTypeFqn": "kotlin.Unit"
+        },
+        {
+          "name": "onMessageLikeToggled",
+          "type": "(String) -> Unit",
+          "typeFqn": "kotlin.Function1",
+          "hasDefault": true,
+          "composableSlot": false,
+          "composableSlotReceiver": null,
+          "nullable": false,
+          "noArgConstructible": false,
+          "noArgFactory": null,
+          "scopeDslReceiver": null,
+          "lambdaReturnTypeFqn": "kotlin.Unit"
+        }
+      ]
+    },
+    {
+      "componentId": "Profile/Screen",
+      "figmaLayerName": "Profile/Screen",
+      "componentName": "ProfileScreen",
+      "source": "https://github.com/android/compose-samples/blob/5a390e4a9d3c4e5b30e942041bde93582c4d9492/app/src/main/java/com/example/compose/jetchat/profile/Profile.kt",
+      "label": "Compose",
+      "confidence": "HIGH",
+      "previewName": "ProfilePreview340",
+      "codeSnippet": "ProfileScreen(\n    userData = TODO(\"ProfileScreenState\"),\n)",
+      "imports": [
+        "import com.example.compose.jetchat.profile.ProfileScreen"
+      ],
+      "parameters": [
+        {
+          "name": "userData",
+          "type": "ProfileScreenState",
+          "typeFqn": "com.example.compose.jetchat.profile.ProfileScreenState",
+          "hasDefault": false,
+          "composableSlot": false,
+          "composableSlotReceiver": null,
+          "nullable": false,
+          "noArgConstructible": false,
+          "noArgFactory": null,
+          "scopeDslReceiver": null,
+          "lambdaReturnTypeFqn": null
+        }
+      ]
+    },
+    {
+      "componentId": "Conversation/Day header",
+      "figmaLayerName": "Conversation/Day header",
+      "componentName": "DayHeader",
+      "source": "https://github.com/android/compose-samples/blob/5a390e4a9d3c4e5b30e942041bde93582c4d9492/app/src/main/java/com/example/compose/jetchat/conversation/Conversation.kt",
+      "label": "Compose",
+      "confidence": "HIGH",
+      "previewName": "DayHeaderPrev",
+      "codeSnippet": "DayHeader(\n    dayString = TODO(\"String\"),\n)",
+      "imports": [
+        "import com.example.compose.jetchat.conversation.DayHeader"
+      ],
+      "parameters": [
+        {
+          "name": "dayString",
+          "type": "String",
+          "typeFqn": "kotlin.String",
+          "hasDefault": false,
+          "composableSlot": false,
+          "composableSlotReceiver": null,
+          "nullable": false,
+          "noArgConstructible": false,
+          "noArgFactory": null,
+          "scopeDslReceiver": null,
+          "lambdaReturnTypeFqn": null
+        }
+      ]
+    },
+    {
+      "componentId": "Conversation/Jump to bottom",
+      "figmaLayerName": "Conversation/Jump to bottom",
+      "componentName": "JumpToBottom",
+      "source": "https://github.com/android/compose-samples/blob/5a390e4a9d3c4e5b30e942041bde93582c4d9492/app/src/main/java/com/example/compose/jetchat/conversation/JumpToBottom.kt",
+      "label": "Compose",
+      "confidence": "HIGH",
+      "previewName": "JumpToBottomPreview",
+      "codeSnippet": "JumpToBottom(\n    enabled = TODO(\"Boolean\"),\n    onClicked = TODO(\"() -> Unit\"),\n)",
+      "imports": [
+        "import com.example.compose.jetchat.conversation.JumpToBottom"
+      ],
+      "parameters": [
+        {
+          "name": "enabled",
+          "type": "Boolean",
+          "typeFqn": "kotlin.Boolean",
+          "hasDefault": false,
+          "composableSlot": false,
+          "composableSlotReceiver": null,
+          "nullable": false,
+          "noArgConstructible": false,
+          "noArgFactory": null,
+          "scopeDslReceiver": null,
+          "lambdaReturnTypeFqn": null
+        },
+        {
+          "name": "onClicked",
+          "type": "() -> Unit",
+          "typeFqn": "kotlin.Function0",
+          "hasDefault": false,
+          "composableSlot": false,
+          "composableSlotReceiver": null,
+          "nullable": false,
+          "noArgConstructible": false,
+          "noArgFactory": null,
+          "scopeDslReceiver": null,
+          "lambdaReturnTypeFqn": "kotlin.Unit"
+        },
+        {
+          "name": "modifier",
+          "type": "Modifier",
+          "typeFqn": "androidx.compose.ui.Modifier",
+          "hasDefault": true,
+          "composableSlot": false,
+          "composableSlotReceiver": null,
+          "nullable": false,
+          "noArgConstructible": false,
+          "noArgFactory": null,
+          "scopeDslReceiver": null,
+          "lambdaReturnTypeFqn": null
+        }
+      ]
+    },
+    {
+      "componentId": "Conversation/Input",
+      "figmaLayerName": "Conversation/Input",
+      "componentName": "UserInput",
+      "source": "https://github.com/android/compose-samples/blob/5a390e4a9d3c4e5b30e942041bde93582c4d9492/app/src/main/java/com/example/compose/jetchat/conversation/UserInput.kt",
+      "label": "Compose",
+      "confidence": "HIGH",
+      "previewName": "UserInputPreview",
+      "codeSnippet": "UserInput(\n    onMessageSent = TODO(\"(String) -> Unit\"),\n)",
+      "imports": [
+        "import com.example.compose.jetchat.conversation.UserInput"
+      ],
+      "parameters": [
+        {
+          "name": "onMessageSent",
+          "type": "(String) -> Unit",
+          "typeFqn": "kotlin.Function1",
+          "hasDefault": false,
+          "composableSlot": false,
+          "composableSlotReceiver": null,
+          "nullable": false,
+          "noArgConstructible": false,
+          "noArgFactory": null,
+          "scopeDslReceiver": null,
+          "lambdaReturnTypeFqn": "kotlin.Unit"
+        },
+        {
+          "name": "modifier",
+          "type": "Modifier",
+          "typeFqn": "androidx.compose.ui.Modifier",
+          "hasDefault": true,
+          "composableSlot": false,
+          "composableSlotReceiver": null,
+          "nullable": false,
+          "noArgConstructible": false,
+          "noArgFactory": null,
+          "scopeDslReceiver": null,
+          "lambdaReturnTypeFqn": null
+        },
+        {
+          "name": "resetScroll",
+          "type": "() -> Unit",
+          "typeFqn": "kotlin.Function0",
+          "hasDefault": true,
+          "composableSlot": false,
+          "composableSlotReceiver": null,
+          "nullable": false,
+          "noArgConstructible": false,
+          "noArgFactory": null,
+          "scopeDslReceiver": null,
+          "lambdaReturnTypeFqn": "kotlin.Unit"
+        },
+        {
+          "name": "onVideoMessageSent",
+          "type": "(String, String) -> Unit",
+          "typeFqn": "kotlin.Function2",
+          "hasDefault": true,
+          "composableSlot": false,
+          "composableSlotReceiver": null,
+          "nullable": false,
+          "noArgConstructible": false,
+          "noArgFactory": null,
+          "scopeDslReceiver": null,
+          "lambdaReturnTypeFqn": "kotlin.Unit"
+        }
+      ]
+    },
+    {
+      "componentId": "Profile/FAB",
+      "figmaLayerName": "Profile/FAB",
+      "componentName": "ProfileFab",
+      "source": "https://github.com/android/compose-samples/blob/5a390e4a9d3c4e5b30e942041bde93582c4d9492/app/src/main/java/com/example/compose/jetchat/profile/Profile.kt",
+      "label": "Compose",
+      "confidence": "HIGH",
+      "previewName": "ProfileFabPreview",
+      "codeSnippet": "ProfileFab(\n    extended = TODO(\"Boolean\"),\n    userIsMe = TODO(\"Boolean\"),\n)",
+      "imports": [
+        "import com.example.compose.jetchat.profile.ProfileFab"
+      ],
+      "parameters": [
+        {
+          "name": "extended",
+          "type": "Boolean",
+          "typeFqn": "kotlin.Boolean",
+          "hasDefault": false,
+          "composableSlot": false,
+          "composableSlotReceiver": null,
+          "nullable": false,
+          "noArgConstructible": false,
+          "noArgFactory": null,
+          "scopeDslReceiver": null,
+          "lambdaReturnTypeFqn": null
+        },
+        {
+          "name": "userIsMe",
+          "type": "Boolean",
+          "typeFqn": "kotlin.Boolean",
+          "hasDefault": false,
+          "composableSlot": false,
+          "composableSlotReceiver": null,
+          "nullable": false,
+          "noArgConstructible": false,
+          "noArgFactory": null,
+          "scopeDslReceiver": null,
+          "lambdaReturnTypeFqn": null
+        },
+        {
+          "name": "modifier",
+          "type": "Modifier",
+          "typeFqn": "androidx.compose.ui.Modifier",
+          "hasDefault": true,
+          "composableSlot": false,
+          "composableSlotReceiver": null,
+          "nullable": false,
+          "noArgConstructible": false,
+          "noArgFactory": null,
+          "scopeDslReceiver": null,
+          "lambdaReturnTypeFqn": null
+        },
+        {
+          "name": "onFabClicked",
+          "type": "() -> Unit",
+          "typeFqn": "kotlin.Function0",
+          "hasDefault": true,
+          "composableSlot": false,
+          "composableSlotReceiver": null,
+          "nullable": false,
+          "noArgConstructible": false,
+          "noArgFactory": null,
+          "scopeDslReceiver": null,
+          "lambdaReturnTypeFqn": "kotlin.Unit"
+        }
+      ]
+    },
+    {
+      "componentId": "Chrome/App bar",
+      "figmaLayerName": "Chrome/App bar",
+      "componentName": "JetchatAppBar",
+      "source": "https://github.com/android/compose-samples/blob/5a390e4a9d3c4e5b30e942041bde93582c4d9492/app/src/main/java/com/example/compose/jetchat/components/JetchatAppBar.kt",
+      "label": "Compose",
+      "confidence": "HIGH",
+      "previewName": "JetchatAppBarPreview",
+      "codeSnippet": "JetchatAppBar(\n    title = { },\n)",
+      "imports": [
+        "import com.example.compose.jetchat.components.JetchatAppBar"
+      ],
+      "parameters": [
+        {
+          "name": "modifier",
+          "type": "Modifier",
+          "typeFqn": "androidx.compose.ui.Modifier",
+          "hasDefault": true,
+          "composableSlot": false,
+          "composableSlotReceiver": null,
+          "nullable": false,
+          "noArgConstructible": false,
+          "noArgFactory": null,
+          "scopeDslReceiver": null,
+          "lambdaReturnTypeFqn": null
+        },
+        {
+          "name": "scrollBehavior",
+          "type": "TopAppBarScrollBehavior?",
+          "typeFqn": "androidx.compose.material3.TopAppBarScrollBehavior",
+          "hasDefault": true,
+          "composableSlot": false,
+          "composableSlotReceiver": null,
+          "nullable": true,
+          "noArgConstructible": false,
+          "noArgFactory": null,
+          "scopeDslReceiver": null,
+          "lambdaReturnTypeFqn": null
+        },
+        {
+          "name": "onNavIconPressed",
+          "type": "() -> Unit",
+          "typeFqn": "kotlin.Function0",
+          "hasDefault": true,
+          "composableSlot": false,
+          "composableSlotReceiver": null,
+          "nullable": false,
+          "noArgConstructible": false,
+          "noArgFactory": null,
+          "scopeDslReceiver": null,
+          "lambdaReturnTypeFqn": "kotlin.Unit"
+        },
+        {
+          "name": "title",
+          "type": "() -> Unit",
+          "typeFqn": "kotlin.Function0",
+          "hasDefault": false,
+          "composableSlot": true,
+          "composableSlotReceiver": null,
+          "nullable": false,
+          "noArgConstructible": false,
+          "noArgFactory": null,
+          "scopeDslReceiver": null,
+          "lambdaReturnTypeFqn": "kotlin.Unit"
+        },
+        {
+          "name": "actions",
+          "type": "RowScope.() -> Unit",
+          "typeFqn": "kotlin.Function1",
+          "hasDefault": true,
+          "composableSlot": true,
+          "composableSlotReceiver": "androidx.compose.foundation.layout.RowScope",
+          "nullable": false,
+          "noArgConstructible": false,
+          "noArgFactory": null,
+          "scopeDslReceiver": null,
+          "lambdaReturnTypeFqn": "kotlin.Unit"
+        },
+        {
+          "name": "navigationIcon",
+          "type": "() -> Unit",
+          "typeFqn": "kotlin.Function0",
+          "hasDefault": true,
+          "composableSlot": true,
+          "composableSlotReceiver": null,
+          "nullable": false,
+          "noArgConstructible": false,
+          "noArgFactory": null,
+          "scopeDslReceiver": null,
+          "lambdaReturnTypeFqn": "kotlin.Unit"
+        }
+      ]
+    },
+    {
+      "componentId": "Chrome/Drawer",
+      "figmaLayerName": "Chrome/Drawer",
+      "componentName": "JetchatDrawerContent",
+      "source": "https://github.com/android/compose-samples/blob/5a390e4a9d3c4e5b30e942041bde93582c4d9492/app/src/main/java/com/example/compose/jetchat/components/JetchatDrawer.kt",
+      "label": "Compose",
+      "confidence": "HIGH",
+      "previewName": "DrawerPreview",
+      "codeSnippet": "JetchatDrawerContent(\n    onProfileClicked = TODO(\"(String) -> Unit\"),\n    onChatClicked = TODO(\"(String) -> Unit\"),\n)",
+      "imports": [
+        "import com.example.compose.jetchat.components.JetchatDrawerContent"
+      ],
+      "parameters": [
+        {
+          "name": "onProfileClicked",
+          "type": "(String) -> Unit",
+          "typeFqn": "kotlin.Function1",
+          "hasDefault": false,
+          "composableSlot": false,
+          "composableSlotReceiver": null,
+          "nullable": false,
+          "noArgConstructible": false,
+          "noArgFactory": null,
+          "scopeDslReceiver": null,
+          "lambdaReturnTypeFqn": "kotlin.Unit"
+        },
+        {
+          "name": "onChatClicked",
+          "type": "(String) -> Unit",
+          "typeFqn": "kotlin.Function1",
+          "hasDefault": false,
+          "composableSlot": false,
+          "composableSlotReceiver": null,
+          "nullable": false,
+          "noArgConstructible": false,
+          "noArgFactory": null,
+          "scopeDslReceiver": null,
+          "lambdaReturnTypeFqn": "kotlin.Unit"
+        },
+        {
+          "name": "selectedMenu",
+          "type": "String",
+          "typeFqn": "kotlin.String",
+          "hasDefault": true,
+          "composableSlot": false,
+          "composableSlotReceiver": null,
+          "nullable": false,
+          "noArgConstructible": false,
+          "noArgFactory": null,
+          "scopeDslReceiver": null,
+          "lambdaReturnTypeFqn": null
+        }
+      ]
+    },
+    {
+      "componentId": "Chrome/Channel bar",
+      "figmaLayerName": "Chrome/Channel bar",
+      "componentName": "ChannelNameBar",
+      "source": "https://github.com/android/compose-samples/blob/5a390e4a9d3c4e5b30e942041bde93582c4d9492/app/src/main/java/com/example/compose/jetchat/conversation/Conversation.kt",
+      "label": "Compose",
+      "confidence": "HIGH",
+      "previewName": "ChannelBarPrev",
+      "codeSnippet": "ChannelNameBar(\n    channelName = TODO(\"String\"),\n    channelMembers = TODO(\"Int\"),\n)",
+      "imports": [
+        "import com.example.compose.jetchat.conversation.ChannelNameBar"
+      ],
+      "parameters": [
+        {
+          "name": "channelName",
+          "type": "String",
+          "typeFqn": "kotlin.String",
+          "hasDefault": false,
+          "composableSlot": false,
+          "composableSlotReceiver": null,
+          "nullable": false,
+          "noArgConstructible": false,
+          "noArgFactory": null,
+          "scopeDslReceiver": null,
+          "lambdaReturnTypeFqn": null
+        },
+        {
+          "name": "channelMembers",
+          "type": "Int",
+          "typeFqn": "kotlin.Int",
+          "hasDefault": false,
+          "composableSlot": false,
+          "composableSlotReceiver": null,
+          "nullable": false,
+          "noArgConstructible": false,
+          "noArgFactory": null,
+          "scopeDslReceiver": null,
+          "lambdaReturnTypeFqn": null
+        },
+        {
+          "name": "modifier",
+          "type": "Modifier",
+          "typeFqn": "androidx.compose.ui.Modifier",
+          "hasDefault": true,
+          "composableSlot": false,
+          "composableSlotReceiver": null,
+          "nullable": false,
+          "noArgConstructible": false,
+          "noArgFactory": null,
+          "scopeDslReceiver": null,
+          "lambdaReturnTypeFqn": null
+        },
+        {
+          "name": "scrollBehavior",
+          "type": "TopAppBarScrollBehavior?",
+          "typeFqn": "androidx.compose.material3.TopAppBarScrollBehavior",
+          "hasDefault": true,
+          "composableSlot": false,
+          "composableSlotReceiver": null,
+          "nullable": true,
+          "noArgConstructible": false,
+          "noArgFactory": null,
+          "scopeDslReceiver": null,
+          "lambdaReturnTypeFqn": null
+        },
+        {
+          "name": "onNavIconPressed",
+          "type": "() -> Unit",
+          "typeFqn": "kotlin.Function0",
+          "hasDefault": true,
+          "composableSlot": false,
+          "composableSlotReceiver": null,
+          "nullable": false,
+          "noArgConstructible": false,
+          "noArgFactory": null,
+          "scopeDslReceiver": null,
+          "lambdaReturnTypeFqn": "kotlin.Unit"
+        }
+      ]
+    }
+  ]
+}

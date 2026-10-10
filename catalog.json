@@ -1,0 +1,1702 @@
+{
+  "schema": "design-parity-catalog/v1",
+  "system": "compose-samples-jetchat",
+  "title": "Jetchat",
+  "components": [
+    {
+      "componentId": "Conversation/Screen",
+      "images": [
+        {
+          "variant": "ideal",
+          "path": "images/conversation-screen/ideal__default.png",
+          "state": "default",
+          "width": 1050,
+          "height": 2100,
+          "livePreview": "https://preview.coo.ee/compose-samples-jetchat/p/conversation-screen__ideal__default",
+          "previewId": "com.example.compose.jetchat.conversation.ConversationKt.ConversationPreview",
+          "density": 2.625
+        }
+      ],
+      "greenlines": [
+        {
+          "kind": "a11y",
+          "severity": "info",
+          "message": "button",
+          "detail": {
+            "role": "button",
+            "bounds": {
+              "x": 194,
+              "y": 1004,
+              "width": 683,
+              "height": 525
+            }
+          },
+          "bounds": {
+            "x": 194,
+            "y": 1004,
+            "width": 683,
+            "height": 525
+          }
+        },
+        {
+          "kind": "a11y",
+          "severity": "info",
+          "message": "button",
+          "detail": {
+            "role": "button",
+            "bounds": {
+              "x": 788,
+              "y": 32,
+              "width": 105,
+              "height": 105
+            }
+          },
+          "bounds": {
+            "x": 788,
+            "y": 32,
+            "width": 105,
+            "height": 105
+          }
+        },
+        {
+          "kind": "a11y",
+          "severity": "info",
+          "message": "button",
+          "detail": {
+            "role": "button",
+            "bounds": {
+              "x": 914,
+              "y": 32,
+              "width": 105,
+              "height": 105
+            }
+          },
+          "bounds": {
+            "x": 914,
+            "y": 32,
+            "width": 105,
+            "height": 105
+          }
+        },
+        {
+          "kind": "a11y",
+          "severity": "info",
+          "message": "button",
+          "detail": {
+            "role": "button",
+            "bounds": {
+              "x": 63,
+              "y": 1943,
+              "width": 126,
+              "height": 126
+            }
+          },
+          "bounds": {
+            "x": 63,
+            "y": 1943,
+            "width": 126,
+            "height": 126
+          }
+        },
+        {
+          "kind": "a11y",
+          "severity": "info",
+          "message": "button",
+          "detail": {
+            "role": "button",
+            "bounds": {
+              "x": 222,
+              "y": 1943,
+              "width": 126,
+              "height": 126
+            }
+          },
+          "bounds": {
+            "x": 222,
+            "y": 1943,
+            "width": 126,
+            "height": 126
+          }
+        },
+        {
+          "kind": "a11y",
+          "severity": "info",
+          "message": "button",
+          "detail": {
+            "role": "button",
+            "bounds": {
+              "x": 382,
+              "y": 1943,
+              "width": 126,
+              "height": 126
+            }
+          },
+          "bounds": {
+            "x": 382,
+            "y": 1943,
+            "width": 126,
+            "height": 126
+          }
+        },
+        {
+          "kind": "a11y",
+          "severity": "info",
+          "message": "button",
+          "detail": {
+            "role": "button",
+            "bounds": {
+              "x": 541,
+              "y": 1943,
+              "width": 126,
+              "height": 126
+            }
+          },
+          "bounds": {
+            "x": 541,
+            "y": 1943,
+            "width": 126,
+            "height": 126
+          }
+        },
+        {
+          "kind": "a11y",
+          "severity": "info",
+          "message": "button",
+          "detail": {
+            "role": "button",
+            "bounds": {
+              "x": 701,
+              "y": 1943,
+              "width": 126,
+              "height": 126
+            }
+          },
+          "bounds": {
+            "x": 701,
+            "y": 1943,
+            "width": 126,
+            "height": 126
+          }
+        },
+        {
+          "kind": "a11y",
+          "severity": "info",
+          "message": "button",
+          "detail": {
+            "role": "button",
+            "bounds": {
+              "x": 860,
+              "y": 1943,
+              "width": 126,
+              "height": 126
+            }
+          },
+          "bounds": {
+            "x": 860,
+            "y": 1943,
+            "width": 126,
+            "height": 126
+          }
+        }
+      ],
+      "redlines": [
+        {
+          "bounds": {
+            "x": 522,
+            "y": 1571,
+            "width": 334,
+            "height": 114
+          },
+          "cornerRadius": 20
+        },
+        {
+          "bounds": {
+            "x": 564,
+            "y": 1603,
+            "width": 250,
+            "height": 50
+          },
+          "label": "Check it out!",
+          "padding": {
+            "start": 16,
+            "top": 12,
+            "end": 16,
+            "bottom": 12
+          }
+        },
+        {
+          "bounds": {
+            "x": 856,
+            "y": 1571,
+            "width": 194,
+            "height": 110
+          },
+          "padding": {
+            "start": 16,
+            "top": 0,
+            "end": 16,
+            "bottom": 0
+          },
+          "cornerRadius": 20.95
+        },
+        {
+          "bounds": {
+            "x": 42,
+            "y": 733,
+            "width": 469,
+            "height": 67
+          },
+          "padding": {
+            "start": 16,
+            "top": 0,
+            "end": 0,
+            "bottom": 6
+          },
+          "cornerRadius": 24
+        },
+        {
+          "bounds": {
+            "x": 0,
+            "y": 816,
+            "width": 194,
+            "height": 110
+          },
+          "padding": {
+            "start": 16,
+            "top": 0,
+            "end": 16,
+            "bottom": 0
+          },
+          "cornerRadius": 20.95
+        },
+        {
+          "bounds": {
+            "x": 194,
+            "y": 816,
+            "width": 814,
+            "height": 177
+          },
+          "cornerRadius": 4
+        },
+        {
+          "bounds": {
+            "x": 236,
+            "y": 848,
+            "width": 730,
+            "height": 113
+          },
+          "label": "Here's a demo of the new blur regions feature in action! 🎥",
+          "padding": {
+            "start": 16,
+            "top": 12,
+            "end": 16,
+            "bottom": 12
+          }
+        },
+        {
+          "bounds": {
+            "x": 194,
+            "y": 1004,
+            "width": 683,
+            "height": 525
+          },
+          "cornerRadius": 4
+        },
+        {
+          "bounds": {
+            "x": 194,
+            "y": 1004,
+            "width": 683,
+            "height": 525
+          },
+          "role": "Button",
+          "padding": {
+            "start": 0,
+            "top": 0,
+            "end": 0,
+            "bottom": 0
+          },
+          "cornerRadius": 4
+        },
+        {
+          "bounds": {
+            "x": 462,
+            "y": 1193,
+            "width": 147,
+            "height": 147
+          },
+          "cornerRadius": 28
+        },
+        {
+          "bounds": {
+            "x": 474,
+            "y": 630,
+            "width": 102,
+            "height": 38
+          },
+          "label": "Today",
+          "padding": {
+            "start": 16,
+            "top": 0,
+            "end": 16,
+            "bottom": 0
+          }
+        },
+        {
+          "bounds": {
+            "x": 0,
+            "y": 0,
+            "width": 0,
+            "height": 0
+          },
+          "cornerRadius": 20
+        },
+        {
+          "bounds": {
+            "x": 0,
+            "y": 0,
+            "width": 0,
+            "height": 0
+          },
+          "label": "Thank you!🩷",
+          "padding": {
+            "start": 16,
+            "top": 12,
+            "end": 16,
+            "bottom": 12
+          }
+        },
+        {
+          "bounds": {
+            "x": 226,
+            "y": 0,
+            "width": 630,
+            "height": 564
+          },
+          "cornerRadius": 20
+        },
+        {
+          "bounds": {
+            "x": 226,
+            "y": 0,
+            "width": 630,
+            "height": 564
+          },
+          "role": "Image",
+          "label": "Attached image",
+          "padding": {
+            "start": 0,
+            "top": 0,
+            "end": 0,
+            "bottom": 0
+          },
+          "cornerRadius": 20
+        },
+        {
+          "bounds": {
+            "x": 0,
+            "y": 0,
+            "width": 0,
+            "height": 0
+          },
+          "padding": {
+            "start": 16,
+            "top": 0,
+            "end": 16,
+            "bottom": 0
+          },
+          "cornerRadius": 20.95
+        },
+        {
+          "bounds": {
+            "x": 43,
+            "y": 0,
+            "width": 327,
+            "height": 168
+          },
+          "padding": {
+            "start": 4,
+            "top": 0,
+            "end": 4,
+            "bottom": 0
+          }
+        },
+        {
+          "bounds": {
+            "x": 43,
+            "y": 0,
+            "width": 327,
+            "height": 168
+          },
+          "label": "Open navigation drawer",
+          "cornerRadius": 20
+        },
+        {
+          "bounds": {
+            "x": 85,
+            "y": 84,
+            "width": 63,
+            "height": 63
+          },
+          "role": "Image",
+          "label": "Ali Conors",
+          "cornerRadius": 12
+        },
+        {
+          "bounds": {
+            "x": 138,
+            "y": 84,
+            "width": 63,
+            "height": 63
+          },
+          "role": "Image",
+          "label": "Taylor Brooks",
+          "cornerRadius": 12
+        },
+        {
+          "bounds": {
+            "x": 191,
+            "y": 84,
+            "width": 63,
+            "height": 63
+          },
+          "role": "Image",
+          "label": "John Glenn",
+          "cornerRadius": 12
+        },
+        {
+          "bounds": {
+            "x": 788,
+            "y": 32,
+            "width": 105,
+            "height": 105
+          },
+          "role": "Button",
+          "cornerRadius": 20
+        },
+        {
+          "bounds": {
+            "x": 914,
+            "y": 32,
+            "width": 105,
+            "height": 105
+          },
+          "role": "Button",
+          "cornerRadius": 20
+        },
+        {
+          "bounds": {
+            "x": 21,
+            "y": 1722,
+            "width": 1007,
+            "height": 357
+          },
+          "padding": {
+            "start": 0,
+            "top": 0,
+            "end": 4,
+            "bottom": 0
+          },
+          "cornerRadius": 32
+        },
+        {
+          "bounds": {
+            "x": 63,
+            "y": 1943,
+            "width": 126,
+            "height": 126
+          },
+          "role": "Button",
+          "cornerRadius": 24
+        },
+        {
+          "bounds": {
+            "x": 222,
+            "y": 1943,
+            "width": 126,
+            "height": 126
+          },
+          "role": "Button",
+          "cornerRadius": 24
+        },
+        {
+          "bounds": {
+            "x": 382,
+            "y": 1943,
+            "width": 126,
+            "height": 126
+          },
+          "role": "Button",
+          "cornerRadius": 24
+        },
+        {
+          "bounds": {
+            "x": 541,
+            "y": 1943,
+            "width": 126,
+            "height": 126
+          },
+          "role": "Button",
+          "cornerRadius": 24
+        },
+        {
+          "bounds": {
+            "x": 701,
+            "y": 1943,
+            "width": 126,
+            "height": 126
+          },
+          "role": "Button",
+          "cornerRadius": 24
+        },
+        {
+          "bounds": {
+            "x": 860,
+            "y": 1943,
+            "width": 126,
+            "height": 126
+          },
+          "role": "Button",
+          "cornerRadius": 24
+        }
+      ],
+      "section": "Screens",
+      "group": "Conversation",
+      "caption": "The conversation screen — channel bar, message list and composer together.",
+      "wireframe": "wireframes/conversation-screen.svg",
+      "sourceFile": "src/main/java/com/example/compose/jetchat/conversation/Conversation.kt",
+      "sourceModule": ":app",
+      "bodyLine": 921,
+      "sourceDirectory": "Jetchat/app",
+      "sourceFunction": "ConversationPreview",
+      "parameters": [
+        {
+          "name": "uiState",
+          "type": "ConversationUiState"
+        },
+        {
+          "name": "navigateToProfile",
+          "type": "(String) -> Unit"
+        },
+        {
+          "name": "modifier",
+          "type": "Modifier",
+          "hasDefault": true
+        },
+        {
+          "name": "onNavIconPressed",
+          "type": "() -> Unit",
+          "hasDefault": true
+        },
+        {
+          "name": "onMessageLikeToggled",
+          "type": "(String) -> Unit",
+          "hasDefault": true
+        }
+      ]
+    },
+    {
+      "componentId": "Profile/Screen",
+      "images": [
+        {
+          "variant": "ideal",
+          "path": "images/profile-screen/ideal__default__compact.png",
+          "state": "default",
+          "width": 893,
+          "height": 2100,
+          "size": "compact",
+          "livePreview": "https://preview.coo.ee/compose-samples-jetchat/p/profile-screen__ideal__default__compact",
+          "previewId": "com.example.compose.jetchat.profile.PreviewsKt.ProfilePreview340_340_width_-_Me",
+          "density": 2.625
+        },
+        {
+          "variant": "ideal",
+          "path": "images/profile-screen/ideal__me-340-dark__dark__compact.png",
+          "state": "me 340 dark",
+          "width": 893,
+          "height": 2100,
+          "theme": "dark",
+          "size": "compact",
+          "livePreview": "https://preview.coo.ee/compose-samples-jetchat/p/profile-screen__ideal__me-340-dark__dark__compact",
+          "previewId": "com.example.compose.jetchat.profile.PreviewsKt.ProfilePreview340MeDark_340_width_-_Me_-_Dark",
+          "density": 2.625
+        },
+        {
+          "variant": "ideal",
+          "path": "images/profile-screen/ideal__me-480__compact.png",
+          "state": "me 480",
+          "width": 1260,
+          "height": 2100,
+          "size": "compact",
+          "livePreview": "https://preview.coo.ee/compose-samples-jetchat/p/profile-screen__ideal__me-480__compact",
+          "previewId": "com.example.compose.jetchat.profile.PreviewsKt.ProfilePreview480Me_480_width_-_Me",
+          "density": 2.625
+        },
+        {
+          "variant": "ideal",
+          "path": "images/profile-screen/ideal__me-480-dark__dark__compact.png",
+          "state": "me 480 dark",
+          "width": 1260,
+          "height": 2100,
+          "theme": "dark",
+          "size": "compact",
+          "livePreview": "https://preview.coo.ee/compose-samples-jetchat/p/profile-screen__ideal__me-480-dark__dark__compact",
+          "previewId": "com.example.compose.jetchat.profile.PreviewsKt.ProfilePreview480MeDark_480_width_-_Me_-_Dark",
+          "density": 2.625
+        },
+        {
+          "variant": "ideal",
+          "path": "images/profile-screen/ideal__other-480__compact.png",
+          "state": "other 480",
+          "width": 1260,
+          "height": 2100,
+          "size": "compact",
+          "livePreview": "https://preview.coo.ee/compose-samples-jetchat/p/profile-screen__ideal__other-480__compact",
+          "previewId": "com.example.compose.jetchat.profile.PreviewsKt.ProfilePreview480Other_480_width_-_Other",
+          "density": 2.625
+        },
+        {
+          "variant": "ideal",
+          "path": "images/profile-screen/ideal__other-480-dark__dark__compact.png",
+          "state": "other 480 dark",
+          "width": 1260,
+          "height": 2100,
+          "theme": "dark",
+          "size": "compact",
+          "livePreview": "https://preview.coo.ee/compose-samples-jetchat/p/profile-screen__ideal__other-480-dark__dark__compact",
+          "previewId": "com.example.compose.jetchat.profile.PreviewsKt.ProfilePreview480OtherDark_480_width_-_Other_-_Dark",
+          "density": 2.625
+        },
+        {
+          "variant": "ideal",
+          "path": "images/profile-screen/ideal__me-portrait__compact.png",
+          "state": "me portrait",
+          "width": 945,
+          "height": 1260,
+          "size": "compact",
+          "livePreview": "https://preview.coo.ee/compose-samples-jetchat/p/profile-screen__ideal__me-portrait__compact",
+          "previewId": "com.example.compose.jetchat.profile.ProfileKt.ConvPreviewPortraitMeDefault",
+          "density": 2.625
+        },
+        {
+          "variant": "ideal",
+          "path": "images/profile-screen/ideal__me-landscape__medium.png",
+          "state": "me landscape",
+          "width": 1680,
+          "height": 945,
+          "size": "medium",
+          "livePreview": "https://preview.coo.ee/compose-samples-jetchat/p/profile-screen__ideal__me-landscape__medium",
+          "previewId": "com.example.compose.jetchat.profile.ProfileKt.ConvPreviewLandscapeMeDefault",
+          "density": 2.625
+        },
+        {
+          "variant": "ideal",
+          "path": "images/profile-screen/ideal__other-portrait__compact.png",
+          "state": "other portrait",
+          "width": 945,
+          "height": 1260,
+          "size": "compact",
+          "livePreview": "https://preview.coo.ee/compose-samples-jetchat/p/profile-screen__ideal__other-portrait__compact",
+          "previewId": "com.example.compose.jetchat.profile.ProfileKt.ConvPreviewPortraitOtherDefault",
+          "density": 2.625
+        }
+      ],
+      "greenlines": [],
+      "redlines": [
+        {
+          "bounds": {
+            "x": 42,
+            "y": 1238,
+            "width": 553,
+            "height": 113
+          },
+          "label": "Senior Android Dev at Yearin\nGoogle Developer Expert",
+          "padding": {
+            "start": 0,
+            "top": 0,
+            "end": 0,
+            "bottom": 20
+          }
+        }
+      ],
+      "section": "Screens",
+      "group": "Profile",
+      "caption": "Your own profile at 340dp, the narrowest supported width.",
+      "wireframe": "wireframes/profile-screen.svg",
+      "sourceFile": "src/main/java/com/example/compose/jetchat/profile/Previews.kt",
+      "sourceModule": ":app",
+      "bodyLine": 27,
+      "sourceDirectory": "Jetchat/app",
+      "sourceFunction": "ProfilePreview340",
+      "parameters": [
+        {
+          "name": "userData",
+          "type": "ProfileScreenState"
+        }
+      ]
+    },
+    {
+      "componentId": "Conversation/Day header",
+      "images": [
+        {
+          "variant": "ideal",
+          "path": "images/conversation-day-header/ideal__default.png",
+          "state": "default",
+          "width": 1050,
+          "height": 127,
+          "livePreview": "https://preview.coo.ee/compose-samples-jetchat/p/conversation-day-header__ideal__default",
+          "previewId": "com.example.compose.jetchat.conversation.ConversationKt.DayHeaderPrev",
+          "density": 2.625
+        }
+      ],
+      "greenlines": [],
+      "redlines": [
+        {
+          "bounds": {
+            "x": 481,
+            "y": 43,
+            "width": 88,
+            "height": 42
+          },
+          "label": "Aug 6",
+          "padding": {
+            "start": 16,
+            "top": 0,
+            "end": 16,
+            "bottom": 0
+          }
+        }
+      ],
+      "section": "Components",
+      "group": "Conversation components",
+      "caption": "Date separator between message groups.",
+      "wireframe": "wireframes/conversation-day-header.svg",
+      "sourceFile": "src/main/java/com/example/compose/jetchat/conversation/Conversation.kt",
+      "sourceModule": ":app",
+      "bodyLine": 940,
+      "sourceDirectory": "Jetchat/app",
+      "sourceFunction": "DayHeaderPrev",
+      "parameters": [
+        {
+          "name": "dayString",
+          "type": "String"
+        }
+      ]
+    },
+    {
+      "componentId": "Conversation/Jump to bottom",
+      "images": [
+        {
+          "variant": "ideal",
+          "path": "images/conversation-jump-to-bottom/ideal__default.png",
+          "state": "default",
+          "width": 437,
+          "height": 95,
+          "livePreview": "https://preview.coo.ee/compose-samples-jetchat/p/conversation-jump-to-bottom__ideal__default",
+          "previewId": "com.example.compose.jetchat.conversation.JumpToBottomKt.JumpToBottomPreview",
+          "density": 2.625
+        }
+      ],
+      "greenlines": [
+        {
+          "kind": "a11y",
+          "severity": "info",
+          "message": "button",
+          "detail": {
+            "role": "button",
+            "bounds": {
+              "x": 0,
+              "y": -83,
+              "width": 437,
+              "height": 95
+            }
+          },
+          "bounds": {
+            "x": 0,
+            "y": -83,
+            "width": 437,
+            "height": 95
+          }
+        }
+      ],
+      "redlines": [
+        {
+          "bounds": {
+            "x": 0,
+            "y": -83,
+            "width": 437,
+            "height": 95
+          },
+          "role": "Button",
+          "cornerRadius": 18.1
+        }
+      ],
+      "section": "Components",
+      "group": "Conversation components",
+      "caption": "The jump-to-bottom affordance shown when scrolled away from the newest message.",
+      "wireframe": "wireframes/conversation-jump-to-bottom.svg",
+      "sourceFile": "src/main/java/com/example/compose/jetchat/conversation/JumpToBottom.kt",
+      "sourceModule": ":app",
+      "bodyLine": 104,
+      "sourceDirectory": "Jetchat/app",
+      "sourceFunction": "JumpToBottomPreview",
+      "parameters": [
+        {
+          "name": "enabled",
+          "type": "Boolean"
+        },
+        {
+          "name": "onClicked",
+          "type": "() -> Unit"
+        },
+        {
+          "name": "modifier",
+          "type": "Modifier",
+          "hasDefault": true
+        }
+      ]
+    },
+    {
+      "componentId": "Conversation/Input",
+      "images": [
+        {
+          "variant": "ideal",
+          "path": "images/conversation-input/ideal__default.png",
+          "state": "default",
+          "width": 1050,
+          "height": 394,
+          "livePreview": "https://preview.coo.ee/compose-samples-jetchat/p/conversation-input__ideal__default",
+          "previewId": "com.example.compose.jetchat.conversation.UserInputKt.UserInputPreview",
+          "density": 2.625
+        }
+      ],
+      "greenlines": [
+        {
+          "kind": "a11y",
+          "severity": "info",
+          "message": "button",
+          "detail": {
+            "role": "button",
+            "bounds": {
+              "x": 63,
+              "y": 237,
+              "width": 126,
+              "height": 126
+            }
+          },
+          "bounds": {
+            "x": 63,
+            "y": 237,
+            "width": 126,
+            "height": 126
+          }
+        },
+        {
+          "kind": "a11y",
+          "severity": "info",
+          "message": "button",
+          "detail": {
+            "role": "button",
+            "bounds": {
+              "x": 222,
+              "y": 237,
+              "width": 126,
+              "height": 126
+            }
+          },
+          "bounds": {
+            "x": 222,
+            "y": 237,
+            "width": 126,
+            "height": 126
+          }
+        },
+        {
+          "kind": "a11y",
+          "severity": "info",
+          "message": "button",
+          "detail": {
+            "role": "button",
+            "bounds": {
+              "x": 382,
+              "y": 237,
+              "width": 126,
+              "height": 126
+            }
+          },
+          "bounds": {
+            "x": 382,
+            "y": 237,
+            "width": 126,
+            "height": 126
+          }
+        },
+        {
+          "kind": "a11y",
+          "severity": "info",
+          "message": "button",
+          "detail": {
+            "role": "button",
+            "bounds": {
+              "x": 541,
+              "y": 237,
+              "width": 126,
+              "height": 126
+            }
+          },
+          "bounds": {
+            "x": 541,
+            "y": 237,
+            "width": 126,
+            "height": 126
+          }
+        },
+        {
+          "kind": "a11y",
+          "severity": "info",
+          "message": "button",
+          "detail": {
+            "role": "button",
+            "bounds": {
+              "x": 701,
+              "y": 237,
+              "width": 126,
+              "height": 126
+            }
+          },
+          "bounds": {
+            "x": 701,
+            "y": 237,
+            "width": 126,
+            "height": 126
+          }
+        },
+        {
+          "kind": "a11y",
+          "severity": "info",
+          "message": "button",
+          "detail": {
+            "role": "button",
+            "bounds": {
+              "x": 860,
+              "y": 237,
+              "width": 126,
+              "height": 126
+            }
+          },
+          "bounds": {
+            "x": 860,
+            "y": 237,
+            "width": 126,
+            "height": 126
+          }
+        }
+      ],
+      "redlines": [
+        {
+          "bounds": {
+            "x": 21,
+            "y": 16,
+            "width": 1007,
+            "height": 357
+          },
+          "padding": {
+            "start": 0,
+            "top": 0,
+            "end": 4,
+            "bottom": 0
+          },
+          "cornerRadius": 32
+        },
+        {
+          "bounds": {
+            "x": 63,
+            "y": 237,
+            "width": 126,
+            "height": 126
+          },
+          "role": "Button",
+          "cornerRadius": 24
+        },
+        {
+          "bounds": {
+            "x": 222,
+            "y": 237,
+            "width": 126,
+            "height": 126
+          },
+          "role": "Button",
+          "cornerRadius": 24
+        },
+        {
+          "bounds": {
+            "x": 382,
+            "y": 237,
+            "width": 126,
+            "height": 126
+          },
+          "role": "Button",
+          "cornerRadius": 24
+        },
+        {
+          "bounds": {
+            "x": 541,
+            "y": 237,
+            "width": 126,
+            "height": 126
+          },
+          "role": "Button",
+          "cornerRadius": 24
+        },
+        {
+          "bounds": {
+            "x": 701,
+            "y": 237,
+            "width": 126,
+            "height": 126
+          },
+          "role": "Button",
+          "cornerRadius": 24
+        },
+        {
+          "bounds": {
+            "x": 860,
+            "y": 237,
+            "width": 126,
+            "height": 126
+          },
+          "role": "Button",
+          "cornerRadius": 24
+        }
+      ],
+      "section": "Components",
+      "group": "Conversation components",
+      "caption": "The message composer with its selector row.",
+      "wireframe": "wireframes/conversation-input.svg",
+      "sourceFile": "src/main/java/com/example/compose/jetchat/conversation/UserInput.kt",
+      "sourceModule": ":app",
+      "bodyLine": 125,
+      "sourceDirectory": "Jetchat/app",
+      "sourceFunction": "UserInputPreview",
+      "parameters": [
+        {
+          "name": "onMessageSent",
+          "type": "(String) -> Unit"
+        },
+        {
+          "name": "modifier",
+          "type": "Modifier",
+          "hasDefault": true
+        },
+        {
+          "name": "resetScroll",
+          "type": "() -> Unit",
+          "hasDefault": true
+        },
+        {
+          "name": "onVideoMessageSent",
+          "type": "(String, String) -> Unit",
+          "hasDefault": true
+        }
+      ]
+    },
+    {
+      "componentId": "Profile/FAB",
+      "images": [
+        {
+          "variant": "ideal",
+          "path": "images/profile-fab/ideal__default.png",
+          "state": "default",
+          "width": 408,
+          "height": 210,
+          "livePreview": "https://preview.coo.ee/compose-samples-jetchat/p/profile-fab__ideal__default",
+          "previewId": "com.example.compose.jetchat.profile.ProfileKt.ProfileFabPreview",
+          "density": 2.625
+        }
+      ],
+      "greenlines": [
+        {
+          "kind": "a11y",
+          "severity": "info",
+          "message": "button",
+          "detail": {
+            "role": "button",
+            "bounds": {
+              "x": 42,
+              "y": 42,
+              "width": 324,
+              "height": 126
+            }
+          },
+          "bounds": {
+            "x": 42,
+            "y": 42,
+            "width": 324,
+            "height": 126
+          }
+        }
+      ],
+      "redlines": [
+        {
+          "bounds": {
+            "x": 42,
+            "y": 42,
+            "width": 324,
+            "height": 126
+          },
+          "role": "Button",
+          "padding": {
+            "start": 16,
+            "top": 16,
+            "end": 16,
+            "bottom": 16
+          },
+          "cornerRadius": 16
+        }
+      ],
+      "section": "Components",
+      "group": "Profile components",
+      "caption": "The profile's floating action button.",
+      "wireframe": "wireframes/profile-fab.svg",
+      "sourceFile": "src/main/java/com/example/compose/jetchat/profile/Profile.kt",
+      "sourceModule": ":app",
+      "bodyLine": 258,
+      "sourceDirectory": "Jetchat/app",
+      "sourceFunction": "ProfileFabPreview",
+      "parameters": [
+        {
+          "name": "extended",
+          "type": "Boolean"
+        },
+        {
+          "name": "userIsMe",
+          "type": "Boolean"
+        },
+        {
+          "name": "modifier",
+          "type": "Modifier",
+          "hasDefault": true
+        },
+        {
+          "name": "onFabClicked",
+          "type": "() -> Unit",
+          "hasDefault": true
+        }
+      ]
+    },
+    {
+      "componentId": "Chrome/App bar",
+      "images": [
+        {
+          "variant": "ideal",
+          "path": "images/chrome-app-bar/ideal__default.png",
+          "state": "default",
+          "width": 1050,
+          "height": 168,
+          "livePreview": "https://preview.coo.ee/compose-samples-jetchat/p/chrome-app-bar__ideal__default",
+          "previewId": "com.example.compose.jetchat.components.JetchatAppBarKt.JetchatAppBarPreview",
+          "density": 2.625
+        },
+        {
+          "variant": "ideal",
+          "path": "images/chrome-app-bar/ideal__dark.png",
+          "state": "dark",
+          "width": 1050,
+          "height": 168,
+          "livePreview": "https://preview.coo.ee/compose-samples-jetchat/p/chrome-app-bar__ideal__dark",
+          "previewId": "com.example.compose.jetchat.components.JetchatAppBarKt.JetchatAppBarPreviewDark",
+          "density": 2.625
+        }
+      ],
+      "greenlines": [],
+      "redlines": [
+        {
+          "bounds": {
+            "x": 11,
+            "y": 0,
+            "width": 168,
+            "height": 168
+          },
+          "role": "Image",
+          "label": "Open navigation drawer",
+          "padding": {
+            "start": 16,
+            "top": 16,
+            "end": 16,
+            "bottom": 16
+          }
+        },
+        {
+          "bounds": {
+            "x": 190,
+            "y": 52,
+            "width": 196,
+            "height": 63
+          },
+          "padding": {
+            "start": 4,
+            "top": 0,
+            "end": 4,
+            "bottom": 0
+          }
+        }
+      ],
+      "section": "Components",
+      "group": "Chrome",
+      "caption": "The Jetchat app bar.",
+      "wireframe": "wireframes/chrome-app-bar.svg",
+      "sourceFile": "src/main/java/com/example/compose/jetchat/components/JetchatAppBar.kt",
+      "sourceModule": ":app",
+      "bodyLine": 73,
+      "sourceDirectory": "Jetchat/app",
+      "sourceFunction": "JetchatAppBarPreview",
+      "parameters": [
+        {
+          "name": "modifier",
+          "type": "Modifier",
+          "hasDefault": true
+        },
+        {
+          "name": "scrollBehavior",
+          "type": "TopAppBarScrollBehavior?",
+          "hasDefault": true
+        },
+        {
+          "name": "onNavIconPressed",
+          "type": "() -> Unit",
+          "hasDefault": true
+        },
+        {
+          "name": "title",
+          "type": "() -> Unit",
+          "composableSlot": true
+        },
+        {
+          "name": "actions",
+          "type": "RowScope.() -> Unit",
+          "hasDefault": true,
+          "composableSlot": true
+        },
+        {
+          "name": "navigationIcon",
+          "type": "() -> Unit",
+          "hasDefault": true,
+          "composableSlot": true
+        }
+      ]
+    },
+    {
+      "componentId": "Chrome/Drawer",
+      "images": [
+        {
+          "variant": "ideal",
+          "path": "images/chrome-drawer/ideal__default.png",
+          "state": "default",
+          "width": 1050,
+          "height": 1057,
+          "livePreview": "https://preview.coo.ee/compose-samples-jetchat/p/chrome-drawer__ideal__default",
+          "previewId": "com.example.compose.jetchat.components.JetchatDrawerKt.DrawerPreview",
+          "density": 2.625
+        },
+        {
+          "variant": "ideal",
+          "path": "images/chrome-drawer/ideal__dark.png",
+          "state": "dark",
+          "width": 1050,
+          "height": 1057,
+          "livePreview": "https://preview.coo.ee/compose-samples-jetchat/p/chrome-drawer__ideal__dark",
+          "previewId": "com.example.compose.jetchat.components.JetchatDrawerKt.DrawerPreviewDark",
+          "density": 2.625
+        }
+      ],
+      "greenlines": [],
+      "redlines": [
+        {
+          "bounds": {
+            "x": 126,
+            "y": 42,
+            "width": 228,
+            "height": 63
+          },
+          "padding": {
+            "start": 8,
+            "top": 0,
+            "end": 0,
+            "bottom": 0
+          }
+        },
+        {
+          "bounds": {
+            "x": 32,
+            "y": 287,
+            "width": 986,
+            "height": 168
+          },
+          "padding": {
+            "start": 12,
+            "top": 0,
+            "end": 12,
+            "bottom": 0
+          },
+          "cornerRadius": 32
+        },
+        {
+          "bounds": {
+            "x": 190,
+            "y": 349,
+            "width": 209,
+            "height": 45
+          },
+          "label": "composers",
+          "padding": {
+            "start": 12,
+            "top": 0,
+            "end": 0,
+            "bottom": 0
+          }
+        },
+        {
+          "bounds": {
+            "x": 32,
+            "y": 455,
+            "width": 986,
+            "height": 168
+          },
+          "padding": {
+            "start": 12,
+            "top": 0,
+            "end": 12,
+            "bottom": 0
+          },
+          "cornerRadius": 32
+        },
+        {
+          "bounds": {
+            "x": 190,
+            "y": 517,
+            "width": 254,
+            "height": 45
+          },
+          "label": "droidcon-nyc",
+          "padding": {
+            "start": 12,
+            "top": 0,
+            "end": 0,
+            "bottom": 0
+          }
+        },
+        {
+          "bounds": {
+            "x": 32,
+            "y": 763,
+            "width": 986,
+            "height": 147
+          },
+          "padding": {
+            "start": 12,
+            "top": 0,
+            "end": 12,
+            "bottom": 0
+          },
+          "cornerRadius": 28
+        },
+        {
+          "bounds": {
+            "x": 74,
+            "y": 805,
+            "width": 63,
+            "height": 63
+          },
+          "padding": {
+            "start": 16,
+            "top": 16,
+            "end": 0,
+            "bottom": 16
+          },
+          "cornerRadius": 12
+        },
+        {
+          "bounds": {
+            "x": 169,
+            "y": 814,
+            "width": 297,
+            "height": 45
+          },
+          "label": "Ali Conors (you)",
+          "padding": {
+            "start": 12,
+            "top": 0,
+            "end": 0,
+            "bottom": 0
+          }
+        },
+        {
+          "bounds": {
+            "x": 32,
+            "y": 910,
+            "width": 986,
+            "height": 147
+          },
+          "padding": {
+            "start": 12,
+            "top": 0,
+            "end": 12,
+            "bottom": 0
+          },
+          "cornerRadius": 28
+        },
+        {
+          "bounds": {
+            "x": 74,
+            "y": 952,
+            "width": 63,
+            "height": 63
+          },
+          "padding": {
+            "start": 16,
+            "top": 16,
+            "end": 0,
+            "bottom": 16
+          },
+          "cornerRadius": 12
+        },
+        {
+          "bounds": {
+            "x": 169,
+            "y": 961,
+            "width": 256,
+            "height": 45
+          },
+          "label": "Taylor Brooks",
+          "padding": {
+            "start": 12,
+            "top": 0,
+            "end": 0,
+            "bottom": 0
+          }
+        }
+      ],
+      "section": "Components",
+      "group": "Chrome",
+      "caption": "The navigation drawer listing chats and direct messages.",
+      "wireframe": "wireframes/chrome-drawer.svg",
+      "sourceFile": "src/main/java/com/example/compose/jetchat/components/JetchatDrawer.kt",
+      "sourceModule": ":app",
+      "bodyLine": 222,
+      "sourceDirectory": "Jetchat/app",
+      "sourceFunction": "DrawerPreview",
+      "parameters": [
+        {
+          "name": "onProfileClicked",
+          "type": "(String) -> Unit"
+        },
+        {
+          "name": "onChatClicked",
+          "type": "(String) -> Unit"
+        },
+        {
+          "name": "selectedMenu",
+          "type": "String",
+          "hasDefault": true
+        }
+      ]
+    },
+    {
+      "componentId": "Chrome/Channel bar",
+      "images": [
+        {
+          "variant": "ideal",
+          "path": "images/chrome-channel-bar/ideal__default.png",
+          "state": "default",
+          "width": 1050,
+          "height": 168,
+          "livePreview": "https://preview.coo.ee/compose-samples-jetchat/p/chrome-channel-bar__ideal__default",
+          "previewId": "com.example.compose.jetchat.conversation.ConversationKt.ChannelBarPrev",
+          "density": 2.625
+        }
+      ],
+      "greenlines": [
+        {
+          "kind": "a11y",
+          "severity": "info",
+          "message": "button",
+          "detail": {
+            "role": "button",
+            "bounds": {
+              "x": 788,
+              "y": 32,
+              "width": 105,
+              "height": 105
+            }
+          },
+          "bounds": {
+            "x": 788,
+            "y": 32,
+            "width": 105,
+            "height": 105
+          }
+        },
+        {
+          "kind": "a11y",
+          "severity": "info",
+          "message": "button",
+          "detail": {
+            "role": "button",
+            "bounds": {
+              "x": 914,
+              "y": 32,
+              "width": 105,
+              "height": 105
+            }
+          },
+          "bounds": {
+            "x": 914,
+            "y": 32,
+            "width": 105,
+            "height": 105
+          }
+        }
+      ],
+      "redlines": [
+        {
+          "bounds": {
+            "x": 43,
+            "y": 0,
+            "width": 327,
+            "height": 168
+          },
+          "padding": {
+            "start": 4,
+            "top": 0,
+            "end": 4,
+            "bottom": 0
+          }
+        },
+        {
+          "bounds": {
+            "x": 43,
+            "y": 0,
+            "width": 327,
+            "height": 168
+          },
+          "label": "Open navigation drawer",
+          "cornerRadius": 20
+        },
+        {
+          "bounds": {
+            "x": 85,
+            "y": 84,
+            "width": 63,
+            "height": 63
+          },
+          "role": "Image",
+          "label": "Ali Conors",
+          "cornerRadius": 12
+        },
+        {
+          "bounds": {
+            "x": 138,
+            "y": 84,
+            "width": 63,
+            "height": 63
+          },
+          "role": "Image",
+          "label": "Taylor Brooks",
+          "cornerRadius": 12
+        },
+        {
+          "bounds": {
+            "x": 191,
+            "y": 84,
+            "width": 63,
+            "height": 63
+          },
+          "role": "Image",
+          "label": "John Glenn",
+          "cornerRadius": 12
+        },
+        {
+          "bounds": {
+            "x": 788,
+            "y": 32,
+            "width": 105,
+            "height": 105
+          },
+          "role": "Button",
+          "cornerRadius": 20
+        },
+        {
+          "bounds": {
+            "x": 914,
+            "y": 32,
+            "width": 105,
+            "height": 105
+          },
+          "role": "Button",
+          "cornerRadius": 20
+        }
+      ],
+      "section": "Components",
+      "group": "Chrome",
+      "caption": "The channel name bar.",
+      "wireframe": "wireframes/chrome-channel-bar.svg",
+      "sourceFile": "src/main/java/com/example/compose/jetchat/conversation/Conversation.kt",
+      "sourceModule": ":app",
+      "bodyLine": 932,
+      "sourceDirectory": "Jetchat/app",
+      "sourceFunction": "ChannelBarPrev",
+      "parameters": [
+        {
+          "name": "channelName",
+          "type": "String"
+        },
+        {
+          "name": "channelMembers",
+          "type": "Int"
+        },
+        {
+          "name": "modifier",
+          "type": "Modifier",
+          "hasDefault": true
+        },
+        {
+          "name": "scrollBehavior",
+          "type": "TopAppBarScrollBehavior?",
+          "hasDefault": true
+        },
+        {
+          "name": "onNavIconPressed",
+          "type": "() -> Unit",
+          "hasDefault": true
+        }
+      ]
+    }
+  ],
+  "library": [
+    "androidx.compose.material3:material3"
+  ],
+  "renderer": "compose-preview 2.40.0",
+  "generatedAt": "2026-10-10T10:48:10.235Z",
+  "display": {
+    "surface": "light",
+    "hero": "Conversation/Screen"
+  },
+  "liveBundle": {
+    "path": "bundle/",
+    "file": "bundle.png"
+  },
+  "liveBundles": [
+    {
+      "path": "bundle/",
+      "file": "bundle.png",
+      "module": ":app",
+      "previewIdPrefix": ""
+    }
+  ],
+  "componentsFile": "components.json",
+  "source": {
+    "repo": "android/compose-samples",
+    "ref": "5a390e4a9d3c4e5b30e942041bde93582c4d9492",
+    "module": ":app"
+  }
+}

@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 437 95" width="437" height="95" role="img" aria-label="Conversation/Jump to bottom layout wireframe">
+  <title>Conversation/Jump to bottom — layout wireframe (slots + tokens)</title>
+  <rect width="437" height="95" fill="#ffffff"/>
+  <g>
+    <rect x="0" y="0" width="437" height="95" fill="none" fill-opacity="0" stroke="#5B6470" stroke-width="1" stroke-opacity="0.5"/>
+  </g>
+  <g>
+    <rect x="0" y="0" width="437" height="95" fill="none" fill-opacity="0" stroke="#2E7D6B" stroke-width="1" stroke-opacity="0.5"/>
+  </g>
+  <g>
+    <path d="M47.5,-83 H389.5 A47.5,47.5 0 0 1 437,-35.5 V-35.5 A47.5,47.5 0 0 1 389.5,12 H47.5 A47.5,47.5 0 0 1 0,-35.5 V-35.5 A47.5,47.5 0 0 1 47.5,-83 Z" fill="none" fill-opacity="0" stroke="#8E6BA8" stroke-width="1.5" stroke-opacity="1"/>
+  </g>
+  <g>
+    <rect x="0" y="-83" width="437" height="95" fill="none" fill-opacity="0" stroke="#B0813B" stroke-width="1" stroke-opacity="0.5"/>
+  </g>
+  <g>
+    <rect x="42" y="-62" width="342" height="53" fill="none" fill-opacity="0" stroke="#3B72A8" stroke-width="1" stroke-opacity="0.5"/>
+  </g>
+  <g>
+    <rect x="42" y="-59" width="47" height="47" fill="none" fill-opacity="0" stroke="#A85B6B" stroke-width="1" stroke-opacity="0.5"/>
+  </g>
+  <g>
+    <rect x="89" y="-62" width="295" height="53" fill="none" fill-opacity="0" stroke="#A85B6B" stroke-width="1" stroke-opacity="0.5"/>
+  </g>
+  <g>
+    <rect x="89" y="-62" width="295" height="53" fill="none" fill-opacity="0" stroke="#4F8A4A" stroke-width="1" stroke-opacity="0.5"/>
+  </g>
+  <g>
+    <rect x="121" y="-62" width="263" height="53" fill="none" fill-opacity="0" stroke="#7A7A33" stroke-width="1" stroke-opacity="0.5"/>
+  </g>
+</svg>

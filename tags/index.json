@@ -1,0 +1,17 @@
+{
+  "schema": "compose-preview-tags/v1",
+  "previews": {
+    "conversation-screen__ideal__default": {
+      "ConversationTestTag": {
+        "count": 1,
+        "bounds": {
+          "x": 0,
+          "y": 0,
+          "width": 1050,
+          "height": 2100
+        },
+        "space": "render-pixels"
+      }
+    }
+  }
+}
