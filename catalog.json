@@ -1,0 +1,4296 @@
+{
+  "schema": "design-parity-catalog/v1",
+  "system": "compose-samples-jetnews",
+  "title": "JetNews",
+  "components": [
+    {
+      "componentId": "Screens/Home feed",
+      "images": [
+        {
+          "variant": "ideal",
+          "path": "images/screens-home-feed/ideal__default.png",
+          "state": "default",
+          "width": 1050,
+          "height": 2100,
+          "livePreview": "https://preview.coo.ee/compose-samples-jetnews/p/screens-home-feed__ideal__default",
+          "previewId": "com.example.jetnews.ui.home.HomeScreensKt.PreviewHomeListDrawerScreen_Home_list_drawer_screen",
+          "density": 2.625
+        },
+        {
+          "variant": "ideal",
+          "path": "images/screens-home-feed/ideal__default__fontscale-1.5.png",
+          "state": "default",
+          "width": 1050,
+          "height": 2100,
+          "props": {
+            "fontScale": "1.5"
+          },
+          "livePreview": "https://preview.coo.ee/compose-samples-jetnews/p/screens-home-feed__ideal__default__fontscale-1.5"
+        },
+        {
+          "variant": "ideal",
+          "path": "images/screens-home-feed/ideal__default__dark.png",
+          "state": "default",
+          "width": 1050,
+          "height": 2100,
+          "theme": "dark",
+          "livePreview": "https://preview.coo.ee/compose-samples-jetnews/p/screens-home-feed__ideal__default__dark",
+          "previewId": "com.example.jetnews.ui.home.HomeScreensKt.PreviewHomeListDrawerScreen_Home_list_drawer_screen__dark_",
+          "previewParams": {
+            "uiMode": 32
+          },
+          "density": 2.625
+        },
+        {
+          "variant": "ideal",
+          "path": "images/screens-home-feed/ideal__nav-rail__nexus7.png",
+          "state": "nav rail",
+          "width": 1050,
+          "height": 2100,
+          "size": "nexus7",
+          "livePreview": "https://preview.coo.ee/compose-samples-jetnews/p/screens-home-feed__ideal__nav-rail__nexus7",
+          "previewId": "com.example.jetnews.ui.home.HomeScreensKt.PreviewHomeListNavRailScreen_Home_list_navrail_screen",
+          "previewParams": {
+            "device": "id:Nexus 7 2013",
+            "widthDp": 400,
+            "heightDp": 800
+          },
+          "density": 2.625
+        },
+        {
+          "variant": "ideal",
+          "path": "images/screens-home-feed/ideal__nav-rail__nexus7__fontscale-1.5.png",
+          "state": "nav rail",
+          "width": 1050,
+          "height": 2100,
+          "size": "nexus7",
+          "props": {
+            "fontScale": "1.5"
+          },
+          "livePreview": "https://preview.coo.ee/compose-samples-jetnews/p/screens-home-feed__ideal__nav-rail__nexus7__fontscale-1.5"
+        },
+        {
+          "variant": "ideal",
+          "path": "images/screens-home-feed/ideal__nav-rail__dark__nexus7.png",
+          "state": "nav rail",
+          "width": 1050,
+          "height": 2100,
+          "theme": "dark",
+          "size": "nexus7",
+          "livePreview": "https://preview.coo.ee/compose-samples-jetnews/p/screens-home-feed__ideal__nav-rail__dark__nexus7",
+          "previewId": "com.example.jetnews.ui.home.HomeScreensKt.PreviewHomeListNavRailScreen_Home_list_navrail_screen__dark_",
+          "previewParams": {
+            "uiMode": 32,
+            "device": "id:Nexus 7 2013",
+            "widthDp": 400,
+            "heightDp": 800
+          },
+          "density": 2.625
+        }
+      ],
+      "greenlines": [
+        {
+          "kind": "a11y",
+          "severity": "info",
+          "message": "button",
+          "detail": {
+            "role": "button",
+            "bounds": {
+              "x": 935,
+              "y": 1905,
+              "width": 105,
+              "height": 105
+            }
+          },
+          "bounds": {
+            "x": 935,
+            "y": 1905,
+            "width": 105,
+            "height": 105
+          }
+        },
+        {
+          "kind": "a11y",
+          "severity": "info",
+          "message": "button",
+          "detail": {
+            "role": "button",
+            "bounds": {
+              "x": 0,
+              "y": 0,
+              "width": 0,
+              "height": 0
+            }
+          },
+          "bounds": {
+            "x": 0,
+            "y": 0,
+            "width": 0,
+            "height": 0
+          }
+        },
+        {
+          "kind": "a11y",
+          "severity": "info",
+          "message": "button",
+          "detail": {
+            "role": "button",
+            "bounds": {
+              "x": 0,
+              "y": 0,
+              "width": 0,
+              "height": 0
+            }
+          },
+          "bounds": {
+            "x": 0,
+            "y": 0,
+            "width": 0,
+            "height": 0
+          }
+        },
+        {
+          "kind": "a11y",
+          "severity": "info",
+          "message": "button",
+          "detail": {
+            "role": "button",
+            "bounds": {
+              "x": 0,
+              "y": 0,
+              "width": 0,
+              "height": 0
+            }
+          },
+          "bounds": {
+            "x": 0,
+            "y": 0,
+            "width": 0,
+            "height": 0
+          }
+        }
+      ],
+      "redlines": [
+        {
+          "bounds": {
+            "x": 42,
+            "y": 0,
+            "width": 966,
+            "height": 147
+          },
+          "padding": {
+            "start": 16,
+            "top": 0,
+            "end": 16,
+            "bottom": 0
+          }
+        },
+        {
+          "bounds": {
+            "x": 42,
+            "y": 0,
+            "width": 966,
+            "height": 147
+          },
+          "cornerRadius": 4
+        },
+        {
+          "bounds": {
+            "x": 179,
+            "y": 42,
+            "width": 283,
+            "height": 63
+          },
+          "padding": {
+            "start": 4,
+            "top": 0,
+            "end": 16,
+            "bottom": 0
+          }
+        },
+        {
+          "bounds": {
+            "x": 42,
+            "y": 189,
+            "width": 396,
+            "height": 63
+          },
+          "label": "Top stories for you",
+          "padding": {
+            "start": 16,
+            "top": 16,
+            "end": 16,
+            "bottom": 0
+          }
+        },
+        {
+          "bounds": {
+            "x": 0,
+            "y": 252,
+            "width": 1050,
+            "height": 874
+          },
+          "padding": {
+            "start": 16,
+            "top": 16,
+            "end": 16,
+            "bottom": 16
+          }
+        },
+        {
+          "bounds": {
+            "x": 42,
+            "y": 294,
+            "width": 966,
+            "height": 473
+          },
+          "cornerRadius": 8
+        },
+        {
+          "bounds": {
+            "x": 42,
+            "y": 809,
+            "width": 966,
+            "height": 148
+          },
+          "label": "Redesigning the Android Studio Logo",
+          "padding": {
+            "start": 0,
+            "top": 0,
+            "end": 0,
+            "bottom": 8
+          }
+        },
+        {
+          "bounds": {
+            "x": 42,
+            "y": 978,
+            "width": 394,
+            "height": 53
+          },
+          "label": "Android Studio Team",
+          "padding": {
+            "start": 0,
+            "top": 0,
+            "end": 0,
+            "bottom": 4
+          }
+        },
+        {
+          "bounds": {
+            "x": 42,
+            "y": 1171,
+            "width": 105,
+            "height": 105
+          },
+          "padding": {
+            "start": 16,
+            "top": 16,
+            "end": 16,
+            "bottom": 16
+          },
+          "cornerRadius": 4
+        },
+        {
+          "bounds": {
+            "x": 892,
+            "y": 1129,
+            "width": 158,
+            "height": 136
+          },
+          "padding": {
+            "start": 6,
+            "top": 2,
+            "end": 6,
+            "bottom": 2
+          },
+          "cornerRadius": 25.9
+        },
+        {
+          "bounds": {
+            "x": 42,
+            "y": 1405,
+            "width": 105,
+            "height": 105
+          },
+          "padding": {
+            "start": 16,
+            "top": 16,
+            "end": 16,
+            "bottom": 16
+          },
+          "cornerRadius": 4
+        },
+        {
+          "bounds": {
+            "x": 892,
+            "y": 1363,
+            "width": 158,
+            "height": 136
+          },
+          "padding": {
+            "start": 6,
+            "top": 2,
+            "end": 6,
+            "bottom": 2
+          },
+          "cornerRadius": 25.9
+        },
+        {
+          "bounds": {
+            "x": 42,
+            "y": 1639,
+            "width": 105,
+            "height": 105
+          },
+          "padding": {
+            "start": 16,
+            "top": 16,
+            "end": 16,
+            "bottom": 16
+          },
+          "cornerRadius": 4
+        },
+        {
+          "bounds": {
+            "x": 892,
+            "y": 1597,
+            "width": 158,
+            "height": 136
+          },
+          "padding": {
+            "start": 6,
+            "top": 2,
+            "end": 6,
+            "bottom": 2
+          },
+          "cornerRadius": 25.9
+        },
+        {
+          "bounds": {
+            "x": 42,
+            "y": 1936,
+            "width": 105,
+            "height": 105
+          },
+          "padding": {
+            "start": 16,
+            "top": 16,
+            "end": 16,
+            "bottom": 16
+          },
+          "cornerRadius": 4
+        },
+        {
+          "bounds": {
+            "x": 935,
+            "y": 1905,
+            "width": 105,
+            "height": 105
+          },
+          "role": "Button",
+          "cornerRadius": 20
+        },
+        {
+          "bounds": {
+            "x": 0,
+            "y": 0,
+            "width": 0,
+            "height": 0
+          },
+          "padding": {
+            "start": 16,
+            "top": 16,
+            "end": 16,
+            "bottom": 16
+          },
+          "cornerRadius": 4
+        },
+        {
+          "bounds": {
+            "x": 0,
+            "y": 0,
+            "width": 0,
+            "height": 0
+          },
+          "role": "Button",
+          "cornerRadius": 20
+        },
+        {
+          "bounds": {
+            "x": 0,
+            "y": 0,
+            "width": 0,
+            "height": 0
+          },
+          "padding": {
+            "start": 16,
+            "top": 16,
+            "end": 16,
+            "bottom": 16
+          },
+          "cornerRadius": 4
+        },
+        {
+          "bounds": {
+            "x": 0,
+            "y": 0,
+            "width": 0,
+            "height": 0
+          },
+          "role": "Button",
+          "cornerRadius": 20
+        },
+        {
+          "bounds": {
+            "x": 0,
+            "y": 0,
+            "width": 0,
+            "height": 0
+          },
+          "padding": {
+            "start": 16,
+            "top": 16,
+            "end": 16,
+            "bottom": 16
+          },
+          "cornerRadius": 4
+        },
+        {
+          "bounds": {
+            "x": 0,
+            "y": 0,
+            "width": 0,
+            "height": 0
+          },
+          "role": "Button",
+          "cornerRadius": 20
+        },
+        {
+          "bounds": {
+            "x": 0,
+            "y": 0,
+            "width": 0,
+            "height": 0
+          },
+          "padding": {
+            "start": 0,
+            "top": 0,
+            "end": 0,
+            "bottom": 0
+          },
+          "cornerRadius": 20
+        }
+      ],
+      "section": "Screens",
+      "group": "Screens",
+      "caption": "The home feed in the compact posture, navigation behind a modal drawer; upstream previews it light, dark and at 1.5x font.",
+      "wireframe": "wireframes/screens-home-feed.svg",
+      "sourceFile": "src/main/java/com/example/jetnews/ui/home/HomeScreens.kt",
+      "sourceModule": ":app",
+      "bodyLine": 671,
+      "sourceDirectory": "JetNews/app",
+      "sourceFunction": "PreviewHomeListDrawerScreen",
+      "parameters": [
+        {
+          "name": "uiState",
+          "type": "HomeUiState"
+        },
+        {
+          "name": "showTopAppBar",
+          "type": "Boolean"
+        },
+        {
+          "name": "onToggleFavorite",
+          "type": "(String) -> Unit"
+        },
+        {
+          "name": "onSelectPost",
+          "type": "(String) -> Unit"
+        },
+        {
+          "name": "onRefreshPosts",
+          "type": "() -> Unit"
+        },
+        {
+          "name": "onErrorDismiss",
+          "type": "(Long) -> Unit"
+        },
+        {
+          "name": "openDrawer",
+          "type": "() -> Unit"
+        },
+        {
+          "name": "homeListLazyListState",
+          "type": "LazyListState"
+        },
+        {
+          "name": "snackbarHostState",
+          "type": "SnackbarHostState"
+        },
+        {
+          "name": "modifier",
+          "type": "Modifier",
+          "hasDefault": true
+        },
+        {
+          "name": "searchInput",
+          "type": "String",
+          "hasDefault": true
+        },
+        {
+          "name": "onSearchInputChanged",
+          "type": "(String) -> Unit"
+        }
+      ]
+    },
+    {
+      "componentId": "Screens/Article",
+      "images": [
+        {
+          "variant": "ideal",
+          "path": "images/screens-article/ideal__default.png",
+          "state": "default",
+          "width": 1050,
+          "height": 2100,
+          "livePreview": "https://preview.coo.ee/compose-samples-jetnews/p/screens-article__ideal__default",
+          "previewId": "com.example.jetnews.ui.post.PostScreenKt.PreviewPostDrawer_Post_screen",
+          "density": 2.625
+        },
+        {
+          "variant": "ideal",
+          "path": "images/screens-article/ideal__default__fontscale-1.5.png",
+          "state": "default",
+          "width": 1050,
+          "height": 2100,
+          "props": {
+            "fontScale": "1.5"
+          },
+          "livePreview": "https://preview.coo.ee/compose-samples-jetnews/p/screens-article__ideal__default__fontscale-1.5"
+        },
+        {
+          "variant": "ideal",
+          "path": "images/screens-article/ideal__default__dark.png",
+          "state": "default",
+          "width": 1050,
+          "height": 2100,
+          "theme": "dark",
+          "livePreview": "https://preview.coo.ee/compose-samples-jetnews/p/screens-article__ideal__default__dark",
+          "previewId": "com.example.jetnews.ui.post.PostScreenKt.PreviewPostDrawer_Post_screen__dark_",
+          "previewParams": {
+            "uiMode": 32
+          },
+          "density": 2.625
+        },
+        {
+          "variant": "ideal",
+          "path": "images/screens-article/ideal__nav-rail__pixelc.png",
+          "state": "nav rail",
+          "width": 2560,
+          "height": 1800,
+          "size": "pixelC",
+          "livePreview": "https://preview.coo.ee/compose-samples-jetnews/p/screens-article__ideal__nav-rail__pixelc",
+          "previewId": "com.example.jetnews.ui.post.PostScreenKt.PreviewPostNavRail_Post_screen_navrail",
+          "previewParams": {
+            "device": "id:pixel_c",
+            "widthDp": 1280,
+            "heightDp": 900
+          },
+          "density": 2
+        },
+        {
+          "variant": "ideal",
+          "path": "images/screens-article/ideal__nav-rail__pixelc__fontscale-1.5.png",
+          "state": "nav rail",
+          "width": 2560,
+          "height": 1800,
+          "size": "pixelC",
+          "props": {
+            "fontScale": "1.5"
+          },
+          "livePreview": "https://preview.coo.ee/compose-samples-jetnews/p/screens-article__ideal__nav-rail__pixelc__fontscale-1.5"
+        },
+        {
+          "variant": "ideal",
+          "path": "images/screens-article/ideal__nav-rail__dark__pixelc.png",
+          "state": "nav rail",
+          "width": 2560,
+          "height": 1800,
+          "theme": "dark",
+          "size": "pixelC",
+          "livePreview": "https://preview.coo.ee/compose-samples-jetnews/p/screens-article__ideal__nav-rail__dark__pixelc",
+          "previewId": "com.example.jetnews.ui.post.PostScreenKt.PreviewPostNavRail_Post_screen_navrail__dark_",
+          "previewParams": {
+            "uiMode": 32,
+            "device": "id:pixel_c",
+            "widthDp": 1280,
+            "heightDp": 900
+          },
+          "density": 2
+        }
+      ],
+      "greenlines": [
+        {
+          "kind": "a11y",
+          "severity": "info",
+          "message": "button",
+          "detail": {
+            "role": "button",
+            "bounds": {
+              "x": 22,
+              "y": 32,
+              "width": 105,
+              "height": 105
+            }
+          },
+          "bounds": {
+            "x": 22,
+            "y": 32,
+            "width": 105,
+            "height": 105
+          }
+        },
+        {
+          "kind": "a11y",
+          "severity": "info",
+          "message": "button",
+          "detail": {
+            "role": "button",
+            "bounds": {
+              "x": 22,
+              "y": 1949,
+              "width": 105,
+              "height": 105
+            }
+          },
+          "bounds": {
+            "x": 22,
+            "y": 1949,
+            "width": 105,
+            "height": 105
+          }
+        },
+        {
+          "kind": "a11y",
+          "severity": "info",
+          "message": "checkbox",
+          "detail": {
+            "role": "checkbox",
+            "bounds": {
+              "x": 148,
+              "y": 1949,
+              "width": 105,
+              "height": 105
+            }
+          },
+          "bounds": {
+            "x": 148,
+            "y": 1949,
+            "width": 105,
+            "height": 105
+          }
+        },
+        {
+          "kind": "a11y",
+          "severity": "info",
+          "message": "button",
+          "detail": {
+            "role": "button",
+            "bounds": {
+              "x": 274,
+              "y": 1949,
+              "width": 105,
+              "height": 105
+            }
+          },
+          "bounds": {
+            "x": 274,
+            "y": 1949,
+            "width": 105,
+            "height": 105
+          }
+        },
+        {
+          "kind": "a11y",
+          "severity": "info",
+          "message": "button",
+          "detail": {
+            "role": "button",
+            "bounds": {
+              "x": 400,
+              "y": 1949,
+              "width": 105,
+              "height": 105
+            }
+          },
+          "bounds": {
+            "x": 400,
+            "y": 1949,
+            "width": 105,
+            "height": 105
+          }
+        }
+      ],
+      "redlines": [
+        {
+          "bounds": {
+            "x": 42,
+            "y": 0,
+            "width": 966,
+            "height": 2100
+          },
+          "padding": {
+            "start": 16,
+            "top": 0,
+            "end": 16,
+            "bottom": 0
+          }
+        },
+        {
+          "bounds": {
+            "x": 42,
+            "y": 168,
+            "width": 966,
+            "height": 473
+          },
+          "cornerRadius": 8
+        },
+        {
+          "bounds": {
+            "x": 42,
+            "y": 1325,
+            "width": 499,
+            "height": 106
+          },
+          "padding": {
+            "start": 0,
+            "top": 0,
+            "end": 0,
+            "bottom": 24
+          }
+        },
+        {
+          "bounds": {
+            "x": 168,
+            "y": 1336,
+            "width": 373,
+            "height": 53
+          },
+          "label": "Florina Muntenescu",
+          "padding": {
+            "start": 0,
+            "top": 4,
+            "end": 0,
+            "bottom": 0
+          }
+        },
+        {
+          "bounds": {
+            "x": 53,
+            "y": 1505,
+            "width": 944,
+            "height": 518
+          },
+          "label": "Learn how to get started converting Java Programming Language code to Kotlin, making it more idiomatic and avoid common pitfalls, by following our new Refactoring to Kotlin codelab, available in English 🇬🇧, Chinese 🇨🇳 and Brazilian Portuguese 🇧🇷.",
+          "padding": {
+            "start": 4,
+            "top": 4,
+            "end": 4,
+            "bottom": 4
+          }
+        },
+        {
+          "bounds": {
+            "x": 0,
+            "y": 0,
+            "width": 0,
+            "height": 0
+          },
+          "label": "When you first get started writing Kotlin code, you tend to follow Java Programming Language idioms. The automatic converter, part of both Android Studio and Intellij IDEA, can do a pretty good job of automatically refactoring your code, but sometimes, it needs a little help. This is where our new Refactoring to Kotlin codelab comes in.",
+          "padding": {
+            "start": 4,
+            "top": 4,
+            "end": 4,
+            "bottom": 4
+          }
+        },
+        {
+          "bounds": {
+            "x": 22,
+            "y": 32,
+            "width": 105,
+            "height": 105
+          },
+          "role": "Button",
+          "cornerRadius": 20
+        },
+        {
+          "bounds": {
+            "x": 282,
+            "y": 31,
+            "width": 487,
+            "height": 106
+          },
+          "padding": {
+            "start": 4,
+            "top": 0,
+            "end": 4,
+            "bottom": 0
+          }
+        },
+        {
+          "bounds": {
+            "x": 282,
+            "y": 31,
+            "width": 95,
+            "height": 95
+          },
+          "cornerRadius": 18.1
+        },
+        {
+          "bounds": {
+            "x": 398,
+            "y": 31,
+            "width": 371,
+            "height": 106
+          },
+          "label": "Published in: \nAndroid Developers",
+          "padding": {
+            "start": 8,
+            "top": 0,
+            "end": 0,
+            "bottom": 0
+          }
+        },
+        {
+          "bounds": {
+            "x": 22,
+            "y": 1949,
+            "width": 105,
+            "height": 105
+          },
+          "role": "Button",
+          "cornerRadius": 20
+        },
+        {
+          "bounds": {
+            "x": 148,
+            "y": 1949,
+            "width": 105,
+            "height": 105
+          },
+          "role": "Checkbox",
+          "cornerRadius": 20
+        },
+        {
+          "bounds": {
+            "x": 274,
+            "y": 1949,
+            "width": 105,
+            "height": 105
+          },
+          "role": "Button",
+          "cornerRadius": 20
+        },
+        {
+          "bounds": {
+            "x": 400,
+            "y": 1949,
+            "width": 105,
+            "height": 105
+          },
+          "role": "Button",
+          "cornerRadius": 20
+        }
+      ],
+      "section": "Screens",
+      "group": "Screens",
+      "caption": "The article screen, compact posture, light, dark and at 1.5x font.",
+      "wireframe": "wireframes/screens-article.svg",
+      "sourceFile": "src/main/java/com/example/jetnews/ui/post/PostScreen.kt",
+      "sourceModule": ":app",
+      "bodyLine": 408,
+      "sourceDirectory": "JetNews/app",
+      "sourceFunction": "PreviewPostDrawer",
+      "parameters": [
+        {
+          "name": "uiState",
+          "type": "PostUiState"
+        },
+        {
+          "name": "isExpandedScreen",
+          "type": "Boolean"
+        },
+        {
+          "name": "onBack",
+          "type": "() -> Unit"
+        },
+        {
+          "name": "onToggleFavorite",
+          "type": "() -> Unit"
+        },
+        {
+          "name": "onScroll",
+          "type": "(Int, Int) -> Unit"
+        }
+      ]
+    },
+    {
+      "componentId": "Screens/Interests",
+      "images": [
+        {
+          "variant": "ideal",
+          "path": "images/screens-interests/ideal__default.png",
+          "state": "default",
+          "width": 1050,
+          "height": 2100,
+          "livePreview": "https://preview.coo.ee/compose-samples-jetnews/p/screens-interests__ideal__default",
+          "previewId": "com.example.jetnews.ui.interests.InterestsScreenKt.PreviewInterestsScreenDrawer_Interests_screen",
+          "density": 2.625
+        },
+        {
+          "variant": "ideal",
+          "path": "images/screens-interests/ideal__default__fontscale-1.5.png",
+          "state": "default",
+          "width": 1050,
+          "height": 2100,
+          "props": {
+            "fontScale": "1.5"
+          },
+          "livePreview": "https://preview.coo.ee/compose-samples-jetnews/p/screens-interests__ideal__default__fontscale-1.5"
+        },
+        {
+          "variant": "ideal",
+          "path": "images/screens-interests/ideal__default__dark.png",
+          "state": "default",
+          "width": 1050,
+          "height": 2100,
+          "theme": "dark",
+          "livePreview": "https://preview.coo.ee/compose-samples-jetnews/p/screens-interests__ideal__default__dark",
+          "previewId": "com.example.jetnews.ui.interests.InterestsScreenKt.PreviewInterestsScreenDrawer_Interests_screen__dark_",
+          "previewParams": {
+            "uiMode": 32
+          },
+          "density": 2.625
+        },
+        {
+          "variant": "ideal",
+          "path": "images/screens-interests/ideal__nav-rail__pixelc.png",
+          "state": "nav rail",
+          "width": 2560,
+          "height": 1800,
+          "size": "pixelC",
+          "livePreview": "https://preview.coo.ee/compose-samples-jetnews/p/screens-interests__ideal__nav-rail__pixelc",
+          "previewId": "com.example.jetnews.ui.interests.InterestsScreenKt.PreviewInterestsScreenNavRail_Interests_screen_navrail",
+          "previewParams": {
+            "device": "id:pixel_c",
+            "widthDp": 1280,
+            "heightDp": 900
+          },
+          "density": 2
+        },
+        {
+          "variant": "ideal",
+          "path": "images/screens-interests/ideal__nav-rail__pixelc__fontscale-1.5.png",
+          "state": "nav rail",
+          "width": 2560,
+          "height": 1800,
+          "size": "pixelC",
+          "props": {
+            "fontScale": "1.5"
+          },
+          "livePreview": "https://preview.coo.ee/compose-samples-jetnews/p/screens-interests__ideal__nav-rail__pixelc__fontscale-1.5"
+        },
+        {
+          "variant": "ideal",
+          "path": "images/screens-interests/ideal__nav-rail__dark__pixelc.png",
+          "state": "nav rail",
+          "width": 2560,
+          "height": 1800,
+          "theme": "dark",
+          "size": "pixelC",
+          "livePreview": "https://preview.coo.ee/compose-samples-jetnews/p/screens-interests__ideal__nav-rail__dark__pixelc",
+          "previewId": "com.example.jetnews.ui.interests.InterestsScreenKt.PreviewInterestsScreenNavRail_Interests_screen_navrail__dark_",
+          "previewParams": {
+            "uiMode": 32,
+            "device": "id:pixel_c",
+            "widthDp": 1280,
+            "heightDp": 900
+          },
+          "density": 2
+        }
+      ],
+      "greenlines": [
+        {
+          "kind": "a11y",
+          "severity": "info",
+          "message": "tab",
+          "detail": {
+            "role": "tab",
+            "bounds": {
+              "x": 0,
+              "y": 168,
+              "width": 350,
+              "height": 126
+            }
+          },
+          "bounds": {
+            "x": 0,
+            "y": 168,
+            "width": 350,
+            "height": 126
+          }
+        },
+        {
+          "kind": "a11y",
+          "severity": "info",
+          "message": "tab",
+          "detail": {
+            "role": "tab",
+            "bounds": {
+              "x": 350,
+              "y": 168,
+              "width": 350,
+              "height": 126
+            }
+          },
+          "bounds": {
+            "x": 350,
+            "y": 168,
+            "width": 350,
+            "height": 126
+          }
+        },
+        {
+          "kind": "a11y",
+          "severity": "info",
+          "message": "tab",
+          "detail": {
+            "role": "tab",
+            "bounds": {
+              "x": 700,
+              "y": 168,
+              "width": 350,
+              "height": 126
+            }
+          },
+          "bounds": {
+            "x": 700,
+            "y": 168,
+            "width": 350,
+            "height": 126
+          }
+        },
+        {
+          "kind": "a11y",
+          "severity": "info",
+          "message": "button",
+          "detail": {
+            "role": "button",
+            "bounds": {
+              "x": 22,
+              "y": 32,
+              "width": 105,
+              "height": 105
+            }
+          },
+          "bounds": {
+            "x": 22,
+            "y": 32,
+            "width": 105,
+            "height": 105
+          }
+        },
+        {
+          "kind": "a11y",
+          "severity": "info",
+          "message": "button",
+          "detail": {
+            "role": "button",
+            "bounds": {
+              "x": 924,
+              "y": 32,
+              "width": 105,
+              "height": 105
+            }
+          },
+          "bounds": {
+            "x": 924,
+            "y": 32,
+            "width": 105,
+            "height": 105
+          }
+        }
+      ],
+      "redlines": [
+        {
+          "bounds": {
+            "x": 143,
+            "y": 286,
+            "width": 63,
+            "height": 8
+          },
+          "cornerRadius": 3
+        },
+        {
+          "bounds": {
+            "x": 42,
+            "y": 339,
+            "width": 177,
+            "height": 63
+          },
+          "label": "Android",
+          "padding": {
+            "start": 16,
+            "top": 16,
+            "end": 16,
+            "bottom": 16
+          }
+        },
+        {
+          "bounds": {
+            "x": 42,
+            "y": 444,
+            "width": 147,
+            "height": 147
+          },
+          "cornerRadius": 4
+        },
+        {
+          "bounds": {
+            "x": 231,
+            "y": 486,
+            "width": 598,
+            "height": 63
+          },
+          "label": "Jetpack Compose",
+          "padding": {
+            "start": 16,
+            "top": 16,
+            "end": 16,
+            "bottom": 16
+          }
+        },
+        {
+          "bounds": {
+            "x": 913,
+            "y": 470,
+            "width": 95,
+            "height": 95
+          },
+          "cornerRadius": 18.1
+        },
+        {
+          "bounds": {
+            "x": 934,
+            "y": 491,
+            "width": 53,
+            "height": 53
+          },
+          "padding": {
+            "start": 8,
+            "top": 8,
+            "end": 8,
+            "bottom": 8
+          }
+        },
+        {
+          "bounds": {
+            "x": 42,
+            "y": 636,
+            "width": 147,
+            "height": 147
+          },
+          "cornerRadius": 4
+        },
+        {
+          "bounds": {
+            "x": 231,
+            "y": 678,
+            "width": 598,
+            "height": 63
+          },
+          "label": "Kotlin",
+          "padding": {
+            "start": 16,
+            "top": 16,
+            "end": 16,
+            "bottom": 16
+          }
+        },
+        {
+          "bounds": {
+            "x": 913,
+            "y": 662,
+            "width": 95,
+            "height": 95
+          },
+          "cornerRadius": 18.1
+        },
+        {
+          "bounds": {
+            "x": 934,
+            "y": 683,
+            "width": 53,
+            "height": 53
+          },
+          "padding": {
+            "start": 8,
+            "top": 8,
+            "end": 8,
+            "bottom": 8
+          }
+        },
+        {
+          "bounds": {
+            "x": 42,
+            "y": 828,
+            "width": 147,
+            "height": 147
+          },
+          "cornerRadius": 4
+        },
+        {
+          "bounds": {
+            "x": 231,
+            "y": 870,
+            "width": 598,
+            "height": 63
+          },
+          "label": "Jetpack",
+          "padding": {
+            "start": 16,
+            "top": 16,
+            "end": 16,
+            "bottom": 16
+          }
+        },
+        {
+          "bounds": {
+            "x": 913,
+            "y": 854,
+            "width": 95,
+            "height": 95
+          },
+          "cornerRadius": 18.1
+        },
+        {
+          "bounds": {
+            "x": 934,
+            "y": 875,
+            "width": 53,
+            "height": 53
+          },
+          "padding": {
+            "start": 8,
+            "top": 8,
+            "end": 8,
+            "bottom": 8
+          }
+        },
+        {
+          "bounds": {
+            "x": 42,
+            "y": 1062,
+            "width": 307,
+            "height": 63
+          },
+          "label": "Programming",
+          "padding": {
+            "start": 16,
+            "top": 16,
+            "end": 16,
+            "bottom": 16
+          }
+        },
+        {
+          "bounds": {
+            "x": 42,
+            "y": 1167,
+            "width": 147,
+            "height": 147
+          },
+          "cornerRadius": 4
+        },
+        {
+          "bounds": {
+            "x": 231,
+            "y": 1209,
+            "width": 598,
+            "height": 63
+          },
+          "label": "Kotlin",
+          "padding": {
+            "start": 16,
+            "top": 16,
+            "end": 16,
+            "bottom": 16
+          }
+        },
+        {
+          "bounds": {
+            "x": 913,
+            "y": 1193,
+            "width": 95,
+            "height": 95
+          },
+          "cornerRadius": 18.1
+        },
+        {
+          "bounds": {
+            "x": 934,
+            "y": 1214,
+            "width": 53,
+            "height": 53
+          },
+          "padding": {
+            "start": 8,
+            "top": 8,
+            "end": 8,
+            "bottom": 8
+          }
+        },
+        {
+          "bounds": {
+            "x": 42,
+            "y": 1359,
+            "width": 147,
+            "height": 147
+          },
+          "cornerRadius": 4
+        },
+        {
+          "bounds": {
+            "x": 231,
+            "y": 1401,
+            "width": 598,
+            "height": 63
+          },
+          "label": "Declarative UIs",
+          "padding": {
+            "start": 16,
+            "top": 16,
+            "end": 16,
+            "bottom": 16
+          }
+        },
+        {
+          "bounds": {
+            "x": 913,
+            "y": 1385,
+            "width": 95,
+            "height": 95
+          },
+          "cornerRadius": 18.1
+        },
+        {
+          "bounds": {
+            "x": 934,
+            "y": 1406,
+            "width": 53,
+            "height": 53
+          },
+          "padding": {
+            "start": 8,
+            "top": 8,
+            "end": 8,
+            "bottom": 8
+          }
+        },
+        {
+          "bounds": {
+            "x": 42,
+            "y": 1551,
+            "width": 147,
+            "height": 147
+          },
+          "cornerRadius": 4
+        },
+        {
+          "bounds": {
+            "x": 231,
+            "y": 1593,
+            "width": 598,
+            "height": 63
+          },
+          "label": "Java",
+          "padding": {
+            "start": 16,
+            "top": 16,
+            "end": 16,
+            "bottom": 16
+          }
+        },
+        {
+          "bounds": {
+            "x": 913,
+            "y": 1577,
+            "width": 95,
+            "height": 95
+          },
+          "cornerRadius": 18.1
+        },
+        {
+          "bounds": {
+            "x": 934,
+            "y": 1598,
+            "width": 53,
+            "height": 53
+          },
+          "padding": {
+            "start": 8,
+            "top": 8,
+            "end": 8,
+            "bottom": 8
+          }
+        },
+        {
+          "bounds": {
+            "x": 42,
+            "y": 1743,
+            "width": 147,
+            "height": 147
+          },
+          "cornerRadius": 4
+        },
+        {
+          "bounds": {
+            "x": 231,
+            "y": 1785,
+            "width": 598,
+            "height": 63
+          },
+          "label": "Unidirectional Data Flow",
+          "padding": {
+            "start": 16,
+            "top": 16,
+            "end": 16,
+            "bottom": 16
+          }
+        },
+        {
+          "bounds": {
+            "x": 913,
+            "y": 1769,
+            "width": 95,
+            "height": 95
+          },
+          "cornerRadius": 18.1
+        },
+        {
+          "bounds": {
+            "x": 934,
+            "y": 1790,
+            "width": 53,
+            "height": 53
+          },
+          "padding": {
+            "start": 8,
+            "top": 8,
+            "end": 8,
+            "bottom": 8
+          }
+        },
+        {
+          "bounds": {
+            "x": 42,
+            "y": 1935,
+            "width": 147,
+            "height": 147
+          },
+          "cornerRadius": 4
+        },
+        {
+          "bounds": {
+            "x": 231,
+            "y": 1977,
+            "width": 598,
+            "height": 63
+          },
+          "label": "C++",
+          "padding": {
+            "start": 16,
+            "top": 16,
+            "end": 16,
+            "bottom": 16
+          }
+        },
+        {
+          "bounds": {
+            "x": 913,
+            "y": 1961,
+            "width": 95,
+            "height": 95
+          },
+          "cornerRadius": 18.1
+        },
+        {
+          "bounds": {
+            "x": 934,
+            "y": 1982,
+            "width": 53,
+            "height": 53
+          },
+          "padding": {
+            "start": 8,
+            "top": 8,
+            "end": 8,
+            "bottom": 8
+          }
+        },
+        {
+          "bounds": {
+            "x": 0,
+            "y": 0,
+            "width": 0,
+            "height": 0
+          },
+          "label": "Technology",
+          "padding": {
+            "start": 16,
+            "top": 16,
+            "end": 16,
+            "bottom": 16
+          }
+        },
+        {
+          "bounds": {
+            "x": 0,
+            "y": 0,
+            "width": 0,
+            "height": 0
+          },
+          "cornerRadius": 4
+        },
+        {
+          "bounds": {
+            "x": 0,
+            "y": 0,
+            "width": 0,
+            "height": 0
+          },
+          "label": "Pixel",
+          "padding": {
+            "start": 16,
+            "top": 16,
+            "end": 16,
+            "bottom": 16
+          }
+        },
+        {
+          "bounds": {
+            "x": 0,
+            "y": 0,
+            "width": 0,
+            "height": 0
+          },
+          "cornerRadius": 18.1
+        },
+        {
+          "bounds": {
+            "x": 0,
+            "y": 0,
+            "width": 0,
+            "height": 0
+          },
+          "padding": {
+            "start": 8,
+            "top": 8,
+            "end": 8,
+            "bottom": 8
+          }
+        },
+        {
+          "bounds": {
+            "x": 0,
+            "y": 0,
+            "width": 0,
+            "height": 0
+          },
+          "cornerRadius": 4
+        },
+        {
+          "bounds": {
+            "x": 0,
+            "y": 0,
+            "width": 0,
+            "height": 0
+          },
+          "label": "Google",
+          "padding": {
+            "start": 16,
+            "top": 16,
+            "end": 16,
+            "bottom": 16
+          }
+        },
+        {
+          "bounds": {
+            "x": 0,
+            "y": 0,
+            "width": 0,
+            "height": 0
+          },
+          "cornerRadius": 18.1
+        },
+        {
+          "bounds": {
+            "x": 0,
+            "y": 0,
+            "width": 0,
+            "height": 0
+          },
+          "padding": {
+            "start": 8,
+            "top": 8,
+            "end": 8,
+            "bottom": 8
+          }
+        },
+        {
+          "bounds": {
+            "x": 22,
+            "y": 32,
+            "width": 105,
+            "height": 105
+          },
+          "role": "Button",
+          "cornerRadius": 20
+        },
+        {
+          "bounds": {
+            "x": 401,
+            "y": 47,
+            "width": 248,
+            "height": 74
+          },
+          "padding": {
+            "start": 4,
+            "top": 0,
+            "end": 4,
+            "bottom": 0
+          }
+        },
+        {
+          "bounds": {
+            "x": 924,
+            "y": 32,
+            "width": 105,
+            "height": 105
+          },
+          "role": "Button",
+          "cornerRadius": 20
+        }
+      ],
+      "section": "Screens",
+      "group": "Screens",
+      "caption": "The interests screen with its Topics / People / Publications tabs, compact posture.",
+      "wireframe": "wireframes/screens-interests.svg",
+      "sourceFile": "src/main/java/com/example/jetnews/ui/interests/InterestsScreen.kt",
+      "sourceModule": ":app",
+      "bodyLine": 553,
+      "sourceDirectory": "JetNews/app",
+      "sourceFunction": "PreviewInterestsScreenDrawer",
+      "parameters": [
+        {
+          "name": "interestsViewModel",
+          "type": "InterestsViewModel"
+        },
+        {
+          "name": "isExpandedScreen",
+          "type": "Boolean"
+        },
+        {
+          "name": "openDrawer",
+          "type": "() -> Unit"
+        },
+        {
+          "name": "snackbarHostState",
+          "type": "SnackbarHostState",
+          "hasDefault": true
+        }
+      ]
+    },
+    {
+      "componentId": "Reader/Article body",
+      "images": [
+        {
+          "variant": "ideal",
+          "path": "images/reader-article-body/ideal__default.png",
+          "state": "default",
+          "width": 1050,
+          "height": 2100,
+          "livePreview": "https://preview.coo.ee/compose-samples-jetnews/p/reader-article-body__ideal__default",
+          "previewId": "com.example.jetnews.ui.post.PostContentKt.PreviewPost_Post_content",
+          "density": 2.625
+        },
+        {
+          "variant": "ideal",
+          "path": "images/reader-article-body/ideal__default__dark.png",
+          "state": "default",
+          "width": 1050,
+          "height": 2100,
+          "theme": "dark",
+          "livePreview": "https://preview.coo.ee/compose-samples-jetnews/p/reader-article-body__ideal__default__dark",
+          "previewId": "com.example.jetnews.ui.post.PostContentKt.PreviewPost_Post_content__dark_",
+          "previewParams": {
+            "uiMode": 32
+          },
+          "density": 2.625
+        }
+      ],
+      "greenlines": [],
+      "redlines": [
+        {
+          "bounds": {
+            "x": 42,
+            "y": 0,
+            "width": 966,
+            "height": 2100
+          },
+          "padding": {
+            "start": 16,
+            "top": 0,
+            "end": 16,
+            "bottom": 0
+          }
+        },
+        {
+          "bounds": {
+            "x": 42,
+            "y": 0,
+            "width": 966,
+            "height": 473
+          },
+          "cornerRadius": 8
+        },
+        {
+          "bounds": {
+            "x": 42,
+            "y": 1157,
+            "width": 499,
+            "height": 106
+          },
+          "padding": {
+            "start": 0,
+            "top": 0,
+            "end": 0,
+            "bottom": 24
+          }
+        },
+        {
+          "bounds": {
+            "x": 168,
+            "y": 1168,
+            "width": 373,
+            "height": 53
+          },
+          "label": "Florina Muntenescu",
+          "padding": {
+            "start": 0,
+            "top": 4,
+            "end": 0,
+            "bottom": 0
+          }
+        },
+        {
+          "bounds": {
+            "x": 53,
+            "y": 1337,
+            "width": 944,
+            "height": 518
+          },
+          "label": "Learn how to get started converting Java Programming Language code to Kotlin, making it more idiomatic and avoid common pitfalls, by following our new Refactoring to Kotlin codelab, available in English 🇬🇧, Chinese 🇨🇳 and Brazilian Portuguese 🇧🇷.",
+          "padding": {
+            "start": 4,
+            "top": 4,
+            "end": 4,
+            "bottom": 4
+          }
+        },
+        {
+          "bounds": {
+            "x": 53,
+            "y": 1940,
+            "width": 944,
+            "height": 160
+          },
+          "label": "When you first get started writing Kotlin code, you tend to follow Java Programming Language idioms. The automatic converter, part of both Android Studio and Intellij IDEA, can do a pretty good job of automatically refactoring your code, but sometimes, it needs a little help. This is where our new Refactoring to Kotlin codelab comes in.",
+          "padding": {
+            "start": 4,
+            "top": 4,
+            "end": 4,
+            "bottom": 4
+          }
+        }
+      ],
+      "section": "Screens",
+      "group": "Screens",
+      "caption": "Long-form article body: the Material 3 type scale, inline markup, images and code blocks.",
+      "wireframe": "wireframes/reader-article-body.svg",
+      "sourceFile": "src/main/java/com/example/jetnews/ui/post/PostContent.kt",
+      "sourceModule": ":app",
+      "bodyLine": 335,
+      "sourceDirectory": "JetNews/app",
+      "sourceFunction": "PreviewPost",
+      "parameters": [
+        {
+          "name": "post",
+          "type": "Post"
+        },
+        {
+          "name": "modifier",
+          "type": "Modifier",
+          "hasDefault": true
+        },
+        {
+          "name": "contentPadding",
+          "type": "PaddingValues",
+          "hasDefault": true
+        },
+        {
+          "name": "state",
+          "type": "LazyListState",
+          "hasDefault": true
+        }
+      ]
+    },
+    {
+      "componentId": "Navigation/Drawer",
+      "images": [
+        {
+          "variant": "ideal",
+          "path": "images/navigation-drawer/ideal__default.png",
+          "state": "default",
+          "width": 945,
+          "height": 2100,
+          "livePreview": "https://preview.coo.ee/compose-samples-jetnews/p/navigation-drawer__ideal__default",
+          "previewId": "com.example.jetnews.ui.AppDrawerKt.PreviewAppDrawer_Drawer_contents",
+          "density": 2.625
+        },
+        {
+          "variant": "ideal",
+          "path": "images/navigation-drawer/ideal__default__dark.png",
+          "state": "default",
+          "width": 945,
+          "height": 2100,
+          "theme": "dark",
+          "livePreview": "https://preview.coo.ee/compose-samples-jetnews/p/navigation-drawer__ideal__default__dark",
+          "previewId": "com.example.jetnews.ui.AppDrawerKt.PreviewAppDrawer_Drawer_contents__dark_",
+          "previewParams": {
+            "uiMode": 32
+          },
+          "density": 2.625
+        }
+      ],
+      "greenlines": [
+        {
+          "kind": "a11y",
+          "severity": "info",
+          "message": "tab",
+          "detail": {
+            "role": "tab",
+            "bounds": {
+              "x": 32,
+              "y": 189,
+              "width": 881,
+              "height": 147
+            }
+          },
+          "bounds": {
+            "x": 32,
+            "y": 189,
+            "width": 881,
+            "height": 147
+          }
+        },
+        {
+          "kind": "a11y",
+          "severity": "info",
+          "message": "tab",
+          "detail": {
+            "role": "tab",
+            "bounds": {
+              "x": 32,
+              "y": 336,
+              "width": 881,
+              "height": 147
+            }
+          },
+          "bounds": {
+            "x": 32,
+            "y": 336,
+            "width": 881,
+            "height": 147
+          }
+        }
+      ],
+      "redlines": [
+        {
+          "bounds": {
+            "x": 0,
+            "y": 0,
+            "width": 945,
+            "height": 2100
+          },
+          "cornerRadius": 0
+        },
+        {
+          "bounds": {
+            "x": 32,
+            "y": 189,
+            "width": 881,
+            "height": 147
+          },
+          "role": "Tab",
+          "padding": {
+            "start": 12,
+            "top": 0,
+            "end": 12,
+            "bottom": 0
+          },
+          "cornerRadius": 28
+        },
+        {
+          "bounds": {
+            "x": 32,
+            "y": 336,
+            "width": 881,
+            "height": 147
+          },
+          "role": "Tab",
+          "padding": {
+            "start": 12,
+            "top": 0,
+            "end": 12,
+            "bottom": 0
+          },
+          "cornerRadius": 28
+        }
+      ],
+      "section": "Components",
+      "group": "Navigation",
+      "caption": "Modal navigation drawer contents, Home selected — the compact-width navigation surface.",
+      "wireframe": "wireframes/navigation-drawer.svg",
+      "sourceFile": "src/main/java/com/example/jetnews/ui/AppDrawer.kt",
+      "sourceModule": ":app",
+      "bodyLine": 100,
+      "sourceDirectory": "JetNews/app",
+      "sourceFunction": "PreviewAppDrawer",
+      "parameters": [
+        {
+          "name": "drawerState",
+          "type": "DrawerState"
+        },
+        {
+          "name": "currentTopLevelKey",
+          "type": "NavKey"
+        },
+        {
+          "name": "navigate",
+          "type": "(NavKey) -> Unit"
+        },
+        {
+          "name": "navigationItems",
+          "type": "List<NavigationItem>"
+        },
+        {
+          "name": "closeDrawer",
+          "type": "() -> Unit"
+        },
+        {
+          "name": "modifier",
+          "type": "Modifier",
+          "hasDefault": true
+        }
+      ]
+    },
+    {
+      "componentId": "Navigation/Rail",
+      "images": [
+        {
+          "variant": "ideal",
+          "path": "images/navigation-rail/ideal__default.png",
+          "state": "default",
+          "width": 210,
+          "height": 2100,
+          "livePreview": "https://preview.coo.ee/compose-samples-jetnews/p/navigation-rail__ideal__default",
+          "previewId": "com.example.jetnews.ui.components.AppNavRailKt.PreviewAppNavRail_Drawer_contents",
+          "density": 2.625
+        },
+        {
+          "variant": "ideal",
+          "path": "images/navigation-rail/ideal__default__dark.png",
+          "state": "default",
+          "width": 210,
+          "height": 2100,
+          "theme": "dark",
+          "livePreview": "https://preview.coo.ee/compose-samples-jetnews/p/navigation-rail__ideal__default__dark",
+          "previewId": "com.example.jetnews.ui.components.AppNavRailKt.PreviewAppNavRail_Drawer_contents__dark_",
+          "previewParams": {
+            "uiMode": 32
+          },
+          "density": 2.625
+        }
+      ],
+      "greenlines": [
+        {
+          "kind": "a11y",
+          "severity": "info",
+          "message": "tab",
+          "detail": {
+            "role": "tab",
+            "bounds": {
+              "x": 0,
+              "y": 982,
+              "width": 210,
+              "height": 147
+            }
+          },
+          "bounds": {
+            "x": 0,
+            "y": 982,
+            "width": 210,
+            "height": 147
+          }
+        },
+        {
+          "kind": "a11y",
+          "severity": "info",
+          "message": "tab",
+          "detail": {
+            "role": "tab",
+            "bounds": {
+              "x": 0,
+              "y": 1140,
+              "width": 210,
+              "height": 147
+            }
+          },
+          "bounds": {
+            "x": 0,
+            "y": 1140,
+            "width": 210,
+            "height": 147
+          }
+        }
+      ],
+      "redlines": [
+        {
+          "bounds": {
+            "x": 0,
+            "y": 11,
+            "width": 210,
+            "height": 2078
+          },
+          "padding": {
+            "start": 0,
+            "top": 4,
+            "end": 0,
+            "bottom": 4
+          },
+          "gap": 4
+        },
+        {
+          "bounds": {
+            "x": 31,
+            "y": 982,
+            "width": 147,
+            "height": 84
+          },
+          "cornerRadius": 16
+        },
+        {
+          "bounds": {
+            "x": 31,
+            "y": 982,
+            "width": 147,
+            "height": 84
+          },
+          "cornerRadius": 16
+        },
+        {
+          "bounds": {
+            "x": 31,
+            "y": 1172,
+            "width": 147,
+            "height": 84
+          },
+          "cornerRadius": 16
+        }
+      ],
+      "section": "Components",
+      "group": "Navigation",
+      "caption": "Navigation rail — the same destinations at expanded width.",
+      "wireframe": "wireframes/navigation-rail.svg",
+      "sourceFile": "src/main/java/com/example/jetnews/ui/components/AppNavRail.kt",
+      "sourceModule": ":app",
+      "bodyLine": 84,
+      "sourceDirectory": "JetNews/app",
+      "sourceFunction": "PreviewAppNavRail",
+      "parameters": [
+        {
+          "name": "currentTopLevelKey",
+          "type": "NavKey"
+        },
+        {
+          "name": "navigate",
+          "type": "(NavKey) -> Unit"
+        },
+        {
+          "name": "navigationItems",
+          "type": "List<NavigationItem>"
+        },
+        {
+          "name": "modifier",
+          "type": "Modifier",
+          "hasDefault": true
+        }
+      ]
+    },
+    {
+      "componentId": "PostCard/Top",
+      "images": [
+        {
+          "variant": "ideal",
+          "path": "images/postcard-top/ideal__default.png",
+          "state": "default",
+          "width": 1050,
+          "height": 874,
+          "livePreview": "https://preview.coo.ee/compose-samples-jetnews/p/postcard-top__ideal__default",
+          "previewId": "com.example.jetnews.ui.home.PostCardTopKt.PostCardTopPreview",
+          "density": 2.625
+        },
+        {
+          "variant": "ideal",
+          "path": "images/postcard-top/ideal__complete__dark.png",
+          "state": "complete",
+          "width": 1050,
+          "height": 874,
+          "theme": "dark",
+          "livePreview": "https://preview.coo.ee/compose-samples-jetnews/p/postcard-top__ideal__complete__dark",
+          "previewId": "com.example.jetnews.ui.home.PostCardTopKt.PostCardTopPreviews_dark_theme",
+          "previewParams": {
+            "uiMode": 32
+          },
+          "density": 2.625
+        },
+        {
+          "variant": "ideal",
+          "path": "images/postcard-top/ideal__complete__foldable.png",
+          "state": "complete",
+          "width": 2019,
+          "height": 2523,
+          "size": "foldable",
+          "livePreview": "https://preview.coo.ee/compose-samples-jetnews/p/postcard-top__ideal__complete__foldable",
+          "previewId": "com.example.jetnews.ui.home.PostCardTopKt.PostCardTopPreviews_foldable",
+          "previewParams": {
+            "device": "spec:width=673dp,height=841dp,dpi=480",
+            "widthDp": 673,
+            "heightDp": 841
+          },
+          "density": 3
+        },
+        {
+          "variant": "ideal",
+          "path": "images/postcard-top/ideal__complete__fontscale-1.5.png",
+          "state": "complete",
+          "width": 1050,
+          "height": 959,
+          "props": {
+            "fontScale": "1.5"
+          },
+          "livePreview": "https://preview.coo.ee/compose-samples-jetnews/p/postcard-top__ideal__complete__fontscale-1.5"
+        },
+        {
+          "variant": "ideal",
+          "path": "images/postcard-top/ideal__complete__phone.png",
+          "state": "complete",
+          "width": 1080,
+          "height": 1920,
+          "size": "phone",
+          "livePreview": "https://preview.coo.ee/compose-samples-jetnews/p/postcard-top__ideal__complete__phone",
+          "previewId": "com.example.jetnews.ui.home.PostCardTopKt.PostCardTopPreviews_phone",
+          "previewParams": {
+            "device": "spec:width=360dp,height=640dp,dpi=480",
+            "widthDp": 360,
+            "heightDp": 640
+          },
+          "density": 3
+        },
+        {
+          "variant": "ideal",
+          "path": "images/postcard-top/ideal__complete__fontscale-0.5.png",
+          "state": "complete",
+          "width": 1050,
+          "height": 716,
+          "props": {
+            "fontScale": "0.5"
+          },
+          "livePreview": "https://preview.coo.ee/compose-samples-jetnews/p/postcard-top__ideal__complete__fontscale-0.5"
+        },
+        {
+          "variant": "ideal",
+          "path": "images/postcard-top/ideal__complete__tablet.png",
+          "state": "complete",
+          "width": 3840,
+          "height": 2400,
+          "size": "tablet",
+          "livePreview": "https://preview.coo.ee/compose-samples-jetnews/p/postcard-top__ideal__complete__tablet",
+          "previewId": "com.example.jetnews.ui.home.PostCardTopKt.PostCardTopPreviews_tablet",
+          "previewParams": {
+            "device": "spec:width=1280dp,height=800dp,dpi=480",
+            "widthDp": 1280,
+            "heightDp": 800
+          },
+          "density": 3
+        }
+      ],
+      "greenlines": [],
+      "redlines": [
+        {
+          "bounds": {
+            "x": 42,
+            "y": 42,
+            "width": 966,
+            "height": 473
+          },
+          "cornerRadius": 8
+        },
+        {
+          "bounds": {
+            "x": 42,
+            "y": 557,
+            "width": 966,
+            "height": 148
+          },
+          "label": "Redesigning the Android Studio Logo",
+          "padding": {
+            "start": 0,
+            "top": 0,
+            "end": 0,
+            "bottom": 8
+          }
+        },
+        {
+          "bounds": {
+            "x": 42,
+            "y": 726,
+            "width": 394,
+            "height": 53
+          },
+          "label": "Android Studio Team",
+          "padding": {
+            "start": 0,
+            "top": 0,
+            "end": 0,
+            "bottom": 4
+          }
+        }
+      ],
+      "section": "Components",
+      "group": "Post cards",
+      "caption": "The featured post card at the top of the feed.",
+      "wireframe": "wireframes/postcard-top.svg",
+      "sourceFile": "src/main/java/com/example/jetnews/ui/home/PostCardTop.kt",
+      "sourceModule": ":app",
+      "bodyLine": 93,
+      "sourceDirectory": "JetNews/app",
+      "sourceFunction": "PostCardTopPreview",
+      "parameters": [
+        {
+          "name": "post",
+          "type": "Post"
+        },
+        {
+          "name": "modifier",
+          "type": "Modifier",
+          "hasDefault": true
+        }
+      ]
+    },
+    {
+      "componentId": "PostCard/Simple",
+      "images": [
+        {
+          "variant": "ideal",
+          "path": "images/postcard-simple/ideal__default.png",
+          "state": "default",
+          "width": 1050,
+          "height": 294,
+          "livePreview": "https://preview.coo.ee/compose-samples-jetnews/p/postcard-simple__ideal__default",
+          "previewId": "com.example.jetnews.ui.home.PostCardsKt.SimplePostPreview_Simple_post_card",
+          "density": 2.625
+        },
+        {
+          "variant": "ideal",
+          "path": "images/postcard-simple/ideal__default__dark.png",
+          "state": "default",
+          "width": 1050,
+          "height": 294,
+          "theme": "dark",
+          "livePreview": "https://preview.coo.ee/compose-samples-jetnews/p/postcard-simple__ideal__default__dark",
+          "previewId": "com.example.jetnews.ui.home.PostCardsKt.SimplePostPreview_Simple_post_card__dark_",
+          "previewParams": {
+            "uiMode": 32
+          },
+          "density": 2.625
+        }
+      ],
+      "greenlines": [],
+      "redlines": [
+        {
+          "bounds": {
+            "x": 42,
+            "y": 42,
+            "width": 105,
+            "height": 105
+          },
+          "padding": {
+            "start": 16,
+            "top": 16,
+            "end": 16,
+            "bottom": 16
+          },
+          "cornerRadius": 4
+        },
+        {
+          "bounds": {
+            "x": 892,
+            "y": 0,
+            "width": 158,
+            "height": 136
+          },
+          "padding": {
+            "start": 6,
+            "top": 2,
+            "end": 6,
+            "bottom": 2
+          },
+          "cornerRadius": 25.9
+        }
+      ],
+      "section": "Components",
+      "group": "Post cards",
+      "caption": "The standard feed row, light and dark.",
+      "wireframe": "wireframes/postcard-simple.svg",
+      "sourceFile": "src/main/java/com/example/jetnews/ui/home/PostCards.kt",
+      "sourceModule": ":app",
+      "bodyLine": 217,
+      "sourceDirectory": "JetNews/app",
+      "sourceFunction": "SimplePostPreview",
+      "parameters": [
+        {
+          "name": "post",
+          "type": "Post"
+        },
+        {
+          "name": "navigateToPost",
+          "type": "(String) -> Unit"
+        },
+        {
+          "name": "isFavorite",
+          "type": "Boolean"
+        },
+        {
+          "name": "onToggleFavorite",
+          "type": "() -> Unit"
+        }
+      ]
+    },
+    {
+      "componentId": "PostCard/History",
+      "images": [
+        {
+          "variant": "ideal",
+          "path": "images/postcard-history/ideal__default.png",
+          "state": "default",
+          "width": 1050,
+          "height": 359,
+          "livePreview": "https://preview.coo.ee/compose-samples-jetnews/p/postcard-history__ideal__default",
+          "previewId": "com.example.jetnews.ui.home.PostCardsKt.HistoryPostPreview_Post_History_card",
+          "density": 2.625
+        }
+      ],
+      "greenlines": [
+        {
+          "kind": "a11y",
+          "severity": "info",
+          "message": "button",
+          "detail": {
+            "role": "button",
+            "bounds": {
+              "x": 935,
+              "y": 11,
+              "width": 105,
+              "height": 105
+            }
+          },
+          "bounds": {
+            "x": 935,
+            "y": 11,
+            "width": 105,
+            "height": 105
+          }
+        }
+      ],
+      "redlines": [
+        {
+          "bounds": {
+            "x": 42,
+            "y": 42,
+            "width": 105,
+            "height": 105
+          },
+          "padding": {
+            "start": 16,
+            "top": 16,
+            "end": 16,
+            "bottom": 16
+          },
+          "cornerRadius": 4
+        },
+        {
+          "bounds": {
+            "x": 935,
+            "y": 11,
+            "width": 105,
+            "height": 105
+          },
+          "role": "Button",
+          "cornerRadius": 20
+        }
+      ],
+      "section": "Components",
+      "group": "Post cards",
+      "caption": "Reading-history row with its overflow affordance.",
+      "wireframe": "wireframes/postcard-history.svg",
+      "sourceFile": "src/main/java/com/example/jetnews/ui/home/PostCards.kt",
+      "sourceModule": ":app",
+      "bodyLine": 227,
+      "sourceDirectory": "JetNews/app",
+      "sourceFunction": "HistoryPostPreview",
+      "parameters": [
+        {
+          "name": "post",
+          "type": "Post"
+        },
+        {
+          "name": "navigateToPost",
+          "type": "(String) -> Unit"
+        }
+      ]
+    },
+    {
+      "componentId": "PostCard/Popular",
+      "images": [
+        {
+          "variant": "ideal",
+          "path": "images/postcard-popular/ideal__default__dark.png",
+          "state": "default",
+          "width": 735,
+          "height": 2100,
+          "theme": "dark",
+          "livePreview": "https://preview.coo.ee/compose-samples-jetnews/p/postcard-popular__ideal__default__dark",
+          "previewId": "com.example.jetnews.ui.home.PostCardYourNetworkKt.PreviewPostCardPopular_Dark_colors",
+          "previewParams": {
+            "uiMode": 32
+          },
+          "density": 2.625
+        },
+        {
+          "variant": "ideal",
+          "path": "images/postcard-popular/ideal__default.png",
+          "state": "default",
+          "width": 735,
+          "height": 2100,
+          "livePreview": "https://preview.coo.ee/compose-samples-jetnews/p/postcard-popular__ideal__default",
+          "previewId": "com.example.jetnews.ui.home.PostCardYourNetworkKt.PreviewPostCardPopular_Regular_colors",
+          "density": 2.625
+        },
+        {
+          "variant": "ideal",
+          "path": "images/postcard-popular/ideal__long-text.png",
+          "state": "long text",
+          "width": 735,
+          "height": 2100,
+          "livePreview": "https://preview.coo.ee/compose-samples-jetnews/p/postcard-popular__ideal__long-text",
+          "previewId": "com.example.jetnews.ui.home.PostCardYourNetworkKt.PreviewPostCardPopularLongText_Regular_colors__long_text",
+          "density": 2.625
+        }
+      ],
+      "greenlines": [],
+      "redlines": [
+        {
+          "bounds": {
+            "x": 0,
+            "y": 0,
+            "width": 735,
+            "height": 2100
+          },
+          "cornerRadius": 4
+        }
+      ],
+      "section": "Components",
+      "group": "Post cards",
+      "caption": "The popular-post card from the horizontal carousel, light and dark.",
+      "wireframe": "wireframes/postcard-popular.svg",
+      "sourceFile": "src/main/java/com/example/jetnews/ui/home/PostCardYourNetwork.kt",
+      "sourceModule": ":app",
+      "bodyLine": 102,
+      "sourceDirectory": "JetNews/app",
+      "sourceFunction": "PreviewPostCardPopular",
+      "parameters": [
+        {
+          "name": "post",
+          "type": "Post"
+        },
+        {
+          "name": "navigateToPost",
+          "type": "(String) -> Unit"
+        },
+        {
+          "name": "modifier",
+          "type": "Modifier",
+          "hasDefault": true
+        }
+      ]
+    },
+    {
+      "componentId": "Bookmark/Button",
+      "images": [
+        {
+          "variant": "ideal",
+          "path": "images/bookmark-button/ideal__default.png",
+          "state": "default",
+          "width": 126,
+          "height": 126,
+          "livePreview": "https://preview.coo.ee/compose-samples-jetnews/p/bookmark-button__ideal__default",
+          "previewId": "com.example.jetnews.ui.home.PostCardsKt.BookmarkButtonPreview_Bookmark_Button",
+          "density": 2.625
+        },
+        {
+          "variant": "ideal",
+          "path": "images/bookmark-button/ideal__bookmarked.png",
+          "state": "bookmarked",
+          "width": 126,
+          "height": 126,
+          "livePreview": "https://preview.coo.ee/compose-samples-jetnews/p/bookmark-button__ideal__bookmarked",
+          "previewId": "com.example.jetnews.ui.home.PostCardsKt.BookmarkButtonBookmarkedPreview_Bookmark_Button_Bookmarked",
+          "density": 2.625
+        }
+      ],
+      "greenlines": [
+        {
+          "kind": "a11y",
+          "severity": "info",
+          "message": "checkbox",
+          "detail": {
+            "role": "checkbox",
+            "bounds": {
+              "x": 11,
+              "y": 11,
+              "width": 105,
+              "height": 105
+            }
+          },
+          "bounds": {
+            "x": 11,
+            "y": 11,
+            "width": 105,
+            "height": 105
+          }
+        }
+      ],
+      "redlines": [
+        {
+          "bounds": {
+            "x": 11,
+            "y": 11,
+            "width": 105,
+            "height": 105
+          },
+          "role": "Checkbox",
+          "cornerRadius": 20
+        }
+      ],
+      "section": "Components",
+      "group": "Post cards",
+      "caption": "The bookmark toggle, unset.",
+      "wireframe": "wireframes/bookmark-button.svg",
+      "sourceFile": "src/main/java/com/example/jetnews/ui/home/PostCards.kt",
+      "sourceModule": ":app",
+      "bodyLine": 196,
+      "sourceDirectory": "JetNews/app",
+      "sourceFunction": "BookmarkButtonPreview",
+      "parameters": [
+        {
+          "name": "isBookmarked",
+          "type": "Boolean"
+        },
+        {
+          "name": "onClick",
+          "type": "() -> Unit"
+        },
+        {
+          "name": "modifier",
+          "type": "Modifier",
+          "hasDefault": true
+        }
+      ]
+    },
+    {
+      "componentId": "Interests/Topics tab",
+      "images": [
+        {
+          "variant": "ideal",
+          "path": "images/interests-topics-tab/ideal__default.png",
+          "state": "default",
+          "width": 1050,
+          "height": 2100,
+          "livePreview": "https://preview.coo.ee/compose-samples-jetnews/p/interests-topics-tab__ideal__default",
+          "previewId": "com.example.jetnews.ui.interests.InterestsScreenKt.PreviewTopicsTab_Interests_screen_topics_tab",
+          "density": 2.625
+        },
+        {
+          "variant": "ideal",
+          "path": "images/interests-topics-tab/ideal__default__dark.png",
+          "state": "default",
+          "width": 1050,
+          "height": 2100,
+          "theme": "dark",
+          "livePreview": "https://preview.coo.ee/compose-samples-jetnews/p/interests-topics-tab__ideal__default__dark",
+          "previewId": "com.example.jetnews.ui.interests.InterestsScreenKt.PreviewTopicsTab_Interests_screen_topics_tab__dark_",
+          "previewParams": {
+            "uiMode": 32
+          },
+          "density": 2.625
+        }
+      ],
+      "greenlines": [],
+      "redlines": [
+        {
+          "bounds": {
+            "x": 42,
+            "y": 42,
+            "width": 177,
+            "height": 63
+          },
+          "label": "Android",
+          "padding": {
+            "start": 16,
+            "top": 16,
+            "end": 16,
+            "bottom": 16
+          }
+        },
+        {
+          "bounds": {
+            "x": 42,
+            "y": 147,
+            "width": 147,
+            "height": 147
+          },
+          "cornerRadius": 4
+        },
+        {
+          "bounds": {
+            "x": 231,
+            "y": 189,
+            "width": 598,
+            "height": 63
+          },
+          "label": "Jetpack Compose",
+          "padding": {
+            "start": 16,
+            "top": 16,
+            "end": 16,
+            "bottom": 16
+          }
+        },
+        {
+          "bounds": {
+            "x": 913,
+            "y": 173,
+            "width": 95,
+            "height": 95
+          },
+          "cornerRadius": 18.1
+        },
+        {
+          "bounds": {
+            "x": 934,
+            "y": 194,
+            "width": 53,
+            "height": 53
+          },
+          "padding": {
+            "start": 8,
+            "top": 8,
+            "end": 8,
+            "bottom": 8
+          }
+        },
+        {
+          "bounds": {
+            "x": 42,
+            "y": 339,
+            "width": 147,
+            "height": 147
+          },
+          "cornerRadius": 4
+        },
+        {
+          "bounds": {
+            "x": 231,
+            "y": 381,
+            "width": 598,
+            "height": 63
+          },
+          "label": "Kotlin",
+          "padding": {
+            "start": 16,
+            "top": 16,
+            "end": 16,
+            "bottom": 16
+          }
+        },
+        {
+          "bounds": {
+            "x": 913,
+            "y": 365,
+            "width": 95,
+            "height": 95
+          },
+          "cornerRadius": 18.1
+        },
+        {
+          "bounds": {
+            "x": 934,
+            "y": 386,
+            "width": 53,
+            "height": 53
+          },
+          "padding": {
+            "start": 8,
+            "top": 8,
+            "end": 8,
+            "bottom": 8
+          }
+        },
+        {
+          "bounds": {
+            "x": 42,
+            "y": 531,
+            "width": 147,
+            "height": 147
+          },
+          "cornerRadius": 4
+        },
+        {
+          "bounds": {
+            "x": 231,
+            "y": 573,
+            "width": 598,
+            "height": 63
+          },
+          "label": "Jetpack",
+          "padding": {
+            "start": 16,
+            "top": 16,
+            "end": 16,
+            "bottom": 16
+          }
+        },
+        {
+          "bounds": {
+            "x": 913,
+            "y": 557,
+            "width": 95,
+            "height": 95
+          },
+          "cornerRadius": 18.1
+        },
+        {
+          "bounds": {
+            "x": 934,
+            "y": 578,
+            "width": 53,
+            "height": 53
+          },
+          "padding": {
+            "start": 8,
+            "top": 8,
+            "end": 8,
+            "bottom": 8
+          }
+        },
+        {
+          "bounds": {
+            "x": 42,
+            "y": 765,
+            "width": 307,
+            "height": 63
+          },
+          "label": "Programming",
+          "padding": {
+            "start": 16,
+            "top": 16,
+            "end": 16,
+            "bottom": 16
+          }
+        },
+        {
+          "bounds": {
+            "x": 42,
+            "y": 870,
+            "width": 147,
+            "height": 147
+          },
+          "cornerRadius": 4
+        },
+        {
+          "bounds": {
+            "x": 231,
+            "y": 912,
+            "width": 598,
+            "height": 63
+          },
+          "label": "Kotlin",
+          "padding": {
+            "start": 16,
+            "top": 16,
+            "end": 16,
+            "bottom": 16
+          }
+        },
+        {
+          "bounds": {
+            "x": 913,
+            "y": 896,
+            "width": 95,
+            "height": 95
+          },
+          "cornerRadius": 18.1
+        },
+        {
+          "bounds": {
+            "x": 934,
+            "y": 917,
+            "width": 53,
+            "height": 53
+          },
+          "padding": {
+            "start": 8,
+            "top": 8,
+            "end": 8,
+            "bottom": 8
+          }
+        },
+        {
+          "bounds": {
+            "x": 42,
+            "y": 1062,
+            "width": 147,
+            "height": 147
+          },
+          "cornerRadius": 4
+        },
+        {
+          "bounds": {
+            "x": 231,
+            "y": 1104,
+            "width": 598,
+            "height": 63
+          },
+          "label": "Declarative UIs",
+          "padding": {
+            "start": 16,
+            "top": 16,
+            "end": 16,
+            "bottom": 16
+          }
+        },
+        {
+          "bounds": {
+            "x": 913,
+            "y": 1088,
+            "width": 95,
+            "height": 95
+          },
+          "cornerRadius": 18.1
+        },
+        {
+          "bounds": {
+            "x": 934,
+            "y": 1109,
+            "width": 53,
+            "height": 53
+          },
+          "padding": {
+            "start": 8,
+            "top": 8,
+            "end": 8,
+            "bottom": 8
+          }
+        },
+        {
+          "bounds": {
+            "x": 42,
+            "y": 1254,
+            "width": 147,
+            "height": 147
+          },
+          "cornerRadius": 4
+        },
+        {
+          "bounds": {
+            "x": 231,
+            "y": 1296,
+            "width": 598,
+            "height": 63
+          },
+          "label": "Java",
+          "padding": {
+            "start": 16,
+            "top": 16,
+            "end": 16,
+            "bottom": 16
+          }
+        },
+        {
+          "bounds": {
+            "x": 913,
+            "y": 1280,
+            "width": 95,
+            "height": 95
+          },
+          "cornerRadius": 18.1
+        },
+        {
+          "bounds": {
+            "x": 934,
+            "y": 1301,
+            "width": 53,
+            "height": 53
+          },
+          "padding": {
+            "start": 8,
+            "top": 8,
+            "end": 8,
+            "bottom": 8
+          }
+        },
+        {
+          "bounds": {
+            "x": 42,
+            "y": 1446,
+            "width": 147,
+            "height": 147
+          },
+          "cornerRadius": 4
+        },
+        {
+          "bounds": {
+            "x": 231,
+            "y": 1488,
+            "width": 598,
+            "height": 63
+          },
+          "label": "Unidirectional Data Flow",
+          "padding": {
+            "start": 16,
+            "top": 16,
+            "end": 16,
+            "bottom": 16
+          }
+        },
+        {
+          "bounds": {
+            "x": 913,
+            "y": 1472,
+            "width": 95,
+            "height": 95
+          },
+          "cornerRadius": 18.1
+        },
+        {
+          "bounds": {
+            "x": 934,
+            "y": 1493,
+            "width": 53,
+            "height": 53
+          },
+          "padding": {
+            "start": 8,
+            "top": 8,
+            "end": 8,
+            "bottom": 8
+          }
+        },
+        {
+          "bounds": {
+            "x": 42,
+            "y": 1638,
+            "width": 147,
+            "height": 147
+          },
+          "cornerRadius": 4
+        },
+        {
+          "bounds": {
+            "x": 231,
+            "y": 1680,
+            "width": 598,
+            "height": 63
+          },
+          "label": "C++",
+          "padding": {
+            "start": 16,
+            "top": 16,
+            "end": 16,
+            "bottom": 16
+          }
+        },
+        {
+          "bounds": {
+            "x": 913,
+            "y": 1664,
+            "width": 95,
+            "height": 95
+          },
+          "cornerRadius": 18.1
+        },
+        {
+          "bounds": {
+            "x": 934,
+            "y": 1685,
+            "width": 53,
+            "height": 53
+          },
+          "padding": {
+            "start": 8,
+            "top": 8,
+            "end": 8,
+            "bottom": 8
+          }
+        },
+        {
+          "bounds": {
+            "x": 42,
+            "y": 1872,
+            "width": 254,
+            "height": 63
+          },
+          "label": "Technology",
+          "padding": {
+            "start": 16,
+            "top": 16,
+            "end": 16,
+            "bottom": 16
+          }
+        },
+        {
+          "bounds": {
+            "x": 42,
+            "y": 1977,
+            "width": 147,
+            "height": 123
+          },
+          "cornerRadius": 4
+        },
+        {
+          "bounds": {
+            "x": 231,
+            "y": 2019,
+            "width": 598,
+            "height": 63
+          },
+          "label": "Pixel",
+          "padding": {
+            "start": 16,
+            "top": 16,
+            "end": 16,
+            "bottom": 16
+          }
+        },
+        {
+          "bounds": {
+            "x": 913,
+            "y": 2003,
+            "width": 95,
+            "height": 95
+          },
+          "cornerRadius": 18.1
+        },
+        {
+          "bounds": {
+            "x": 934,
+            "y": 2024,
+            "width": 53,
+            "height": 53
+          },
+          "padding": {
+            "start": 8,
+            "top": 8,
+            "end": 8,
+            "bottom": 8
+          }
+        },
+        {
+          "bounds": {
+            "x": 0,
+            "y": 0,
+            "width": 0,
+            "height": 0
+          },
+          "cornerRadius": 4
+        },
+        {
+          "bounds": {
+            "x": 0,
+            "y": 0,
+            "width": 0,
+            "height": 0
+          },
+          "label": "Google",
+          "padding": {
+            "start": 16,
+            "top": 16,
+            "end": 16,
+            "bottom": 16
+          }
+        },
+        {
+          "bounds": {
+            "x": 0,
+            "y": 0,
+            "width": 0,
+            "height": 0
+          },
+          "cornerRadius": 18.1
+        },
+        {
+          "bounds": {
+            "x": 0,
+            "y": 0,
+            "width": 0,
+            "height": 0
+          },
+          "padding": {
+            "start": 8,
+            "top": 8,
+            "end": 8,
+            "bottom": 8
+          }
+        }
+      ],
+      "section": "Components",
+      "group": "Interests",
+      "caption": "Topics tab content, light and dark.",
+      "wireframe": "wireframes/interests-topics-tab.svg",
+      "sourceFile": "src/main/java/com/example/jetnews/ui/interests/InterestsScreen.kt",
+      "sourceModule": ":app",
+      "bodyLine": 602,
+      "sourceDirectory": "JetNews/app",
+      "sourceFunction": "PreviewTopicsTab",
+      "parameters": [
+        {
+          "name": "sections",
+          "type": "List<InterestSection>"
+        },
+        {
+          "name": "selectedTopics",
+          "type": "Set<TopicSelection>"
+        },
+        {
+          "name": "onTopicSelect",
+          "type": "(TopicSelection) -> Unit"
+        }
+      ]
+    },
+    {
+      "componentId": "Interests/People tab",
+      "images": [
+        {
+          "variant": "ideal",
+          "path": "images/interests-people-tab/ideal__default.png",
+          "state": "default",
+          "width": 1050,
+          "height": 1770,
+          "livePreview": "https://preview.coo.ee/compose-samples-jetnews/p/interests-people-tab__ideal__default",
+          "previewId": "com.example.jetnews.ui.interests.InterestsScreenKt.PreviewPeopleTab_Interests_screen_people_tab",
+          "density": 2.625
+        },
+        {
+          "variant": "ideal",
+          "path": "images/interests-people-tab/ideal__default__dark.png",
+          "state": "default",
+          "width": 1050,
+          "height": 1770,
+          "theme": "dark",
+          "livePreview": "https://preview.coo.ee/compose-samples-jetnews/p/interests-people-tab__ideal__default__dark",
+          "previewId": "com.example.jetnews.ui.interests.InterestsScreenKt.PreviewPeopleTab_Interests_screen_people_tab__dark_",
+          "previewParams": {
+            "uiMode": 32
+          },
+          "density": 2.625
+        }
+      ],
+      "greenlines": [],
+      "redlines": [
+        {
+          "bounds": {
+            "x": 42,
+            "y": 42,
+            "width": 147,
+            "height": 147
+          },
+          "cornerRadius": 4
+        },
+        {
+          "bounds": {
+            "x": 231,
+            "y": 84,
+            "width": 598,
+            "height": 63
+          },
+          "label": "Kobalt Toral",
+          "padding": {
+            "start": 16,
+            "top": 16,
+            "end": 16,
+            "bottom": 16
+          }
+        },
+        {
+          "bounds": {
+            "x": 913,
+            "y": 68,
+            "width": 95,
+            "height": 95
+          },
+          "cornerRadius": 18.1
+        },
+        {
+          "bounds": {
+            "x": 934,
+            "y": 89,
+            "width": 53,
+            "height": 53
+          },
+          "padding": {
+            "start": 8,
+            "top": 8,
+            "end": 8,
+            "bottom": 8
+          }
+        },
+        {
+          "bounds": {
+            "x": 42,
+            "y": 234,
+            "width": 147,
+            "height": 147
+          },
+          "cornerRadius": 4
+        },
+        {
+          "bounds": {
+            "x": 231,
+            "y": 276,
+            "width": 598,
+            "height": 63
+          },
+          "label": "K'Kola Uvarek",
+          "padding": {
+            "start": 16,
+            "top": 16,
+            "end": 16,
+            "bottom": 16
+          }
+        },
+        {
+          "bounds": {
+            "x": 913,
+            "y": 260,
+            "width": 95,
+            "height": 95
+          },
+          "cornerRadius": 18.1
+        },
+        {
+          "bounds": {
+            "x": 934,
+            "y": 281,
+            "width": 53,
+            "height": 53
+          },
+          "padding": {
+            "start": 8,
+            "top": 8,
+            "end": 8,
+            "bottom": 8
+          }
+        },
+        {
+          "bounds": {
+            "x": 42,
+            "y": 426,
+            "width": 147,
+            "height": 147
+          },
+          "cornerRadius": 4
+        },
+        {
+          "bounds": {
+            "x": 231,
+            "y": 468,
+            "width": 598,
+            "height": 63
+          },
+          "label": "Kris Vriloc",
+          "padding": {
+            "start": 16,
+            "top": 16,
+            "end": 16,
+            "bottom": 16
+          }
+        },
+        {
+          "bounds": {
+            "x": 913,
+            "y": 452,
+            "width": 95,
+            "height": 95
+          },
+          "cornerRadius": 18.1
+        },
+        {
+          "bounds": {
+            "x": 934,
+            "y": 473,
+            "width": 53,
+            "height": 53
+          },
+          "padding": {
+            "start": 8,
+            "top": 8,
+            "end": 8,
+            "bottom": 8
+          }
+        },
+        {
+          "bounds": {
+            "x": 42,
+            "y": 618,
+            "width": 147,
+            "height": 147
+          },
+          "cornerRadius": 4
+        },
+        {
+          "bounds": {
+            "x": 231,
+            "y": 660,
+            "width": 598,
+            "height": 63
+          },
+          "label": "Grala Valdyr",
+          "padding": {
+            "start": 16,
+            "top": 16,
+            "end": 16,
+            "bottom": 16
+          }
+        },
+        {
+          "bounds": {
+            "x": 913,
+            "y": 644,
+            "width": 95,
+            "height": 95
+          },
+          "cornerRadius": 18.1
+        },
+        {
+          "bounds": {
+            "x": 934,
+            "y": 665,
+            "width": 53,
+            "height": 53
+          },
+          "padding": {
+            "start": 8,
+            "top": 8,
+            "end": 8,
+            "bottom": 8
+          }
+        },
+        {
+          "bounds": {
+            "x": 42,
+            "y": 810,
+            "width": 147,
+            "height": 147
+          },
+          "cornerRadius": 4
+        },
+        {
+          "bounds": {
+            "x": 231,
+            "y": 852,
+            "width": 598,
+            "height": 63
+          },
+          "label": "Kruel Valaxar",
+          "padding": {
+            "start": 16,
+            "top": 16,
+            "end": 16,
+            "bottom": 16
+          }
+        },
+        {
+          "bounds": {
+            "x": 913,
+            "y": 836,
+            "width": 95,
+            "height": 95
+          },
+          "cornerRadius": 18.1
+        },
+        {
+          "bounds": {
+            "x": 934,
+            "y": 857,
+            "width": 53,
+            "height": 53
+          },
+          "padding": {
+            "start": 8,
+            "top": 8,
+            "end": 8,
+            "bottom": 8
+          }
+        },
+        {
+          "bounds": {
+            "x": 42,
+            "y": 1002,
+            "width": 147,
+            "height": 147
+          },
+          "cornerRadius": 4
+        },
+        {
+          "bounds": {
+            "x": 231,
+            "y": 1044,
+            "width": 598,
+            "height": 63
+          },
+          "label": "L'Elij Venonn",
+          "padding": {
+            "start": 16,
+            "top": 16,
+            "end": 16,
+            "bottom": 16
+          }
+        },
+        {
+          "bounds": {
+            "x": 913,
+            "y": 1028,
+            "width": 95,
+            "height": 95
+          },
+          "cornerRadius": 18.1
+        },
+        {
+          "bounds": {
+            "x": 934,
+            "y": 1049,
+            "width": 53,
+            "height": 53
+          },
+          "padding": {
+            "start": 8,
+            "top": 8,
+            "end": 8,
+            "bottom": 8
+          }
+        },
+        {
+          "bounds": {
+            "x": 42,
+            "y": 1194,
+            "width": 147,
+            "height": 147
+          },
+          "cornerRadius": 4
+        },
+        {
+          "bounds": {
+            "x": 231,
+            "y": 1236,
+            "width": 598,
+            "height": 63
+          },
+          "label": "Kraag Solazarn",
+          "padding": {
+            "start": 16,
+            "top": 16,
+            "end": 16,
+            "bottom": 16
+          }
+        },
+        {
+          "bounds": {
+            "x": 913,
+            "y": 1220,
+            "width": 95,
+            "height": 95
+          },
+          "cornerRadius": 18.1
+        },
+        {
+          "bounds": {
+            "x": 934,
+            "y": 1241,
+            "width": 53,
+            "height": 53
+          },
+          "padding": {
+            "start": 8,
+            "top": 8,
+            "end": 8,
+            "bottom": 8
+          }
+        },
+        {
+          "bounds": {
+            "x": 42,
+            "y": 1386,
+            "width": 147,
+            "height": 147
+          },
+          "cornerRadius": 4
+        },
+        {
+          "bounds": {
+            "x": 231,
+            "y": 1428,
+            "width": 598,
+            "height": 63
+          },
+          "label": "Tava Targesh",
+          "padding": {
+            "start": 16,
+            "top": 16,
+            "end": 16,
+            "bottom": 16
+          }
+        },
+        {
+          "bounds": {
+            "x": 913,
+            "y": 1412,
+            "width": 95,
+            "height": 95
+          },
+          "cornerRadius": 18.1
+        },
+        {
+          "bounds": {
+            "x": 934,
+            "y": 1433,
+            "width": 53,
+            "height": 53
+          },
+          "padding": {
+            "start": 8,
+            "top": 8,
+            "end": 8,
+            "bottom": 8
+          }
+        },
+        {
+          "bounds": {
+            "x": 42,
+            "y": 1578,
+            "width": 147,
+            "height": 147
+          },
+          "cornerRadius": 4
+        },
+        {
+          "bounds": {
+            "x": 231,
+            "y": 1620,
+            "width": 598,
+            "height": 63
+          },
+          "label": "Kemarrin Muuda",
+          "padding": {
+            "start": 16,
+            "top": 16,
+            "end": 16,
+            "bottom": 16
+          }
+        },
+        {
+          "bounds": {
+            "x": 913,
+            "y": 1604,
+            "width": 95,
+            "height": 95
+          },
+          "cornerRadius": 18.1
+        },
+        {
+          "bounds": {
+            "x": 934,
+            "y": 1625,
+            "width": 53,
+            "height": 53
+          },
+          "padding": {
+            "start": 8,
+            "top": 8,
+            "end": 8,
+            "bottom": 8
+          }
+        }
+      ],
+      "section": "Components",
+      "group": "Interests",
+      "caption": "People tab content, light and dark.",
+      "wireframe": "wireframes/interests-people-tab.svg",
+      "sourceFile": "src/main/java/com/example/jetnews/ui/interests/InterestsScreen.kt",
+      "sourceModule": ":app",
+      "bodyLine": 616,
+      "sourceDirectory": "JetNews/app",
+      "sourceFunction": "PreviewPeopleTab",
+      "parameters": [
+        {
+          "name": "topics",
+          "type": "List<String>"
+        },
+        {
+          "name": "selectedTopics",
+          "type": "Set<String>"
+        },
+        {
+          "name": "onTopicSelect",
+          "type": "(String) -> Unit"
+        }
+      ]
+    },
+    {
+      "componentId": "Interests/Publications tab",
+      "images": [
+        {
+          "variant": "ideal",
+          "path": "images/interests-publications-tab/ideal__default.png",
+          "state": "default",
+          "width": 1050,
+          "height": 1770,
+          "livePreview": "https://preview.coo.ee/compose-samples-jetnews/p/interests-publications-tab__ideal__default",
+          "previewId": "com.example.jetnews.ui.interests.InterestsScreenKt.PreviewPublicationsTab_Interests_screen_publications_tab",
+          "density": 2.625
+        },
+        {
+          "variant": "ideal",
+          "path": "images/interests-publications-tab/ideal__default__dark.png",
+          "state": "default",
+          "width": 1050,
+          "height": 1770,
+          "theme": "dark",
+          "livePreview": "https://preview.coo.ee/compose-samples-jetnews/p/interests-publications-tab__ideal__default__dark",
+          "previewId": "com.example.jetnews.ui.interests.InterestsScreenKt.PreviewPublicationsTab_Interests_screen_publications_tab__dark_",
+          "previewParams": {
+            "uiMode": 32
+          },
+          "density": 2.625
+        }
+      ],
+      "greenlines": [],
+      "redlines": [
+        {
+          "bounds": {
+            "x": 42,
+            "y": 42,
+            "width": 147,
+            "height": 147
+          },
+          "cornerRadius": 4
+        },
+        {
+          "bounds": {
+            "x": 231,
+            "y": 84,
+            "width": 598,
+            "height": 63
+          },
+          "label": "Kotlin Vibe",
+          "padding": {
+            "start": 16,
+            "top": 16,
+            "end": 16,
+            "bottom": 16
+          }
+        },
+        {
+          "bounds": {
+            "x": 913,
+            "y": 68,
+            "width": 95,
+            "height": 95
+          },
+          "cornerRadius": 18.1
+        },
+        {
+          "bounds": {
+            "x": 934,
+            "y": 89,
+            "width": 53,
+            "height": 53
+          },
+          "padding": {
+            "start": 8,
+            "top": 8,
+            "end": 8,
+            "bottom": 8
+          }
+        },
+        {
+          "bounds": {
+            "x": 42,
+            "y": 234,
+            "width": 147,
+            "height": 147
+          },
+          "cornerRadius": 4
+        },
+        {
+          "bounds": {
+            "x": 231,
+            "y": 276,
+            "width": 598,
+            "height": 63
+          },
+          "label": "Compose Mix",
+          "padding": {
+            "start": 16,
+            "top": 16,
+            "end": 16,
+            "bottom": 16
+          }
+        },
+        {
+          "bounds": {
+            "x": 913,
+            "y": 260,
+            "width": 95,
+            "height": 95
+          },
+          "cornerRadius": 18.1
+        },
+        {
+          "bounds": {
+            "x": 934,
+            "y": 281,
+            "width": 53,
+            "height": 53
+          },
+          "padding": {
+            "start": 8,
+            "top": 8,
+            "end": 8,
+            "bottom": 8
+          }
+        },
+        {
+          "bounds": {
+            "x": 42,
+            "y": 426,
+            "width": 147,
+            "height": 147
+          },
+          "cornerRadius": 4
+        },
+        {
+          "bounds": {
+            "x": 231,
+            "y": 468,
+            "width": 598,
+            "height": 63
+          },
+          "label": "Compose Breakdown",
+          "padding": {
+            "start": 16,
+            "top": 16,
+            "end": 16,
+            "bottom": 16
+          }
+        },
+        {
+          "bounds": {
+            "x": 913,
+            "y": 452,
+            "width": 95,
+            "height": 95
+          },
+          "cornerRadius": 18.1
+        },
+        {
+          "bounds": {
+            "x": 934,
+            "y": 473,
+            "width": 53,
+            "height": 53
+          },
+          "padding": {
+            "start": 8,
+            "top": 8,
+            "end": 8,
+            "bottom": 8
+          }
+        },
+        {
+          "bounds": {
+            "x": 42,
+            "y": 618,
+            "width": 147,
+            "height": 147
+          },
+          "cornerRadius": 4
+        },
+        {
+          "bounds": {
+            "x": 231,
+            "y": 660,
+            "width": 598,
+            "height": 63
+          },
+          "label": "Android Pursue",
+          "padding": {
+            "start": 16,
+            "top": 16,
+            "end": 16,
+            "bottom": 16
+          }
+        },
+        {
+          "bounds": {
+            "x": 913,
+            "y": 644,
+            "width": 95,
+            "height": 95
+          },
+          "cornerRadius": 18.1
+        },
+        {
+          "bounds": {
+            "x": 934,
+            "y": 665,
+            "width": 53,
+            "height": 53
+          },
+          "padding": {
+            "start": 8,
+            "top": 8,
+            "end": 8,
+            "bottom": 8
+          }
+        },
+        {
+          "bounds": {
+            "x": 42,
+            "y": 810,
+            "width": 147,
+            "height": 147
+          },
+          "cornerRadius": 4
+        },
+        {
+          "bounds": {
+            "x": 231,
+            "y": 852,
+            "width": 598,
+            "height": 63
+          },
+          "label": "Kotlin Watchman",
+          "padding": {
+            "start": 16,
+            "top": 16,
+            "end": 16,
+            "bottom": 16
+          }
+        },
+        {
+          "bounds": {
+            "x": 913,
+            "y": 836,
+            "width": 95,
+            "height": 95
+          },
+          "cornerRadius": 18.1
+        },
+        {
+          "bounds": {
+            "x": 934,
+            "y": 857,
+            "width": 53,
+            "height": 53
+          },
+          "padding": {
+            "start": 8,
+            "top": 8,
+            "end": 8,
+            "bottom": 8
+          }
+        },
+        {
+          "bounds": {
+            "x": 42,
+            "y": 1002,
+            "width": 147,
+            "height": 147
+          },
+          "cornerRadius": 4
+        },
+        {
+          "bounds": {
+            "x": 231,
+            "y": 1044,
+            "width": 598,
+            "height": 63
+          },
+          "label": "Jetpack Ark",
+          "padding": {
+            "start": 16,
+            "top": 16,
+            "end": 16,
+            "bottom": 16
+          }
+        },
+        {
+          "bounds": {
+            "x": 913,
+            "y": 1028,
+            "width": 95,
+            "height": 95
+          },
+          "cornerRadius": 18.1
+        },
+        {
+          "bounds": {
+            "x": 934,
+            "y": 1049,
+            "width": 53,
+            "height": 53
+          },
+          "padding": {
+            "start": 8,
+            "top": 8,
+            "end": 8,
+            "bottom": 8
+          }
+        },
+        {
+          "bounds": {
+            "x": 42,
+            "y": 1194,
+            "width": 147,
+            "height": 147
+          },
+          "cornerRadius": 4
+        },
+        {
+          "bounds": {
+            "x": 231,
+            "y": 1236,
+            "width": 598,
+            "height": 63
+          },
+          "label": "Composeshack",
+          "padding": {
+            "start": 16,
+            "top": 16,
+            "end": 16,
+            "bottom": 16
+          }
+        },
+        {
+          "bounds": {
+            "x": 913,
+            "y": 1220,
+            "width": 95,
+            "height": 95
+          },
+          "cornerRadius": 18.1
+        },
+        {
+          "bounds": {
+            "x": 934,
+            "y": 1241,
+            "width": 53,
+            "height": 53
+          },
+          "padding": {
+            "start": 8,
+            "top": 8,
+            "end": 8,
+            "bottom": 8
+          }
+        },
+        {
+          "bounds": {
+            "x": 42,
+            "y": 1386,
+            "width": 147,
+            "height": 147
+          },
+          "cornerRadius": 4
+        },
+        {
+          "bounds": {
+            "x": 231,
+            "y": 1428,
+            "width": 598,
+            "height": 63
+          },
+          "label": "Jetpack Point",
+          "padding": {
+            "start": 16,
+            "top": 16,
+            "end": 16,
+            "bottom": 16
+          }
+        },
+        {
+          "bounds": {
+            "x": 913,
+            "y": 1412,
+            "width": 95,
+            "height": 95
+          },
+          "cornerRadius": 18.1
+        },
+        {
+          "bounds": {
+            "x": 934,
+            "y": 1433,
+            "width": 53,
+            "height": 53
+          },
+          "padding": {
+            "start": 8,
+            "top": 8,
+            "end": 8,
+            "bottom": 8
+          }
+        },
+        {
+          "bounds": {
+            "x": 42,
+            "y": 1578,
+            "width": 147,
+            "height": 147
+          },
+          "cornerRadius": 4
+        },
+        {
+          "bounds": {
+            "x": 231,
+            "y": 1620,
+            "width": 598,
+            "height": 63
+          },
+          "label": "Compose Tribune",
+          "padding": {
+            "start": 16,
+            "top": 16,
+            "end": 16,
+            "bottom": 16
+          }
+        },
+        {
+          "bounds": {
+            "x": 913,
+            "y": 1604,
+            "width": 95,
+            "height": 95
+          },
+          "cornerRadius": 18.1
+        },
+        {
+          "bounds": {
+            "x": 934,
+            "y": 1625,
+            "width": 53,
+            "height": 53
+          },
+          "padding": {
+            "start": 8,
+            "top": 8,
+            "end": 8,
+            "bottom": 8
+          }
+        }
+      ],
+      "section": "Components",
+      "group": "Interests",
+      "caption": "Publications tab content, light and dark.",
+      "wireframe": "wireframes/interests-publications-tab.svg",
+      "sourceFile": "src/main/java/com/example/jetnews/ui/interests/InterestsScreen.kt",
+      "sourceModule": ":app",
+      "bodyLine": 630,
+      "sourceDirectory": "JetNews/app",
+      "sourceFunction": "PreviewPublicationsTab",
+      "parameters": [
+        {
+          "name": "topics",
+          "type": "List<String>"
+        },
+        {
+          "name": "selectedTopics",
+          "type": "Set<String>"
+        },
+        {
+          "name": "onTopicSelect",
+          "type": "(String) -> Unit"
+        }
+      ]
+    },
+    {
+      "componentId": "Interests/Select topic",
+      "images": [
+        {
+          "variant": "ideal",
+          "path": "images/interests-select-topic/ideal__default.png",
+          "state": "default",
+          "width": 263,
+          "height": 263,
+          "livePreview": "https://preview.coo.ee/compose-samples-jetnews/p/interests-select-topic__ideal__default",
+          "previewId": "com.example.jetnews.ui.interests.SelectTopicButtonKt.SelectTopicButtonPreviewOff_Off",
+          "density": 2.625
+        },
+        {
+          "variant": "ideal",
+          "path": "images/interests-select-topic/ideal__default__dark.png",
+          "state": "default",
+          "width": 263,
+          "height": 263,
+          "theme": "dark",
+          "livePreview": "https://preview.coo.ee/compose-samples-jetnews/p/interests-select-topic__ideal__default__dark",
+          "previewId": "com.example.jetnews.ui.interests.SelectTopicButtonKt.SelectTopicButtonPreviewOff_Off__dark_",
+          "previewParams": {
+            "uiMode": 32
+          },
+          "density": 2.625
+        },
+        {
+          "variant": "ideal",
+          "path": "images/interests-select-topic/ideal__on.png",
+          "state": "on",
+          "width": 263,
+          "height": 263,
+          "livePreview": "https://preview.coo.ee/compose-samples-jetnews/p/interests-select-topic__ideal__on",
+          "previewId": "com.example.jetnews.ui.interests.SelectTopicButtonKt.SelectTopicButtonPreviewOn_On",
+          "density": 2.625
+        },
+        {
+          "variant": "ideal",
+          "path": "images/interests-select-topic/ideal__on__dark.png",
+          "state": "on",
+          "width": 263,
+          "height": 263,
+          "theme": "dark",
+          "livePreview": "https://preview.coo.ee/compose-samples-jetnews/p/interests-select-topic__ideal__on__dark",
+          "previewId": "com.example.jetnews.ui.interests.SelectTopicButtonKt.SelectTopicButtonPreviewOn_On__dark_",
+          "previewParams": {
+            "uiMode": 32
+          },
+          "density": 2.625
+        }
+      ],
+      "greenlines": [],
+      "redlines": [
+        {
+          "bounds": {
+            "x": 84,
+            "y": 84,
+            "width": 95,
+            "height": 95
+          },
+          "padding": {
+            "start": 32,
+            "top": 32,
+            "end": 32,
+            "bottom": 32
+          },
+          "cornerRadius": 18.1
+        },
+        {
+          "bounds": {
+            "x": 105,
+            "y": 105,
+            "width": 53,
+            "height": 53
+          },
+          "padding": {
+            "start": 8,
+            "top": 8,
+            "end": 8,
+            "bottom": 8
+          }
+        }
+      ],
+      "section": "Components",
+      "group": "Interests",
+      "caption": "The topic subscribe toggle, off.",
+      "wireframe": "wireframes/interests-select-topic.svg",
+      "sourceFile": "src/main/java/com/example/jetnews/ui/interests/SelectTopicButton.kt",
+      "sourceModule": ":app",
+      "bodyLine": 72,
+      "sourceDirectory": "JetNews/app",
+      "sourceFunction": "SelectTopicButtonPreviewOff",
+      "parameters": [
+        {
+          "name": "selected",
+          "type": "Boolean"
+        }
+      ]
+    }
+  ],
+  "library": [
+    "androidx.compose.material3:material3"
+  ],
+  "renderer": "compose-preview 2.40.0",
+  "generatedAt": "2026-10-10T10:52:12.039Z",
+  "display": {
+    "surface": "light",
+    "hero": "Screens/Home feed"
+  },
+  "liveBundle": {
+    "path": "bundle/",
+    "file": "bundle.png"
+  },
+  "liveBundles": [
+    {
+      "path": "bundle/",
+      "file": "bundle.png",
+      "module": ":app",
+      "previewIdPrefix": ""
+    }
+  ],
+  "componentsFile": "components.json",
+  "source": {
+    "repo": "android/compose-samples",
+    "ref": "5a390e4a9d3c4e5b30e942041bde93582c4d9492",
+    "module": ":app"
+  }
+}
