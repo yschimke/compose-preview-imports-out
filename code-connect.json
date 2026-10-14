@@ -7,7 +7,7 @@
     "ref": "5a390e4a9d3c4e5b30e942041bde93582c4d9492",
     "module": ":mobile"
   },
-  "generatedAt": "2026-10-10T10:34:17.029Z",
+  "generatedAt": "2026-10-14T07:56:03.254Z",
   "mappings": [
     {
       "componentId": "Home/Screen",
@@ -16,7 +16,8 @@
       "source": "https://github.com/android/compose-samples/blob/5a390e4a9d3c4e5b30e942041bde93582c4d9492/mobile/src/main/java/com/example/jetcaster/ui/home/Home.kt",
       "label": "Compose",
       "confidence": "preview-fallback",
-      "previewName": "PreviewHome"
+      "previewName": "PreviewHome",
+      "figmaSvg": "figma/home-screen.svg"
     },
     {
       "componentId": "PodcastDetails/Screen",
@@ -26,15 +27,15 @@
       "label": "Compose",
       "confidence": "HIGH",
       "previewName": "PodcastDetailsScreenPreview",
-      "codeSnippet": "PodcastDetailsScreen(\n    viewModel = TODO(\"PodcastDetailsViewModel\"),\n    navigateToPlayer = TODO(\"(EpisodeInfo) -> Unit\"),\n    navigateBack = TODO(\"() -> Unit\"),\n    showBackButton = TODO(\"Boolean\"),\n)",
+      "codeSnippet": "PodcastDetailsScreen(\n    podcast = TODO(\"PodcastInfo\"),\n    episodes = TODO(\"List<EpisodeInfo>\"),\n    toggleSubscribe = TODO(\"(PodcastInfo) -> Unit\"),\n    onQueueEpisode = TODO(\"(PlayerEpisode) -> Unit\"),\n    navigateToPlayer = TODO(\"(EpisodeInfo) -> Unit\"),\n    navigateBack = TODO(\"() -> Unit\"),\n    showBackButton = TODO(\"Boolean\"),\n)",
       "imports": [
         "import com.example.jetcaster.ui.podcast.PodcastDetailsScreen"
       ],
       "parameters": [
         {
-          "name": "viewModel",
-          "type": "PodcastDetailsViewModel",
-          "typeFqn": "com.example.jetcaster.ui.podcast.PodcastDetailsViewModel",
+          "name": "podcast",
+          "type": "PodcastInfo",
+          "typeFqn": "com.example.jetcaster.core.model.PodcastInfo",
           "hasDefault": false,
           "composableSlot": false,
           "composableSlotReceiver": null,
@@ -43,6 +44,45 @@
           "noArgFactory": null,
           "scopeDslReceiver": null,
           "lambdaReturnTypeFqn": null
+        },
+        {
+          "name": "episodes",
+          "type": "List<EpisodeInfo>",
+          "typeFqn": "kotlin.collections.List",
+          "hasDefault": false,
+          "composableSlot": false,
+          "composableSlotReceiver": null,
+          "nullable": false,
+          "noArgConstructible": false,
+          "noArgFactory": null,
+          "scopeDslReceiver": null,
+          "lambdaReturnTypeFqn": null
+        },
+        {
+          "name": "toggleSubscribe",
+          "type": "(PodcastInfo) -> Unit",
+          "typeFqn": "kotlin.Function1",
+          "hasDefault": false,
+          "composableSlot": false,
+          "composableSlotReceiver": null,
+          "nullable": false,
+          "noArgConstructible": false,
+          "noArgFactory": null,
+          "scopeDslReceiver": null,
+          "lambdaReturnTypeFqn": "kotlin.Unit"
+        },
+        {
+          "name": "onQueueEpisode",
+          "type": "(PlayerEpisode) -> Unit",
+          "typeFqn": "kotlin.Function1",
+          "hasDefault": false,
+          "composableSlot": false,
+          "composableSlotReceiver": null,
+          "nullable": false,
+          "noArgConstructible": false,
+          "noArgFactory": null,
+          "scopeDslReceiver": null,
+          "lambdaReturnTypeFqn": "kotlin.Unit"
         },
         {
           "name": "navigateToPlayer",
@@ -95,8 +135,22 @@
           "noArgFactory": null,
           "scopeDslReceiver": null,
           "lambdaReturnTypeFqn": null
+        },
+        {
+          "name": "removeFromQueue",
+          "type": "(EpisodeInfo) -> Unit",
+          "typeFqn": "kotlin.Function1",
+          "hasDefault": true,
+          "composableSlot": false,
+          "composableSlotReceiver": null,
+          "nullable": false,
+          "noArgConstructible": false,
+          "noArgFactory": null,
+          "scopeDslReceiver": null,
+          "lambdaReturnTypeFqn": "kotlin.Unit"
         }
-      ]
+      ],
+      "figmaSvg": "figma/podcastdetails-screen.svg"
     },
     {
       "componentId": "Player/Screen",
@@ -105,7 +159,8 @@
       "source": "https://github.com/android/compose-samples/blob/5a390e4a9d3c4e5b30e942041bde93582c4d9492/mobile/src/main/java/com/example/jetcaster/ui/player/PlayerScreen.kt",
       "label": "Compose",
       "confidence": "preview-fallback",
-      "previewName": "PlayerScreenPreview"
+      "previewName": "PlayerScreenPreview",
+      "figmaSvg": "figma/player-screen.svg"
     },
     {
       "componentId": "Podcast/Card",
@@ -114,7 +169,8 @@
       "source": "https://github.com/android/compose-samples/blob/5a390e4a9d3c4e5b30e942041bde93582c4d9492/mobile/src/main/java/com/example/jetcaster/ui/home/Home.kt",
       "label": "Compose",
       "confidence": "preview-fallback",
-      "previewName": "PreviewPodcastCard"
+      "previewName": "PreviewPodcastCard",
+      "figmaSvg": "https://preview.coo.ee/compose-samples-jetcaster/render/podcast-card__ideal__default.svg"
     },
     {
       "componentId": "PodcastDetails/Header",
@@ -168,7 +224,8 @@
           "scopeDslReceiver": null,
           "lambdaReturnTypeFqn": null
         }
-      ]
+      ],
+      "figmaSvg": "https://preview.coo.ee/compose-samples-jetcaster/render/podcastdetails-header__ideal__default.svg"
     },
     {
       "componentId": "Episode/List item",
@@ -300,7 +357,8 @@
           "scopeDslReceiver": null,
           "lambdaReturnTypeFqn": null
         }
-      ]
+      ],
+      "figmaSvg": "https://preview.coo.ee/compose-samples-jetcaster/render/episode-list-item__ideal__default__dark.svg"
     },
     {
       "componentId": "Player/Transport",
@@ -309,7 +367,8 @@
       "source": "https://github.com/android/compose-samples/blob/5a390e4a9d3c4e5b30e942041bde93582c4d9492/mobile/src/main/java/com/example/jetcaster/ui/player/PlayerScreen.kt",
       "label": "Compose",
       "confidence": "preview-fallback",
-      "previewName": "PlayerButtonsPreview"
+      "previewName": "PlayerButtonsPreview",
+      "figmaSvg": "https://preview.coo.ee/compose-samples-jetcaster/render/player-transport__ideal__default.svg"
     },
     {
       "componentId": "Player/App bar",
@@ -318,7 +377,8 @@
       "source": "https://github.com/android/compose-samples/blob/5a390e4a9d3c4e5b30e942041bde93582c4d9492/mobile/src/main/java/com/example/jetcaster/ui/player/PlayerScreen.kt",
       "label": "Compose",
       "confidence": "preview-fallback",
-      "previewName": "TopAppBarPreview"
+      "previewName": "TopAppBarPreview",
+      "figmaSvg": "https://preview.coo.ee/compose-samples-jetcaster/render/player-app-bar__ideal__default.svg"
     },
     {
       "componentId": "Chrome/Home app bar",
@@ -327,7 +387,8 @@
       "source": "https://github.com/android/compose-samples/blob/5a390e4a9d3c4e5b30e942041bde93582c4d9492/mobile/src/main/java/com/example/jetcaster/ui/home/Home.kt",
       "label": "Compose",
       "confidence": "preview-fallback",
-      "previewName": "HomeAppBarPreview"
+      "previewName": "HomeAppBarPreview",
+      "figmaSvg": "figma/chrome-home-app-bar.svg"
     },
     {
       "componentId": "Chrome/Home error",
@@ -336,7 +397,8 @@
       "source": "https://github.com/android/compose-samples/blob/5a390e4a9d3c4e5b30e942041bde93582c4d9492/mobile/src/main/java/com/example/jetcaster/ui/home/Home.kt",
       "label": "Compose",
       "confidence": "preview-fallback",
-      "previewName": "HomeScreenErrorPreview"
+      "previewName": "HomeScreenErrorPreview",
+      "figmaSvg": "https://preview.coo.ee/compose-samples-jetcaster/render/chrome-home-error__ideal__default.svg"
     }
   ]
 }

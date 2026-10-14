@@ -989,8 +989,20 @@
       "sourceFunction": "PodcastDetailsScreenPreview",
       "parameters": [
         {
-          "name": "viewModel",
-          "type": "PodcastDetailsViewModel"
+          "name": "podcast",
+          "type": "PodcastInfo"
+        },
+        {
+          "name": "episodes",
+          "type": "List<EpisodeInfo>"
+        },
+        {
+          "name": "toggleSubscribe",
+          "type": "(PodcastInfo) -> Unit"
+        },
+        {
+          "name": "onQueueEpisode",
+          "type": "(PlayerEpisode) -> Unit"
         },
         {
           "name": "navigateToPlayer",
@@ -1007,6 +1019,11 @@
         {
           "name": "modifier",
           "type": "Modifier",
+          "hasDefault": true
+        },
+        {
+          "name": "removeFromQueue",
+          "type": "(EpisodeInfo) -> Unit",
           "hasDefault": true
         }
       ]
@@ -1392,7 +1409,8 @@
           "height": 336,
           "livePreview": "https://preview.coo.ee/compose-samples-jetcaster/p/podcast-card__ideal__default",
           "previewId": "com.example.jetcaster.ui.home.HomeKt.PreviewPodcastCard",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/compose-samples-jetcaster/render/podcast-card__ideal__default.svg"
         }
       ],
       "greenlines": [
@@ -1459,7 +1477,8 @@
           "height": 1421,
           "livePreview": "https://preview.coo.ee/compose-samples-jetcaster/p/podcastdetails-header__ideal__default",
           "previewId": "com.example.jetcaster.ui.podcast.PodcastDetailsScreenKt.PodcastDetailsHeaderItemPreview",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/compose-samples-jetcaster/render/podcastdetails-header__ideal__default.svg"
         }
       ],
       "greenlines": [
@@ -1605,7 +1624,8 @@
             "uiMode": 32,
             "showBackground": true
           },
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/compose-samples-jetcaster/render/episode-list-item__ideal__default__dark.svg"
         },
         {
           "variant": "ideal",
@@ -1620,7 +1640,8 @@
             "uiMode": 16,
             "showBackground": true
           },
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/compose-samples-jetcaster/render/episode-list-item__ideal__default__light.svg"
         },
         {
           "variant": "ideal",
@@ -1630,7 +1651,8 @@
           "height": 401,
           "livePreview": "https://preview.coo.ee/compose-samples-jetcaster/p/episode-list-item__ideal__category",
           "previewId": "com.example.jetcaster.ui.home.category.PodcastCategoryKt.PreviewEpisodeListItem",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/compose-samples-jetcaster/render/episode-list-item__ideal__category.svg"
         }
       ],
       "greenlines": [
@@ -1846,7 +1868,8 @@
           "height": 620,
           "livePreview": "https://preview.coo.ee/compose-samples-jetcaster/p/player-transport__ideal__default",
           "previewId": "com.example.jetcaster.ui.player.PlayerScreenKt.PlayerButtonsPreview",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/compose-samples-jetcaster/render/player-transport__ideal__default.svg"
         }
       ],
       "greenlines": [
@@ -2024,7 +2047,8 @@
           "height": 126,
           "livePreview": "https://preview.coo.ee/compose-samples-jetcaster/p/player-app-bar__ideal__default",
           "previewId": "com.example.jetcaster.ui.player.PlayerScreenKt.TopAppBarPreview",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/compose-samples-jetcaster/render/player-app-bar__ideal__default.svg"
         }
       ],
       "greenlines": [
@@ -2183,7 +2207,8 @@
           "height": 2100,
           "livePreview": "https://preview.coo.ee/compose-samples-jetcaster/p/chrome-home-error__ideal__default",
           "previewId": "com.example.jetcaster.ui.home.HomeKt.HomeScreenErrorPreview",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/compose-samples-jetcaster/render/chrome-home-error__ideal__default.svg"
         }
       ],
       "greenlines": [
@@ -2250,8 +2275,8 @@
     "androidx.compose.material3:material3 (expressive)",
     "androidx.compose.material3.adaptive:adaptive"
   ],
-  "renderer": "compose-preview 2.39.2",
-  "generatedAt": "2026-10-10T10:34:16.326Z",
+  "renderer": "compose-preview 2.57.0",
+  "generatedAt": "2026-10-14T07:56:02.144Z",
   "display": {
     "surface": "dark",
     "hero": "Home/Screen"
