@@ -7,7 +7,7 @@
     "ref": "5a390e4a9d3c4e5b30e942041bde93582c4d9492",
     "module": ":app"
   },
-  "generatedAt": "2026-10-10T10:53:22.199Z",
+  "generatedAt": "2026-10-14T08:10:39.888Z",
   "mappings": [
     {
       "componentId": "Screens/App shell",
@@ -16,7 +16,8 @@
       "source": "https://github.com/android/compose-samples/blob/5a390e4a9d3c4e5b30e942041bde93582c4d9492/app/src/main/java/com/example/jetsnack/ui/JetsnackApp.kt",
       "label": "Compose",
       "confidence": "preview-fallback",
-      "previewName": "JetsnackApp"
+      "previewName": "JetsnackApp",
+      "figmaSvg": "figma/screens-app-shell.svg"
     },
     {
       "componentId": "Screens/Search",
@@ -122,7 +123,8 @@
           "scopeDslReceiver": null,
           "lambdaReturnTypeFqn": "kotlin.Unit"
         }
-      ]
+      ],
+      "figmaSvg": "figma/screens-search.svg"
     },
     {
       "componentId": "Screens/Profile",
@@ -150,7 +152,8 @@
           "scopeDslReceiver": null,
           "lambdaReturnTypeFqn": null
         }
-      ]
+      ],
+      "figmaSvg": "https://preview.coo.ee/compose-samples-jetsnack/render/screens-profile__ideal__default__dark.svg"
     },
     {
       "componentId": "Screens/Snack detail",
@@ -204,7 +207,8 @@
           "scopeDslReceiver": null,
           "lambdaReturnTypeFqn": "kotlin.Unit"
         }
-      ]
+      ],
+      "figmaSvg": "figma/screens-snack-detail.svg"
     },
     {
       "componentId": "Screens/Filter",
@@ -258,7 +262,8 @@
           "scopeDslReceiver": null,
           "lambdaReturnTypeFqn": "kotlin.Unit"
         }
-      ]
+      ],
+      "figmaSvg": "https://preview.coo.ee/compose-samples-jetsnack/render/screens-filter__ideal__default.svg"
     },
     {
       "componentId": "Foundations/Button",
@@ -429,7 +434,8 @@
           "scopeDslReceiver": null,
           "lambdaReturnTypeFqn": "kotlin.Unit"
         }
-      ]
+      ],
+      "figmaSvg": "https://preview.coo.ee/compose-samples-jetsnack/render/foundations-button__ideal__default__dark.svg"
     },
     {
       "componentId": "Foundations/Card",
@@ -535,7 +541,8 @@
           "scopeDslReceiver": null,
           "lambdaReturnTypeFqn": "kotlin.Unit"
         }
-      ]
+      ],
+      "figmaSvg": "https://preview.coo.ee/compose-samples-jetsnack/render/foundations-card__ideal__default__dark.svg"
     },
     {
       "componentId": "Foundations/Divider",
@@ -589,7 +596,8 @@
           "scopeDslReceiver": null,
           "lambdaReturnTypeFqn": null
         }
-      ]
+      ],
+      "figmaSvg": "https://preview.coo.ee/compose-samples-jetsnack/render/foundations-divider__ideal__default__dark.svg"
     },
     {
       "componentId": "Foundations/Icon button",
@@ -669,7 +677,8 @@
           "scopeDslReceiver": null,
           "lambdaReturnTypeFqn": null
         }
-      ]
+      ],
+      "figmaSvg": "figma/foundations-icon-button.svg"
     },
     {
       "componentId": "Snack/Card",
@@ -682,7 +691,8 @@
       "codeSnippet": "getColors()",
       "imports": [
         "import com.example.jetsnack.ui.theme.getColors"
-      ]
+      ],
+      "figmaSvg": "figma/snack-card.svg"
     },
     {
       "componentId": "Catalog/Filter",
@@ -736,7 +746,8 @@
           "scopeDslReceiver": null,
           "lambdaReturnTypeFqn": null
         }
-      ]
+      ],
+      "figmaSvg": "https://preview.coo.ee/compose-samples-jetsnack/render/catalog-filter__ideal__default__dark.svg"
     },
     {
       "componentId": "Search/Category",
@@ -749,7 +760,8 @@
       "codeSnippet": "getColors()",
       "imports": [
         "import com.example.jetsnack.ui.theme.getColors"
-      ]
+      ],
+      "figmaSvg": "figma/search-category.svg"
     },
     {
       "componentId": "Search/Bar",
@@ -855,7 +867,8 @@
           "scopeDslReceiver": null,
           "lambdaReturnTypeFqn": "kotlin.Unit"
         }
-      ]
+      ],
+      "figmaSvg": "figma/search-bar.svg"
     },
     {
       "componentId": "Cart/Quantity",
@@ -922,7 +935,8 @@
           "scopeDslReceiver": null,
           "lambdaReturnTypeFqn": null
         }
-      ]
+      ],
+      "figmaSvg": "figma/cart-quantity.svg"
     },
     {
       "componentId": "Chrome/Bottom nav",
@@ -1015,7 +1029,8 @@
           "scopeDslReceiver": null,
           "lambdaReturnTypeFqn": null
         }
-      ]
+      ],
+      "figmaSvg": "https://preview.coo.ee/compose-samples-jetsnack/render/chrome-bottom-nav__ideal__default.svg"
     },
     {
       "componentId": "Chrome/Destination bar",
@@ -1043,7 +1058,8 @@
           "scopeDslReceiver": null,
           "lambdaReturnTypeFqn": null
         }
-      ]
+      ],
+      "figmaSvg": "figma/chrome-destination-bar.svg"
     },
     {
       "componentId": "Widget/Image text list",
@@ -1052,7 +1068,8 @@
       "source": "https://github.com/android/compose-samples/blob/5a390e4a9d3c4e5b30e942041bde93582c4d9492/app/src/main/java/com/example/jetsnack/widget/layout/ImageTextListLayout.kt",
       "label": "Compose",
       "confidence": "preview-fallback",
-      "previewName": "ImageTextListLayoutPreview"
+      "previewName": "ImageTextListLayoutPreview",
+      "figmaSvg": "figma/widget-image-text-list.svg"
     }
   ]
 }

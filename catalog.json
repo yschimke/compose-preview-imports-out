@@ -1002,7 +1002,8 @@
           "previewParams": {
             "uiMode": 32
           },
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/compose-samples-jetsnack/render/screens-search__ideal__suggestions__dark.svg"
         },
         {
           "variant": "ideal",
@@ -1012,7 +1013,8 @@
           "height": 1324,
           "livePreview": "https://preview.coo.ee/compose-samples-jetsnack/p/screens-search__ideal__suggestions",
           "previewId": "com.example.jetsnack.ui.home.search.SuggestionsKt.PreviewSuggestions_default",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/compose-samples-jetsnack/render/screens-search__ideal__suggestions.svg"
         },
         {
           "variant": "ideal",
@@ -1145,7 +1147,8 @@
           "previewParams": {
             "uiMode": 32
           },
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/compose-samples-jetsnack/render/screens-profile__ideal__default__dark.svg"
         },
         {
           "variant": "ideal",
@@ -1155,7 +1158,8 @@
           "height": 2100,
           "livePreview": "https://preview.coo.ee/compose-samples-jetsnack/p/screens-profile__ideal__default",
           "previewId": "com.example.jetsnack.ui.home.ProfileKt.ProfilePreview_default",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/compose-samples-jetsnack/render/screens-profile__ideal__default.svg"
         },
         {
           "variant": "ideal",
@@ -1895,7 +1899,8 @@
           "height": 2100,
           "livePreview": "https://preview.coo.ee/compose-samples-jetsnack/p/screens-filter__ideal__default",
           "previewId": "com.example.jetsnack.ui.home.FilterScreenKt.FilterScreenPreview_filter_screen",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/compose-samples-jetsnack/render/screens-filter__ideal__default.svg"
         }
       ],
       "greenlines": [
@@ -2728,7 +2733,8 @@
           "previewParams": {
             "uiMode": 32
           },
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/compose-samples-jetsnack/render/foundations-button__ideal__default__dark.svg"
         },
         {
           "variant": "ideal",
@@ -2738,7 +2744,8 @@
           "height": 105,
           "livePreview": "https://preview.coo.ee/compose-samples-jetsnack/p/foundations-button__ideal__default",
           "previewId": "com.example.jetsnack.ui.components.ButtonKt.ButtonPreview_default",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/compose-samples-jetsnack/render/foundations-button__ideal__default.svg"
         },
         {
           "variant": "ideal",
@@ -2763,7 +2770,8 @@
           "previewParams": {
             "uiMode": 32
           },
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/compose-samples-jetsnack/render/foundations-button__ideal__rectangle__dark.svg"
         },
         {
           "variant": "ideal",
@@ -2773,7 +2781,8 @@
           "height": 105,
           "livePreview": "https://preview.coo.ee/compose-samples-jetsnack/p/foundations-button__ideal__rectangle",
           "previewId": "com.example.jetsnack.ui.components.ButtonKt.RectangleButtonPreview_default",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/compose-samples-jetsnack/render/foundations-button__ideal__rectangle.svg"
         },
         {
           "variant": "ideal",
@@ -2907,7 +2916,8 @@
           "previewParams": {
             "uiMode": 32
           },
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/compose-samples-jetsnack/render/foundations-card__ideal__default__dark.svg"
         },
         {
           "variant": "ideal",
@@ -2917,7 +2927,8 @@
           "height": 158,
           "livePreview": "https://preview.coo.ee/compose-samples-jetsnack/p/foundations-card__ideal__default",
           "previewId": "com.example.jetsnack.ui.components.CardKt.CardPreview_default",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/compose-samples-jetsnack/render/foundations-card__ideal__default.svg"
         },
         {
           "variant": "ideal",
@@ -3021,7 +3032,8 @@
             "uiMode": 32,
             "showBackground": true
           },
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/compose-samples-jetsnack/render/foundations-divider__ideal__default__dark.svg"
         },
         {
           "variant": "ideal",
@@ -3034,7 +3046,8 @@
           "previewParams": {
             "showBackground": true
           },
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/compose-samples-jetsnack/render/foundations-divider__ideal__default.svg"
         }
       ],
       "greenlines": [],
@@ -3267,7 +3280,8 @@
           "previewParams": {
             "uiMode": 32
           },
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/compose-samples-jetsnack/render/catalog-filter__ideal__default__dark.svg"
         },
         {
           "variant": "ideal",
@@ -3277,7 +3291,8 @@
           "height": 69,
           "livePreview": "https://preview.coo.ee/compose-samples-jetsnack/p/catalog-filter__ideal__default",
           "previewId": "com.example.jetsnack.ui.components.FiltersKt.FilterEnabledPreview_default",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/compose-samples-jetsnack/render/catalog-filter__ideal__default.svg"
         },
         {
           "variant": "ideal",
@@ -3302,7 +3317,8 @@
           "previewParams": {
             "uiMode": 32
           },
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/compose-samples-jetsnack/render/catalog-filter__ideal__disabled__dark.svg"
         },
         {
           "variant": "ideal",
@@ -3312,7 +3328,8 @@
           "height": 91,
           "livePreview": "https://preview.coo.ee/compose-samples-jetsnack/p/catalog-filter__ideal__disabled",
           "previewId": "com.example.jetsnack.ui.components.FiltersKt.FilterDisabledPreview_default",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/compose-samples-jetsnack/render/catalog-filter__ideal__disabled.svg"
         },
         {
           "variant": "ideal",
@@ -3702,7 +3719,8 @@
           "height": 147,
           "livePreview": "https://preview.coo.ee/compose-samples-jetsnack/p/chrome-bottom-nav__ideal__default",
           "previewId": "com.example.jetsnack.ui.home.HomeKt.JetsnackBottomNavPreview",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/compose-samples-jetsnack/render/chrome-bottom-nav__ideal__default.svg"
         }
       ],
       "greenlines": [],
@@ -4013,8 +4031,8 @@
     "custom design system (JetsnackTheme)",
     "androidx.glance:glance-appwidget"
   ],
-  "renderer": "compose-preview 2.40.0",
-  "generatedAt": "2026-10-10T10:53:20.950Z",
+  "renderer": "compose-preview 2.57.0",
+  "generatedAt": "2026-10-14T08:10:38.594Z",
   "display": {
     "surface": "light",
     "hero": "Screens/App shell"
