@@ -51,7 +51,8 @@
           "height": 53,
           "livePreview": "https://preview.coo.ee/compose-samples-jetlagged/p/charts-detail-legend__ideal__default",
           "previewId": "com.example.jetlagged.sleep.SleepBarKt.DetailLegend",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/compose-samples-jetlagged/render/charts-detail-legend__ideal__default.svg"
         }
       ],
       "greenlines": [],
@@ -180,7 +181,8 @@
           "height": 525,
           "livePreview": "https://preview.coo.ee/compose-samples-jetlagged/p/cards-time-in-bed__ideal__default",
           "previewId": "com.example.jetlagged.HomeScreenCardsKt.AverageTimeInBedCard",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/compose-samples-jetlagged/render/cards-time-in-bed__ideal__default.svg"
         },
         {
           "variant": "ideal",
@@ -191,7 +193,8 @@
           "size": "compact",
           "livePreview": "https://preview.coo.ee/compose-samples-jetlagged/p/cards-time-in-bed__ideal__default__compact",
           "previewId": "com.example.jetlagged.HomeScreenCardsKt.AverageTimeInBedCard",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/compose-samples-jetlagged/render/cards-time-in-bed__ideal__default__compact.svg"
         }
       ],
       "greenlines": [],
@@ -233,7 +236,8 @@
           "height": 525,
           "livePreview": "https://preview.coo.ee/compose-samples-jetlagged/p/cards-time-asleep__ideal__default",
           "previewId": "com.example.jetlagged.HomeScreenCardsKt.AverageTimeAsleepCard",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/compose-samples-jetlagged/render/cards-time-asleep__ideal__default.svg"
         },
         {
           "variant": "ideal",
@@ -244,7 +248,8 @@
           "size": "compact",
           "livePreview": "https://preview.coo.ee/compose-samples-jetlagged/p/cards-time-asleep__ideal__default__compact",
           "previewId": "com.example.jetlagged.HomeScreenCardsKt.AverageTimeAsleepCard",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/compose-samples-jetlagged/render/cards-time-asleep__ideal__default__compact.svg"
         }
       ],
       "greenlines": [],
@@ -400,7 +405,8 @@
           "height": 394,
           "livePreview": "https://preview.coo.ee/compose-samples-jetlagged/p/chrome-header__ideal__default",
           "previewId": "com.example.jetlagged.sleep.JetLaggedHeaderKt.JetLaggedHeader",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/compose-samples-jetlagged/render/chrome-header__ideal__default.svg"
         }
       ],
       "greenlines": [
@@ -502,8 +508,8 @@
   "library": [
     "custom Canvas drawing + custom layouts"
   ],
-  "renderer": "compose-preview 2.40.0",
-  "generatedAt": "2026-10-10T10:46:37.254Z",
+  "renderer": "compose-preview 2.57.0",
+  "generatedAt": "2026-10-14T08:01:06.918Z",
   "display": {
     "surface": "light",
     "hero": "Cards/Heart rate"
