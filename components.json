@@ -136,7 +136,66 @@
             "overloadsCollided": false,
             "builder": null,
             "requiredOptIns": [],
-            "androidxOptIns": []
+            "androidxOptIns": [],
+            "overloads": [
+                {
+                    "descriptor": "(Landroidx/compose/ui/Modifier;JJLkotlin/jvm/functions/Function3;Landroidx/compose/runtime/Composer;II)V",
+                    "parameters": [
+                        {
+                            "name": "modifier",
+                            "type": "Modifier",
+                            "typeFqn": "androidx.compose.ui.Modifier",
+                            "hasDefault": true,
+                            "composableSlot": false,
+                            "composableSlotReceiver": null,
+                            "nullable": false,
+                            "noArgConstructible": false,
+                            "noArgFactory": null,
+                            "scopeDslReceiver": null,
+                            "lambdaReturnTypeFqn": null
+                        },
+                        {
+                            "name": "backgroundColor",
+                            "type": "Color",
+                            "typeFqn": "androidx.compose.ui.graphics.Color",
+                            "hasDefault": true,
+                            "composableSlot": false,
+                            "composableSlotReceiver": null,
+                            "nullable": false,
+                            "noArgConstructible": false,
+                            "noArgFactory": null,
+                            "scopeDslReceiver": null,
+                            "lambdaReturnTypeFqn": null
+                        },
+                        {
+                            "name": "contentColor",
+                            "type": "Color",
+                            "typeFqn": "androidx.compose.ui.graphics.Color",
+                            "hasDefault": true,
+                            "composableSlot": false,
+                            "composableSlotReceiver": null,
+                            "nullable": false,
+                            "noArgConstructible": false,
+                            "noArgFactory": null,
+                            "scopeDslReceiver": null,
+                            "lambdaReturnTypeFqn": null
+                        },
+                        {
+                            "name": "content",
+                            "type": "RowScope.() -> Unit",
+                            "typeFqn": "kotlin.Function1",
+                            "hasDefault": false,
+                            "composableSlot": true,
+                            "composableSlotReceiver": "androidx.compose.foundation.layout.RowScope",
+                            "nullable": false,
+                            "noArgConstructible": false,
+                            "noArgFactory": null,
+                            "scopeDslReceiver": null,
+                            "lambdaReturnTypeFqn": "kotlin.Unit"
+                        }
+                    ]
+                }
+            ]
         },
         {
             "canonicalId": "wear/androidx.wear.compose.material.PickerKt.Picker",
@@ -369,7 +428,196 @@
             "overloadsCollided": false,
             "builder": null,
             "requiredOptIns": [],
-            "androidxOptIns": []
+            "androidxOptIns": [],
+            "overloads": [
+                {
+                    "descriptor": "(Landroidx/wear/compose/material/PickerState;Ljava/lang/String;Landroidx/compose/ui/Modifier;ZLkotlin/jvm/functions/Function3;Lkotlin/jvm/functions/Function0;Landroidx/wear/compose/foundation/lazy/ScalingParams;FFJLandroidx/compose/foundation/gestures/FlingBehavior;ZLandroidx/wear/compose/foundation/rotary/RotaryScrollableBehavior;Lkotlin/jvm/functions/Function4;Landroidx/compose/runtime/Composer;III)V",
+                    "parameters": [
+                        {
+                            "name": "state",
+                            "type": "PickerState",
+                            "typeFqn": "androidx.wear.compose.material.PickerState",
+                            "hasDefault": false,
+                            "composableSlot": false,
+                            "composableSlotReceiver": null,
+                            "nullable": false,
+                            "noArgConstructible": false,
+                            "noArgFactory": null,
+                            "scopeDslReceiver": null,
+                            "lambdaReturnTypeFqn": null
+                        },
+                        {
+                            "name": "contentDescription",
+                            "type": "String?",
+                            "typeFqn": "kotlin.String",
+                            "hasDefault": false,
+                            "composableSlot": false,
+                            "composableSlotReceiver": null,
+                            "nullable": true,
+                            "noArgConstructible": false,
+                            "noArgFactory": null,
+                            "scopeDslReceiver": null,
+                            "lambdaReturnTypeFqn": null
+                        },
+                        {
+                            "name": "modifier",
+                            "type": "Modifier",
+                            "typeFqn": "androidx.compose.ui.Modifier",
+                            "hasDefault": true,
+                            "composableSlot": false,
+                            "composableSlotReceiver": null,
+                            "nullable": false,
+                            "noArgConstructible": false,
+                            "noArgFactory": null,
+                            "scopeDslReceiver": null,
+                            "lambdaReturnTypeFqn": null
+                        },
+                        {
+                            "name": "readOnly",
+                            "type": "Boolean",
+                            "typeFqn": "kotlin.Boolean",
+                            "hasDefault": true,
+                            "composableSlot": false,
+                            "composableSlotReceiver": null,
+                            "nullable": false,
+                            "noArgConstructible": false,
+                            "noArgFactory": null,
+                            "scopeDslReceiver": null,
+                            "lambdaReturnTypeFqn": null
+                        },
+                        {
+                            "name": "readOnlyLabel",
+                            "type": "(BoxScope.() -> Unit)?",
+                            "typeFqn": "kotlin.Function1",
+                            "hasDefault": true,
+                            "composableSlot": true,
+                            "composableSlotReceiver": "androidx.compose.foundation.layout.BoxScope",
+                            "nullable": true,
+                            "noArgConstructible": false,
+                            "noArgFactory": null,
+                            "scopeDslReceiver": null,
+                            "lambdaReturnTypeFqn": "kotlin.Unit"
+                        },
+                        {
+                            "name": "onSelected",
+                            "type": "() -> Unit",
+                            "typeFqn": "kotlin.Function0",
+                            "hasDefault": true,
+                            "composableSlot": false,
+                            "composableSlotReceiver": null,
+                            "nullable": false,
+                            "noArgConstructible": false,
+                            "noArgFactory": null,
+                            "scopeDslReceiver": null,
+                            "lambdaReturnTypeFqn": "kotlin.Unit"
+                        },
+                        {
+                            "name": "scalingParams",
+                            "type": "ScalingParams",
+                            "typeFqn": "androidx.wear.compose.foundation.lazy.ScalingParams",
+                            "hasDefault": true,
+                            "composableSlot": false,
+                            "composableSlotReceiver": null,
+                            "nullable": false,
+                            "noArgConstructible": false,
+                            "noArgFactory": null,
+                            "scopeDslReceiver": null,
+                            "lambdaReturnTypeFqn": null
+                        },
+                        {
+                            "name": "separation",
+                            "type": "Dp",
+                            "typeFqn": "androidx.compose.ui.unit.Dp",
+                            "hasDefault": true,
+                            "composableSlot": false,
+                            "composableSlotReceiver": null,
+                            "nullable": false,
+                            "noArgConstructible": false,
+                            "noArgFactory": null,
+                            "scopeDslReceiver": null,
+                            "lambdaReturnTypeFqn": null
+                        },
+                        {
+                            "name": "gradientRatio",
+                            "type": "Float",
+                            "typeFqn": "kotlin.Float",
+                            "hasDefault": true,
+                            "composableSlot": false,
+                            "composableSlotReceiver": null,
+                            "nullable": false,
+                            "noArgConstructible": false,
+                            "noArgFactory": null,
+                            "scopeDslReceiver": null,
+                            "lambdaReturnTypeFqn": null
+                        },
+                        {
+                            "name": "gradientColor",
+                            "type": "Color",
+                            "typeFqn": "androidx.compose.ui.graphics.Color",
+                            "hasDefault": true,
+                            "composableSlot": false,
+                            "composableSlotReceiver": null,
+                            "nullable": false,
+                            "noArgConstructible": false,
+                            "noArgFactory": null,
+                            "scopeDslReceiver": null,
+                            "lambdaReturnTypeFqn": null
+                        },
+                        {
+                            "name": "flingBehavior",
+                            "type": "FlingBehavior",
+                            "typeFqn": "androidx.compose.foundation.gestures.FlingBehavior",
+                            "hasDefault": true,
+                            "composableSlot": false,
+                            "composableSlotReceiver": null,
+                            "nullable": false,
+                            "noArgConstructible": false,
+                            "noArgFactory": null,
+                            "scopeDslReceiver": null,
+                            "lambdaReturnTypeFqn": null
+                        },
+                        {
+                            "name": "userScrollEnabled",
+                            "type": "Boolean",
+                            "typeFqn": "kotlin.Boolean",
+                            "hasDefault": true,
+                            "composableSlot": false,
+                            "composableSlotReceiver": null,
+                            "nullable": false,
+                            "noArgConstructible": false,
+                            "noArgFactory": null,
+                            "scopeDslReceiver": null,
+                            "lambdaReturnTypeFqn": null
+                        },
+                        {
+                            "name": "rotaryScrollableBehavior",
+                            "type": "RotaryScrollableBehavior?",
+                            "typeFqn": "androidx.wear.compose.foundation.rotary.RotaryScrollableBehavior",
+                            "hasDefault": true,
+                            "composableSlot": false,
+                            "composableSlotReceiver": null,
+                            "nullable": true,
+                            "noArgConstructible": false,
+                            "noArgFactory": null,
+                            "scopeDslReceiver": null,
+                            "lambdaReturnTypeFqn": null
+                        },
+                        {
+                            "name": "option",
+                            "type": "PickerScope.(Int) -> Unit",
+                            "typeFqn": "kotlin.Function2",
+                            "hasDefault": false,
+                            "composableSlot": true,
+                            "composableSlotReceiver": "androidx.wear.compose.material.PickerScope",
+                            "nullable": false,
+                            "noArgConstructible": false,
+                            "noArgFactory": null,
+                            "scopeDslReceiver": null,
+                            "lambdaReturnTypeFqn": "kotlin.Unit"
+                        }
+                    ]
+                }
+            ]
         },
         {
             "canonicalId": "wear/androidx.wear.compose.material.PositionIndicatorKt.PositionIndicator",
@@ -380,22 +628,22 @@
                 "name": "PositionIndicator",
                 "origin": "LIBRARY",
                 "jvmName": "PositionIndicator",
-                "descriptor": "(Landroidx/compose/foundation/ScrollState;Landroidx/compose/ui/Modifier;ZLandroidx/compose/animation/core/AnimationSpec;Landroidx/compose/animation/core/AnimationSpec;Landroidx/compose/animation/core/AnimationSpec;Landroidx/compose/runtime/Composer;II)V",
+                "descriptor": "(Landroidx/wear/compose/foundation/lazy/ScalingLazyListState;Landroidx/compose/ui/Modifier;ZLandroidx/compose/animation/core/AnimationSpec;Landroidx/compose/animation/core/AnimationSpec;Landroidx/compose/animation/core/AnimationSpec;Landroidx/compose/runtime/Composer;II)V",
                 "sourceFile": null,
                 "docs": "unavailable",
                 "receiver": null
             },
             "parameters": [
                 {
-                    "name": "scrollState",
-                    "type": "ScrollState",
-                    "typeFqn": "androidx.compose.foundation.ScrollState",
+                    "name": "scalingLazyListState",
+                    "type": "ScalingLazyListState",
+                    "typeFqn": "androidx.wear.compose.foundation.lazy.ScalingLazyListState",
                     "hasDefault": false,
                     "composableSlot": false,
                     "composableSlotReceiver": null,
                     "nullable": false,
-                    "noArgConstructible": false,
-                    "noArgFactory": "androidx.compose.foundation.rememberScrollState",
+                    "noArgConstructible": true,
+                    "noArgFactory": "androidx.wear.compose.foundation.lazy.rememberScalingLazyListState",
                     "scopeDslReceiver": null,
                     "lambdaReturnTypeFqn": null
                 },
@@ -594,10 +842,10 @@
                 }
             ],
             "code": {
-                "call": "PositionIndicator(scrollState = rememberScrollState())",
+                "call": "PositionIndicator(scalingLazyListState = rememberScalingLazyListState())",
                 "imports": [
                     "androidx.wear.compose.material.PositionIndicator",
-                    "androidx.compose.foundation.rememberScrollState"
+                    "androidx.wear.compose.foundation.lazy.rememberScalingLazyListState"
                 ],
                 "refusedReason": null,
                 "requiredOptIns": [],
@@ -610,7 +858,434 @@
             "overloadsCollided": false,
             "builder": null,
             "requiredOptIns": [],
-            "androidxOptIns": []
+            "androidxOptIns": [],
+            "overloads": [
+                {
+                    "descriptor": "(Landroidx/compose/foundation/ScrollState;Landroidx/compose/ui/Modifier;ZLandroidx/compose/animation/core/AnimationSpec;Landroidx/compose/animation/core/AnimationSpec;Landroidx/compose/animation/core/AnimationSpec;Landroidx/compose/runtime/Composer;II)V",
+                    "parameters": [
+                        {
+                            "name": "scrollState",
+                            "type": "ScrollState",
+                            "typeFqn": "androidx.compose.foundation.ScrollState",
+                            "hasDefault": false,
+                            "composableSlot": false,
+                            "composableSlotReceiver": null,
+                            "nullable": false,
+                            "noArgConstructible": false,
+                            "noArgFactory": "androidx.compose.foundation.rememberScrollState",
+                            "scopeDslReceiver": null,
+                            "lambdaReturnTypeFqn": null
+                        },
+                        {
+                            "name": "modifier",
+                            "type": "Modifier",
+                            "typeFqn": "androidx.compose.ui.Modifier",
+                            "hasDefault": true,
+                            "composableSlot": false,
+                            "composableSlotReceiver": null,
+                            "nullable": false,
+                            "noArgConstructible": false,
+                            "noArgFactory": null,
+                            "scopeDslReceiver": null,
+                            "lambdaReturnTypeFqn": null
+                        },
+                        {
+                            "name": "reverseDirection",
+                            "type": "Boolean",
+                            "typeFqn": "kotlin.Boolean",
+                            "hasDefault": true,
+                            "composableSlot": false,
+                            "composableSlotReceiver": null,
+                            "nullable": false,
+                            "noArgConstructible": false,
+                            "noArgFactory": null,
+                            "scopeDslReceiver": null,
+                            "lambdaReturnTypeFqn": null
+                        },
+                        {
+                            "name": "fadeInAnimationSpec",
+                            "type": "AnimationSpec<Float>",
+                            "typeFqn": "androidx.compose.animation.core.AnimationSpec",
+                            "hasDefault": true,
+                            "composableSlot": false,
+                            "composableSlotReceiver": null,
+                            "nullable": false,
+                            "noArgConstructible": false,
+                            "noArgFactory": null,
+                            "scopeDslReceiver": null,
+                            "lambdaReturnTypeFqn": null
+                        },
+                        {
+                            "name": "fadeOutAnimationSpec",
+                            "type": "AnimationSpec<Float>",
+                            "typeFqn": "androidx.compose.animation.core.AnimationSpec",
+                            "hasDefault": true,
+                            "composableSlot": false,
+                            "composableSlotReceiver": null,
+                            "nullable": false,
+                            "noArgConstructible": false,
+                            "noArgFactory": null,
+                            "scopeDslReceiver": null,
+                            "lambdaReturnTypeFqn": null
+                        },
+                        {
+                            "name": "positionAnimationSpec",
+                            "type": "AnimationSpec<Float>",
+                            "typeFqn": "androidx.compose.animation.core.AnimationSpec",
+                            "hasDefault": true,
+                            "composableSlot": false,
+                            "composableSlotReceiver": null,
+                            "nullable": false,
+                            "noArgConstructible": false,
+                            "noArgFactory": null,
+                            "scopeDslReceiver": null,
+                            "lambdaReturnTypeFqn": null
+                        }
+                    ]
+                },
+                {
+                    "descriptor": "(Landroidx/compose/foundation/ScrollState;Landroidx/compose/ui/Modifier;ZLandroidx/compose/runtime/Composer;II)V",
+                    "parameters": [
+                        {
+                            "name": "scrollState",
+                            "type": "ScrollState",
+                            "typeFqn": "androidx.compose.foundation.ScrollState",
+                            "hasDefault": false,
+                            "composableSlot": false,
+                            "composableSlotReceiver": null,
+                            "nullable": false,
+                            "noArgConstructible": false,
+                            "noArgFactory": "androidx.compose.foundation.rememberScrollState",
+                            "scopeDslReceiver": null,
+                            "lambdaReturnTypeFqn": null
+                        },
+                        {
+                            "name": "modifier",
+                            "type": "Modifier",
+                            "typeFqn": "androidx.compose.ui.Modifier",
+                            "hasDefault": true,
+                            "composableSlot": false,
+                            "composableSlotReceiver": null,
+                            "nullable": false,
+                            "noArgConstructible": false,
+                            "noArgFactory": null,
+                            "scopeDslReceiver": null,
+                            "lambdaReturnTypeFqn": null
+                        },
+                        {
+                            "name": "reverseDirection",
+                            "type": "Boolean",
+                            "typeFqn": "kotlin.Boolean",
+                            "hasDefault": true,
+                            "composableSlot": false,
+                            "composableSlotReceiver": null,
+                            "nullable": false,
+                            "noArgConstructible": false,
+                            "noArgFactory": null,
+                            "scopeDslReceiver": null,
+                            "lambdaReturnTypeFqn": null
+                        }
+                    ]
+                },
+                {
+                    "descriptor": "(Landroidx/wear/compose/foundation/lazy/ScalingLazyListState;Landroidx/compose/ui/Modifier;ZLandroidx/compose/animation/core/AnimationSpec;Landroidx/compose/animation/core/AnimationSpec;Landroidx/compose/animation/core/AnimationSpec;Landroidx/compose/runtime/Composer;II)V",
+                    "parameters": [
+                        {
+                            "name": "scalingLazyListState",
+                            "type": "ScalingLazyListState",
+                            "typeFqn": "androidx.wear.compose.foundation.lazy.ScalingLazyListState",
+                            "hasDefault": false,
+                            "composableSlot": false,
+                            "composableSlotReceiver": null,
+                            "nullable": false,
+                            "noArgConstructible": true,
+                            "noArgFactory": "androidx.wear.compose.foundation.lazy.rememberScalingLazyListState",
+                            "scopeDslReceiver": null,
+                            "lambdaReturnTypeFqn": null
+                        },
+                        {
+                            "name": "modifier",
+                            "type": "Modifier",
+                            "typeFqn": "androidx.compose.ui.Modifier",
+                            "hasDefault": true,
+                            "composableSlot": false,
+                            "composableSlotReceiver": null,
+                            "nullable": false,
+                            "noArgConstructible": false,
+                            "noArgFactory": null,
+                            "scopeDslReceiver": null,
+                            "lambdaReturnTypeFqn": null
+                        },
+                        {
+                            "name": "reverseDirection",
+                            "type": "Boolean",
+                            "typeFqn": "kotlin.Boolean",
+                            "hasDefault": true,
+                            "composableSlot": false,
+                            "composableSlotReceiver": null,
+                            "nullable": false,
+                            "noArgConstructible": false,
+                            "noArgFactory": null,
+                            "scopeDslReceiver": null,
+                            "lambdaReturnTypeFqn": null
+                        },
+                        {
+                            "name": "fadeInAnimationSpec",
+                            "type": "AnimationSpec<Float>",
+                            "typeFqn": "androidx.compose.animation.core.AnimationSpec",
+                            "hasDefault": true,
+                            "composableSlot": false,
+                            "composableSlotReceiver": null,
+                            "nullable": false,
+                            "noArgConstructible": false,
+                            "noArgFactory": null,
+                            "scopeDslReceiver": null,
+                            "lambdaReturnTypeFqn": null
+                        },
+                        {
+                            "name": "fadeOutAnimationSpec",
+                            "type": "AnimationSpec<Float>",
+                            "typeFqn": "androidx.compose.animation.core.AnimationSpec",
+                            "hasDefault": true,
+                            "composableSlot": false,
+                            "composableSlotReceiver": null,
+                            "nullable": false,
+                            "noArgConstructible": false,
+                            "noArgFactory": null,
+                            "scopeDslReceiver": null,
+                            "lambdaReturnTypeFqn": null
+                        },
+                        {
+                            "name": "positionAnimationSpec",
+                            "type": "AnimationSpec<Float>",
+                            "typeFqn": "androidx.compose.animation.core.AnimationSpec",
+                            "hasDefault": true,
+                            "composableSlot": false,
+                            "composableSlotReceiver": null,
+                            "nullable": false,
+                            "noArgConstructible": false,
+                            "noArgFactory": null,
+                            "scopeDslReceiver": null,
+                            "lambdaReturnTypeFqn": null
+                        }
+                    ]
+                },
+                {
+                    "descriptor": "(Landroidx/wear/compose/foundation/lazy/ScalingLazyListState;Landroidx/compose/ui/Modifier;ZLandroidx/compose/runtime/Composer;II)V",
+                    "parameters": [
+                        {
+                            "name": "scalingLazyListState",
+                            "type": "ScalingLazyListState",
+                            "typeFqn": "androidx.wear.compose.foundation.lazy.ScalingLazyListState",
+                            "hasDefault": false,
+                            "composableSlot": false,
+                            "composableSlotReceiver": null,
+                            "nullable": false,
+                            "noArgConstructible": true,
+                            "noArgFactory": "androidx.wear.compose.foundation.lazy.rememberScalingLazyListState",
+                            "scopeDslReceiver": null,
+                            "lambdaReturnTypeFqn": null
+                        },
+                        {
+                            "name": "modifier",
+                            "type": "Modifier",
+                            "typeFqn": "androidx.compose.ui.Modifier",
+                            "hasDefault": true,
+                            "composableSlot": false,
+                            "composableSlotReceiver": null,
+                            "nullable": false,
+                            "noArgConstructible": false,
+                            "noArgFactory": null,
+                            "scopeDslReceiver": null,
+                            "lambdaReturnTypeFqn": null
+                        },
+                        {
+                            "name": "reverseDirection",
+                            "type": "Boolean",
+                            "typeFqn": "kotlin.Boolean",
+                            "hasDefault": true,
+                            "composableSlot": false,
+                            "composableSlotReceiver": null,
+                            "nullable": false,
+                            "noArgConstructible": false,
+                            "noArgFactory": null,
+                            "scopeDslReceiver": null,
+                            "lambdaReturnTypeFqn": null
+                        }
+                    ]
+                },
+                {
+                    "descriptor": "(Landroidx/wear/compose/material/ScalingLazyListState;Landroidx/compose/ui/Modifier;ZLandroidx/compose/runtime/Composer;II)V",
+                    "parameters": [
+                        {
+                            "name": "scalingLazyListState",
+                            "type": "ScalingLazyListState",
+                            "typeFqn": "androidx.wear.compose.material.ScalingLazyListState",
+                            "hasDefault": false,
+                            "composableSlot": false,
+                            "composableSlotReceiver": null,
+                            "nullable": false,
+                            "noArgConstructible": false,
+                            "noArgFactory": null,
+                            "scopeDslReceiver": null,
+                            "lambdaReturnTypeFqn": null
+                        },
+                        {
+                            "name": "modifier",
+                            "type": "Modifier",
+                            "typeFqn": "androidx.compose.ui.Modifier",
+                            "hasDefault": true,
+                            "composableSlot": false,
+                            "composableSlotReceiver": null,
+                            "nullable": false,
+                            "noArgConstructible": false,
+                            "noArgFactory": null,
+                            "scopeDslReceiver": null,
+                            "lambdaReturnTypeFqn": null
+                        },
+                        {
+                            "name": "reverseDirection",
+                            "type": "Boolean",
+                            "typeFqn": "kotlin.Boolean",
+                            "hasDefault": true,
+                            "composableSlot": false,
+                            "composableSlotReceiver": null,
+                            "nullable": false,
+                            "noArgConstructible": false,
+                            "noArgFactory": null,
+                            "scopeDslReceiver": null,
+                            "lambdaReturnTypeFqn": null
+                        }
+                    ]
+                },
+                {
+                    "descriptor": "(Landroidx/compose/foundation/lazy/LazyListState;Landroidx/compose/ui/Modifier;ZLandroidx/compose/animation/core/AnimationSpec;Landroidx/compose/animation/core/AnimationSpec;Landroidx/compose/animation/core/AnimationSpec;Landroidx/compose/runtime/Composer;II)V",
+                    "parameters": [
+                        {
+                            "name": "lazyListState",
+                            "type": "LazyListState",
+                            "typeFqn": "androidx.compose.foundation.lazy.LazyListState",
+                            "hasDefault": false,
+                            "composableSlot": false,
+                            "composableSlotReceiver": null,
+                            "nullable": false,
+                            "noArgConstructible": true,
+                            "noArgFactory": "androidx.compose.foundation.lazy.rememberLazyListState",
+                            "scopeDslReceiver": null,
+                            "lambdaReturnTypeFqn": null
+                        },
+                        {
+                            "name": "modifier",
+                            "type": "Modifier",
+                            "typeFqn": "androidx.compose.ui.Modifier",
+                            "hasDefault": true,
+                            "composableSlot": false,
+                            "composableSlotReceiver": null,
+                            "nullable": false,
+                            "noArgConstructible": false,
+                            "noArgFactory": null,
+                            "scopeDslReceiver": null,
+                            "lambdaReturnTypeFqn": null
+                        },
+                        {
+                            "name": "reverseDirection",
+                            "type": "Boolean",
+                            "typeFqn": "kotlin.Boolean",
+                            "hasDefault": true,
+                            "composableSlot": false,
+                            "composableSlotReceiver": null,
+                            "nullable": false,
+                            "noArgConstructible": false,
+                            "noArgFactory": null,
+                            "scopeDslReceiver": null,
+                            "lambdaReturnTypeFqn": null
+                        },
+                        {
+                            "name": "fadeInAnimationSpec",
+                            "type": "AnimationSpec<Float>",
+                            "typeFqn": "androidx.compose.animation.core.AnimationSpec",
+                            "hasDefault": true,
+                            "composableSlot": false,
+                            "composableSlotReceiver": null,
+                            "nullable": false,
+                            "noArgConstructible": false,
+                            "noArgFactory": null,
+                            "scopeDslReceiver": null,
+                            "lambdaReturnTypeFqn": null
+                        },
+                        {
+                            "name": "fadeOutAnimationSpec",
+                            "type": "AnimationSpec<Float>",
+                            "typeFqn": "androidx.compose.animation.core.AnimationSpec",
+                            "hasDefault": true,
+                            "composableSlot": false,
+                            "composableSlotReceiver": null,
+                            "nullable": false,
+                            "noArgConstructible": false,
+                            "noArgFactory": null,
+                            "scopeDslReceiver": null,
+                            "lambdaReturnTypeFqn": null
+                        },
+                        {
+                            "name": "positionAnimationSpec",
+                            "type": "AnimationSpec<Float>",
+                            "typeFqn": "androidx.compose.animation.core.AnimationSpec",
+                            "hasDefault": true,
+                            "composableSlot": false,
+                            "composableSlotReceiver": null,
+                            "nullable": false,
+                            "noArgConstructible": false,
+                            "noArgFactory": null,
+                            "scopeDslReceiver": null,
+                            "lambdaReturnTypeFqn": null
+                        }
+                    ]
+                },
+                {
+                    "descriptor": "(Landroidx/compose/foundation/lazy/LazyListState;Landroidx/compose/ui/Modifier;ZLandroidx/compose/runtime/Composer;II)V",
+                    "parameters": [
+                        {
+                            "name": "lazyListState",
+                            "type": "LazyListState",
+                            "typeFqn": "androidx.compose.foundation.lazy.LazyListState",
+                            "hasDefault": false,
+                            "composableSlot": false,
+                            "composableSlotReceiver": null,
+                            "nullable": false,
+                            "noArgConstructible": true,
+                            "noArgFactory": "androidx.compose.foundation.lazy.rememberLazyListState",
+                            "scopeDslReceiver": null,
+                            "lambdaReturnTypeFqn": null
+                        },
+                        {
+                            "name": "modifier",
+                            "type": "Modifier",
+                            "typeFqn": "androidx.compose.ui.Modifier",
+                            "hasDefault": true,
+                            "composableSlot": false,
+                            "composableSlotReceiver": null,
+                            "nullable": false,
+                            "noArgConstructible": false,
+                            "noArgFactory": null,
+                            "scopeDslReceiver": null,
+                            "lambdaReturnTypeFqn": null
+                        },
+                        {
+                            "name": "reverseDirection",
+                            "type": "Boolean",
+                            "typeFqn": "kotlin.Boolean",
+                            "hasDefault": true,
+                            "composableSlot": false,
+                            "composableSlotReceiver": null,
+                            "nullable": false,
+                            "noArgConstructible": false,
+                            "noArgFactory": null,
+                            "scopeDslReceiver": null,
+                            "lambdaReturnTypeFqn": null
+                        }
+                    ]
+                }
+            ]
         },
         {
             "canonicalId": "wear/androidx.wear.compose.material.ProgressIndicatorKt.CircularProgressIndicator",
@@ -717,7 +1392,79 @@
             "overloadsCollided": false,
             "builder": null,
             "requiredOptIns": [],
-            "androidxOptIns": []
+            "androidxOptIns": [],
+            "overloads": [
+                {
+                    "descriptor": "(Landroidx/compose/ui/Modifier;FJJFLandroidx/compose/runtime/Composer;II)V",
+                    "parameters": [
+                        {
+                            "name": "modifier",
+                            "type": "Modifier",
+                            "typeFqn": "androidx.compose.ui.Modifier",
+                            "hasDefault": true,
+                            "composableSlot": false,
+                            "composableSlotReceiver": null,
+                            "nullable": false,
+                            "noArgConstructible": false,
+                            "noArgFactory": null,
+                            "scopeDslReceiver": null,
+                            "lambdaReturnTypeFqn": null
+                        },
+                        {
+                            "name": "startAngle",
+                            "type": "Float",
+                            "typeFqn": "kotlin.Float",
+                            "hasDefault": true,
+                            "composableSlot": false,
+                            "composableSlotReceiver": null,
+                            "nullable": false,
+                            "noArgConstructible": false,
+                            "noArgFactory": null,
+                            "scopeDslReceiver": null,
+                            "lambdaReturnTypeFqn": null
+                        },
+                        {
+                            "name": "indicatorColor",
+                            "type": "Color",
+                            "typeFqn": "androidx.compose.ui.graphics.Color",
+                            "hasDefault": true,
+                            "composableSlot": false,
+                            "composableSlotReceiver": null,
+                            "nullable": false,
+                            "noArgConstructible": false,
+                            "noArgFactory": null,
+                            "scopeDslReceiver": null,
+                            "lambdaReturnTypeFqn": null
+                        },
+                        {
+                            "name": "trackColor",
+                            "type": "Color",
+                            "typeFqn": "androidx.compose.ui.graphics.Color",
+                            "hasDefault": true,
+                            "composableSlot": false,
+                            "composableSlotReceiver": null,
+                            "nullable": false,
+                            "noArgConstructible": false,
+                            "noArgFactory": null,
+                            "scopeDslReceiver": null,
+                            "lambdaReturnTypeFqn": null
+                        },
+                        {
+                            "name": "strokeWidth",
+                            "type": "Dp",
+                            "typeFqn": "androidx.compose.ui.unit.Dp",
+                            "hasDefault": true,
+                            "composableSlot": false,
+                            "composableSlotReceiver": null,
+                            "nullable": false,
+                            "noArgConstructible": false,
+                            "noArgFactory": null,
+                            "scopeDslReceiver": null,
+                            "lambdaReturnTypeFqn": null
+                        }
+                    ]
+                }
+            ]
         },
         {
             "canonicalId": "wear/androidx.wear.compose.material.ScaffoldKt.Scaffold",
@@ -983,7 +1730,92 @@
             "overloadsCollided": false,
             "builder": null,
             "requiredOptIns": [],
-            "androidxOptIns": []
+            "androidxOptIns": [],
+            "overloads": [
+                {
+                    "descriptor": "(Landroidx/compose/ui/Modifier;Lkotlin/jvm/functions/Function2;Lkotlin/jvm/functions/Function2;Lkotlin/jvm/functions/Function2;Lkotlin/jvm/functions/Function2;Lkotlin/jvm/functions/Function2;Landroidx/compose/runtime/Composer;II)V",
+                    "parameters": [
+                        {
+                            "name": "modifier",
+                            "type": "Modifier",
+                            "typeFqn": "androidx.compose.ui.Modifier",
+                            "hasDefault": true,
+                            "composableSlot": false,
+                            "composableSlotReceiver": null,
+                            "nullable": false,
+                            "noArgConstructible": false,
+                            "noArgFactory": null,
+                            "scopeDslReceiver": null,
+                            "lambdaReturnTypeFqn": null
+                        },
+                        {
+                            "name": "vignette",
+                            "type": "(() -> Unit)?",
+                            "typeFqn": "kotlin.Function0",
+                            "hasDefault": true,
+                            "composableSlot": true,
+                            "composableSlotReceiver": null,
+                            "nullable": true,
+                            "noArgConstructible": false,
+                            "noArgFactory": null,
+                            "scopeDslReceiver": null,
+                            "lambdaReturnTypeFqn": "kotlin.Unit"
+                        },
+                        {
+                            "name": "positionIndicator",
+                            "type": "(() -> Unit)?",
+                            "typeFqn": "kotlin.Function0",
+                            "hasDefault": true,
+                            "composableSlot": true,
+                            "composableSlotReceiver": null,
+                            "nullable": true,
+                            "noArgConstructible": false,
+                            "noArgFactory": null,
+                            "scopeDslReceiver": null,
+                            "lambdaReturnTypeFqn": "kotlin.Unit"
+                        },
+                        {
+                            "name": "pageIndicator",
+                            "type": "(() -> Unit)?",
+                            "typeFqn": "kotlin.Function0",
+                            "hasDefault": true,
+                            "composableSlot": true,
+                            "composableSlotReceiver": null,
+                            "nullable": true,
+                            "noArgConstructible": false,
+                            "noArgFactory": null,
+                            "scopeDslReceiver": null,
+                            "lambdaReturnTypeFqn": "kotlin.Unit"
+                        },
+                        {
+                            "name": "timeText",
+                            "type": "(() -> Unit)?",
+                            "typeFqn": "kotlin.Function0",
+                            "hasDefault": true,
+                            "composableSlot": true,
+                            "composableSlotReceiver": null,
+                            "nullable": true,
+                            "noArgConstructible": false,
+                            "noArgFactory": null,
+                            "scopeDslReceiver": null,
+                            "lambdaReturnTypeFqn": "kotlin.Unit"
+                        },
+                        {
+                            "name": "content",
+                            "type": "() -> Unit",
+                            "typeFqn": "kotlin.Function0",
+                            "hasDefault": false,
+                            "composableSlot": true,
+                            "composableSlotReceiver": null,
+                            "nullable": false,
+                            "noArgConstructible": false,
+                            "noArgFactory": null,
+                            "scopeDslReceiver": null,
+                            "lambdaReturnTypeFqn": "kotlin.Unit"
+                        }
+                    ]
+                }
+            ]
         },
         {
             "canonicalId": "wear/androidx.wear.compose.material.TimeTextKt.TimeText",
@@ -1296,7 +2128,144 @@
             "overloadsCollided": false,
             "builder": null,
             "requiredOptIns": [],
-            "androidxOptIns": []
+            "androidxOptIns": [],
+            "overloads": [
+                {
+                    "descriptor": "(Landroidx/compose/ui/Modifier;Landroidx/wear/compose/material/TimeSource;Landroidx/compose/ui/text/TextStyle;Landroidx/compose/foundation/layout/PaddingValues;Lkotlin/jvm/functions/Function2;Lkotlin/jvm/functions/Function1;Lkotlin/jvm/functions/Function2;Lkotlin/jvm/functions/Function1;Lkotlin/jvm/functions/Function2;Lkotlin/jvm/functions/Function1;Landroidx/compose/runtime/Composer;II)V",
+                    "parameters": [
+                        {
+                            "name": "modifier",
+                            "type": "Modifier",
+                            "typeFqn": "androidx.compose.ui.Modifier",
+                            "hasDefault": true,
+                            "composableSlot": false,
+                            "composableSlotReceiver": null,
+                            "nullable": false,
+                            "noArgConstructible": false,
+                            "noArgFactory": null,
+                            "scopeDslReceiver": null,
+                            "lambdaReturnTypeFqn": null
+                        },
+                        {
+                            "name": "timeSource",
+                            "type": "TimeSource",
+                            "typeFqn": "androidx.wear.compose.material.TimeSource",
+                            "hasDefault": true,
+                            "composableSlot": false,
+                            "composableSlotReceiver": null,
+                            "nullable": false,
+                            "noArgConstructible": false,
+                            "noArgFactory": null,
+                            "scopeDslReceiver": null,
+                            "lambdaReturnTypeFqn": null
+                        },
+                        {
+                            "name": "timeTextStyle",
+                            "type": "TextStyle",
+                            "typeFqn": "androidx.compose.ui.text.TextStyle",
+                            "hasDefault": true,
+                            "composableSlot": false,
+                            "composableSlotReceiver": null,
+                            "nullable": false,
+                            "noArgConstructible": false,
+                            "noArgFactory": null,
+                            "scopeDslReceiver": null,
+                            "lambdaReturnTypeFqn": null
+                        },
+                        {
+                            "name": "contentPadding",
+                            "type": "PaddingValues",
+                            "typeFqn": "androidx.compose.foundation.layout.PaddingValues",
+                            "hasDefault": true,
+                            "composableSlot": false,
+                            "composableSlotReceiver": null,
+                            "nullable": false,
+                            "noArgConstructible": false,
+                            "noArgFactory": null,
+                            "scopeDslReceiver": null,
+                            "lambdaReturnTypeFqn": null
+                        },
+                        {
+                            "name": "startLinearContent",
+                            "type": "(() -> Unit)?",
+                            "typeFqn": "kotlin.Function0",
+                            "hasDefault": true,
+                            "composableSlot": true,
+                            "composableSlotReceiver": null,
+                            "nullable": true,
+                            "noArgConstructible": false,
+                            "noArgFactory": null,
+                            "scopeDslReceiver": null,
+                            "lambdaReturnTypeFqn": "kotlin.Unit"
+                        },
+                        {
+                            "name": "startCurvedContent",
+                            "type": "(CurvedScope.() -> Unit)?",
+                            "typeFqn": "kotlin.Function1",
+                            "hasDefault": true,
+                            "composableSlot": false,
+                            "composableSlotReceiver": null,
+                            "nullable": true,
+                            "noArgConstructible": false,
+                            "noArgFactory": null,
+                            "scopeDslReceiver": "androidx.wear.compose.foundation.CurvedScope",
+                            "lambdaReturnTypeFqn": "kotlin.Unit"
+                        },
+                        {
+                            "name": "endLinearContent",
+                            "type": "(() -> Unit)?",
+                            "typeFqn": "kotlin.Function0",
+                            "hasDefault": true,
+                            "composableSlot": true,
+                            "composableSlotReceiver": null,
+                            "nullable": true,
+                            "noArgConstructible": false,
+                            "noArgFactory": null,
+                            "scopeDslReceiver": null,
+                            "lambdaReturnTypeFqn": "kotlin.Unit"
+                        },
+                        {
+                            "name": "endCurvedContent",
+                            "type": "(CurvedScope.() -> Unit)?",
+                            "typeFqn": "kotlin.Function1",
+                            "hasDefault": true,
+                            "composableSlot": false,
+                            "composableSlotReceiver": null,
+                            "nullable": true,
+                            "noArgConstructible": false,
+                            "noArgFactory": null,
+                            "scopeDslReceiver": "androidx.wear.compose.foundation.CurvedScope",
+                            "lambdaReturnTypeFqn": "kotlin.Unit"
+                        },
+                        {
+                            "name": "textLinearSeparator",
+                            "type": "() -> Unit",
+                            "typeFqn": "kotlin.Function0",
+                            "hasDefault": true,
+                            "composableSlot": true,
+                            "composableSlotReceiver": null,
+                            "nullable": false,
+                            "noArgConstructible": false,
+                            "noArgFactory": null,
+                            "scopeDslReceiver": null,
+                            "lambdaReturnTypeFqn": "kotlin.Unit"
+                        },
+                        {
+                            "name": "textCurvedSeparator",
+                            "type": "CurvedScope.() -> Unit",
+                            "typeFqn": "kotlin.Function1",
+                            "hasDefault": true,
+                            "composableSlot": false,
+                            "composableSlotReceiver": null,
+                            "nullable": false,
+                            "noArgConstructible": false,
+                            "noArgFactory": null,
+                            "scopeDslReceiver": "androidx.wear.compose.foundation.CurvedScope",
+                            "lambdaReturnTypeFqn": "kotlin.Unit"
+                        }
+                    ]
+                }
+            ]
         },
         {
             "canonicalId": "wear/androidx.wear.compose.material.ToggleChipKt.ToggleChip",
@@ -1515,7 +2484,170 @@
             "overloadsCollided": false,
             "builder": null,
             "requiredOptIns": [],
-            "androidxOptIns": []
+            "androidxOptIns": [],
+            "overloads": [
+                {
+                    "descriptor": "(ZLkotlin/jvm/functions/Function1;Lkotlin/jvm/functions/Function3;Lkotlin/jvm/functions/Function2;Landroidx/compose/ui/Modifier;Lkotlin/jvm/functions/Function3;Lkotlin/jvm/functions/Function3;Landroidx/wear/compose/material/ToggleChipColors;ZLandroidx/compose/foundation/interaction/MutableInteractionSource;Landroidx/compose/foundation/layout/PaddingValues;Landroidx/compose/ui/graphics/Shape;Landroidx/compose/runtime/Composer;III)V",
+                    "parameters": [
+                        {
+                            "name": "checked",
+                            "type": "Boolean",
+                            "typeFqn": "kotlin.Boolean",
+                            "hasDefault": false,
+                            "composableSlot": false,
+                            "composableSlotReceiver": null,
+                            "nullable": false,
+                            "noArgConstructible": false,
+                            "noArgFactory": null,
+                            "scopeDslReceiver": null,
+                            "lambdaReturnTypeFqn": null
+                        },
+                        {
+                            "name": "onCheckedChange",
+                            "type": "(Boolean) -> Unit",
+                            "typeFqn": "kotlin.Function1",
+                            "hasDefault": false,
+                            "composableSlot": false,
+                            "composableSlotReceiver": null,
+                            "nullable": false,
+                            "noArgConstructible": false,
+                            "noArgFactory": null,
+                            "scopeDslReceiver": null,
+                            "lambdaReturnTypeFqn": "kotlin.Unit"
+                        },
+                        {
+                            "name": "label",
+                            "type": "RowScope.() -> Unit",
+                            "typeFqn": "kotlin.Function1",
+                            "hasDefault": false,
+                            "composableSlot": true,
+                            "composableSlotReceiver": "androidx.compose.foundation.layout.RowScope",
+                            "nullable": false,
+                            "noArgConstructible": false,
+                            "noArgFactory": null,
+                            "scopeDslReceiver": null,
+                            "lambdaReturnTypeFqn": "kotlin.Unit"
+                        },
+                        {
+                            "name": "toggleControl",
+                            "type": "() -> Unit",
+                            "typeFqn": "kotlin.Function0",
+                            "hasDefault": false,
+                            "composableSlot": true,
+                            "composableSlotReceiver": null,
+                            "nullable": false,
+                            "noArgConstructible": false,
+                            "noArgFactory": null,
+                            "scopeDslReceiver": null,
+                            "lambdaReturnTypeFqn": "kotlin.Unit"
+                        },
+                        {
+                            "name": "modifier",
+                            "type": "Modifier",
+                            "typeFqn": "androidx.compose.ui.Modifier",
+                            "hasDefault": true,
+                            "composableSlot": false,
+                            "composableSlotReceiver": null,
+                            "nullable": false,
+                            "noArgConstructible": false,
+                            "noArgFactory": null,
+                            "scopeDslReceiver": null,
+                            "lambdaReturnTypeFqn": null
+                        },
+                        {
+                            "name": "appIcon",
+                            "type": "(BoxScope.() -> Unit)?",
+                            "typeFqn": "kotlin.Function1",
+                            "hasDefault": true,
+                            "composableSlot": true,
+                            "composableSlotReceiver": "androidx.compose.foundation.layout.BoxScope",
+                            "nullable": true,
+                            "noArgConstructible": false,
+                            "noArgFactory": null,
+                            "scopeDslReceiver": null,
+                            "lambdaReturnTypeFqn": "kotlin.Unit"
+                        },
+                        {
+                            "name": "secondaryLabel",
+                            "type": "(RowScope.() -> Unit)?",
+                            "typeFqn": "kotlin.Function1",
+                            "hasDefault": true,
+                            "composableSlot": true,
+                            "composableSlotReceiver": "androidx.compose.foundation.layout.RowScope",
+                            "nullable": true,
+                            "noArgConstructible": false,
+                            "noArgFactory": null,
+                            "scopeDslReceiver": null,
+                            "lambdaReturnTypeFqn": "kotlin.Unit"
+                        },
+                        {
+                            "name": "colors",
+                            "type": "ToggleChipColors",
+                            "typeFqn": "androidx.wear.compose.material.ToggleChipColors",
+                            "hasDefault": true,
+                            "composableSlot": false,
+                            "composableSlotReceiver": null,
+                            "nullable": false,
+                            "noArgConstructible": false,
+                            "noArgFactory": null,
+                            "scopeDslReceiver": null,
+                            "lambdaReturnTypeFqn": null
+                        },
+                        {
+                            "name": "enabled",
+                            "type": "Boolean",
+                            "typeFqn": "kotlin.Boolean",
+                            "hasDefault": true,
+                            "composableSlot": false,
+                            "composableSlotReceiver": null,
+                            "nullable": false,
+                            "noArgConstructible": false,
+                            "noArgFactory": null,
+                            "scopeDslReceiver": null,
+                            "lambdaReturnTypeFqn": null
+                        },
+                        {
+                            "name": "interactionSource",
+                            "type": "MutableInteractionSource?",
+                            "typeFqn": "androidx.compose.foundation.interaction.MutableInteractionSource",
+                            "hasDefault": true,
+                            "composableSlot": false,
+                            "composableSlotReceiver": null,
+                            "nullable": true,
+                            "noArgConstructible": false,
+                            "noArgFactory": null,
+                            "scopeDslReceiver": null,
+                            "lambdaReturnTypeFqn": null
+                        },
+                        {
+                            "name": "contentPadding",
+                            "type": "PaddingValues",
+                            "typeFqn": "androidx.compose.foundation.layout.PaddingValues",
+                            "hasDefault": true,
+                            "composableSlot": false,
+                            "composableSlotReceiver": null,
+                            "nullable": false,
+                            "noArgConstructible": false,
+                            "noArgFactory": null,
+                            "scopeDslReceiver": null,
+                            "lambdaReturnTypeFqn": null
+                        },
+                        {
+                            "name": "shape",
+                            "type": "Shape",
+                            "typeFqn": "androidx.compose.ui.graphics.Shape",
+                            "hasDefault": true,
+                            "composableSlot": false,
+                            "composableSlotReceiver": null,
+                            "nullable": false,
+                            "noArgConstructible": false,
+                            "noArgFactory": null,
+                            "scopeDslReceiver": null,
+                            "lambdaReturnTypeFqn": null
+                        }
+                    ]
+                }
+            ]
         },
         {
             "canonicalId": "wear/androidx.wear.compose.material.ToggleControlKt.Switch",
@@ -1635,7 +2767,92 @@
             "overloadsCollided": false,
             "builder": null,
             "requiredOptIns": [],
-            "androidxOptIns": []
+            "androidxOptIns": [],
+            "overloads": [
+                {
+                    "descriptor": "(ZLandroidx/compose/ui/Modifier;Landroidx/wear/compose/material/SwitchColors;ZLkotlin/jvm/functions/Function1;Landroidx/compose/foundation/interaction/MutableInteractionSource;Landroidx/compose/runtime/Composer;II)V",
+                    "parameters": [
+                        {
+                            "name": "checked",
+                            "type": "Boolean",
+                            "typeFqn": "kotlin.Boolean",
+                            "hasDefault": false,
+                            "composableSlot": false,
+                            "composableSlotReceiver": null,
+                            "nullable": false,
+                            "noArgConstructible": false,
+                            "noArgFactory": null,
+                            "scopeDslReceiver": null,
+                            "lambdaReturnTypeFqn": null
+                        },
+                        {
+                            "name": "modifier",
+                            "type": "Modifier",
+                            "typeFqn": "androidx.compose.ui.Modifier",
+                            "hasDefault": true,
+                            "composableSlot": false,
+                            "composableSlotReceiver": null,
+                            "nullable": false,
+                            "noArgConstructible": false,
+                            "noArgFactory": null,
+                            "scopeDslReceiver": null,
+                            "lambdaReturnTypeFqn": null
+                        },
+                        {
+                            "name": "colors",
+                            "type": "SwitchColors",
+                            "typeFqn": "androidx.wear.compose.material.SwitchColors",
+                            "hasDefault": true,
+                            "composableSlot": false,
+                            "composableSlotReceiver": null,
+                            "nullable": false,
+                            "noArgConstructible": false,
+                            "noArgFactory": null,
+                            "scopeDslReceiver": null,
+                            "lambdaReturnTypeFqn": null
+                        },
+                        {
+                            "name": "enabled",
+                            "type": "Boolean",
+                            "typeFqn": "kotlin.Boolean",
+                            "hasDefault": true,
+                            "composableSlot": false,
+                            "composableSlotReceiver": null,
+                            "nullable": false,
+                            "noArgConstructible": false,
+                            "noArgFactory": null,
+                            "scopeDslReceiver": null,
+                            "lambdaReturnTypeFqn": null
+                        },
+                        {
+                            "name": "onCheckedChange",
+                            "type": "((Boolean) -> Unit)?",
+                            "typeFqn": "kotlin.Function1",
+                            "hasDefault": true,
+                            "composableSlot": false,
+                            "composableSlotReceiver": null,
+                            "nullable": true,
+                            "noArgConstructible": false,
+                            "noArgFactory": null,
+                            "scopeDslReceiver": null,
+                            "lambdaReturnTypeFqn": "kotlin.Unit"
+                        },
+                        {
+                            "name": "interactionSource",
+                            "type": "MutableInteractionSource?",
+                            "typeFqn": "androidx.compose.foundation.interaction.MutableInteractionSource",
+                            "hasDefault": true,
+                            "composableSlot": false,
+                            "composableSlotReceiver": null,
+                            "nullable": true,
+                            "noArgConstructible": false,
+                            "noArgFactory": null,
+                            "scopeDslReceiver": null,
+                            "lambdaReturnTypeFqn": null
+                        }
+                    ]
+                }
+            ]
         },
         {
             "canonicalId": "wear/androidx.wear.compose.material3.ButtonKt.Button",
@@ -1646,7 +2863,7 @@
                 "name": "Button",
                 "origin": "LIBRARY",
                 "jvmName": "Button",
-                "descriptor": "(Lkotlin/jvm/functions/Function0;Landroidx/compose/ui/Modifier;Lkotlin/jvm/functions/Function0;Ljava/lang/String;ZLandroidx/compose/ui/graphics/Shape;Landroidx/wear/compose/material3/ButtonColors;Landroidx/compose/foundation/BorderStroke;Landroidx/compose/foundation/layout/PaddingValues;Landroidx/compose/foundation/interaction/MutableInteractionSource;Landroidx/wear/compose/material3/SurfaceTransformation;Lkotlin/jvm/functions/Function3;Landroidx/compose/runtime/Composer;III)V",
+                "descriptor": "(Lkotlin/jvm/functions/Function0;Landroidx/compose/ui/Modifier;Lkotlin/jvm/functions/Function0;Ljava/lang/String;Lkotlin/jvm/functions/Function3;Lkotlin/jvm/functions/Function3;ZLandroidx/compose/ui/graphics/Shape;Landroidx/wear/compose/material3/ButtonColors;Landroidx/compose/foundation/BorderStroke;Landroidx/compose/foundation/layout/PaddingValues;Landroidx/compose/foundation/interaction/MutableInteractionSource;Landroidx/wear/compose/material3/SurfaceTransformation;Lkotlin/jvm/functions/Function3;Landroidx/compose/runtime/Composer;III)V",
                 "sourceFile": null,
                 "docs": "unavailable",
                 "receiver": null
@@ -1703,6 +2920,32 @@
                     "noArgFactory": null,
                     "scopeDslReceiver": null,
                     "lambdaReturnTypeFqn": null
+                },
+                {
+                    "name": "secondaryLabel",
+                    "type": "(RowScope.() -> Unit)?",
+                    "typeFqn": "kotlin.Function1",
+                    "hasDefault": true,
+                    "composableSlot": true,
+                    "composableSlotReceiver": "androidx.compose.foundation.layout.RowScope",
+                    "nullable": true,
+                    "noArgConstructible": false,
+                    "noArgFactory": null,
+                    "scopeDslReceiver": null,
+                    "lambdaReturnTypeFqn": "kotlin.Unit"
+                },
+                {
+                    "name": "icon",
+                    "type": "(BoxScope.() -> Unit)?",
+                    "typeFqn": "kotlin.Function1",
+                    "hasDefault": true,
+                    "composableSlot": true,
+                    "composableSlotReceiver": "androidx.compose.foundation.layout.BoxScope",
+                    "nullable": true,
+                    "noArgConstructible": false,
+                    "noArgFactory": null,
+                    "scopeDslReceiver": null,
+                    "lambdaReturnTypeFqn": "kotlin.Unit"
                 },
                 {
                     "name": "enabled",
@@ -1796,7 +3039,7 @@
                     "lambdaReturnTypeFqn": null
                 },
                 {
-                    "name": "content",
+                    "name": "label",
                     "type": "RowScope.() -> Unit",
                     "typeFqn": "kotlin.Function1",
                     "hasDefault": false,
@@ -1811,7 +3054,17 @@
             ],
             "slots": [
                 {
-                    "name": "content",
+                    "name": "secondaryLabel",
+                    "required": false,
+                    "receiverScope": "androidx.compose.foundation.layout.RowScope"
+                },
+                {
+                    "name": "icon",
+                    "required": false,
+                    "receiverScope": "androidx.compose.foundation.layout.BoxScope"
+                },
+                {
+                    "name": "label",
                     "required": true,
                     "receiverScope": "androidx.compose.foundation.layout.RowScope"
                 }
@@ -1884,7 +3137,7 @@
                 }
             ],
             "code": {
-                "call": "Button(onClick = {}, content = {})",
+                "call": "Button(onClick = {}, label = {})",
                 "imports": [
                     "androidx.wear.compose.material3.Button"
                 ],
@@ -1899,7 +3152,757 @@
             "overloadsCollided": false,
             "builder": null,
             "requiredOptIns": [],
-            "androidxOptIns": []
+            "androidxOptIns": [],
+            "overloads": [
+                {
+                    "descriptor": "(Lkotlin/jvm/functions/Function0;Landroidx/compose/ui/Modifier;Lkotlin/jvm/functions/Function0;Ljava/lang/String;ZLandroidx/compose/ui/graphics/Shape;Landroidx/wear/compose/material3/ButtonColors;Landroidx/compose/foundation/BorderStroke;Landroidx/compose/foundation/layout/PaddingValues;Landroidx/compose/foundation/interaction/MutableInteractionSource;Landroidx/wear/compose/material3/SurfaceTransformation;Lkotlin/jvm/functions/Function3;Landroidx/compose/runtime/Composer;III)V",
+                    "parameters": [
+                        {
+                            "name": "onClick",
+                            "type": "() -> Unit",
+                            "typeFqn": "kotlin.Function0",
+                            "hasDefault": false,
+                            "composableSlot": false,
+                            "composableSlotReceiver": null,
+                            "nullable": false,
+                            "noArgConstructible": false,
+                            "noArgFactory": null,
+                            "scopeDslReceiver": null,
+                            "lambdaReturnTypeFqn": "kotlin.Unit"
+                        },
+                        {
+                            "name": "modifier",
+                            "type": "Modifier",
+                            "typeFqn": "androidx.compose.ui.Modifier",
+                            "hasDefault": true,
+                            "composableSlot": false,
+                            "composableSlotReceiver": null,
+                            "nullable": false,
+                            "noArgConstructible": false,
+                            "noArgFactory": null,
+                            "scopeDslReceiver": null,
+                            "lambdaReturnTypeFqn": null
+                        },
+                        {
+                            "name": "onLongClick",
+                            "type": "(() -> Unit)?",
+                            "typeFqn": "kotlin.Function0",
+                            "hasDefault": true,
+                            "composableSlot": false,
+                            "composableSlotReceiver": null,
+                            "nullable": true,
+                            "noArgConstructible": false,
+                            "noArgFactory": null,
+                            "scopeDslReceiver": null,
+                            "lambdaReturnTypeFqn": "kotlin.Unit"
+                        },
+                        {
+                            "name": "onLongClickLabel",
+                            "type": "String?",
+                            "typeFqn": "kotlin.String",
+                            "hasDefault": true,
+                            "composableSlot": false,
+                            "composableSlotReceiver": null,
+                            "nullable": true,
+                            "noArgConstructible": false,
+                            "noArgFactory": null,
+                            "scopeDslReceiver": null,
+                            "lambdaReturnTypeFqn": null
+                        },
+                        {
+                            "name": "enabled",
+                            "type": "Boolean",
+                            "typeFqn": "kotlin.Boolean",
+                            "hasDefault": true,
+                            "composableSlot": false,
+                            "composableSlotReceiver": null,
+                            "nullable": false,
+                            "noArgConstructible": false,
+                            "noArgFactory": null,
+                            "scopeDslReceiver": null,
+                            "lambdaReturnTypeFqn": null
+                        },
+                        {
+                            "name": "shape",
+                            "type": "Shape",
+                            "typeFqn": "androidx.compose.ui.graphics.Shape",
+                            "hasDefault": true,
+                            "composableSlot": false,
+                            "composableSlotReceiver": null,
+                            "nullable": false,
+                            "noArgConstructible": false,
+                            "noArgFactory": null,
+                            "scopeDslReceiver": null,
+                            "lambdaReturnTypeFqn": null
+                        },
+                        {
+                            "name": "colors",
+                            "type": "ButtonColors",
+                            "typeFqn": "androidx.wear.compose.material3.ButtonColors",
+                            "hasDefault": true,
+                            "composableSlot": false,
+                            "composableSlotReceiver": null,
+                            "nullable": false,
+                            "noArgConstructible": false,
+                            "noArgFactory": null,
+                            "scopeDslReceiver": null,
+                            "lambdaReturnTypeFqn": null
+                        },
+                        {
+                            "name": "border",
+                            "type": "BorderStroke?",
+                            "typeFqn": "androidx.compose.foundation.BorderStroke",
+                            "hasDefault": true,
+                            "composableSlot": false,
+                            "composableSlotReceiver": null,
+                            "nullable": true,
+                            "noArgConstructible": false,
+                            "noArgFactory": null,
+                            "scopeDslReceiver": null,
+                            "lambdaReturnTypeFqn": null
+                        },
+                        {
+                            "name": "contentPadding",
+                            "type": "PaddingValues",
+                            "typeFqn": "androidx.compose.foundation.layout.PaddingValues",
+                            "hasDefault": true,
+                            "composableSlot": false,
+                            "composableSlotReceiver": null,
+                            "nullable": false,
+                            "noArgConstructible": false,
+                            "noArgFactory": null,
+                            "scopeDslReceiver": null,
+                            "lambdaReturnTypeFqn": null
+                        },
+                        {
+                            "name": "interactionSource",
+                            "type": "MutableInteractionSource?",
+                            "typeFqn": "androidx.compose.foundation.interaction.MutableInteractionSource",
+                            "hasDefault": true,
+                            "composableSlot": false,
+                            "composableSlotReceiver": null,
+                            "nullable": true,
+                            "noArgConstructible": false,
+                            "noArgFactory": null,
+                            "scopeDslReceiver": null,
+                            "lambdaReturnTypeFqn": null
+                        },
+                        {
+                            "name": "transformation",
+                            "type": "SurfaceTransformation?",
+                            "typeFqn": "androidx.wear.compose.material3.SurfaceTransformation",
+                            "hasDefault": true,
+                            "composableSlot": false,
+                            "composableSlotReceiver": null,
+                            "nullable": true,
+                            "noArgConstructible": false,
+                            "noArgFactory": null,
+                            "scopeDslReceiver": null,
+                            "lambdaReturnTypeFqn": null
+                        },
+                        {
+                            "name": "content",
+                            "type": "RowScope.() -> Unit",
+                            "typeFqn": "kotlin.Function1",
+                            "hasDefault": false,
+                            "composableSlot": true,
+                            "composableSlotReceiver": "androidx.compose.foundation.layout.RowScope",
+                            "nullable": false,
+                            "noArgConstructible": false,
+                            "noArgFactory": null,
+                            "scopeDslReceiver": null,
+                            "lambdaReturnTypeFqn": "kotlin.Unit"
+                        }
+                    ]
+                },
+                {
+                    "descriptor": "(Lkotlin/jvm/functions/Function0;Landroidx/compose/ui/graphics/painter/Painter;Landroidx/compose/ui/Modifier;Lkotlin/jvm/functions/Function0;Ljava/lang/String;ZLandroidx/compose/ui/graphics/painter/Painter;Landroidx/compose/ui/graphics/Shape;Landroidx/wear/compose/material3/ButtonColors;Landroidx/compose/foundation/BorderStroke;Landroidx/compose/foundation/layout/PaddingValues;Landroidx/compose/foundation/interaction/MutableInteractionSource;Landroidx/wear/compose/material3/SurfaceTransformation;Lkotlin/jvm/functions/Function3;Landroidx/compose/runtime/Composer;III)V",
+                    "parameters": [
+                        {
+                            "name": "onClick",
+                            "type": "() -> Unit",
+                            "typeFqn": "kotlin.Function0",
+                            "hasDefault": false,
+                            "composableSlot": false,
+                            "composableSlotReceiver": null,
+                            "nullable": false,
+                            "noArgConstructible": false,
+                            "noArgFactory": null,
+                            "scopeDslReceiver": null,
+                            "lambdaReturnTypeFqn": "kotlin.Unit"
+                        },
+                        {
+                            "name": "containerPainter",
+                            "type": "Painter",
+                            "typeFqn": "androidx.compose.ui.graphics.painter.Painter",
+                            "hasDefault": false,
+                            "composableSlot": false,
+                            "composableSlotReceiver": null,
+                            "nullable": false,
+                            "noArgConstructible": false,
+                            "noArgFactory": null,
+                            "scopeDslReceiver": null,
+                            "lambdaReturnTypeFqn": null
+                        },
+                        {
+                            "name": "modifier",
+                            "type": "Modifier",
+                            "typeFqn": "androidx.compose.ui.Modifier",
+                            "hasDefault": true,
+                            "composableSlot": false,
+                            "composableSlotReceiver": null,
+                            "nullable": false,
+                            "noArgConstructible": false,
+                            "noArgFactory": null,
+                            "scopeDslReceiver": null,
+                            "lambdaReturnTypeFqn": null
+                        },
+                        {
+                            "name": "onLongClick",
+                            "type": "(() -> Unit)?",
+                            "typeFqn": "kotlin.Function0",
+                            "hasDefault": true,
+                            "composableSlot": false,
+                            "composableSlotReceiver": null,
+                            "nullable": true,
+                            "noArgConstructible": false,
+                            "noArgFactory": null,
+                            "scopeDslReceiver": null,
+                            "lambdaReturnTypeFqn": "kotlin.Unit"
+                        },
+                        {
+                            "name": "onLongClickLabel",
+                            "type": "String?",
+                            "typeFqn": "kotlin.String",
+                            "hasDefault": true,
+                            "composableSlot": false,
+                            "composableSlotReceiver": null,
+                            "nullable": true,
+                            "noArgConstructible": false,
+                            "noArgFactory": null,
+                            "scopeDslReceiver": null,
+                            "lambdaReturnTypeFqn": null
+                        },
+                        {
+                            "name": "enabled",
+                            "type": "Boolean",
+                            "typeFqn": "kotlin.Boolean",
+                            "hasDefault": true,
+                            "composableSlot": false,
+                            "composableSlotReceiver": null,
+                            "nullable": false,
+                            "noArgConstructible": false,
+                            "noArgFactory": null,
+                            "scopeDslReceiver": null,
+                            "lambdaReturnTypeFqn": null
+                        },
+                        {
+                            "name": "disabledContainerPainter",
+                            "type": "Painter",
+                            "typeFqn": "androidx.compose.ui.graphics.painter.Painter",
+                            "hasDefault": true,
+                            "composableSlot": false,
+                            "composableSlotReceiver": null,
+                            "nullable": false,
+                            "noArgConstructible": false,
+                            "noArgFactory": null,
+                            "scopeDslReceiver": null,
+                            "lambdaReturnTypeFqn": null
+                        },
+                        {
+                            "name": "shape",
+                            "type": "Shape",
+                            "typeFqn": "androidx.compose.ui.graphics.Shape",
+                            "hasDefault": true,
+                            "composableSlot": false,
+                            "composableSlotReceiver": null,
+                            "nullable": false,
+                            "noArgConstructible": false,
+                            "noArgFactory": null,
+                            "scopeDslReceiver": null,
+                            "lambdaReturnTypeFqn": null
+                        },
+                        {
+                            "name": "colors",
+                            "type": "ButtonColors",
+                            "typeFqn": "androidx.wear.compose.material3.ButtonColors",
+                            "hasDefault": true,
+                            "composableSlot": false,
+                            "composableSlotReceiver": null,
+                            "nullable": false,
+                            "noArgConstructible": false,
+                            "noArgFactory": null,
+                            "scopeDslReceiver": null,
+                            "lambdaReturnTypeFqn": null
+                        },
+                        {
+                            "name": "border",
+                            "type": "BorderStroke?",
+                            "typeFqn": "androidx.compose.foundation.BorderStroke",
+                            "hasDefault": true,
+                            "composableSlot": false,
+                            "composableSlotReceiver": null,
+                            "nullable": true,
+                            "noArgConstructible": false,
+                            "noArgFactory": null,
+                            "scopeDslReceiver": null,
+                            "lambdaReturnTypeFqn": null
+                        },
+                        {
+                            "name": "contentPadding",
+                            "type": "PaddingValues",
+                            "typeFqn": "androidx.compose.foundation.layout.PaddingValues",
+                            "hasDefault": true,
+                            "composableSlot": false,
+                            "composableSlotReceiver": null,
+                            "nullable": false,
+                            "noArgConstructible": false,
+                            "noArgFactory": null,
+                            "scopeDslReceiver": null,
+                            "lambdaReturnTypeFqn": null
+                        },
+                        {
+                            "name": "interactionSource",
+                            "type": "MutableInteractionSource?",
+                            "typeFqn": "androidx.compose.foundation.interaction.MutableInteractionSource",
+                            "hasDefault": true,
+                            "composableSlot": false,
+                            "composableSlotReceiver": null,
+                            "nullable": true,
+                            "noArgConstructible": false,
+                            "noArgFactory": null,
+                            "scopeDslReceiver": null,
+                            "lambdaReturnTypeFqn": null
+                        },
+                        {
+                            "name": "transformation",
+                            "type": "SurfaceTransformation?",
+                            "typeFqn": "androidx.wear.compose.material3.SurfaceTransformation",
+                            "hasDefault": true,
+                            "composableSlot": false,
+                            "composableSlotReceiver": null,
+                            "nullable": true,
+                            "noArgConstructible": false,
+                            "noArgFactory": null,
+                            "scopeDslReceiver": null,
+                            "lambdaReturnTypeFqn": null
+                        },
+                        {
+                            "name": "content",
+                            "type": "RowScope.() -> Unit",
+                            "typeFqn": "kotlin.Function1",
+                            "hasDefault": false,
+                            "composableSlot": true,
+                            "composableSlotReceiver": "androidx.compose.foundation.layout.RowScope",
+                            "nullable": false,
+                            "noArgConstructible": false,
+                            "noArgFactory": null,
+                            "scopeDslReceiver": null,
+                            "lambdaReturnTypeFqn": "kotlin.Unit"
+                        }
+                    ]
+                },
+                {
+                    "descriptor": "(Lkotlin/jvm/functions/Function0;Landroidx/compose/ui/Modifier;Lkotlin/jvm/functions/Function0;Ljava/lang/String;Lkotlin/jvm/functions/Function3;Lkotlin/jvm/functions/Function3;ZLandroidx/compose/ui/graphics/Shape;Landroidx/wear/compose/material3/ButtonColors;Landroidx/compose/foundation/BorderStroke;Landroidx/compose/foundation/layout/PaddingValues;Landroidx/compose/foundation/interaction/MutableInteractionSource;Landroidx/wear/compose/material3/SurfaceTransformation;Lkotlin/jvm/functions/Function3;Landroidx/compose/runtime/Composer;III)V",
+                    "parameters": [
+                        {
+                            "name": "onClick",
+                            "type": "() -> Unit",
+                            "typeFqn": "kotlin.Function0",
+                            "hasDefault": false,
+                            "composableSlot": false,
+                            "composableSlotReceiver": null,
+                            "nullable": false,
+                            "noArgConstructible": false,
+                            "noArgFactory": null,
+                            "scopeDslReceiver": null,
+                            "lambdaReturnTypeFqn": "kotlin.Unit"
+                        },
+                        {
+                            "name": "modifier",
+                            "type": "Modifier",
+                            "typeFqn": "androidx.compose.ui.Modifier",
+                            "hasDefault": true,
+                            "composableSlot": false,
+                            "composableSlotReceiver": null,
+                            "nullable": false,
+                            "noArgConstructible": false,
+                            "noArgFactory": null,
+                            "scopeDslReceiver": null,
+                            "lambdaReturnTypeFqn": null
+                        },
+                        {
+                            "name": "onLongClick",
+                            "type": "(() -> Unit)?",
+                            "typeFqn": "kotlin.Function0",
+                            "hasDefault": true,
+                            "composableSlot": false,
+                            "composableSlotReceiver": null,
+                            "nullable": true,
+                            "noArgConstructible": false,
+                            "noArgFactory": null,
+                            "scopeDslReceiver": null,
+                            "lambdaReturnTypeFqn": "kotlin.Unit"
+                        },
+                        {
+                            "name": "onLongClickLabel",
+                            "type": "String?",
+                            "typeFqn": "kotlin.String",
+                            "hasDefault": true,
+                            "composableSlot": false,
+                            "composableSlotReceiver": null,
+                            "nullable": true,
+                            "noArgConstructible": false,
+                            "noArgFactory": null,
+                            "scopeDslReceiver": null,
+                            "lambdaReturnTypeFqn": null
+                        },
+                        {
+                            "name": "secondaryLabel",
+                            "type": "(RowScope.() -> Unit)?",
+                            "typeFqn": "kotlin.Function1",
+                            "hasDefault": true,
+                            "composableSlot": true,
+                            "composableSlotReceiver": "androidx.compose.foundation.layout.RowScope",
+                            "nullable": true,
+                            "noArgConstructible": false,
+                            "noArgFactory": null,
+                            "scopeDslReceiver": null,
+                            "lambdaReturnTypeFqn": "kotlin.Unit"
+                        },
+                        {
+                            "name": "icon",
+                            "type": "(BoxScope.() -> Unit)?",
+                            "typeFqn": "kotlin.Function1",
+                            "hasDefault": true,
+                            "composableSlot": true,
+                            "composableSlotReceiver": "androidx.compose.foundation.layout.BoxScope",
+                            "nullable": true,
+                            "noArgConstructible": false,
+                            "noArgFactory": null,
+                            "scopeDslReceiver": null,
+                            "lambdaReturnTypeFqn": "kotlin.Unit"
+                        },
+                        {
+                            "name": "enabled",
+                            "type": "Boolean",
+                            "typeFqn": "kotlin.Boolean",
+                            "hasDefault": true,
+                            "composableSlot": false,
+                            "composableSlotReceiver": null,
+                            "nullable": false,
+                            "noArgConstructible": false,
+                            "noArgFactory": null,
+                            "scopeDslReceiver": null,
+                            "lambdaReturnTypeFqn": null
+                        },
+                        {
+                            "name": "shape",
+                            "type": "Shape",
+                            "typeFqn": "androidx.compose.ui.graphics.Shape",
+                            "hasDefault": true,
+                            "composableSlot": false,
+                            "composableSlotReceiver": null,
+                            "nullable": false,
+                            "noArgConstructible": false,
+                            "noArgFactory": null,
+                            "scopeDslReceiver": null,
+                            "lambdaReturnTypeFqn": null
+                        },
+                        {
+                            "name": "colors",
+                            "type": "ButtonColors",
+                            "typeFqn": "androidx.wear.compose.material3.ButtonColors",
+                            "hasDefault": true,
+                            "composableSlot": false,
+                            "composableSlotReceiver": null,
+                            "nullable": false,
+                            "noArgConstructible": false,
+                            "noArgFactory": null,
+                            "scopeDslReceiver": null,
+                            "lambdaReturnTypeFqn": null
+                        },
+                        {
+                            "name": "border",
+                            "type": "BorderStroke?",
+                            "typeFqn": "androidx.compose.foundation.BorderStroke",
+                            "hasDefault": true,
+                            "composableSlot": false,
+                            "composableSlotReceiver": null,
+                            "nullable": true,
+                            "noArgConstructible": false,
+                            "noArgFactory": null,
+                            "scopeDslReceiver": null,
+                            "lambdaReturnTypeFqn": null
+                        },
+                        {
+                            "name": "contentPadding",
+                            "type": "PaddingValues",
+                            "typeFqn": "androidx.compose.foundation.layout.PaddingValues",
+                            "hasDefault": true,
+                            "composableSlot": false,
+                            "composableSlotReceiver": null,
+                            "nullable": false,
+                            "noArgConstructible": false,
+                            "noArgFactory": null,
+                            "scopeDslReceiver": null,
+                            "lambdaReturnTypeFqn": null
+                        },
+                        {
+                            "name": "interactionSource",
+                            "type": "MutableInteractionSource?",
+                            "typeFqn": "androidx.compose.foundation.interaction.MutableInteractionSource",
+                            "hasDefault": true,
+                            "composableSlot": false,
+                            "composableSlotReceiver": null,
+                            "nullable": true,
+                            "noArgConstructible": false,
+                            "noArgFactory": null,
+                            "scopeDslReceiver": null,
+                            "lambdaReturnTypeFqn": null
+                        },
+                        {
+                            "name": "transformation",
+                            "type": "SurfaceTransformation?",
+                            "typeFqn": "androidx.wear.compose.material3.SurfaceTransformation",
+                            "hasDefault": true,
+                            "composableSlot": false,
+                            "composableSlotReceiver": null,
+                            "nullable": true,
+                            "noArgConstructible": false,
+                            "noArgFactory": null,
+                            "scopeDslReceiver": null,
+                            "lambdaReturnTypeFqn": null
+                        },
+                        {
+                            "name": "label",
+                            "type": "RowScope.() -> Unit",
+                            "typeFqn": "kotlin.Function1",
+                            "hasDefault": false,
+                            "composableSlot": true,
+                            "composableSlotReceiver": "androidx.compose.foundation.layout.RowScope",
+                            "nullable": false,
+                            "noArgConstructible": false,
+                            "noArgFactory": null,
+                            "scopeDslReceiver": null,
+                            "lambdaReturnTypeFqn": "kotlin.Unit"
+                        }
+                    ]
+                },
+                {
+                    "descriptor": "(Lkotlin/jvm/functions/Function0;Landroidx/compose/ui/graphics/painter/Painter;Landroidx/compose/ui/Modifier;Lkotlin/jvm/functions/Function0;Ljava/lang/String;Lkotlin/jvm/functions/Function3;Lkotlin/jvm/functions/Function3;ZLandroidx/compose/ui/graphics/painter/Painter;Landroidx/compose/ui/graphics/Shape;Landroidx/wear/compose/material3/ButtonColors;Landroidx/compose/foundation/BorderStroke;Landroidx/compose/foundation/layout/PaddingValues;Landroidx/compose/foundation/interaction/MutableInteractionSource;Landroidx/wear/compose/material3/SurfaceTransformation;Lkotlin/jvm/functions/Function3;Landroidx/compose/runtime/Composer;III)V",
+                    "parameters": [
+                        {
+                            "name": "onClick",
+                            "type": "() -> Unit",
+                            "typeFqn": "kotlin.Function0",
+                            "hasDefault": false,
+                            "composableSlot": false,
+                            "composableSlotReceiver": null,
+                            "nullable": false,
+                            "noArgConstructible": false,
+                            "noArgFactory": null,
+                            "scopeDslReceiver": null,
+                            "lambdaReturnTypeFqn": "kotlin.Unit"
+                        },
+                        {
+                            "name": "containerPainter",
+                            "type": "Painter",
+                            "typeFqn": "androidx.compose.ui.graphics.painter.Painter",
+                            "hasDefault": false,
+                            "composableSlot": false,
+                            "composableSlotReceiver": null,
+                            "nullable": false,
+                            "noArgConstructible": false,
+                            "noArgFactory": null,
+                            "scopeDslReceiver": null,
+                            "lambdaReturnTypeFqn": null
+                        },
+                        {
+                            "name": "modifier",
+                            "type": "Modifier",
+                            "typeFqn": "androidx.compose.ui.Modifier",
+                            "hasDefault": true,
+                            "composableSlot": false,
+                            "composableSlotReceiver": null,
+                            "nullable": false,
+                            "noArgConstructible": false,
+                            "noArgFactory": null,
+                            "scopeDslReceiver": null,
+                            "lambdaReturnTypeFqn": null
+                        },
+                        {
+                            "name": "onLongClick",
+                            "type": "(() -> Unit)?",
+                            "typeFqn": "kotlin.Function0",
+                            "hasDefault": true,
+                            "composableSlot": false,
+                            "composableSlotReceiver": null,
+                            "nullable": true,
+                            "noArgConstructible": false,
+                            "noArgFactory": null,
+                            "scopeDslReceiver": null,
+                            "lambdaReturnTypeFqn": "kotlin.Unit"
+                        },
+                        {
+                            "name": "onLongClickLabel",
+                            "type": "String?",
+                            "typeFqn": "kotlin.String",
+                            "hasDefault": true,
+                            "composableSlot": false,
+                            "composableSlotReceiver": null,
+                            "nullable": true,
+                            "noArgConstructible": false,
+                            "noArgFactory": null,
+                            "scopeDslReceiver": null,
+                            "lambdaReturnTypeFqn": null
+                        },
+                        {
+                            "name": "secondaryLabel",
+                            "type": "(RowScope.() -> Unit)?",
+                            "typeFqn": "kotlin.Function1",
+                            "hasDefault": true,
+                            "composableSlot": true,
+                            "composableSlotReceiver": "androidx.compose.foundation.layout.RowScope",
+                            "nullable": true,
+                            "noArgConstructible": false,
+                            "noArgFactory": null,
+                            "scopeDslReceiver": null,
+                            "lambdaReturnTypeFqn": "kotlin.Unit"
+                        },
+                        {
+                            "name": "icon",
+                            "type": "(BoxScope.() -> Unit)?",
+                            "typeFqn": "kotlin.Function1",
+                            "hasDefault": true,
+                            "composableSlot": true,
+                            "composableSlotReceiver": "androidx.compose.foundation.layout.BoxScope",
+                            "nullable": true,
+                            "noArgConstructible": false,
+                            "noArgFactory": null,
+                            "scopeDslReceiver": null,
+                            "lambdaReturnTypeFqn": "kotlin.Unit"
+                        },
+                        {
+                            "name": "enabled",
+                            "type": "Boolean",
+                            "typeFqn": "kotlin.Boolean",
+                            "hasDefault": true,
+                            "composableSlot": false,
+                            "composableSlotReceiver": null,
+                            "nullable": false,
+                            "noArgConstructible": false,
+                            "noArgFactory": null,
+                            "scopeDslReceiver": null,
+                            "lambdaReturnTypeFqn": null
+                        },
+                        {
+                            "name": "disabledContainerPainter",
+                            "type": "Painter",
+                            "typeFqn": "androidx.compose.ui.graphics.painter.Painter",
+                            "hasDefault": true,
+                            "composableSlot": false,
+                            "composableSlotReceiver": null,
+                            "nullable": false,
+                            "noArgConstructible": false,
+                            "noArgFactory": null,
+                            "scopeDslReceiver": null,
+                            "lambdaReturnTypeFqn": null
+                        },
+                        {
+                            "name": "shape",
+                            "type": "Shape",
+                            "typeFqn": "androidx.compose.ui.graphics.Shape",
+                            "hasDefault": true,
+                            "composableSlot": false,
+                            "composableSlotReceiver": null,
+                            "nullable": false,
+                            "noArgConstructible": false,
+                            "noArgFactory": null,
+                            "scopeDslReceiver": null,
+                            "lambdaReturnTypeFqn": null
+                        },
+                        {
+                            "name": "colors",
+                            "type": "ButtonColors",
+                            "typeFqn": "androidx.wear.compose.material3.ButtonColors",
+                            "hasDefault": true,
+                            "composableSlot": false,
+                            "composableSlotReceiver": null,
+                            "nullable": false,
+                            "noArgConstructible": false,
+                            "noArgFactory": null,
+                            "scopeDslReceiver": null,
+                            "lambdaReturnTypeFqn": null
+                        },
+                        {
+                            "name": "border",
+                            "type": "BorderStroke?",
+                            "typeFqn": "androidx.compose.foundation.BorderStroke",
+                            "hasDefault": true,
+                            "composableSlot": false,
+                            "composableSlotReceiver": null,
+                            "nullable": true,
+                            "noArgConstructible": false,
+                            "noArgFactory": null,
+                            "scopeDslReceiver": null,
+                            "lambdaReturnTypeFqn": null
+                        },
+                        {
+                            "name": "contentPadding",
+                            "type": "PaddingValues",
+                            "typeFqn": "androidx.compose.foundation.layout.PaddingValues",
+                            "hasDefault": true,
+                            "composableSlot": false,
+                            "composableSlotReceiver": null,
+                            "nullable": false,
+                            "noArgConstructible": false,
+                            "noArgFactory": null,
+                            "scopeDslReceiver": null,
+                            "lambdaReturnTypeFqn": null
+                        },
+                        {
+                            "name": "interactionSource",
+                            "type": "MutableInteractionSource?",
+                            "typeFqn": "androidx.compose.foundation.interaction.MutableInteractionSource",
+                            "hasDefault": true,
+                            "composableSlot": false,
+                            "composableSlotReceiver": null,
+                            "nullable": true,
+                            "noArgConstructible": false,
+                            "noArgFactory": null,
+                            "scopeDslReceiver": null,
+                            "lambdaReturnTypeFqn": null
+                        },
+                        {
+                            "name": "transformation",
+                            "type": "SurfaceTransformation?",
+                            "typeFqn": "androidx.wear.compose.material3.SurfaceTransformation",
+                            "hasDefault": true,
+                            "composableSlot": false,
+                            "composableSlotReceiver": null,
+                            "nullable": true,
+                            "noArgConstructible": false,
+                            "noArgFactory": null,
+                            "scopeDslReceiver": null,
+                            "lambdaReturnTypeFqn": null
+                        },
+                        {
+                            "name": "label",
+                            "type": "RowScope.() -> Unit",
+                            "typeFqn": "kotlin.Function1",
+                            "hasDefault": false,
+                            "composableSlot": true,
+                            "composableSlotReceiver": "androidx.compose.foundation.layout.RowScope",
+                            "nullable": false,
+                            "noArgConstructible": false,
+                            "noArgFactory": null,
+                            "scopeDslReceiver": null,
+                            "lambdaReturnTypeFqn": "kotlin.Unit"
+                        }
+                    ]
+                }
+            ]
         },
         {
             "canonicalId": "wear/androidx.wear.compose.material3.IconButtonKt.FilledIconButton",
@@ -2087,7 +4090,144 @@
             "overloadsCollided": false,
             "builder": null,
             "requiredOptIns": [],
-            "androidxOptIns": []
+            "androidxOptIns": [],
+            "overloads": [
+                {
+                    "descriptor": "(Lkotlin/jvm/functions/Function0;Landroidx/compose/ui/Modifier;Lkotlin/jvm/functions/Function0;Ljava/lang/String;ZLandroidx/wear/compose/material3/IconButtonShapes;Landroidx/wear/compose/material3/IconButtonColors;Landroidx/compose/foundation/BorderStroke;Landroidx/compose/foundation/interaction/MutableInteractionSource;Lkotlin/jvm/functions/Function3;Landroidx/compose/runtime/Composer;II)V",
+                    "parameters": [
+                        {
+                            "name": "onClick",
+                            "type": "() -> Unit",
+                            "typeFqn": "kotlin.Function0",
+                            "hasDefault": false,
+                            "composableSlot": false,
+                            "composableSlotReceiver": null,
+                            "nullable": false,
+                            "noArgConstructible": false,
+                            "noArgFactory": null,
+                            "scopeDslReceiver": null,
+                            "lambdaReturnTypeFqn": "kotlin.Unit"
+                        },
+                        {
+                            "name": "modifier",
+                            "type": "Modifier",
+                            "typeFqn": "androidx.compose.ui.Modifier",
+                            "hasDefault": true,
+                            "composableSlot": false,
+                            "composableSlotReceiver": null,
+                            "nullable": false,
+                            "noArgConstructible": false,
+                            "noArgFactory": null,
+                            "scopeDslReceiver": null,
+                            "lambdaReturnTypeFqn": null
+                        },
+                        {
+                            "name": "onLongClick",
+                            "type": "(() -> Unit)?",
+                            "typeFqn": "kotlin.Function0",
+                            "hasDefault": true,
+                            "composableSlot": false,
+                            "composableSlotReceiver": null,
+                            "nullable": true,
+                            "noArgConstructible": false,
+                            "noArgFactory": null,
+                            "scopeDslReceiver": null,
+                            "lambdaReturnTypeFqn": "kotlin.Unit"
+                        },
+                        {
+                            "name": "onLongClickLabel",
+                            "type": "String?",
+                            "typeFqn": "kotlin.String",
+                            "hasDefault": true,
+                            "composableSlot": false,
+                            "composableSlotReceiver": null,
+                            "nullable": true,
+                            "noArgConstructible": false,
+                            "noArgFactory": null,
+                            "scopeDslReceiver": null,
+                            "lambdaReturnTypeFqn": null
+                        },
+                        {
+                            "name": "enabled",
+                            "type": "Boolean",
+                            "typeFqn": "kotlin.Boolean",
+                            "hasDefault": true,
+                            "composableSlot": false,
+                            "composableSlotReceiver": null,
+                            "nullable": false,
+                            "noArgConstructible": false,
+                            "noArgFactory": null,
+                            "scopeDslReceiver": null,
+                            "lambdaReturnTypeFqn": null
+                        },
+                        {
+                            "name": "shapes",
+                            "type": "IconButtonShapes",
+                            "typeFqn": "androidx.wear.compose.material3.IconButtonShapes",
+                            "hasDefault": true,
+                            "composableSlot": false,
+                            "composableSlotReceiver": null,
+                            "nullable": false,
+                            "noArgConstructible": false,
+                            "noArgFactory": null,
+                            "scopeDslReceiver": null,
+                            "lambdaReturnTypeFqn": null
+                        },
+                        {
+                            "name": "colors",
+                            "type": "IconButtonColors",
+                            "typeFqn": "androidx.wear.compose.material3.IconButtonColors",
+                            "hasDefault": true,
+                            "composableSlot": false,
+                            "composableSlotReceiver": null,
+                            "nullable": false,
+                            "noArgConstructible": false,
+                            "noArgFactory": null,
+                            "scopeDslReceiver": null,
+                            "lambdaReturnTypeFqn": null
+                        },
+                        {
+                            "name": "border",
+                            "type": "BorderStroke?",
+                            "typeFqn": "androidx.compose.foundation.BorderStroke",
+                            "hasDefault": true,
+                            "composableSlot": false,
+                            "composableSlotReceiver": null,
+                            "nullable": true,
+                            "noArgConstructible": false,
+                            "noArgFactory": null,
+                            "scopeDslReceiver": null,
+                            "lambdaReturnTypeFqn": null
+                        },
+                        {
+                            "name": "interactionSource",
+                            "type": "MutableInteractionSource?",
+                            "typeFqn": "androidx.compose.foundation.interaction.MutableInteractionSource",
+                            "hasDefault": true,
+                            "composableSlot": false,
+                            "composableSlotReceiver": null,
+                            "nullable": true,
+                            "noArgConstructible": false,
+                            "noArgFactory": null,
+                            "scopeDslReceiver": null,
+                            "lambdaReturnTypeFqn": null
+                        },
+                        {
+                            "name": "content",
+                            "type": "BoxScope.() -> Unit",
+                            "typeFqn": "kotlin.Function1",
+                            "hasDefault": false,
+                            "composableSlot": true,
+                            "composableSlotReceiver": "androidx.compose.foundation.layout.BoxScope",
+                            "nullable": false,
+                            "noArgConstructible": false,
+                            "noArgFactory": null,
+                            "scopeDslReceiver": null,
+                            "lambdaReturnTypeFqn": "kotlin.Unit"
+                        }
+                    ]
+                }
+            ]
         },
         {
             "canonicalId": "wear/androidx.wear.compose.material3.IconKt.Icon",
@@ -2189,7 +4329,180 @@
             "overloadsCollided": false,
             "builder": null,
             "requiredOptIns": [],
-            "androidxOptIns": []
+            "androidxOptIns": [],
+            "overloads": [
+                {
+                    "descriptor": "(Landroidx/compose/ui/graphics/vector/ImageVector;Ljava/lang/String;Landroidx/compose/ui/Modifier;JLandroidx/compose/runtime/Composer;II)V",
+                    "parameters": [
+                        {
+                            "name": "imageVector",
+                            "type": "ImageVector",
+                            "typeFqn": "androidx.compose.ui.graphics.vector.ImageVector",
+                            "hasDefault": false,
+                            "composableSlot": false,
+                            "composableSlotReceiver": null,
+                            "nullable": false,
+                            "noArgConstructible": false,
+                            "noArgFactory": null,
+                            "scopeDslReceiver": null,
+                            "lambdaReturnTypeFqn": null
+                        },
+                        {
+                            "name": "contentDescription",
+                            "type": "String?",
+                            "typeFqn": "kotlin.String",
+                            "hasDefault": false,
+                            "composableSlot": false,
+                            "composableSlotReceiver": null,
+                            "nullable": true,
+                            "noArgConstructible": false,
+                            "noArgFactory": null,
+                            "scopeDslReceiver": null,
+                            "lambdaReturnTypeFqn": null
+                        },
+                        {
+                            "name": "modifier",
+                            "type": "Modifier",
+                            "typeFqn": "androidx.compose.ui.Modifier",
+                            "hasDefault": true,
+                            "composableSlot": false,
+                            "composableSlotReceiver": null,
+                            "nullable": false,
+                            "noArgConstructible": false,
+                            "noArgFactory": null,
+                            "scopeDslReceiver": null,
+                            "lambdaReturnTypeFqn": null
+                        },
+                        {
+                            "name": "tint",
+                            "type": "Color",
+                            "typeFqn": "androidx.compose.ui.graphics.Color",
+                            "hasDefault": true,
+                            "composableSlot": false,
+                            "composableSlotReceiver": null,
+                            "nullable": false,
+                            "noArgConstructible": false,
+                            "noArgFactory": null,
+                            "scopeDslReceiver": null,
+                            "lambdaReturnTypeFqn": null
+                        }
+                    ]
+                },
+                {
+                    "descriptor": "(Landroidx/compose/ui/graphics/ImageBitmap;Ljava/lang/String;Landroidx/compose/ui/Modifier;JLandroidx/compose/runtime/Composer;II)V",
+                    "parameters": [
+                        {
+                            "name": "bitmap",
+                            "type": "ImageBitmap",
+                            "typeFqn": "androidx.compose.ui.graphics.ImageBitmap",
+                            "hasDefault": false,
+                            "composableSlot": false,
+                            "composableSlotReceiver": null,
+                            "nullable": false,
+                            "noArgConstructible": false,
+                            "noArgFactory": null,
+                            "scopeDslReceiver": null,
+                            "lambdaReturnTypeFqn": null
+                        },
+                        {
+                            "name": "contentDescription",
+                            "type": "String?",
+                            "typeFqn": "kotlin.String",
+                            "hasDefault": false,
+                            "composableSlot": false,
+                            "composableSlotReceiver": null,
+                            "nullable": true,
+                            "noArgConstructible": false,
+                            "noArgFactory": null,
+                            "scopeDslReceiver": null,
+                            "lambdaReturnTypeFqn": null
+                        },
+                        {
+                            "name": "modifier",
+                            "type": "Modifier",
+                            "typeFqn": "androidx.compose.ui.Modifier",
+                            "hasDefault": true,
+                            "composableSlot": false,
+                            "composableSlotReceiver": null,
+                            "nullable": false,
+                            "noArgConstructible": false,
+                            "noArgFactory": null,
+                            "scopeDslReceiver": null,
+                            "lambdaReturnTypeFqn": null
+                        },
+                        {
+                            "name": "tint",
+                            "type": "Color",
+                            "typeFqn": "androidx.compose.ui.graphics.Color",
+                            "hasDefault": true,
+                            "composableSlot": false,
+                            "composableSlotReceiver": null,
+                            "nullable": false,
+                            "noArgConstructible": false,
+                            "noArgFactory": null,
+                            "scopeDslReceiver": null,
+                            "lambdaReturnTypeFqn": null
+                        }
+                    ]
+                },
+                {
+                    "descriptor": "(Landroidx/compose/ui/graphics/painter/Painter;Ljava/lang/String;Landroidx/compose/ui/Modifier;JLandroidx/compose/runtime/Composer;II)V",
+                    "parameters": [
+                        {
+                            "name": "painter",
+                            "type": "Painter",
+                            "typeFqn": "androidx.compose.ui.graphics.painter.Painter",
+                            "hasDefault": false,
+                            "composableSlot": false,
+                            "composableSlotReceiver": null,
+                            "nullable": false,
+                            "noArgConstructible": false,
+                            "noArgFactory": null,
+                            "scopeDslReceiver": null,
+                            "lambdaReturnTypeFqn": null
+                        },
+                        {
+                            "name": "contentDescription",
+                            "type": "String?",
+                            "typeFqn": "kotlin.String",
+                            "hasDefault": false,
+                            "composableSlot": false,
+                            "composableSlotReceiver": null,
+                            "nullable": true,
+                            "noArgConstructible": false,
+                            "noArgFactory": null,
+                            "scopeDslReceiver": null,
+                            "lambdaReturnTypeFqn": null
+                        },
+                        {
+                            "name": "modifier",
+                            "type": "Modifier",
+                            "typeFqn": "androidx.compose.ui.Modifier",
+                            "hasDefault": true,
+                            "composableSlot": false,
+                            "composableSlotReceiver": null,
+                            "nullable": false,
+                            "noArgConstructible": false,
+                            "noArgFactory": null,
+                            "scopeDslReceiver": null,
+                            "lambdaReturnTypeFqn": null
+                        },
+                        {
+                            "name": "tint",
+                            "type": "Color",
+                            "typeFqn": "androidx.compose.ui.graphics.Color",
+                            "hasDefault": true,
+                            "composableSlot": false,
+                            "composableSlotReceiver": null,
+                            "nullable": false,
+                            "noArgConstructible": false,
+                            "noArgFactory": null,
+                            "scopeDslReceiver": null,
+                            "lambdaReturnTypeFqn": null
+                        }
+                    ]
+                }
+            ]
         },
         {
             "canonicalId": "wear/androidx.wear.compose.material3.IconToggleButtonKt.IconToggleButton",
@@ -2364,7 +4677,131 @@
             "overloadsCollided": false,
             "builder": null,
             "requiredOptIns": [],
-            "androidxOptIns": []
+            "androidxOptIns": [],
+            "overloads": [
+                {
+                    "descriptor": "(ZLkotlin/jvm/functions/Function1;Landroidx/compose/ui/Modifier;ZLandroidx/wear/compose/material3/IconToggleButtonColors;Landroidx/compose/foundation/interaction/MutableInteractionSource;Landroidx/wear/compose/material3/IconToggleButtonShapes;Landroidx/compose/foundation/BorderStroke;Lkotlin/jvm/functions/Function3;Landroidx/compose/runtime/Composer;II)V",
+                    "parameters": [
+                        {
+                            "name": "checked",
+                            "type": "Boolean",
+                            "typeFqn": "kotlin.Boolean",
+                            "hasDefault": false,
+                            "composableSlot": false,
+                            "composableSlotReceiver": null,
+                            "nullable": false,
+                            "noArgConstructible": false,
+                            "noArgFactory": null,
+                            "scopeDslReceiver": null,
+                            "lambdaReturnTypeFqn": null
+                        },
+                        {
+                            "name": "onCheckedChange",
+                            "type": "(Boolean) -> Unit",
+                            "typeFqn": "kotlin.Function1",
+                            "hasDefault": false,
+                            "composableSlot": false,
+                            "composableSlotReceiver": null,
+                            "nullable": false,
+                            "noArgConstructible": false,
+                            "noArgFactory": null,
+                            "scopeDslReceiver": null,
+                            "lambdaReturnTypeFqn": "kotlin.Unit"
+                        },
+                        {
+                            "name": "modifier",
+                            "type": "Modifier",
+                            "typeFqn": "androidx.compose.ui.Modifier",
+                            "hasDefault": true,
+                            "composableSlot": false,
+                            "composableSlotReceiver": null,
+                            "nullable": false,
+                            "noArgConstructible": false,
+                            "noArgFactory": null,
+                            "scopeDslReceiver": null,
+                            "lambdaReturnTypeFqn": null
+                        },
+                        {
+                            "name": "enabled",
+                            "type": "Boolean",
+                            "typeFqn": "kotlin.Boolean",
+                            "hasDefault": true,
+                            "composableSlot": false,
+                            "composableSlotReceiver": null,
+                            "nullable": false,
+                            "noArgConstructible": false,
+                            "noArgFactory": null,
+                            "scopeDslReceiver": null,
+                            "lambdaReturnTypeFqn": null
+                        },
+                        {
+                            "name": "colors",
+                            "type": "IconToggleButtonColors",
+                            "typeFqn": "androidx.wear.compose.material3.IconToggleButtonColors",
+                            "hasDefault": true,
+                            "composableSlot": false,
+                            "composableSlotReceiver": null,
+                            "nullable": false,
+                            "noArgConstructible": false,
+                            "noArgFactory": null,
+                            "scopeDslReceiver": null,
+                            "lambdaReturnTypeFqn": null
+                        },
+                        {
+                            "name": "interactionSource",
+                            "type": "MutableInteractionSource?",
+                            "typeFqn": "androidx.compose.foundation.interaction.MutableInteractionSource",
+                            "hasDefault": true,
+                            "composableSlot": false,
+                            "composableSlotReceiver": null,
+                            "nullable": true,
+                            "noArgConstructible": false,
+                            "noArgFactory": null,
+                            "scopeDslReceiver": null,
+                            "lambdaReturnTypeFqn": null
+                        },
+                        {
+                            "name": "shapes",
+                            "type": "IconToggleButtonShapes",
+                            "typeFqn": "androidx.wear.compose.material3.IconToggleButtonShapes",
+                            "hasDefault": true,
+                            "composableSlot": false,
+                            "composableSlotReceiver": null,
+                            "nullable": false,
+                            "noArgConstructible": false,
+                            "noArgFactory": null,
+                            "scopeDslReceiver": null,
+                            "lambdaReturnTypeFqn": null
+                        },
+                        {
+                            "name": "border",
+                            "type": "BorderStroke?",
+                            "typeFqn": "androidx.compose.foundation.BorderStroke",
+                            "hasDefault": true,
+                            "composableSlot": false,
+                            "composableSlotReceiver": null,
+                            "nullable": true,
+                            "noArgConstructible": false,
+                            "noArgFactory": null,
+                            "scopeDslReceiver": null,
+                            "lambdaReturnTypeFqn": null
+                        },
+                        {
+                            "name": "content",
+                            "type": "BoxScope.() -> Unit",
+                            "typeFqn": "kotlin.Function1",
+                            "hasDefault": false,
+                            "composableSlot": true,
+                            "composableSlotReceiver": "androidx.compose.foundation.layout.BoxScope",
+                            "nullable": false,
+                            "noArgConstructible": false,
+                            "noArgFactory": null,
+                            "scopeDslReceiver": null,
+                            "lambdaReturnTypeFqn": "kotlin.Unit"
+                        }
+                    ]
+                }
+            ]
         },
         {
             "canonicalId": "wear/androidx.wear.compose.material3.ListHeaderKt.ListHeader",
@@ -2605,7 +5042,92 @@
             "overloadsCollided": false,
             "builder": null,
             "requiredOptIns": [],
-            "androidxOptIns": []
+            "androidxOptIns": [],
+            "overloads": [
+                {
+                    "descriptor": "(Landroidx/compose/ui/Modifier;JJLandroidx/compose/foundation/layout/PaddingValues;Landroidx/wear/compose/material3/SurfaceTransformation;Lkotlin/jvm/functions/Function3;Landroidx/compose/runtime/Composer;II)V",
+                    "parameters": [
+                        {
+                            "name": "modifier",
+                            "type": "Modifier",
+                            "typeFqn": "androidx.compose.ui.Modifier",
+                            "hasDefault": true,
+                            "composableSlot": false,
+                            "composableSlotReceiver": null,
+                            "nullable": false,
+                            "noArgConstructible": false,
+                            "noArgFactory": null,
+                            "scopeDslReceiver": null,
+                            "lambdaReturnTypeFqn": null
+                        },
+                        {
+                            "name": "backgroundColor",
+                            "type": "Color",
+                            "typeFqn": "androidx.compose.ui.graphics.Color",
+                            "hasDefault": true,
+                            "composableSlot": false,
+                            "composableSlotReceiver": null,
+                            "nullable": false,
+                            "noArgConstructible": false,
+                            "noArgFactory": null,
+                            "scopeDslReceiver": null,
+                            "lambdaReturnTypeFqn": null
+                        },
+                        {
+                            "name": "contentColor",
+                            "type": "Color",
+                            "typeFqn": "androidx.compose.ui.graphics.Color",
+                            "hasDefault": true,
+                            "composableSlot": false,
+                            "composableSlotReceiver": null,
+                            "nullable": false,
+                            "noArgConstructible": false,
+                            "noArgFactory": null,
+                            "scopeDslReceiver": null,
+                            "lambdaReturnTypeFqn": null
+                        },
+                        {
+                            "name": "contentPadding",
+                            "type": "PaddingValues",
+                            "typeFqn": "androidx.compose.foundation.layout.PaddingValues",
+                            "hasDefault": true,
+                            "composableSlot": false,
+                            "composableSlotReceiver": null,
+                            "nullable": false,
+                            "noArgConstructible": false,
+                            "noArgFactory": null,
+                            "scopeDslReceiver": null,
+                            "lambdaReturnTypeFqn": null
+                        },
+                        {
+                            "name": "transformation",
+                            "type": "SurfaceTransformation?",
+                            "typeFqn": "androidx.wear.compose.material3.SurfaceTransformation",
+                            "hasDefault": true,
+                            "composableSlot": false,
+                            "composableSlotReceiver": null,
+                            "nullable": true,
+                            "noArgConstructible": false,
+                            "noArgFactory": null,
+                            "scopeDslReceiver": null,
+                            "lambdaReturnTypeFqn": null
+                        },
+                        {
+                            "name": "content",
+                            "type": "RowScope.() -> Unit",
+                            "typeFqn": "kotlin.Function1",
+                            "hasDefault": false,
+                            "composableSlot": true,
+                            "composableSlotReceiver": "androidx.compose.foundation.layout.RowScope",
+                            "nullable": false,
+                            "noArgConstructible": false,
+                            "noArgFactory": null,
+                            "scopeDslReceiver": null,
+                            "lambdaReturnTypeFqn": "kotlin.Unit"
+                        }
+                    ]
+                }
+            ]
         },
         {
             "canonicalId": "wear/androidx.wear.compose.material3.SliderKt.Slider",
@@ -2811,7 +5333,292 @@
             "overloadsCollided": false,
             "builder": null,
             "requiredOptIns": [],
-            "androidxOptIns": []
+            "androidxOptIns": [],
+            "overloads": [
+                {
+                    "descriptor": "(FLkotlin/jvm/functions/Function1;ILandroidx/compose/ui/Modifier;Lkotlin/jvm/functions/Function2;Lkotlin/jvm/functions/Function2;ZLkotlin/ranges/ClosedFloatingPointRange;ZLandroidx/compose/ui/graphics/Shape;Landroidx/wear/compose/material3/SliderColors;Landroidx/compose/runtime/Composer;III)V",
+                    "parameters": [
+                        {
+                            "name": "value",
+                            "type": "Float",
+                            "typeFqn": "kotlin.Float",
+                            "hasDefault": false,
+                            "composableSlot": false,
+                            "composableSlotReceiver": null,
+                            "nullable": false,
+                            "noArgConstructible": false,
+                            "noArgFactory": null,
+                            "scopeDslReceiver": null,
+                            "lambdaReturnTypeFqn": null
+                        },
+                        {
+                            "name": "onValueChange",
+                            "type": "(Float) -> Unit",
+                            "typeFqn": "kotlin.Function1",
+                            "hasDefault": false,
+                            "composableSlot": false,
+                            "composableSlotReceiver": null,
+                            "nullable": false,
+                            "noArgConstructible": false,
+                            "noArgFactory": null,
+                            "scopeDslReceiver": null,
+                            "lambdaReturnTypeFqn": "kotlin.Unit"
+                        },
+                        {
+                            "name": "steps",
+                            "type": "Int",
+                            "typeFqn": "kotlin.Int",
+                            "hasDefault": false,
+                            "composableSlot": false,
+                            "composableSlotReceiver": null,
+                            "nullable": false,
+                            "noArgConstructible": false,
+                            "noArgFactory": null,
+                            "scopeDslReceiver": null,
+                            "lambdaReturnTypeFqn": null
+                        },
+                        {
+                            "name": "modifier",
+                            "type": "Modifier",
+                            "typeFqn": "androidx.compose.ui.Modifier",
+                            "hasDefault": true,
+                            "composableSlot": false,
+                            "composableSlotReceiver": null,
+                            "nullable": false,
+                            "noArgConstructible": false,
+                            "noArgFactory": null,
+                            "scopeDslReceiver": null,
+                            "lambdaReturnTypeFqn": null
+                        },
+                        {
+                            "name": "decreaseIcon",
+                            "type": "() -> Unit",
+                            "typeFqn": "kotlin.Function0",
+                            "hasDefault": true,
+                            "composableSlot": true,
+                            "composableSlotReceiver": null,
+                            "nullable": false,
+                            "noArgConstructible": false,
+                            "noArgFactory": null,
+                            "scopeDslReceiver": null,
+                            "lambdaReturnTypeFqn": "kotlin.Unit"
+                        },
+                        {
+                            "name": "increaseIcon",
+                            "type": "() -> Unit",
+                            "typeFqn": "kotlin.Function0",
+                            "hasDefault": true,
+                            "composableSlot": true,
+                            "composableSlotReceiver": null,
+                            "nullable": false,
+                            "noArgConstructible": false,
+                            "noArgFactory": null,
+                            "scopeDslReceiver": null,
+                            "lambdaReturnTypeFqn": "kotlin.Unit"
+                        },
+                        {
+                            "name": "enabled",
+                            "type": "Boolean",
+                            "typeFqn": "kotlin.Boolean",
+                            "hasDefault": true,
+                            "composableSlot": false,
+                            "composableSlotReceiver": null,
+                            "nullable": false,
+                            "noArgConstructible": false,
+                            "noArgFactory": null,
+                            "scopeDslReceiver": null,
+                            "lambdaReturnTypeFqn": null
+                        },
+                        {
+                            "name": "valueRange",
+                            "type": "ClosedFloatingPointRange<Float>",
+                            "typeFqn": "kotlin.ranges.ClosedFloatingPointRange",
+                            "hasDefault": true,
+                            "composableSlot": false,
+                            "composableSlotReceiver": null,
+                            "nullable": false,
+                            "noArgConstructible": false,
+                            "noArgFactory": null,
+                            "scopeDslReceiver": null,
+                            "lambdaReturnTypeFqn": null
+                        },
+                        {
+                            "name": "segmented",
+                            "type": "Boolean",
+                            "typeFqn": "kotlin.Boolean",
+                            "hasDefault": true,
+                            "composableSlot": false,
+                            "composableSlotReceiver": null,
+                            "nullable": false,
+                            "noArgConstructible": false,
+                            "noArgFactory": null,
+                            "scopeDslReceiver": null,
+                            "lambdaReturnTypeFqn": null
+                        },
+                        {
+                            "name": "shape",
+                            "type": "Shape",
+                            "typeFqn": "androidx.compose.ui.graphics.Shape",
+                            "hasDefault": true,
+                            "composableSlot": false,
+                            "composableSlotReceiver": null,
+                            "nullable": false,
+                            "noArgConstructible": false,
+                            "noArgFactory": null,
+                            "scopeDslReceiver": null,
+                            "lambdaReturnTypeFqn": null
+                        },
+                        {
+                            "name": "colors",
+                            "type": "SliderColors",
+                            "typeFqn": "androidx.wear.compose.material3.SliderColors",
+                            "hasDefault": true,
+                            "composableSlot": false,
+                            "composableSlotReceiver": null,
+                            "nullable": false,
+                            "noArgConstructible": false,
+                            "noArgFactory": null,
+                            "scopeDslReceiver": null,
+                            "lambdaReturnTypeFqn": null
+                        }
+                    ]
+                },
+                {
+                    "descriptor": "(ILkotlin/jvm/functions/Function1;Lkotlin/ranges/IntProgression;Landroidx/compose/ui/Modifier;Lkotlin/jvm/functions/Function2;Lkotlin/jvm/functions/Function2;ZZLandroidx/compose/ui/graphics/Shape;Landroidx/wear/compose/material3/SliderColors;Landroidx/compose/runtime/Composer;II)V",
+                    "parameters": [
+                        {
+                            "name": "value",
+                            "type": "Int",
+                            "typeFqn": "kotlin.Int",
+                            "hasDefault": false,
+                            "composableSlot": false,
+                            "composableSlotReceiver": null,
+                            "nullable": false,
+                            "noArgConstructible": false,
+                            "noArgFactory": null,
+                            "scopeDslReceiver": null,
+                            "lambdaReturnTypeFqn": null
+                        },
+                        {
+                            "name": "onValueChange",
+                            "type": "(Int) -> Unit",
+                            "typeFqn": "kotlin.Function1",
+                            "hasDefault": false,
+                            "composableSlot": false,
+                            "composableSlotReceiver": null,
+                            "nullable": false,
+                            "noArgConstructible": false,
+                            "noArgFactory": null,
+                            "scopeDslReceiver": null,
+                            "lambdaReturnTypeFqn": "kotlin.Unit"
+                        },
+                        {
+                            "name": "valueProgression",
+                            "type": "IntProgression",
+                            "typeFqn": "kotlin.ranges.IntProgression",
+                            "hasDefault": false,
+                            "composableSlot": false,
+                            "composableSlotReceiver": null,
+                            "nullable": false,
+                            "noArgConstructible": false,
+                            "noArgFactory": null,
+                            "scopeDslReceiver": null,
+                            "lambdaReturnTypeFqn": null
+                        },
+                        {
+                            "name": "modifier",
+                            "type": "Modifier",
+                            "typeFqn": "androidx.compose.ui.Modifier",
+                            "hasDefault": true,
+                            "composableSlot": false,
+                            "composableSlotReceiver": null,
+                            "nullable": false,
+                            "noArgConstructible": false,
+                            "noArgFactory": null,
+                            "scopeDslReceiver": null,
+                            "lambdaReturnTypeFqn": null
+                        },
+                        {
+                            "name": "decreaseIcon",
+                            "type": "() -> Unit",
+                            "typeFqn": "kotlin.Function0",
+                            "hasDefault": true,
+                            "composableSlot": true,
+                            "composableSlotReceiver": null,
+                            "nullable": false,
+                            "noArgConstructible": false,
+                            "noArgFactory": null,
+                            "scopeDslReceiver": null,
+                            "lambdaReturnTypeFqn": "kotlin.Unit"
+                        },
+                        {
+                            "name": "increaseIcon",
+                            "type": "() -> Unit",
+                            "typeFqn": "kotlin.Function0",
+                            "hasDefault": true,
+                            "composableSlot": true,
+                            "composableSlotReceiver": null,
+                            "nullable": false,
+                            "noArgConstructible": false,
+                            "noArgFactory": null,
+                            "scopeDslReceiver": null,
+                            "lambdaReturnTypeFqn": "kotlin.Unit"
+                        },
+                        {
+                            "name": "enabled",
+                            "type": "Boolean",
+                            "typeFqn": "kotlin.Boolean",
+                            "hasDefault": true,
+                            "composableSlot": false,
+                            "composableSlotReceiver": null,
+                            "nullable": false,
+                            "noArgConstructible": false,
+                            "noArgFactory": null,
+                            "scopeDslReceiver": null,
+                            "lambdaReturnTypeFqn": null
+                        },
+                        {
+                            "name": "segmented",
+                            "type": "Boolean",
+                            "typeFqn": "kotlin.Boolean",
+                            "hasDefault": true,
+                            "composableSlot": false,
+                            "composableSlotReceiver": null,
+                            "nullable": false,
+                            "noArgConstructible": false,
+                            "noArgFactory": null,
+                            "scopeDslReceiver": null,
+                            "lambdaReturnTypeFqn": null
+                        },
+                        {
+                            "name": "shape",
+                            "type": "Shape",
+                            "typeFqn": "androidx.compose.ui.graphics.Shape",
+                            "hasDefault": true,
+                            "composableSlot": false,
+                            "composableSlotReceiver": null,
+                            "nullable": false,
+                            "noArgConstructible": false,
+                            "noArgFactory": null,
+                            "scopeDslReceiver": null,
+                            "lambdaReturnTypeFqn": null
+                        },
+                        {
+                            "name": "colors",
+                            "type": "SliderColors",
+                            "typeFqn": "androidx.wear.compose.material3.SliderColors",
+                            "hasDefault": true,
+                            "composableSlot": false,
+                            "composableSlotReceiver": null,
+                            "nullable": false,
+                            "noArgConstructible": false,
+                            "noArgFactory": null,
+                            "scopeDslReceiver": null,
+                            "lambdaReturnTypeFqn": null
+                        }
+                    ]
+                }
+            ]
         },
         {
             "canonicalId": "wear/androidx.wear.compose.material3.SwitchButtonKt.SwitchButton",
@@ -3050,7 +5857,170 @@
             "overloadsCollided": false,
             "builder": null,
             "requiredOptIns": [],
-            "androidxOptIns": []
+            "androidxOptIns": [],
+            "overloads": [
+                {
+                    "descriptor": "(ZLkotlin/jvm/functions/Function1;Landroidx/compose/ui/Modifier;ZLandroidx/compose/ui/graphics/Shape;Landroidx/wear/compose/material3/SwitchButtonColors;Landroidx/compose/foundation/layout/PaddingValues;Landroidx/compose/foundation/interaction/MutableInteractionSource;Landroidx/wear/compose/material3/SurfaceTransformation;Lkotlin/jvm/functions/Function3;Lkotlin/jvm/functions/Function3;Lkotlin/jvm/functions/Function3;Landroidx/compose/runtime/Composer;III)V",
+                    "parameters": [
+                        {
+                            "name": "checked",
+                            "type": "Boolean",
+                            "typeFqn": "kotlin.Boolean",
+                            "hasDefault": false,
+                            "composableSlot": false,
+                            "composableSlotReceiver": null,
+                            "nullable": false,
+                            "noArgConstructible": false,
+                            "noArgFactory": null,
+                            "scopeDslReceiver": null,
+                            "lambdaReturnTypeFqn": null
+                        },
+                        {
+                            "name": "onCheckedChange",
+                            "type": "(Boolean) -> Unit",
+                            "typeFqn": "kotlin.Function1",
+                            "hasDefault": false,
+                            "composableSlot": false,
+                            "composableSlotReceiver": null,
+                            "nullable": false,
+                            "noArgConstructible": false,
+                            "noArgFactory": null,
+                            "scopeDslReceiver": null,
+                            "lambdaReturnTypeFqn": "kotlin.Unit"
+                        },
+                        {
+                            "name": "modifier",
+                            "type": "Modifier",
+                            "typeFqn": "androidx.compose.ui.Modifier",
+                            "hasDefault": true,
+                            "composableSlot": false,
+                            "composableSlotReceiver": null,
+                            "nullable": false,
+                            "noArgConstructible": false,
+                            "noArgFactory": null,
+                            "scopeDslReceiver": null,
+                            "lambdaReturnTypeFqn": null
+                        },
+                        {
+                            "name": "enabled",
+                            "type": "Boolean",
+                            "typeFqn": "kotlin.Boolean",
+                            "hasDefault": true,
+                            "composableSlot": false,
+                            "composableSlotReceiver": null,
+                            "nullable": false,
+                            "noArgConstructible": false,
+                            "noArgFactory": null,
+                            "scopeDslReceiver": null,
+                            "lambdaReturnTypeFqn": null
+                        },
+                        {
+                            "name": "shape",
+                            "type": "Shape",
+                            "typeFqn": "androidx.compose.ui.graphics.Shape",
+                            "hasDefault": true,
+                            "composableSlot": false,
+                            "composableSlotReceiver": null,
+                            "nullable": false,
+                            "noArgConstructible": false,
+                            "noArgFactory": null,
+                            "scopeDslReceiver": null,
+                            "lambdaReturnTypeFqn": null
+                        },
+                        {
+                            "name": "colors",
+                            "type": "SwitchButtonColors",
+                            "typeFqn": "androidx.wear.compose.material3.SwitchButtonColors",
+                            "hasDefault": true,
+                            "composableSlot": false,
+                            "composableSlotReceiver": null,
+                            "nullable": false,
+                            "noArgConstructible": false,
+                            "noArgFactory": null,
+                            "scopeDslReceiver": null,
+                            "lambdaReturnTypeFqn": null
+                        },
+                        {
+                            "name": "contentPadding",
+                            "type": "PaddingValues",
+                            "typeFqn": "androidx.compose.foundation.layout.PaddingValues",
+                            "hasDefault": true,
+                            "composableSlot": false,
+                            "composableSlotReceiver": null,
+                            "nullable": false,
+                            "noArgConstructible": false,
+                            "noArgFactory": null,
+                            "scopeDslReceiver": null,
+                            "lambdaReturnTypeFqn": null
+                        },
+                        {
+                            "name": "interactionSource",
+                            "type": "MutableInteractionSource?",
+                            "typeFqn": "androidx.compose.foundation.interaction.MutableInteractionSource",
+                            "hasDefault": true,
+                            "composableSlot": false,
+                            "composableSlotReceiver": null,
+                            "nullable": true,
+                            "noArgConstructible": false,
+                            "noArgFactory": null,
+                            "scopeDslReceiver": null,
+                            "lambdaReturnTypeFqn": null
+                        },
+                        {
+                            "name": "transformation",
+                            "type": "SurfaceTransformation?",
+                            "typeFqn": "androidx.wear.compose.material3.SurfaceTransformation",
+                            "hasDefault": true,
+                            "composableSlot": false,
+                            "composableSlotReceiver": null,
+                            "nullable": true,
+                            "noArgConstructible": false,
+                            "noArgFactory": null,
+                            "scopeDslReceiver": null,
+                            "lambdaReturnTypeFqn": null
+                        },
+                        {
+                            "name": "icon",
+                            "type": "(BoxScope.() -> Unit)?",
+                            "typeFqn": "kotlin.Function1",
+                            "hasDefault": true,
+                            "composableSlot": true,
+                            "composableSlotReceiver": "androidx.compose.foundation.layout.BoxScope",
+                            "nullable": true,
+                            "noArgConstructible": false,
+                            "noArgFactory": null,
+                            "scopeDslReceiver": null,
+                            "lambdaReturnTypeFqn": "kotlin.Unit"
+                        },
+                        {
+                            "name": "secondaryLabel",
+                            "type": "(RowScope.() -> Unit)?",
+                            "typeFqn": "kotlin.Function1",
+                            "hasDefault": true,
+                            "composableSlot": true,
+                            "composableSlotReceiver": "androidx.compose.foundation.layout.RowScope",
+                            "nullable": true,
+                            "noArgConstructible": false,
+                            "noArgFactory": null,
+                            "scopeDslReceiver": null,
+                            "lambdaReturnTypeFqn": "kotlin.Unit"
+                        },
+                        {
+                            "name": "label",
+                            "type": "RowScope.() -> Unit",
+                            "typeFqn": "kotlin.Function1",
+                            "hasDefault": false,
+                            "composableSlot": true,
+                            "composableSlotReceiver": "androidx.compose.foundation.layout.RowScope",
+                            "nullable": false,
+                            "noArgConstructible": false,
+                            "noArgFactory": null,
+                            "scopeDslReceiver": null,
+                            "lambdaReturnTypeFqn": "kotlin.Unit"
+                        }
+                    ]
+                }
+            ]
         },
         {
             "canonicalId": "wear/androidx.wear.compose.material3.TextKt.Text",
@@ -3458,7 +6428,235 @@
             "overloadsCollided": false,
             "builder": null,
             "requiredOptIns": [],
-            "androidxOptIns": []
+            "androidxOptIns": [],
+            "overloads": [
+                {
+                    "descriptor": "(Ljava/lang/String;Landroidx/compose/ui/Modifier;JJLandroidx/compose/ui/text/font/FontStyle;Landroidx/compose/ui/text/font/FontWeight;Landroidx/compose/ui/text/font/FontFamily;JLandroidx/compose/ui/text/style/TextDecoration;Landroidx/compose/ui/text/style/TextAlign;JIZIILkotlin/jvm/functions/Function1;Landroidx/compose/ui/text/TextStyle;Landroidx/compose/runtime/Composer;III)V",
+                    "parameters": [
+                        {
+                            "name": "text",
+                            "type": "String",
+                            "typeFqn": "kotlin.String",
+                            "hasDefault": false,
+                            "composableSlot": false,
+                            "composableSlotReceiver": null,
+                            "nullable": false,
+                            "noArgConstructible": false,
+                            "noArgFactory": null,
+                            "scopeDslReceiver": null,
+                            "lambdaReturnTypeFqn": null
+                        },
+                        {
+                            "name": "modifier",
+                            "type": "Modifier",
+                            "typeFqn": "androidx.compose.ui.Modifier",
+                            "hasDefault": true,
+                            "composableSlot": false,
+                            "composableSlotReceiver": null,
+                            "nullable": false,
+                            "noArgConstructible": false,
+                            "noArgFactory": null,
+                            "scopeDslReceiver": null,
+                            "lambdaReturnTypeFqn": null
+                        },
+                        {
+                            "name": "color",
+                            "type": "Color",
+                            "typeFqn": "androidx.compose.ui.graphics.Color",
+                            "hasDefault": true,
+                            "composableSlot": false,
+                            "composableSlotReceiver": null,
+                            "nullable": false,
+                            "noArgConstructible": false,
+                            "noArgFactory": null,
+                            "scopeDslReceiver": null,
+                            "lambdaReturnTypeFqn": null
+                        },
+                        {
+                            "name": "fontSize",
+                            "type": "TextUnit",
+                            "typeFqn": "androidx.compose.ui.unit.TextUnit",
+                            "hasDefault": true,
+                            "composableSlot": false,
+                            "composableSlotReceiver": null,
+                            "nullable": false,
+                            "noArgConstructible": false,
+                            "noArgFactory": null,
+                            "scopeDslReceiver": null,
+                            "lambdaReturnTypeFqn": null
+                        },
+                        {
+                            "name": "fontStyle",
+                            "type": "FontStyle?",
+                            "typeFqn": "androidx.compose.ui.text.font.FontStyle",
+                            "hasDefault": true,
+                            "composableSlot": false,
+                            "composableSlotReceiver": null,
+                            "nullable": true,
+                            "noArgConstructible": false,
+                            "noArgFactory": null,
+                            "scopeDslReceiver": null,
+                            "lambdaReturnTypeFqn": null
+                        },
+                        {
+                            "name": "fontWeight",
+                            "type": "FontWeight?",
+                            "typeFqn": "androidx.compose.ui.text.font.FontWeight",
+                            "hasDefault": true,
+                            "composableSlot": false,
+                            "composableSlotReceiver": null,
+                            "nullable": true,
+                            "noArgConstructible": false,
+                            "noArgFactory": null,
+                            "scopeDslReceiver": null,
+                            "lambdaReturnTypeFqn": null
+                        },
+                        {
+                            "name": "fontFamily",
+                            "type": "FontFamily?",
+                            "typeFqn": "androidx.compose.ui.text.font.FontFamily",
+                            "hasDefault": true,
+                            "composableSlot": false,
+                            "composableSlotReceiver": null,
+                            "nullable": true,
+                            "noArgConstructible": false,
+                            "noArgFactory": null,
+                            "scopeDslReceiver": null,
+                            "lambdaReturnTypeFqn": null
+                        },
+                        {
+                            "name": "letterSpacing",
+                            "type": "TextUnit",
+                            "typeFqn": "androidx.compose.ui.unit.TextUnit",
+                            "hasDefault": true,
+                            "composableSlot": false,
+                            "composableSlotReceiver": null,
+                            "nullable": false,
+                            "noArgConstructible": false,
+                            "noArgFactory": null,
+                            "scopeDslReceiver": null,
+                            "lambdaReturnTypeFqn": null
+                        },
+                        {
+                            "name": "textDecoration",
+                            "type": "TextDecoration?",
+                            "typeFqn": "androidx.compose.ui.text.style.TextDecoration",
+                            "hasDefault": true,
+                            "composableSlot": false,
+                            "composableSlotReceiver": null,
+                            "nullable": true,
+                            "noArgConstructible": false,
+                            "noArgFactory": null,
+                            "scopeDslReceiver": null,
+                            "lambdaReturnTypeFqn": null
+                        },
+                        {
+                            "name": "textAlign",
+                            "type": "TextAlign?",
+                            "typeFqn": "androidx.compose.ui.text.style.TextAlign",
+                            "hasDefault": true,
+                            "composableSlot": false,
+                            "composableSlotReceiver": null,
+                            "nullable": true,
+                            "noArgConstructible": false,
+                            "noArgFactory": null,
+                            "scopeDslReceiver": null,
+                            "lambdaReturnTypeFqn": null
+                        },
+                        {
+                            "name": "lineHeight",
+                            "type": "TextUnit",
+                            "typeFqn": "androidx.compose.ui.unit.TextUnit",
+                            "hasDefault": true,
+                            "composableSlot": false,
+                            "composableSlotReceiver": null,
+                            "nullable": false,
+                            "noArgConstructible": false,
+                            "noArgFactory": null,
+                            "scopeDslReceiver": null,
+                            "lambdaReturnTypeFqn": null
+                        },
+                        {
+                            "name": "overflow",
+                            "type": "TextOverflow",
+                            "typeFqn": "androidx.compose.ui.text.style.TextOverflow",
+                            "hasDefault": true,
+                            "composableSlot": false,
+                            "composableSlotReceiver": null,
+                            "nullable": false,
+                            "noArgConstructible": false,
+                            "noArgFactory": null,
+                            "scopeDslReceiver": null,
+                            "lambdaReturnTypeFqn": null
+                        },
+                        {
+                            "name": "softWrap",
+                            "type": "Boolean",
+                            "typeFqn": "kotlin.Boolean",
+                            "hasDefault": true,
+                            "composableSlot": false,
+                            "composableSlotReceiver": null,
+                            "nullable": false,
+                            "noArgConstructible": false,
+                            "noArgFactory": null,
+                            "scopeDslReceiver": null,
+                            "lambdaReturnTypeFqn": null
+                        },
+                        {
+                            "name": "maxLines",
+                            "type": "Int",
+                            "typeFqn": "kotlin.Int",
+                            "hasDefault": true,
+                            "composableSlot": false,
+                            "composableSlotReceiver": null,
+                            "nullable": false,
+                            "noArgConstructible": false,
+                            "noArgFactory": null,
+                            "scopeDslReceiver": null,
+                            "lambdaReturnTypeFqn": null
+                        },
+                        {
+                            "name": "minLines",
+                            "type": "Int",
+                            "typeFqn": "kotlin.Int",
+                            "hasDefault": true,
+                            "composableSlot": false,
+                            "composableSlotReceiver": null,
+                            "nullable": false,
+                            "noArgConstructible": false,
+                            "noArgFactory": null,
+                            "scopeDslReceiver": null,
+                            "lambdaReturnTypeFqn": null
+                        },
+                        {
+                            "name": "onTextLayout",
+                            "type": "(TextLayoutResult) -> Unit",
+                            "typeFqn": "kotlin.Function1",
+                            "hasDefault": true,
+                            "composableSlot": false,
+                            "composableSlotReceiver": null,
+                            "nullable": false,
+                            "noArgConstructible": false,
+                            "noArgFactory": null,
+                            "scopeDslReceiver": null,
+                            "lambdaReturnTypeFqn": "kotlin.Unit"
+                        },
+                        {
+                            "name": "style",
+                            "type": "TextStyle",
+                            "typeFqn": "androidx.compose.ui.text.TextStyle",
+                            "hasDefault": true,
+                            "composableSlot": false,
+                            "composableSlotReceiver": null,
+                            "nullable": false,
+                            "noArgConstructible": false,
+                            "noArgFactory": null,
+                            "scopeDslReceiver": null,
+                            "lambdaReturnTypeFqn": null
+                        }
+                    ]
+                }
+            ]
         },
         {
             "canonicalId": "wear/io.homeassistant.companion.android.complications.views.ComplicationConfigMainViewKt.MainConfigView",
@@ -3602,7 +6800,8 @@
             "overloadsCollided": false,
             "builder": null,
             "requiredOptIns": [],
-            "androidxOptIns": []
+            "androidxOptIns": [],
+            "overloads": []
         },
         {
             "canonicalId": "wear/io.homeassistant.companion.android.conversation.views.ConversationViewKt.SpeechBubble",
@@ -3670,7 +6869,8 @@
             "overloadsCollided": false,
             "builder": null,
             "requiredOptIns": [],
-            "androidxOptIns": []
+            "androidxOptIns": [],
+            "overloads": []
         },
         {
             "canonicalId": "wear/io.homeassistant.companion.android.home.views.DetailsPanelViewKt.DetailsPanelView",
@@ -3811,7 +7011,8 @@
             "overloadsCollided": false,
             "builder": null,
             "requiredOptIns": [],
-            "androidxOptIns": []
+            "androidxOptIns": [],
+            "overloads": []
         },
         {
             "canonicalId": "wear/io.homeassistant.companion.android.home.views.EntityListViewKt.EntityViewList",
@@ -3957,7 +7158,8 @@
             "overloadsCollided": false,
             "builder": null,
             "requiredOptIns": [],
-            "androidxOptIns": []
+            "androidxOptIns": [],
+            "overloads": []
         },
         {
             "canonicalId": "wear/io.homeassistant.companion.android.home.views.EntityUiKt.EntityUi",
@@ -4062,7 +7264,8 @@
             "overloadsCollided": false,
             "builder": null,
             "requiredOptIns": [],
-            "androidxOptIns": []
+            "androidxOptIns": [],
+            "overloads": []
         },
         {
             "canonicalId": "wear/io.homeassistant.companion.android.home.views.RefreshIntervalPickerViewKt.RefreshIntervalPickerView",
@@ -4130,7 +7333,8 @@
             "overloadsCollided": false,
             "builder": null,
             "requiredOptIns": [],
-            "androidxOptIns": []
+            "androidxOptIns": [],
+            "overloads": []
         },
         {
             "canonicalId": "wear/io.homeassistant.companion.android.home.views.SelectCameraTileViewKt.SelectCameraTileView",
@@ -4201,7 +7405,8 @@
             "overloadsCollided": false,
             "builder": null,
             "requiredOptIns": [],
-            "androidxOptIns": []
+            "androidxOptIns": [],
+            "overloads": []
         },
         {
             "canonicalId": "wear/io.homeassistant.companion.android.home.views.SelectShortcutsTileViewKt.SelectShortcutsTileView",
@@ -4298,7 +7503,8 @@
             "overloadsCollided": false,
             "builder": null,
             "requiredOptIns": [],
-            "androidxOptIns": []
+            "androidxOptIns": [],
+            "overloads": []
         },
         {
             "canonicalId": "wear/io.homeassistant.companion.android.home.views.SelectTemplateTileViewKt.SelectTemplateTileView",
@@ -4369,7 +7575,8 @@
             "overloadsCollided": false,
             "builder": null,
             "requiredOptIns": [],
-            "androidxOptIns": []
+            "androidxOptIns": [],
+            "overloads": []
         },
         {
             "canonicalId": "wear/io.homeassistant.companion.android.home.views.SelectThermostatTileViewKt.SelectThermostatTileView",
@@ -4440,7 +7647,8 @@
             "overloadsCollided": false,
             "builder": null,
             "requiredOptIns": [],
-            "androidxOptIns": []
+            "androidxOptIns": [],
+            "overloads": []
         },
         {
             "canonicalId": "wear/io.homeassistant.companion.android.home.views.SensorManagerUiKt.SensorManagerUi",
@@ -4532,7 +7740,8 @@
             "overloadsCollided": false,
             "builder": null,
             "requiredOptIns": [],
-            "androidxOptIns": []
+            "androidxOptIns": [],
+            "overloads": []
         },
         {
             "canonicalId": "wear/io.homeassistant.companion.android.home.views.SensorsViewKt.SensorsView",
@@ -4598,7 +7807,8 @@
             "overloadsCollided": false,
             "builder": null,
             "requiredOptIns": [],
-            "androidxOptIns": []
+            "androidxOptIns": [],
+            "overloads": []
         },
         {
             "canonicalId": "wear/io.homeassistant.companion.android.home.views.SetShortcutsTileViewKt.SetShortcutsTileView",
@@ -4664,7 +7874,8 @@
             "overloadsCollided": false,
             "builder": null,
             "requiredOptIns": [],
-            "androidxOptIns": []
+            "androidxOptIns": [],
+            "overloads": []
         },
         {
             "canonicalId": "wear/io.homeassistant.companion.android.home.views.SettingsViewKt.SettingsView",
@@ -4964,7 +8175,8 @@
             "overloadsCollided": false,
             "builder": null,
             "requiredOptIns": [],
-            "androidxOptIns": []
+            "androidxOptIns": [],
+            "overloads": []
         },
         {
             "canonicalId": "wear/io.homeassistant.companion.android.home.views.TemplateTileSettingsViewKt.TemplateTileSettingsView",
@@ -5045,7 +8257,8 @@
             "overloadsCollided": false,
             "builder": null,
             "requiredOptIns": [],
-            "androidxOptIns": []
+            "androidxOptIns": [],
+            "overloads": []
         },
         {
             "canonicalId": "wear/io.homeassistant.companion.android.home.views.TimeTextKt.TimeText",
@@ -5098,7 +8311,8 @@
             "overloadsCollided": false,
             "builder": null,
             "requiredOptIns": [],
-            "androidxOptIns": []
+            "androidxOptIns": [],
+            "overloads": []
         },
         {
             "canonicalId": "wear/io.homeassistant.companion.android.onboarding.phoneinstall.PhoneInstallViewKt.PhoneInstallView",
@@ -5179,7 +8393,8 @@
             "overloadsCollided": false,
             "builder": null,
             "requiredOptIns": [],
-            "androidxOptIns": []
+            "androidxOptIns": [],
+            "overloads": []
         },
         {
             "canonicalId": "wear/io.homeassistant.companion.android.views.ChooseEntityViewKt.ChooseEntityView",
@@ -5302,7 +8517,8 @@
             "overloadsCollided": false,
             "builder": null,
             "requiredOptIns": [],
-            "androidxOptIns": []
+            "androidxOptIns": [],
+            "overloads": []
         },
         {
             "canonicalId": "wear/io.homeassistant.companion.android.views.ExpandableListHeaderKt.ExpandableListHeader",
@@ -5383,7 +8599,8 @@
             "overloadsCollided": false,
             "builder": null,
             "requiredOptIns": [],
-            "androidxOptIns": []
+            "androidxOptIns": [],
+            "overloads": []
         },
         {
             "canonicalId": "wear/io.homeassistant.companion.android.views.ListHeaderKt.ListHeader",
@@ -5451,7 +8668,8 @@
             "overloadsCollided": false,
             "builder": null,
             "requiredOptIns": [],
-            "androidxOptIns": []
+            "androidxOptIns": [],
+            "overloads": []
         },
         {
             "canonicalId": "wear/io.homeassistant.companion.android.views.ThemeLazyColumnKt.ThemeLazyColumn",
@@ -5519,7 +8737,8 @@
             "overloadsCollided": false,
             "builder": null,
             "requiredOptIns": [],
-            "androidxOptIns": []
+            "androidxOptIns": [],
+            "overloads": []
         }
     ],
     "builderOrphans": []
