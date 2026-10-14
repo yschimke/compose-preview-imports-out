@@ -14,10 +14,12 @@
               <g id="MultiContentMeasurePolicyImpl">
                 <g id="Box">
                   <g id="BoxKt">
-                    <image href="ideal__default.figma-raster/48.png" x="0" y="0" width="3" height="3"/>
                   </g>
                   <g id="Box">
                     <g id="Box">
+                      <g id="LayoutNodeSubcompositionsState">
+                        <image href="ideal__default.figma-raster/66.png" x="0" y="425" width="1050" height="2100"/>
+                      </g>
                       <g id="Column">
                         <g id="Spacer">
                         </g>
@@ -46,9 +48,6 @@
                             </g>
                           </g>
                         </g>
-                      </g>
-                      <g id="LayoutNodeSubcompositionsState">
-                        <image href="ideal__default.figma-raster/66.png" x="0" y="425" width="1050" height="1806"/>
                       </g>
                     </g>
                     <clipPath id="clip-3"><rect x="462" y="299" width="126" height="126" rx="63" ry="63"/></clipPath>

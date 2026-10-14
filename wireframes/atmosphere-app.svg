@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1050 2231" width="1050" height="2231" role="img" aria-label="atmosphere-app layout wireframe">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1050 2525" width="1050" height="2525" role="img" aria-label="atmosphere-app layout wireframe">
   <title>atmosphere-app — layout wireframe (slots + tokens)</title>
-  <rect width="1050" height="2231" fill="#ffffff"/>
+  <rect width="1050" height="2525" fill="#ffffff"/>
   <g>
     <rect x="0" y="0" width="1050" height="2100" fill="none" fill-opacity="0" stroke="#5B6470" stroke-width="1" stroke-opacity="0.5"/>
   </g>
@@ -61,6 +61,12 @@
     <rect x="0" y="0" width="1050" height="2100" fill="none" fill-opacity="0" stroke="#2E7D6B" stroke-width="1" stroke-opacity="0.5"/>
   </g>
   <g>
+    <rect x="0" y="425" width="1050" height="2100" fill="none" fill-opacity="0" stroke="#8E6BA8" stroke-width="1" stroke-opacity="0.5"/>
+  </g>
+  <g>
+    <rect x="0" y="425" width="1050" height="2100" fill="none" fill-opacity="0" stroke="#B0813B" stroke-width="1" stroke-opacity="0.5"/>
+  </g>
+  <g>
     <rect x="0" y="0" width="1050" height="425" fill="none" fill-opacity="0" stroke="#8E6BA8" stroke-width="1" stroke-opacity="0.5"/>
   </g>
   <g>
@@ -95,12 +101,6 @@
   </g>
   <g>
     <path d="M84,341 H966 A42,42 0 0 1 1008,383 V383 A42,42 0 0 1 966,425 H84 A42,42 0 0 1 42,383 V383 A42,42 0 0 1 84,341 Z" fill="none" fill-opacity="0" stroke="#3B72A8" stroke-width="1.5" stroke-opacity="1"/>
-  </g>
-  <g>
-    <rect x="0" y="425" width="1050" height="1806" fill="none" fill-opacity="0" stroke="#8E6BA8" stroke-width="1" stroke-opacity="0.5"/>
-  </g>
-  <g>
-    <rect x="0" y="425" width="1050" height="1806" fill="none" fill-opacity="0" stroke="#B0813B" stroke-width="1" stroke-opacity="0.5"/>
   </g>
   <g>
     <path d="M525,299 H525 A63,63 0 0 1 588,362 V362 A63,63 0 0 1 525,425 H525 A63,63 0 0 1 462,362 V362 A63,63 0 0 1 525,299 Z" fill="#D1E4FF" fill-opacity="1" stroke="#2E7D6B" stroke-width="1.5" stroke-opacity="1"/>

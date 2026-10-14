@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1050 2100" width="1050" height="2100" role="img" aria-label="list layout wireframe">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1050 2394" width="1050" height="2394" role="img" aria-label="list layout wireframe">
   <title>list — layout wireframe (slots + tokens)</title>
-  <rect width="1050" height="2100" fill="#ffffff"/>
+  <rect width="1050" height="2394" fill="#ffffff"/>
   <g>
     <rect x="0" y="0" width="1050" height="2100" fill="none" fill-opacity="0" stroke="#5B6470" stroke-width="1" stroke-opacity="0.5"/>
   </g>
@@ -61,6 +61,12 @@
     <rect x="0" y="0" width="1050" height="2100" fill="none" fill-opacity="0" stroke="#2E7D6B" stroke-width="1" stroke-opacity="0.5"/>
   </g>
   <g>
+    <rect x="0" y="294" width="1050" height="2100" fill="none" fill-opacity="0" stroke="#8E6BA8" stroke-width="1" stroke-opacity="0.5"/>
+  </g>
+  <g>
+    <rect x="0" y="294" width="1050" height="2100" fill="none" fill-opacity="0" stroke="#B0813B" stroke-width="1" stroke-opacity="0.5"/>
+  </g>
+  <g>
     <rect x="0" y="0" width="1050" height="294" fill="none" fill-opacity="0" stroke="#8E6BA8" stroke-width="1" stroke-opacity="0.5"/>
   </g>
   <g>
@@ -106,12 +112,6 @@
   <g>
     <path d="M63,189 H159 A42,42 0 0 1 201,231 V231 A42,42 0 0 1 159,273 H63 A42,42 0 0 1 21,231 V231 A42,42 0 0 1 63,189 Z" fill="#D1E4FF" fill-opacity="0.4" stroke="#A85B6B" stroke-width="1.5" stroke-opacity="1"/>
     <text x="24" y="201" font-family="system-ui, sans-serif" font-size="9" fill="#A85B6B">#66D1E4FF</text>
-  </g>
-  <g>
-    <rect x="0" y="294" width="1050" height="1806" fill="none" fill-opacity="0" stroke="#8E6BA8" stroke-width="1" stroke-opacity="0.5"/>
-  </g>
-  <g>
-    <rect x="0" y="294" width="1050" height="1806" fill="none" fill-opacity="0" stroke="#B0813B" stroke-width="1" stroke-opacity="0.5"/>
   </g>
   <g>
     <rect x="462" y="294" width="126" height="126" fill="none" fill-opacity="0" stroke="#2E7D6B" stroke-width="1" stroke-opacity="0.5"/>

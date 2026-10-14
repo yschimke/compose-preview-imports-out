@@ -17,21 +17,19 @@
             <g id="MultiContentMeasurePolicyImpl">
               <g id="Box">
                 <g id="BoxKt">
-                  <image href="messages.figma-raster/67.png" x="0" y="0" width="3" height="3"/>
                 </g>
                 <g id="LayoutNodeSubcompositionsState">
-                  <image href="messages.figma-raster/69.png" x="0" y="0" width="1050" height="378"/>
                 </g>
               </g>
               <g id="Column">
-                <image href="messages.figma-raster/28.png" x="0" y="0" width="1050" height="168"/>
+                <image href="messages.figma-raster/94.png" x="0" y="0" width="1050" height="168"/>
                 <g id="Row">
                   <g id="Box">
                     <clipPath id="clip-0"><rect x="22" y="32" width="105" height="105" rx="52.5" ry="52.5"/></clipPath>
                     <g id="Box">
                       <g clip-path="url(#clip-0)">
                         <g id="Spacer">
-                          <image href="messages.figma-raster/70.png" x="22" y="32" width="105" height="105"/>
+                          <image href="messages.figma-raster/136.png" x="22" y="32" width="105" height="105"/>
                         </g>
                       </g>
                     </g>
@@ -52,7 +50,7 @@
               <g id="Box">
               </g>
               <g id="Box">
-                  <path d="M42,1890 H1008 A42,42 0 0 1 1050,1932 V2100 H0 V1932 A42,42 0 0 1 42,1890 Z" fill="#ECEEF4" fill-opacity="0.98"/>
+                <path d="M42,1890 H1008 A42,42 0 0 1 1050,1932 V2100 H0 V1932 A42,42 0 0 1 42,1890 Z" fill="#ECEEF4" fill-opacity="0.98"/>
                 <g id="NavigationBarKt">
                   <g id="BoxKt">
                     <rect x="451" y="1953" width="147" height="84" rx="42" ry="42" fill="#D7E3F8"/>
@@ -67,7 +65,6 @@
                     </g>
                   </g>
                   <g id="BoxKt">
-                    <image href="messages.figma-raster/77.png" x="451" y="1953" width="147" height="84"/>
                   </g>
                 </g>
               </g>
