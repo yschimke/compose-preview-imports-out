@@ -14,7 +14,8 @@
           "height": 504,
           "livePreview": "https://preview.coo.ee/bitwarden-android/p/filled-button__ideal__default",
           "previewId": "com.bitwarden.ui.platform.components.button.BitwardenFilledButtonKt.BitwardenFilledButton_preview",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/bitwarden-android/render/filled-button__ideal__default.svg"
         }
       ],
       "greenlines": [
@@ -154,17 +155,41 @@
       "wireframe": "wireframes/filled-button.svg",
       "sourceFile": "src/main/kotlin/com/bitwarden/ui/platform/components/button/BitwardenFilledButton.kt",
       "sourceModule": ":ui",
-      "bodyLine": 129,
+      "bodyLine": 141,
       "sourceDirectory": "ui",
       "sourceFunction": "BitwardenFilledButton_preview",
       "parameters": [
         {
-          "name": "buttonData",
-          "type": "BitwardenButtonData"
+          "name": "label",
+          "type": "String"
+        },
+        {
+          "name": "onClick",
+          "type": "() -> Unit"
         },
         {
           "name": "modifier",
           "type": "Modifier",
+          "hasDefault": true
+        },
+        {
+          "name": "interactionSource",
+          "type": "MutableInteractionSource",
+          "hasDefault": true
+        },
+        {
+          "name": "icon",
+          "type": "Painter?",
+          "hasDefault": true
+        },
+        {
+          "name": "isEnabled",
+          "type": "Boolean",
+          "hasDefault": true
+        },
+        {
+          "name": "isExternalLink",
+          "type": "Boolean",
           "hasDefault": true
         },
         {
@@ -195,7 +220,8 @@
           "height": 504,
           "livePreview": "https://preview.coo.ee/bitwarden-android/p/outlined-button__ideal__default",
           "previewId": "com.bitwarden.ui.platform.components.button.BitwardenOutlinedButtonKt.BitwardenOutlinedButton_preview",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/bitwarden-android/render/outlined-button__ideal__default.svg"
         }
       ],
       "greenlines": [
@@ -335,17 +361,41 @@
       "wireframe": "wireframes/outlined-button.svg",
       "sourceFile": "src/main/kotlin/com/bitwarden/ui/platform/components/button/BitwardenOutlinedButton.kt",
       "sourceModule": ":ui",
-      "bodyLine": 138,
+      "bodyLine": 149,
       "sourceDirectory": "ui",
       "sourceFunction": "BitwardenOutlinedButton_preview",
       "parameters": [
         {
-          "name": "buttonData",
-          "type": "BitwardenButtonData"
+          "name": "label",
+          "type": "String"
+        },
+        {
+          "name": "onClick",
+          "type": "() -> Unit"
         },
         {
           "name": "modifier",
           "type": "Modifier",
+          "hasDefault": true
+        },
+        {
+          "name": "interactionSource",
+          "type": "MutableInteractionSource",
+          "hasDefault": true
+        },
+        {
+          "name": "icon",
+          "type": "Painter?",
+          "hasDefault": true
+        },
+        {
+          "name": "isEnabled",
+          "type": "Boolean",
+          "hasDefault": true
+        },
+        {
+          "name": "isExternalLink",
+          "type": "Boolean",
           "hasDefault": true
         },
         {
@@ -376,7 +426,8 @@
           "height": 504,
           "livePreview": "https://preview.coo.ee/bitwarden-android/p/filled-error-button__ideal__default",
           "previewId": "com.bitwarden.ui.platform.components.button.BitwardenFilledErrorButtonKt.BitwardenErrorButton_preview",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/bitwarden-android/render/filled-error-button__ideal__default.svg"
         }
       ],
       "greenlines": [
@@ -537,7 +588,8 @@
           "height": 504,
           "livePreview": "https://preview.coo.ee/bitwarden-android/p/outlined-error-button__ideal__default",
           "previewId": "com.bitwarden.ui.platform.components.button.BitwardenOutlinedErrorButtonKt.BBitwardenOutlinedErrorButton_preview",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/bitwarden-android/render/outlined-error-button__ideal__default.svg"
         }
       ],
       "greenlines": [
@@ -829,7 +881,8 @@
           "previewParams": {
             "showBackground": true
           },
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/bitwarden-android/render/icon-button-filled__ideal__default.svg"
         }
       ],
       "greenlines": [
@@ -873,7 +926,7 @@
       "wireframe": "wireframes/icon-button-filled.svg",
       "sourceFile": "src/main/kotlin/com/bitwarden/ui/platform/components/button/BitwardenFilledIconButton.kt",
       "sourceModule": ":ui",
-      "bodyLine": 50,
+      "bodyLine": 70,
       "sourceDirectory": "ui",
       "sourceFunction": "BitwardenFilledIconButton_preview",
       "parameters": [
@@ -892,6 +945,11 @@
         {
           "name": "modifier",
           "type": "Modifier",
+          "hasDefault": true
+        },
+        {
+          "name": "interactionSource",
+          "type": "MutableInteractionSource",
           "hasDefault": true
         },
         {
@@ -915,7 +973,8 @@
           "previewParams": {
             "showBackground": true
           },
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/bitwarden-android/render/icon-button-tonal__ideal__default.svg"
         }
       ],
       "greenlines": [
@@ -959,7 +1018,7 @@
       "wireframe": "wireframes/icon-button-tonal.svg",
       "sourceFile": "src/main/kotlin/com/bitwarden/ui/platform/components/button/BitwardenTonalIconButton.kt",
       "sourceModule": ":ui",
-      "bodyLine": 50,
+      "bodyLine": 70,
       "sourceDirectory": "ui",
       "sourceFunction": "BitwardenTonalIconButton_preview",
       "parameters": [
@@ -978,6 +1037,11 @@
         {
           "name": "modifier",
           "type": "Modifier",
+          "hasDefault": true
+        },
+        {
+          "name": "interactionSource",
+          "type": "MutableInteractionSource",
           "hasDefault": true
         },
         {
@@ -1001,7 +1065,8 @@
           "previewParams": {
             "showBackground": true
           },
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/bitwarden-android/render/icon-button-standard__ideal__default.svg"
         }
       ],
       "greenlines": [
@@ -1045,7 +1110,7 @@
       "wireframe": "wireframes/icon-button-standard.svg",
       "sourceFile": "src/main/kotlin/com/bitwarden/ui/platform/components/button/BitwardenStandardIconButton.kt",
       "sourceModule": ":ui",
-      "bodyLine": 98,
+      "bodyLine": 121,
       "sourceDirectory": "ui",
       "sourceFunction": "BitwardenStandardIconButton_preview",
       "parameters": [
@@ -1067,6 +1132,11 @@
           "hasDefault": true
         },
         {
+          "name": "interactionSource",
+          "type": "MutableInteractionSource",
+          "hasDefault": true
+        },
+        {
           "name": "isEnabled",
           "type": "Boolean",
           "hasDefault": true
@@ -1078,6 +1148,11 @@
         },
         {
           "name": "contentColor",
+          "type": "Color",
+          "hasDefault": true
+        },
+        {
+          "name": "focusColor",
           "type": "Color",
           "hasDefault": true
         }
@@ -1133,7 +1208,7 @@
       "wireframe": "wireframes/text-field.svg",
       "sourceFile": "src/main/kotlin/com/bitwarden/ui/platform/components/field/BitwardenTextField.kt",
       "sourceModule": ":ui",
-      "bodyLine": 416,
+      "bodyLine": 417,
       "sourceDirectory": "ui",
       "sourceFunction": "BitwardenTextField_preview",
       "parameters": [
@@ -1483,7 +1558,7 @@
       "wireframe": "wireframes/password-field.svg",
       "sourceFile": "src/main/kotlin/com/bitwarden/ui/platform/components/field/BitwardenPasswordField.kt",
       "sourceModule": ":ui",
-      "bodyLine": 477,
+      "bodyLine": 478,
       "sourceDirectory": "ui",
       "sourceFunction": "BitwardenPasswordField_preview",
       "parameters": [
@@ -1979,7 +2054,7 @@
       "wireframe": "wireframes/slider.svg",
       "sourceFile": "src/main/kotlin/com/bitwarden/ui/platform/components/slider/BitwardenSlider.kt",
       "sourceModule": ":ui",
-      "bodyLine": 156,
+      "bodyLine": 165,
       "sourceDirectory": "ui",
       "sourceFunction": "BitwardenSlider_preview",
       "parameters": [
@@ -2005,6 +2080,11 @@
           "hasDefault": true
         },
         {
+          "name": "interactionSource",
+          "type": "MutableInteractionSource",
+          "hasDefault": true
+        },
+        {
           "name": "sliderTag",
           "type": "String?",
           "hasDefault": true
@@ -2027,7 +2107,8 @@
           "height": 1219,
           "livePreview": "https://preview.coo.ee/bitwarden-android/p/switch__ideal__default",
           "previewId": "com.bitwarden.ui.platform.components.toggle.BitwardenSwitchKt.BitwardenSwitch_preview",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/bitwarden-android/render/switch__ideal__default.svg"
         }
       ],
       "greenlines": [
@@ -2523,7 +2604,8 @@
           "height": 294,
           "livePreview": "https://preview.coo.ee/bitwarden-android/p/action-card__ideal__default",
           "previewId": "com.bitwarden.ui.platform.components.card.BitwardenActionCardKt.BitwardenActionCard_preview",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/bitwarden-android/render/action-card__ideal__default.svg"
         },
         {
           "variant": "ideal",
@@ -2537,7 +2619,8 @@
           "previewParams": {
             "uiMode": 32
           },
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/bitwarden-android/render/action-card__ideal__default__dark.svg"
         }
       ],
       "greenlines": [
@@ -2680,7 +2763,8 @@
           "height": 492,
           "livePreview": "https://preview.coo.ee/bitwarden-android/p/action-card-subtitle__ideal__default",
           "previewId": "com.bitwarden.ui.platform.components.card.BitwardenActionCardKt.BitwardenActionCardWithSubtitle_preview",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/bitwarden-android/render/action-card-subtitle__ideal__default.svg"
         },
         {
           "variant": "ideal",
@@ -2694,7 +2778,8 @@
           "previewParams": {
             "uiMode": 32
           },
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/bitwarden-android/render/action-card-subtitle__ideal__default__dark.svg"
         }
       ],
       "greenlines": [
@@ -2905,7 +2990,8 @@
           "height": 265,
           "livePreview": "https://preview.coo.ee/bitwarden-android/p/action-card-subtitle-no-dismiss__ideal__default",
           "previewId": "com.bitwarden.ui.platform.components.card.BitwardenActionCardKt.BitwardenActionCardWithSubtitleNoDismiss_preview",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/bitwarden-android/render/action-card-subtitle-no-dismiss__ideal__default.svg"
         },
         {
           "variant": "ideal",
@@ -2919,7 +3005,8 @@
           "previewParams": {
             "uiMode": 32
           },
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/bitwarden-android/render/action-card-subtitle-no-dismiss__ideal__default__dark.svg"
         }
       ],
       "greenlines": [
@@ -3030,7 +3117,8 @@
           "height": 294,
           "livePreview": "https://preview.coo.ee/bitwarden-android/p/action-card-leading__ideal__default",
           "previewId": "com.bitwarden.ui.platform.components.card.BitwardenActionCardKt.BitwardenActionCardWithLeadingContent_preview",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/bitwarden-android/render/action-card-leading__ideal__default.svg"
         },
         {
           "variant": "ideal",
@@ -3044,7 +3132,8 @@
           "previewParams": {
             "uiMode": 32
           },
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/bitwarden-android/render/action-card-leading__ideal__default__dark.svg"
         }
       ],
       "greenlines": [
@@ -3217,7 +3306,8 @@
           "height": 208,
           "livePreview": "https://preview.coo.ee/bitwarden-android/p/action-card-small__ideal__default",
           "previewId": "com.bitwarden.ui.platform.components.card.BitwardenActionCardSmallKt.ActionCardSmall_preview",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/bitwarden-android/render/action-card-small__ideal__default.svg"
         }
       ],
       "greenlines": [
@@ -3259,7 +3349,7 @@
       "wireframe": "wireframes/action-card-small.svg",
       "sourceFile": "src/main/kotlin/com/bitwarden/ui/platform/components/card/BitwardenActionCardSmall.kt",
       "sourceModule": ":ui",
-      "bodyLine": 96,
+      "bodyLine": 119,
       "sourceDirectory": "ui",
       "sourceFunction": "ActionCardSmall_preview",
       "parameters": [
@@ -3280,7 +3370,8 @@
           "height": 208,
           "livePreview": "https://preview.coo.ee/bitwarden-android/p/action-card-small-trailing__ideal__default",
           "previewId": "com.bitwarden.ui.platform.components.card.BitwardenActionCardSmallKt.ActionCardSmallWithTrailingIcon_preview",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/bitwarden-android/render/action-card-small-trailing__ideal__default.svg"
         }
       ],
       "greenlines": [
@@ -3322,7 +3413,7 @@
       "wireframe": "wireframes/action-card-small-trailing.svg",
       "sourceFile": "src/main/kotlin/com/bitwarden/ui/platform/components/card/BitwardenActionCardSmall.kt",
       "sourceModule": ":ui",
-      "bodyLine": 109,
+      "bodyLine": 132,
       "sourceDirectory": "ui",
       "sourceFunction": "ActionCardSmallWithTrailingIcon_preview"
     },
@@ -3337,7 +3428,8 @@
           "height": 132,
           "livePreview": "https://preview.coo.ee/bitwarden-android/p/info-callout__ideal__default",
           "previewId": "com.bitwarden.ui.platform.components.card.BitwardenInfoCalloutCardKt.BitwardenInfoCallout_preview",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/bitwarden-android/render/info-callout__ideal__default.svg"
         }
       ],
       "greenlines": [],
@@ -3394,7 +3486,8 @@
           "height": 684,
           "livePreview": "https://preview.coo.ee/bitwarden-android/p/content-block__ideal__default",
           "previewId": "com.bitwarden.ui.platform.components.content.BitwardenContentBlockKt.BitwardenContentBlock_preview",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/bitwarden-android/render/content-block__ideal__default.svg"
         }
       ],
       "greenlines": [],
@@ -3458,7 +3551,8 @@
           "previewParams": {
             "showBackground": true
           },
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/bitwarden-android/render/empty-content__ideal__default.svg"
         }
       ],
       "greenlines": [
@@ -3651,7 +3745,8 @@
           "height": 238,
           "livePreview": "https://preview.coo.ee/bitwarden-android/p/text-row-tooltip__ideal__default",
           "previewId": "com.bitwarden.ui.platform.components.row.BitwardenTextRowKt.BitwardenTextRowWithTooltipAndContent_Preview",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/bitwarden-android/render/text-row-tooltip__ideal__default.svg"
         }
       ],
       "greenlines": [
@@ -3806,7 +3901,8 @@
           "height": 165,
           "livePreview": "https://preview.coo.ee/bitwarden-android/p/text-row-disabled__ideal__default",
           "previewId": "com.bitwarden.ui.platform.components.row.BitwardenTextRowKt.BitwardenTextRowWithDividerDisabled_Preview",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/bitwarden-android/render/text-row-disabled__ideal__default.svg"
         }
       ],
       "greenlines": [
@@ -3928,7 +4024,8 @@
           "height": 474,
           "livePreview": "https://preview.coo.ee/bitwarden-android/p/push-row__ideal__default",
           "previewId": "com.bitwarden.ui.platform.components.row.BitwardenPushRowKt.BitwardenPushRow_preview",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/bitwarden-android/render/push-row__ideal__default.svg"
         }
       ],
       "greenlines": [
@@ -4124,7 +4221,8 @@
           "height": 158,
           "livePreview": "https://preview.coo.ee/bitwarden-android/p/external-link-row__ideal__default",
           "previewId": "com.bitwarden.ui.platform.components.row.BitwardenExternalLinkRowKt.BitwardenExternalLinkRow_preview",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/bitwarden-android/render/external-link-row__ideal__default.svg"
         }
       ],
       "greenlines": [
@@ -4236,7 +4334,8 @@
           "previewParams": {
             "showBackground": true
           },
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/bitwarden-android/render/row-of-icon-buttons__ideal__default.svg"
         }
       ],
       "greenlines": [],
@@ -4270,7 +4369,8 @@
           "previewParams": {
             "showBackground": true
           },
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/bitwarden-android/render/list-header__ideal__default.svg"
         }
       ],
       "greenlines": [],
@@ -4712,7 +4812,8 @@
           "previewParams": {
             "showBackground": true
           },
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/bitwarden-android/render/search-action__ideal__default.svg"
         }
       ],
       "greenlines": [
@@ -4790,7 +4891,8 @@
           "previewParams": {
             "showBackground": true
           },
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/bitwarden-android/render/overflow-action__ideal__default.svg"
         }
       ],
       "greenlines": [
@@ -4835,7 +4937,7 @@
       "wireframe": "wireframes/overflow-action.svg",
       "sourceFile": "src/main/kotlin/com/bitwarden/ui/platform/components/appbar/action/BitwardenOverflowActionItem.kt",
       "sourceModule": ":ui",
-      "bodyLine": 141,
+      "bodyLine": 154,
       "sourceDirectory": "ui",
       "sourceFunction": "BitwardenOverflowActionItem_preview",
       "parameters": [
@@ -4884,7 +4986,8 @@
           "previewParams": {
             "showBackground": true
           },
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/bitwarden-android/render/account-action-item__ideal__default.svg"
         }
       ],
       "greenlines": [
@@ -4927,7 +5030,7 @@
       "wireframe": "wireframes/account-action-item.svg",
       "sourceFile": "src/main/kotlin/com/bitwarden/ui/platform/components/account/BitwardenAccountActionItem.kt",
       "sourceModule": ":ui",
-      "bodyLine": 68,
+      "bodyLine": 81,
       "sourceDirectory": "ui",
       "sourceFunction": "BitwardenAccountActionItem_preview",
       "parameters": [
@@ -4942,6 +5045,16 @@
         {
           "name": "onClick",
           "type": "() -> Unit"
+        },
+        {
+          "name": "modifier",
+          "type": "Modifier",
+          "hasDefault": true
+        },
+        {
+          "name": "interactionSource",
+          "type": "MutableInteractionSource",
+          "hasDefault": true
         }
       ]
     },
@@ -5058,7 +5171,7 @@
       "wireframe": "wireframes/account-switcher.svg",
       "sourceFile": "src/main/kotlin/com/bitwarden/ui/platform/components/account/BitwardenAccountSwitcher.kt",
       "sourceModule": ":ui",
-      "bodyLine": 454,
+      "bodyLine": 461,
       "sourceDirectory": "ui",
       "sourceFunction": "BitwardenAccountSwitcher_preview",
       "parameters": [
@@ -5123,7 +5236,8 @@
           "theme": "light",
           "livePreview": "https://preview.coo.ee/bitwarden-android/p/placeholder-account-light__ideal__default__light",
           "previewId": "com.bitwarden.ui.platform.components.account.BitwardenPlaceholderAccountItemKt.BitwardenPlaceholderAccountActionItem_preview_light",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/bitwarden-android/render/placeholder-account-light__ideal__default__light.svg"
         }
       ],
       "greenlines": [
@@ -5166,13 +5280,23 @@
       "wireframe": "wireframes/placeholder-account-light.svg",
       "sourceFile": "src/main/kotlin/com/bitwarden/ui/platform/components/account/BitwardenPlaceholderAccountItem.kt",
       "sourceModule": ":ui",
-      "bodyLine": 48,
+      "bodyLine": 64,
       "sourceDirectory": "ui",
       "sourceFunction": "BitwardenPlaceholderAccountActionItem_preview_light",
       "parameters": [
         {
           "name": "onClick",
           "type": "() -> Unit"
+        },
+        {
+          "name": "modifier",
+          "type": "Modifier",
+          "hasDefault": true
+        },
+        {
+          "name": "interactionSource",
+          "type": "MutableInteractionSource",
+          "hasDefault": true
         }
       ]
     },
@@ -5188,7 +5312,8 @@
           "theme": "dark",
           "livePreview": "https://preview.coo.ee/bitwarden-android/p/placeholder-account-dark__ideal__default__dark",
           "previewId": "com.bitwarden.ui.platform.components.account.BitwardenPlaceholderAccountItemKt.BitwardenPlaceholderAccountActionItem_preview_dark",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/bitwarden-android/render/placeholder-account-dark__ideal__default__dark.svg"
         }
       ],
       "greenlines": [
@@ -5231,13 +5356,23 @@
       "wireframe": "wireframes/placeholder-account-dark.svg",
       "sourceFile": "src/main/kotlin/com/bitwarden/ui/platform/components/account/BitwardenPlaceholderAccountItem.kt",
       "sourceModule": ":ui",
-      "bodyLine": 58,
+      "bodyLine": 74,
       "sourceDirectory": "ui",
       "sourceFunction": "BitwardenPlaceholderAccountActionItem_preview_dark",
       "parameters": [
         {
           "name": "onClick",
           "type": "() -> Unit"
+        },
+        {
+          "name": "modifier",
+          "type": "Modifier",
+          "hasDefault": true
+        },
+        {
+          "name": "interactionSource",
+          "type": "MutableInteractionSource",
+          "hasDefault": true
         }
       ]
     },
@@ -5283,7 +5418,8 @@
           "height": 1491,
           "livePreview": "https://preview.coo.ee/bitwarden-android/p/date-picker-dialog__ideal__default",
           "previewId": "com.bitwarden.ui.platform.components.dialog.BitwardenDatePickerDialogKt.BitwardenDatePickerDialog_preview",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/bitwarden-android/render/date-picker-dialog__ideal__default.svg"
         }
       ],
       "greenlines": [
@@ -6567,7 +6703,8 @@
           "height": 413,
           "livePreview": "https://preview.coo.ee/bitwarden-android/p/snackbar__ideal__default",
           "previewId": "com.bitwarden.ui.platform.components.snackbar.BitwardenSnackbarKt.BitwardenCustomSnackbar_preview",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/bitwarden-android/render/snackbar__ideal__default.svg"
         }
       ],
       "greenlines": [
@@ -6652,7 +6789,7 @@
       "wireframe": "wireframes/snackbar.svg",
       "sourceFile": "src/main/kotlin/com/bitwarden/ui/platform/components/snackbar/BitwardenSnackbar.kt",
       "sourceModule": ":ui",
-      "bodyLine": 129,
+      "bodyLine": 130,
       "sourceDirectory": "ui",
       "sourceFunction": "BitwardenCustomSnackbar_preview",
       "parameters": [
@@ -6693,7 +6830,8 @@
           "height": 231,
           "livePreview": "https://preview.coo.ee/bitwarden-android/p/status-badge__ideal__default",
           "previewId": "com.bitwarden.ui.platform.components.badge.BitwardenStatusBadgeKt.BitwardenStatusBadge_Preview",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/bitwarden-android/render/status-badge__ideal__default.svg"
         }
       ],
       "greenlines": [],
@@ -6806,7 +6944,8 @@
           "height": 231,
           "livePreview": "https://preview.coo.ee/bitwarden-android/p/status-badge-dark__ideal__default",
           "previewId": "com.bitwarden.ui.platform.components.badge.BitwardenStatusBadgeKt.BitwardenStatusBadge_PreviewDark",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/bitwarden-android/render/status-badge-dark__ideal__default.svg"
         }
       ],
       "greenlines": [],
@@ -6919,7 +7058,8 @@
           "height": 355,
           "livePreview": "https://preview.coo.ee/bitwarden-android/p/notification-badge__ideal__default",
           "previewId": "com.bitwarden.ui.platform.components.badge.NotificationBadgeKt.NotificationBadge_preview",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/bitwarden-android/render/notification-badge__ideal__default.svg"
         }
       ],
       "greenlines": [],
@@ -7106,7 +7246,8 @@
           "height": 2100,
           "livePreview": "https://preview.coo.ee/bitwarden-android/p/coach-mark__ideal__default",
           "previewId": "com.bitwarden.ui.platform.components.coachmark.CoachMarkContainerKt.BitwardenCoachMarkContainer_preview",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/bitwarden-android/render/coach-mark__ideal__default.svg"
         }
       ],
       "greenlines": [
@@ -7183,7 +7324,7 @@
             "end": 0,
             "bottom": 16
           },
-          "cornerRadius": 28
+          "cornerRadius": 24
         },
         {
           "bounds": {
@@ -7220,7 +7361,8 @@
           "previewParams": {
             "showBackground": true
           },
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/bitwarden-android/render/typography__ideal__default.svg"
         }
       ],
       "greenlines": [],
@@ -7251,8 +7393,8 @@
       "sourceFunction": "BitwardenTypography_preview"
     }
   ],
-  "renderer": "compose-preview 2.34.1",
-  "generatedAt": "2026-10-05T11:41:01.772Z",
+  "renderer": "compose-preview 2.57.0",
+  "generatedAt": "2026-10-14T07:49:27.282Z",
   "liveBundle": {
     "path": "bundle/",
     "file": "bundle.png"
@@ -7268,7 +7410,7 @@
   "componentsFile": "components.json",
   "source": {
     "repo": "bitwarden/android",
-    "ref": "747801fc0867b7c9f1efedc3802249a458f19619",
+    "ref": "26771c22f3315c982e74dc7aa0d31005fe55bd73",
     "module": ":ui"
   }
 }

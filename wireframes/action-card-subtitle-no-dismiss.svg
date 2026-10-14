@@ -31,7 +31,8 @@
     <text x="45" y="120" font-family="system-ui, sans-serif" font-size="9" fill="#3B72A8">#FF175DDC  pad ·</text>
   </g>
   <g>
-    <rect x="105" y="134" width="840" height="53" fill="none" fill-opacity="0" stroke="#A85B6B" stroke-width="1" stroke-opacity="0.5"/>
+    <path d="M131.5,134 H918.5 A26.5,26.5 0 0 1 945,160.5 V160.5 A26.5,26.5 0 0 1 918.5,187 H131.5 A26.5,26.5 0 0 1 105,160.5 V160.5 A26.5,26.5 0 0 1 131.5,134 Z" fill="none" fill-opacity="0" stroke="#A85B6B" stroke-width="1.5" stroke-opacity="1"/>
+    <text x="108" y="146" font-family="system-ui, sans-serif" font-size="9" fill="#A85B6B">pad ·</text>
   </g>
   <g>
     <rect x="468" y="134" width="114" height="53" fill="none" fill-opacity="0" stroke="#4F8A4A" stroke-width="1" stroke-opacity="0.5"/>
