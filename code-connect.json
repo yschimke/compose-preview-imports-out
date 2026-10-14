@@ -4,16 +4,16 @@
   "label": "Compose",
   "source": {
     "repo": "mullvad/mullvadvpn-app",
-    "ref": "63b11296b0cda47da0f58cef389bf94cef54382a",
+    "ref": "9e105be689711846f4df403acec2c8462c74084d",
     "module": ":lib:ui:designsystem"
   },
-  "generatedAt": "2026-10-05T12:56:37.389Z",
+  "generatedAt": "2026-10-14T09:24:46.801Z",
   "mappings": [
     {
       "componentId": "primary-button",
       "figmaLayerName": "primary-button",
       "componentName": "PrimaryButton",
-      "source": "https://github.com/mullvad/mullvadvpn-app/blob/63b11296b0cda47da0f58cef389bf94cef54382a/lib/ui/designsystem/src/main/kotlin/net/mullvad/mullvadvpn/lib/ui/designsystem/MullvadButton.kt",
+      "source": "https://github.com/mullvad/mullvadvpn-app/blob/9e105be689711846f4df403acec2c8462c74084d/lib/ui/designsystem/src/main/kotlin/net/mullvad/mullvadvpn/lib/ui/designsystem/MullvadButton.kt",
       "label": "Compose",
       "confidence": "HIGH",
       "previewName": "PreviewPrimaryButtonEnabled",
@@ -126,13 +126,14 @@
           "scopeDslReceiver": null,
           "lambdaReturnTypeFqn": "kotlin.Unit"
         }
-      ]
+      ],
+      "figmaSvg": "https://preview.coo.ee/mullvad-mullvadvpn-app/render/primary-button__ideal__default.svg"
     },
     {
       "componentId": "primary-button-disabled",
       "figmaLayerName": "primary-button-disabled",
       "componentName": "PrimaryButton",
-      "source": "https://github.com/mullvad/mullvadvpn-app/blob/63b11296b0cda47da0f58cef389bf94cef54382a/lib/ui/designsystem/src/main/kotlin/net/mullvad/mullvadvpn/lib/ui/designsystem/MullvadButton.kt",
+      "source": "https://github.com/mullvad/mullvadvpn-app/blob/9e105be689711846f4df403acec2c8462c74084d/lib/ui/designsystem/src/main/kotlin/net/mullvad/mullvadvpn/lib/ui/designsystem/MullvadButton.kt",
       "label": "Compose",
       "confidence": "HIGH",
       "previewName": "PreviewPrimaryButtonDisabled",
@@ -245,13 +246,14 @@
           "scopeDslReceiver": null,
           "lambdaReturnTypeFqn": "kotlin.Unit"
         }
-      ]
+      ],
+      "figmaSvg": "https://preview.coo.ee/mullvad-mullvadvpn-app/render/primary-button-disabled__ideal__default.svg"
     },
     {
       "componentId": "variant-button",
       "figmaLayerName": "variant-button",
       "componentName": "VariantButton",
-      "source": "https://github.com/mullvad/mullvadvpn-app/blob/63b11296b0cda47da0f58cef389bf94cef54382a/lib/ui/designsystem/src/main/kotlin/net/mullvad/mullvadvpn/lib/ui/designsystem/MullvadButton.kt",
+      "source": "https://github.com/mullvad/mullvadvpn-app/blob/9e105be689711846f4df403acec2c8462c74084d/lib/ui/designsystem/src/main/kotlin/net/mullvad/mullvadvpn/lib/ui/designsystem/MullvadButton.kt",
       "label": "Compose",
       "confidence": "HIGH",
       "previewName": "PreviewVariantButtonEnabled",
@@ -364,13 +366,14 @@
           "scopeDslReceiver": null,
           "lambdaReturnTypeFqn": "kotlin.Unit"
         }
-      ]
+      ],
+      "figmaSvg": "https://preview.coo.ee/mullvad-mullvadvpn-app/render/variant-button__ideal__default.svg"
     },
     {
       "componentId": "variant-button-disabled",
       "figmaLayerName": "variant-button-disabled",
       "componentName": "VariantButton",
-      "source": "https://github.com/mullvad/mullvadvpn-app/blob/63b11296b0cda47da0f58cef389bf94cef54382a/lib/ui/designsystem/src/main/kotlin/net/mullvad/mullvadvpn/lib/ui/designsystem/MullvadButton.kt",
+      "source": "https://github.com/mullvad/mullvadvpn-app/blob/9e105be689711846f4df403acec2c8462c74084d/lib/ui/designsystem/src/main/kotlin/net/mullvad/mullvadvpn/lib/ui/designsystem/MullvadButton.kt",
       "label": "Compose",
       "confidence": "HIGH",
       "previewName": "PreviewVariantButtonDisabled",
@@ -483,13 +486,14 @@
           "scopeDslReceiver": null,
           "lambdaReturnTypeFqn": "kotlin.Unit"
         }
-      ]
+      ],
+      "figmaSvg": "https://preview.coo.ee/mullvad-mullvadvpn-app/render/variant-button-disabled__ideal__default.svg"
     },
     {
       "componentId": "negative-button",
       "figmaLayerName": "negative-button",
       "componentName": "NegativeButton",
-      "source": "https://github.com/mullvad/mullvadvpn-app/blob/63b11296b0cda47da0f58cef389bf94cef54382a/lib/ui/designsystem/src/main/kotlin/net/mullvad/mullvadvpn/lib/ui/designsystem/MullvadButton.kt",
+      "source": "https://github.com/mullvad/mullvadvpn-app/blob/9e105be689711846f4df403acec2c8462c74084d/lib/ui/designsystem/src/main/kotlin/net/mullvad/mullvadvpn/lib/ui/designsystem/MullvadButton.kt",
       "label": "Compose",
       "confidence": "HIGH",
       "previewName": "PreviewNegativeButtonEnabled",
@@ -589,13 +593,14 @@
           "scopeDslReceiver": null,
           "lambdaReturnTypeFqn": "kotlin.Unit"
         }
-      ]
+      ],
+      "figmaSvg": "https://preview.coo.ee/mullvad-mullvadvpn-app/render/negative-button__ideal__default.svg"
     },
     {
       "componentId": "negative-button-disabled",
       "figmaLayerName": "negative-button-disabled",
       "componentName": "NegativeButton",
-      "source": "https://github.com/mullvad/mullvadvpn-app/blob/63b11296b0cda47da0f58cef389bf94cef54382a/lib/ui/designsystem/src/main/kotlin/net/mullvad/mullvadvpn/lib/ui/designsystem/MullvadButton.kt",
+      "source": "https://github.com/mullvad/mullvadvpn-app/blob/9e105be689711846f4df403acec2c8462c74084d/lib/ui/designsystem/src/main/kotlin/net/mullvad/mullvadvpn/lib/ui/designsystem/MullvadButton.kt",
       "label": "Compose",
       "confidence": "HIGH",
       "previewName": "PreviewNegativeButtonDisabled",
@@ -695,13 +700,14 @@
           "scopeDslReceiver": null,
           "lambdaReturnTypeFqn": "kotlin.Unit"
         }
-      ]
+      ],
+      "figmaSvg": "https://preview.coo.ee/mullvad-mullvadvpn-app/render/negative-button-disabled__ideal__default.svg"
     },
     {
       "componentId": "text-button",
       "figmaLayerName": "text-button",
       "componentName": "PrimaryTextButton",
-      "source": "https://github.com/mullvad/mullvadvpn-app/blob/63b11296b0cda47da0f58cef389bf94cef54382a/lib/ui/designsystem/src/main/kotlin/net/mullvad/mullvadvpn/lib/ui/designsystem/MullvadButton.kt",
+      "source": "https://github.com/mullvad/mullvadvpn-app/blob/9e105be689711846f4df403acec2c8462c74084d/lib/ui/designsystem/src/main/kotlin/net/mullvad/mullvadvpn/lib/ui/designsystem/MullvadButton.kt",
       "label": "Compose",
       "confidence": "HIGH",
       "previewName": "PreviewTextButtonEnabled",
@@ -827,13 +833,14 @@
           "scopeDslReceiver": null,
           "lambdaReturnTypeFqn": "kotlin.Unit"
         }
-      ]
+      ],
+      "figmaSvg": "https://preview.coo.ee/mullvad-mullvadvpn-app/render/text-button__ideal__default.svg"
     },
     {
       "componentId": "text-button-disabled",
       "figmaLayerName": "text-button-disabled",
       "componentName": "PrimaryTextButton",
-      "source": "https://github.com/mullvad/mullvadvpn-app/blob/63b11296b0cda47da0f58cef389bf94cef54382a/lib/ui/designsystem/src/main/kotlin/net/mullvad/mullvadvpn/lib/ui/designsystem/MullvadButton.kt",
+      "source": "https://github.com/mullvad/mullvadvpn-app/blob/9e105be689711846f4df403acec2c8462c74084d/lib/ui/designsystem/src/main/kotlin/net/mullvad/mullvadvpn/lib/ui/designsystem/MullvadButton.kt",
       "label": "Compose",
       "confidence": "HIGH",
       "previewName": "PreviewTextButtonDisabled",
@@ -959,13 +966,14 @@
           "scopeDslReceiver": null,
           "lambdaReturnTypeFqn": "kotlin.Unit"
         }
-      ]
+      ],
+      "figmaSvg": "https://preview.coo.ee/mullvad-mullvadvpn-app/render/text-button-disabled__ideal__default.svg"
     },
     {
       "componentId": "checkbox",
       "figmaLayerName": "checkbox",
       "componentName": "Checkbox",
-      "source": "https://github.com/mullvad/mullvadvpn-app/blob/63b11296b0cda47da0f58cef389bf94cef54382a/lib/ui/designsystem/src/main/kotlin/net/mullvad/mullvadvpn/lib/ui/designsystem/Checkbox.kt",
+      "source": "https://github.com/mullvad/mullvadvpn-app/blob/9e105be689711846f4df403acec2c8462c74084d/lib/ui/designsystem/src/main/kotlin/net/mullvad/mullvadvpn/lib/ui/designsystem/Checkbox.kt",
       "label": "Compose",
       "confidence": "MEDIUM",
       "previewName": "PreviewCheckbox",
@@ -1052,13 +1060,14 @@
           "scopeDslReceiver": null,
           "lambdaReturnTypeFqn": null
         }
-      ]
+      ],
+      "figmaSvg": "https://preview.coo.ee/mullvad-mullvadvpn-app/render/checkbox__ideal__default.svg"
     },
     {
       "componentId": "switch",
       "figmaLayerName": "switch",
       "componentName": "MullvadSwitch",
-      "source": "https://github.com/mullvad/mullvadvpn-app/blob/63b11296b0cda47da0f58cef389bf94cef54382a/lib/ui/designsystem/src/main/kotlin/net/mullvad/mullvadvpn/lib/ui/designsystem/Switch.kt",
+      "source": "https://github.com/mullvad/mullvadvpn-app/blob/9e105be689711846f4df403acec2c8462c74084d/lib/ui/designsystem/src/main/kotlin/net/mullvad/mullvadvpn/lib/ui/designsystem/Switch.kt",
       "label": "Compose",
       "confidence": "MEDIUM",
       "previewName": "PreviewMullvadSwitch",
@@ -1158,13 +1167,14 @@
           "scopeDslReceiver": null,
           "lambdaReturnTypeFqn": "kotlin.Unit"
         }
-      ]
+      ],
+      "figmaSvg": "https://preview.coo.ee/mullvad-mullvadvpn-app/render/switch__ideal__default.svg"
     },
     {
       "componentId": "filter-chip-enabled",
       "figmaLayerName": "filter-chip-enabled",
       "componentName": "PreviewColumn",
-      "source": "https://github.com/mullvad/mullvadvpn-app/blob/63b11296b0cda47da0f58cef389bf94cef54382a/lib/ui/designsystem/src/main/kotlin/net/mullvad/mullvadvpn/lib/ui/designsystem/preview/PreviewColumn.kt",
+      "source": "https://github.com/mullvad/mullvadvpn-app/blob/9e105be689711846f4df403acec2c8462c74084d/lib/ui/designsystem/src/main/kotlin/net/mullvad/mullvadvpn/lib/ui/designsystem/preview/PreviewColumn.kt",
       "label": "Compose",
       "confidence": "LOW",
       "previewName": "PreviewEnabledMullvadFilterChip",
@@ -1238,13 +1248,14 @@
           "scopeDslReceiver": null,
           "lambdaReturnTypeFqn": "kotlin.Unit"
         }
-      ]
+      ],
+      "figmaSvg": "https://preview.coo.ee/mullvad-mullvadvpn-app/render/filter-chip-enabled__ideal__default.svg"
     },
     {
       "componentId": "filter-chip-disabled",
       "figmaLayerName": "filter-chip-disabled",
       "componentName": "PreviewColumn",
-      "source": "https://github.com/mullvad/mullvadvpn-app/blob/63b11296b0cda47da0f58cef389bf94cef54382a/lib/ui/designsystem/src/main/kotlin/net/mullvad/mullvadvpn/lib/ui/designsystem/preview/PreviewColumn.kt",
+      "source": "https://github.com/mullvad/mullvadvpn-app/blob/9e105be689711846f4df403acec2c8462c74084d/lib/ui/designsystem/src/main/kotlin/net/mullvad/mullvadvpn/lib/ui/designsystem/preview/PreviewColumn.kt",
       "label": "Compose",
       "confidence": "LOW",
       "previewName": "PreviewDisabledMullvadFilterChip",
@@ -1318,13 +1329,14 @@
           "scopeDslReceiver": null,
           "lambdaReturnTypeFqn": "kotlin.Unit"
         }
-      ]
+      ],
+      "figmaSvg": "https://preview.coo.ee/mullvad-mullvadvpn-app/render/filter-chip-disabled__ideal__default.svg"
     },
     {
       "componentId": "filter-chip-inactive",
       "figmaLayerName": "filter-chip-inactive",
       "componentName": "PreviewColumn",
-      "source": "https://github.com/mullvad/mullvadvpn-app/blob/63b11296b0cda47da0f58cef389bf94cef54382a/lib/ui/designsystem/src/main/kotlin/net/mullvad/mullvadvpn/lib/ui/designsystem/preview/PreviewColumn.kt",
+      "source": "https://github.com/mullvad/mullvadvpn-app/blob/9e105be689711846f4df403acec2c8462c74084d/lib/ui/designsystem/src/main/kotlin/net/mullvad/mullvadvpn/lib/ui/designsystem/preview/PreviewColumn.kt",
       "label": "Compose",
       "confidence": "LOW",
       "previewName": "PreviewInactiveMullvadFilterChip",
@@ -1398,13 +1410,14 @@
           "scopeDslReceiver": null,
           "lambdaReturnTypeFqn": "kotlin.Unit"
         }
-      ]
+      ],
+      "figmaSvg": "https://preview.coo.ee/mullvad-mullvadvpn-app/render/filter-chip-inactive__ideal__default.svg"
     },
     {
       "componentId": "feature-chip",
       "figmaLayerName": "feature-chip",
       "componentName": "MullvadFeatureChip",
-      "source": "https://github.com/mullvad/mullvadvpn-app/blob/63b11296b0cda47da0f58cef389bf94cef54382a/lib/ui/designsystem/src/main/kotlin/net/mullvad/mullvadvpn/lib/ui/designsystem/FeatureChip.kt",
+      "source": "https://github.com/mullvad/mullvadvpn-app/blob/9e105be689711846f4df403acec2c8462c74084d/lib/ui/designsystem/src/main/kotlin/net/mullvad/mullvadvpn/lib/ui/designsystem/FeatureChip.kt",
       "label": "Compose",
       "confidence": "MEDIUM",
       "previewName": "PreviewMullvadFeatureChip",
@@ -1517,13 +1530,14 @@
           "scopeDslReceiver": null,
           "lambdaReturnTypeFqn": null
         }
-      ]
+      ],
+      "figmaSvg": "https://preview.coo.ee/mullvad-mullvadvpn-app/render/feature-chip__ideal__default.svg"
     },
     {
       "componentId": "list-item-leading",
       "figmaLayerName": "list-item-leading",
       "componentName": "MullvadListItem",
-      "source": "https://github.com/mullvad/mullvadvpn-app/blob/63b11296b0cda47da0f58cef389bf94cef54382a/lib/ui/designsystem/src/main/kotlin/net/mullvad/mullvadvpn/lib/ui/designsystem/ListItem.kt",
+      "source": "https://github.com/mullvad/mullvadvpn-app/blob/9e105be689711846f4df403acec2c8462c74084d/lib/ui/designsystem/src/main/kotlin/net/mullvad/mullvadvpn/lib/ui/designsystem/ListItem.kt",
       "label": "Compose",
       "confidence": "HIGH",
       "previewName": "PreviewLeadingListItem",
@@ -1714,13 +1728,14 @@
           "scopeDslReceiver": null,
           "lambdaReturnTypeFqn": "kotlin.Unit"
         }
-      ]
+      ],
+      "figmaSvg": "https://preview.coo.ee/mullvad-mullvadvpn-app/render/list-item-leading__ideal__default.svg"
     },
     {
       "componentId": "list-item-leading-content",
       "figmaLayerName": "list-item-leading-content",
       "componentName": "MullvadListItem",
-      "source": "https://github.com/mullvad/mullvadvpn-app/blob/63b11296b0cda47da0f58cef389bf94cef54382a/lib/ui/designsystem/src/main/kotlin/net/mullvad/mullvadvpn/lib/ui/designsystem/ListItem.kt",
+      "source": "https://github.com/mullvad/mullvadvpn-app/blob/9e105be689711846f4df403acec2c8462c74084d/lib/ui/designsystem/src/main/kotlin/net/mullvad/mullvadvpn/lib/ui/designsystem/ListItem.kt",
       "label": "Compose",
       "confidence": "HIGH",
       "previewName": "PreviewLeadingContentListItem",
@@ -1911,13 +1926,14 @@
           "scopeDslReceiver": null,
           "lambdaReturnTypeFqn": "kotlin.Unit"
         }
-      ]
+      ],
+      "figmaSvg": "https://preview.coo.ee/mullvad-mullvadvpn-app/render/list-item-leading-content__ideal__default.svg"
     },
     {
       "componentId": "list-item-trailing",
       "figmaLayerName": "list-item-trailing",
       "componentName": "MullvadListItem",
-      "source": "https://github.com/mullvad/mullvadvpn-app/blob/63b11296b0cda47da0f58cef389bf94cef54382a/lib/ui/designsystem/src/main/kotlin/net/mullvad/mullvadvpn/lib/ui/designsystem/ListItem.kt",
+      "source": "https://github.com/mullvad/mullvadvpn-app/blob/9e105be689711846f4df403acec2c8462c74084d/lib/ui/designsystem/src/main/kotlin/net/mullvad/mullvadvpn/lib/ui/designsystem/ListItem.kt",
       "label": "Compose",
       "confidence": "HIGH",
       "previewName": "PreviewTrailingListItem",
@@ -2108,13 +2124,14 @@
           "scopeDslReceiver": null,
           "lambdaReturnTypeFqn": "kotlin.Unit"
         }
-      ]
+      ],
+      "figmaSvg": "https://preview.coo.ee/mullvad-mullvadvpn-app/render/list-item-trailing__ideal__default.svg"
     },
     {
       "componentId": "list-item-hierarchy",
       "figmaLayerName": "list-item-hierarchy",
       "componentName": "MullvadListItem",
-      "source": "https://github.com/mullvad/mullvadvpn-app/blob/63b11296b0cda47da0f58cef389bf94cef54382a/lib/ui/designsystem/src/main/kotlin/net/mullvad/mullvadvpn/lib/ui/designsystem/ListItem.kt",
+      "source": "https://github.com/mullvad/mullvadvpn-app/blob/9e105be689711846f4df403acec2c8462c74084d/lib/ui/designsystem/src/main/kotlin/net/mullvad/mullvadvpn/lib/ui/designsystem/ListItem.kt",
       "label": "Compose",
       "confidence": "HIGH",
       "previewName": "PreviewHierarchyListItem",
@@ -2305,13 +2322,14 @@
           "scopeDslReceiver": null,
           "lambdaReturnTypeFqn": "kotlin.Unit"
         }
-      ]
+      ],
+      "figmaSvg": "https://preview.coo.ee/mullvad-mullvadvpn-app/render/list-item-hierarchy__ideal__default.svg"
     },
     {
       "componentId": "list-item-positions",
       "figmaLayerName": "list-item-positions",
       "componentName": "MullvadListItem",
-      "source": "https://github.com/mullvad/mullvadvpn-app/blob/63b11296b0cda47da0f58cef389bf94cef54382a/lib/ui/designsystem/src/main/kotlin/net/mullvad/mullvadvpn/lib/ui/designsystem/ListItem.kt",
+      "source": "https://github.com/mullvad/mullvadvpn-app/blob/9e105be689711846f4df403acec2c8462c74084d/lib/ui/designsystem/src/main/kotlin/net/mullvad/mullvadvpn/lib/ui/designsystem/ListItem.kt",
       "label": "Compose",
       "confidence": "HIGH",
       "previewName": "PreviewListItemPositions",
@@ -2502,33 +2520,34 @@
           "scopeDslReceiver": null,
           "lambdaReturnTypeFqn": "kotlin.Unit"
         }
-      ]
+      ],
+      "figmaSvg": "https://preview.coo.ee/mullvad-mullvadvpn-app/render/list-item-positions__ideal__default.svg"
     },
     {
       "componentId": "list-header",
       "figmaLayerName": "list-header",
       "componentName": "ListHeader",
-      "source": "https://github.com/mullvad/mullvadvpn-app/blob/63b11296b0cda47da0f58cef389bf94cef54382a/lib/ui/designsystem/src/main/kotlin/net/mullvad/mullvadvpn/lib/ui/designsystem/ListHeader.kt",
+      "source": "https://github.com/mullvad/mullvadvpn-app/blob/9e105be689711846f4df403acec2c8462c74084d/lib/ui/designsystem/src/main/kotlin/net/mullvad/mullvadvpn/lib/ui/designsystem/ListHeader.kt",
       "label": "Compose",
       "confidence": "MEDIUM",
       "previewName": "PreviewListHeader",
-      "codeSnippet": "ListHeader(\n    text = TODO(\"String\"),\n)",
+      "codeSnippet": "ListHeader(\n    content = { },\n)",
       "imports": [
         "import net.mullvad.mullvadvpn.lib.ui.designsystem.ListHeader"
       ],
       "parameters": [
         {
-          "name": "text",
-          "type": "String",
-          "typeFqn": "kotlin.String",
+          "name": "content",
+          "type": "() -> Unit",
+          "typeFqn": "kotlin.Function0",
           "hasDefault": false,
-          "composableSlot": false,
+          "composableSlot": true,
           "composableSlotReceiver": null,
           "nullable": false,
           "noArgConstructible": false,
           "noArgFactory": null,
           "scopeDslReceiver": null,
-          "lambdaReturnTypeFqn": null
+          "lambdaReturnTypeFqn": "kotlin.Unit"
         },
         {
           "name": "modifier",
@@ -2542,17 +2561,32 @@
           "noArgFactory": null,
           "scopeDslReceiver": null,
           "lambdaReturnTypeFqn": null
+        },
+        {
+          "name": "actions",
+          "type": "(RowScope.() -> Unit)?",
+          "typeFqn": "kotlin.Function1",
+          "hasDefault": true,
+          "composableSlot": true,
+          "composableSlotReceiver": "androidx.compose.foundation.layout.RowScope",
+          "nullable": true,
+          "noArgConstructible": false,
+          "noArgFactory": null,
+          "scopeDslReceiver": null,
+          "lambdaReturnTypeFqn": "kotlin.Unit"
         }
-      ]
+      ],
+      "figmaSvg": "https://preview.coo.ee/mullvad-mullvadvpn-app/render/list-header__ideal__default.svg"
     },
     {
       "componentId": "progress-indicator",
       "figmaLayerName": "progress-indicator",
       "componentName": "PreviewMullvadProgressIndicator",
-      "source": "https://github.com/mullvad/mullvadvpn-app/blob/63b11296b0cda47da0f58cef389bf94cef54382a/lib/ui/designsystem/src/main/kotlin/net/mullvad/mullvadvpn/lib/ui/designsystem/CircularProgressIndicator.kt",
+      "source": "https://github.com/mullvad/mullvadvpn-app/blob/9e105be689711846f4df403acec2c8462c74084d/lib/ui/designsystem/src/main/kotlin/net/mullvad/mullvadvpn/lib/ui/designsystem/CircularProgressIndicator.kt",
       "label": "Compose",
       "confidence": "preview-fallback",
-      "previewName": "PreviewMullvadProgressIndicator"
+      "previewName": "PreviewMullvadProgressIndicator",
+      "figmaSvg": "figma/progress-indicator.svg"
     }
   ]
 }
