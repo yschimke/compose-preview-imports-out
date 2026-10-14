@@ -14,7 +14,8 @@
           "height": 725,
           "livePreview": "https://preview.coo.ee/element-hq-element-x-android/p/color-aliases__ideal__default",
           "previewId": "io.element.android.libraries.designsystem.theme.ColorAliasesKt.ColorAliasesPreview_Day",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/element-hq-element-x-android/render/color-aliases__ideal__default.svg"
         },
         {
           "variant": "ideal",
@@ -28,7 +29,8 @@
           "previewParams": {
             "uiMode": 32
           },
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/element-hq-element-x-android/render/color-aliases__ideal__default__dark.svg"
         }
       ],
       "greenlines": [],
@@ -425,7 +427,8 @@
           "height": 1155,
           "livePreview": "https://preview.coo.ee/element-hq-element-x-android/p/dialog-with-destructive-button__ideal__default",
           "previewId": "io.element.android.libraries.designsystem.theme.components.AlertDialogContentKt.DialogWithDestructiveButtonPreview_Dialog_with_destructive_button",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/element-hq-element-x-android/render/dialog-with-destructive-button__ideal__default.svg"
         }
       ],
       "greenlines": [
@@ -636,7 +639,8 @@
           "height": 1257,
           "livePreview": "https://preview.coo.ee/element-hq-element-x-android/p/dialog-with-only-message-and-ok-button__ideal__default",
           "previewId": "io.element.android.libraries.designsystem.theme.components.AlertDialogContentKt.DialogWithOnlyMessageAndOkButtonPreview_Dialog_with_only_message_and_ok_button",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/element-hq-element-x-android/render/dialog-with-only-message-and-ok-button__ideal__default.svg"
         }
       ],
       "greenlines": [
@@ -785,7 +789,8 @@
           "height": 1155,
           "livePreview": "https://preview.coo.ee/element-hq-element-x-android/p/dialog-with-third-button__ideal__default",
           "previewId": "io.element.android.libraries.designsystem.theme.components.AlertDialogContentKt.DialogWithThirdButtonPreview_Dialog_with_third_button",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/element-hq-element-x-android/render/dialog-with-third-button__ideal__default.svg"
         }
       ],
       "greenlines": [
@@ -1058,7 +1063,8 @@
           "height": 1473,
           "livePreview": "https://preview.coo.ee/element-hq-element-x-android/p/dialog-with-title-and-ok-button__ideal__default",
           "previewId": "io.element.android.libraries.designsystem.theme.components.AlertDialogContentKt.DialogWithTitleAndOkButtonPreview_Dialog_with_title_and_ok_button",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/element-hq-element-x-android/render/dialog-with-title-and-ok-button__ideal__default.svg"
         }
       ],
       "greenlines": [
@@ -1207,7 +1213,8 @@
           "height": 1641,
           "livePreview": "https://preview.coo.ee/element-hq-element-x-android/p/dialog-with-title-icon-and-ok-button__ideal__default",
           "previewId": "io.element.android.libraries.designsystem.theme.components.AlertDialogContentKt.DialogWithTitleIconAndOkButtonPreview_Dialog_with_title__icon_and_ok_button",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/element-hq-element-x-android/render/dialog-with-title-icon-and-ok-button__ideal__default.svg"
         }
       ],
       "greenlines": [
@@ -1356,7 +1363,8 @@
           "height": 1773,
           "livePreview": "https://preview.coo.ee/element-hq-element-x-android/p/dialog-with-very-long-title-and-icon__ideal__default",
           "previewId": "io.element.android.libraries.designsystem.theme.components.AlertDialogContentKt.DialogWithVeryLongTitleAndIconPreview_Dialog_with_a_very_long_title_and_icon",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/element-hq-element-x-android/render/dialog-with-very-long-title-and-icon__ideal__default.svg"
         }
       ],
       "greenlines": [
@@ -1505,7 +1513,8 @@
           "height": 1605,
           "livePreview": "https://preview.coo.ee/element-hq-element-x-android/p/dialog-with-very-long-title__ideal__default",
           "previewId": "io.element.android.libraries.designsystem.theme.components.AlertDialogContentKt.DialogWithVeryLongTitlePreview_Dialog_with_a_very_long_title",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/element-hq-element-x-android/render/dialog-with-very-long-title__ideal__default.svg"
         }
       ],
       "greenlines": [
@@ -1654,7 +1663,8 @@
           "height": 95,
           "livePreview": "https://preview.coo.ee/element-hq-element-x-android/p/bottom-sheet-drag-handle__ideal__default",
           "previewId": "io.element.android.libraries.designsystem.theme.components.BottomSheetDragHandleKt.BottomSheetDragHandlePreview_Day",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/element-hq-element-x-android/render/bottom-sheet-drag-handle__ideal__default.svg"
         },
         {
           "variant": "ideal",
@@ -1668,7 +1678,8 @@
           "previewParams": {
             "uiMode": 32
           },
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/element-hq-element-x-android/render/bottom-sheet-drag-handle__ideal__default__dark.svg"
         }
       ],
       "greenlines": [],
@@ -1719,7 +1730,8 @@
           "height": 1923,
           "livePreview": "https://preview.coo.ee/element-hq-element-x-android/p/filled-button-large-low-padding__ideal__default",
           "previewId": "io.element.android.libraries.designsystem.theme.components.ButtonKt.FilledButtonLargeLowPaddingPreview_Buttons",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/element-hq-element-x-android/render/filled-button-large-low-padding__ideal__default.svg"
         }
       ],
       "greenlines": [
@@ -2490,7 +2502,8 @@
           "height": 1923,
           "livePreview": "https://preview.coo.ee/element-hq-element-x-android/p/filled-button-large__ideal__default",
           "previewId": "io.element.android.libraries.designsystem.theme.components.ButtonKt.FilledButtonLargePreview_Buttons",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/element-hq-element-x-android/render/filled-button-large__ideal__default.svg"
         }
       ],
       "greenlines": [
@@ -3261,7 +3274,8 @@
           "height": 1923,
           "livePreview": "https://preview.coo.ee/element-hq-element-x-android/p/filled-button-medium-low-padding__ideal__default",
           "previewId": "io.element.android.libraries.designsystem.theme.components.ButtonKt.FilledButtonMediumLowPaddingPreview_Buttons",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/element-hq-element-x-android/render/filled-button-medium-low-padding__ideal__default.svg"
         }
       ],
       "greenlines": [
@@ -4032,7 +4046,8 @@
           "height": 1923,
           "livePreview": "https://preview.coo.ee/element-hq-element-x-android/p/filled-button-medium__ideal__default",
           "previewId": "io.element.android.libraries.designsystem.theme.components.ButtonKt.FilledButtonMediumPreview_Buttons",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/element-hq-element-x-android/render/filled-button-medium__ideal__default.svg"
         }
       ],
       "greenlines": [
@@ -4803,7 +4818,8 @@
           "height": 1923,
           "livePreview": "https://preview.coo.ee/element-hq-element-x-android/p/filled-button-small__ideal__default",
           "previewId": "io.element.android.libraries.designsystem.theme.components.ButtonKt.FilledButtonSmallPreview_Buttons",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/element-hq-element-x-android/render/filled-button-small__ideal__default.svg"
         }
       ],
       "greenlines": [
@@ -5574,7 +5590,8 @@
           "height": 1923,
           "livePreview": "https://preview.coo.ee/element-hq-element-x-android/p/outlined-button-large-low-padding__ideal__default",
           "previewId": "io.element.android.libraries.designsystem.theme.components.ButtonKt.OutlinedButtonLargeLowPaddingPreview_Buttons",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/element-hq-element-x-android/render/outlined-button-large-low-padding__ideal__default.svg"
         }
       ],
       "greenlines": [
@@ -6345,7 +6362,8 @@
           "height": 1923,
           "livePreview": "https://preview.coo.ee/element-hq-element-x-android/p/outlined-button-large__ideal__default",
           "previewId": "io.element.android.libraries.designsystem.theme.components.ButtonKt.OutlinedButtonLargePreview_Buttons",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/element-hq-element-x-android/render/outlined-button-large__ideal__default.svg"
         }
       ],
       "greenlines": [
@@ -7116,7 +7134,8 @@
           "height": 1923,
           "livePreview": "https://preview.coo.ee/element-hq-element-x-android/p/outlined-button-medium-low-padding__ideal__default",
           "previewId": "io.element.android.libraries.designsystem.theme.components.ButtonKt.OutlinedButtonMediumLowPaddingPreview_Buttons",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/element-hq-element-x-android/render/outlined-button-medium-low-padding__ideal__default.svg"
         }
       ],
       "greenlines": [
@@ -7887,7 +7906,8 @@
           "height": 1923,
           "livePreview": "https://preview.coo.ee/element-hq-element-x-android/p/outlined-button-medium__ideal__default",
           "previewId": "io.element.android.libraries.designsystem.theme.components.ButtonKt.OutlinedButtonMediumPreview_Buttons",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/element-hq-element-x-android/render/outlined-button-medium__ideal__default.svg"
         }
       ],
       "greenlines": [
@@ -8658,7 +8678,8 @@
           "height": 1923,
           "livePreview": "https://preview.coo.ee/element-hq-element-x-android/p/outlined-button-small__ideal__default",
           "previewId": "io.element.android.libraries.designsystem.theme.components.ButtonKt.OutlinedButtonSmallPreview_Buttons",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/element-hq-element-x-android/render/outlined-button-small__ideal__default.svg"
         }
       ],
       "greenlines": [
@@ -9429,7 +9450,8 @@
           "height": 1923,
           "livePreview": "https://preview.coo.ee/element-hq-element-x-android/p/text-button-large-low-padding__ideal__default",
           "previewId": "io.element.android.libraries.designsystem.theme.components.ButtonKt.TextButtonLargeLowPaddingPreview_Buttons",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/element-hq-element-x-android/render/text-button-large-low-padding__ideal__default.svg"
         }
       ],
       "greenlines": [
@@ -10200,7 +10222,8 @@
           "height": 1923,
           "livePreview": "https://preview.coo.ee/element-hq-element-x-android/p/text-button-large__ideal__default",
           "previewId": "io.element.android.libraries.designsystem.theme.components.ButtonKt.TextButtonLargePreview_Buttons",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/element-hq-element-x-android/render/text-button-large__ideal__default.svg"
         }
       ],
       "greenlines": [
@@ -10971,7 +10994,8 @@
           "height": 1923,
           "livePreview": "https://preview.coo.ee/element-hq-element-x-android/p/text-button-medium-low-padding__ideal__default",
           "previewId": "io.element.android.libraries.designsystem.theme.components.ButtonKt.TextButtonMediumLowPaddingPreview_Buttons",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/element-hq-element-x-android/render/text-button-medium-low-padding__ideal__default.svg"
         }
       ],
       "greenlines": [
@@ -11742,7 +11766,8 @@
           "height": 1923,
           "livePreview": "https://preview.coo.ee/element-hq-element-x-android/p/text-button-medium__ideal__default",
           "previewId": "io.element.android.libraries.designsystem.theme.components.ButtonKt.TextButtonMediumPreview_Buttons",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/element-hq-element-x-android/render/text-button-medium__ideal__default.svg"
         }
       ],
       "greenlines": [
@@ -12513,7 +12538,8 @@
           "height": 1923,
           "livePreview": "https://preview.coo.ee/element-hq-element-x-android/p/text-button-small__ideal__default",
           "previewId": "io.element.android.libraries.designsystem.theme.components.ButtonKt.TextButtonSmallPreview_Buttons",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/element-hq-element-x-android/render/text-button-small__ideal__default.svg"
         }
       ],
       "greenlines": [
@@ -13284,7 +13310,8 @@
           "height": 778,
           "livePreview": "https://preview.coo.ee/element-hq-element-x-android/p/checkboxes__ideal__default",
           "previewId": "io.element.android.libraries.designsystem.theme.components.CheckboxKt.CheckboxesPreview_Toggles",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/element-hq-element-x-android/render/checkboxes__ideal__default.svg"
         }
       ],
       "greenlines": [
@@ -14187,7 +14214,8 @@
           "height": 413,
           "livePreview": "https://preview.coo.ee/element-hq-element-x-android/p/circular-progress-indicator__ideal__default",
           "previewId": "io.element.android.libraries.designsystem.theme.components.CircularProgressIndicatorKt.CircularProgressIndicatorPreview_Progress_Indicators",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/element-hq-element-x-android/render/circular-progress-indicator__ideal__default.svg"
         }
       ],
       "greenlines": [],
@@ -14249,7 +14277,8 @@
           "height": 1421,
           "livePreview": "https://preview.coo.ee/element-hq-element-x-android/p/dropdown-menu-item__ideal__default",
           "previewId": "io.element.android.libraries.designsystem.theme.components.DropdownMenuItemKt.DropdownMenuItemPreview_Menus",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/element-hq-element-x-android/render/dropdown-menu-item__ideal__default.svg"
         }
       ],
       "greenlines": [],
@@ -14597,7 +14626,8 @@
           "height": 411,
           "livePreview": "https://preview.coo.ee/element-hq-element-x-android/p/floating-action-button__ideal__default",
           "previewId": "io.element.android.libraries.designsystem.theme.components.FloatingActionButtonKt.FloatingActionButtonPreview_Floating_Action_Buttons",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/element-hq-element-x-android/render/floating-action-button__ideal__default.svg"
         }
       ],
       "greenlines": [
@@ -14741,7 +14771,8 @@
           "height": 143,
           "livePreview": "https://preview.coo.ee/element-hq-element-x-android/p/horizontal-divider__ideal__default",
           "previewId": "io.element.android.libraries.designsystem.theme.components.HorizontalDividerKt.HorizontalDividerPreview_Dividers",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/element-hq-element-x-android/render/horizontal-divider__ideal__default.svg"
         }
       ],
       "greenlines": [],
@@ -14798,7 +14829,8 @@
           "height": 252,
           "livePreview": "https://preview.coo.ee/element-hq-element-x-android/p/horizontal-floating-toolbar-no-fab__ideal__default",
           "previewId": "io.element.android.libraries.designsystem.theme.components.HorizontalFloatingToolbarKt.HorizontalFloatingToolbarNoFabPreview_Day",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/element-hq-element-x-android/render/horizontal-floating-toolbar-no-fab__ideal__default.svg"
         },
         {
           "variant": "ideal",
@@ -14812,7 +14844,8 @@
           "previewParams": {
             "uiMode": 32
           },
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/element-hq-element-x-android/render/horizontal-floating-toolbar-no-fab__ideal__default__dark.svg"
         }
       ],
       "greenlines": [
@@ -14963,7 +14996,8 @@
           "height": 882,
           "livePreview": "https://preview.coo.ee/element-hq-element-x-android/p/horizontal-floating-toolbar__ideal__default",
           "previewId": "io.element.android.libraries.designsystem.theme.components.HorizontalFloatingToolbarKt.HorizontalFloatingToolbarPreview_Day",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/element-hq-element-x-android/render/horizontal-floating-toolbar__ideal__default.svg"
         },
         {
           "variant": "ideal",
@@ -14977,7 +15011,8 @@
           "previewParams": {
             "uiMode": 32
           },
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/element-hq-element-x-android/render/horizontal-floating-toolbar__ideal__default__dark.svg"
         }
       ],
       "greenlines": [
@@ -15411,7 +15446,8 @@
           "height": 159,
           "livePreview": "https://preview.coo.ee/element-hq-element-x-android/p/icon-image-vector__ideal__default",
           "previewId": "io.element.android.libraries.designsystem.theme.components.IconKt.IconImageVectorPreview_Icons",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/element-hq-element-x-android/render/icon-image-vector__ideal__default.svg"
         }
       ],
       "greenlines": [],
@@ -15473,7 +15509,8 @@
           "height": 537,
           "livePreview": "https://preview.coo.ee/element-hq-element-x-android/p/icon-button__ideal__default",
           "previewId": "io.element.android.libraries.designsystem.theme.components.IconButtonKt.IconButtonPreview_Buttons",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/element-hq-element-x-android/render/icon-button__ideal__default.svg"
         }
       ],
       "greenlines": [
@@ -15785,7 +15822,8 @@
           "height": 444,
           "livePreview": "https://preview.coo.ee/element-hq-element-x-android/p/icon-color-button__ideal__default",
           "previewId": "io.element.android.libraries.designsystem.theme.components.IconColorButtonKt.IconColorButtonPreview_Day",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/element-hq-element-x-android/render/icon-color-button__ideal__default.svg"
         },
         {
           "variant": "ideal",
@@ -15799,7 +15837,8 @@
           "previewParams": {
             "uiMode": 32
           },
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/element-hq-element-x-android/render/icon-color-button__ideal__default__dark.svg"
         }
       ],
       "greenlines": [
@@ -16260,7 +16299,8 @@
           "height": 274,
           "livePreview": "https://preview.coo.ee/element-hq-element-x-android/p/icon-toggle-button__ideal__default",
           "previewId": "io.element.android.libraries.designsystem.theme.components.IconToggleButtonKt.IconToggleButtonPreview_Toggles",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/element-hq-element-x-android/render/icon-toggle-button__ideal__default.svg"
         }
       ],
       "greenlines": [
@@ -16561,7 +16601,8 @@
           "height": 55,
           "livePreview": "https://preview.coo.ee/element-hq-element-x-android/p/linear-progress-indicator__ideal__default",
           "previewId": "io.element.android.libraries.designsystem.theme.components.LinearProgressIndicatorKt.LinearProgressIndicatorPreview_Progress_Indicators",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/element-hq-element-x-android/render/linear-progress-indicator__ideal__default.svg"
         }
       ],
       "greenlines": [],
@@ -16684,7 +16725,8 @@
           "height": 621,
           "livePreview": "https://preview.coo.ee/element-hq-element-x-android/p/list-item-primary-action-with-icon__ideal__default",
           "previewId": "io.element.android.libraries.designsystem.theme.components.ListItemKt.ListItemPrimaryActionWithIconPreview_List_item_-_Primary_action___Icon",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/element-hq-element-x-android/render/list-item-primary-action-with-icon__ideal__default.svg"
         }
       ],
       "greenlines": [],
@@ -16784,7 +16826,8 @@
           "height": 621,
           "livePreview": "https://preview.coo.ee/element-hq-element-x-android/p/list-item-single-line-both-icons__ideal__default",
           "previewId": "io.element.android.libraries.designsystem.theme.components.ListItemKt.ListItemSingleLineBothIconsPreview_List_item__1_line__-_Both_Icons",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/element-hq-element-x-android/render/list-item-single-line-both-icons__ideal__default.svg"
         }
       ],
       "greenlines": [],
@@ -16884,7 +16927,8 @@
           "height": 621,
           "livePreview": "https://preview.coo.ee/element-hq-element-x-android/p/list-item-single-line-leading-checkbox__ideal__default",
           "previewId": "io.element.android.libraries.designsystem.theme.components.ListItemKt.ListItemSingleLineLeadingCheckboxPreview_List_item__1_line__-_Leading_Checkbox",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/element-hq-element-x-android/render/list-item-single-line-leading-checkbox__ideal__default.svg"
         }
       ],
       "greenlines": [
@@ -17069,7 +17113,8 @@
           "height": 621,
           "livePreview": "https://preview.coo.ee/element-hq-element-x-android/p/list-item-single-line-leading-icon__ideal__default",
           "previewId": "io.element.android.libraries.designsystem.theme.components.ListItemKt.ListItemSingleLineLeadingIconPreview_List_item__1_line__-_Leading_Icon",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/element-hq-element-x-android/render/list-item-single-line-leading-icon__ideal__default.svg"
         }
       ],
       "greenlines": [],
@@ -17169,7 +17214,8 @@
           "height": 621,
           "livePreview": "https://preview.coo.ee/element-hq-element-x-android/p/list-item-single-line-leading-radio-button__ideal__default",
           "previewId": "io.element.android.libraries.designsystem.theme.components.ListItemKt.ListItemSingleLineLeadingRadioButtonPreview_List_item__1_line__-_Leading_RadioButton",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/element-hq-element-x-android/render/list-item-single-line-leading-radio-button__ideal__default.svg"
         }
       ],
       "greenlines": [],
@@ -17273,7 +17319,8 @@
           "height": 621,
           "livePreview": "https://preview.coo.ee/element-hq-element-x-android/p/list-item-single-line-leading-switch__ideal__default",
           "previewId": "io.element.android.libraries.designsystem.theme.components.ListItemKt.ListItemSingleLineLeadingSwitchPreview_List_item__1_line__-_Leading_Switch",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/element-hq-element-x-android/render/list-item-single-line-leading-switch__ideal__default.svg"
         }
       ],
       "greenlines": [
@@ -17530,7 +17577,8 @@
           "height": 621,
           "livePreview": "https://preview.coo.ee/element-hq-element-x-android/p/list-item-single-line-simple__ideal__default",
           "previewId": "io.element.android.libraries.designsystem.theme.components.ListItemKt.ListItemSingleLineSimplePreview_List_item__1_line__-_Simple",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/element-hq-element-x-android/render/list-item-single-line-simple__ideal__default.svg"
         }
       ],
       "greenlines": [],
@@ -17630,7 +17678,8 @@
           "height": 621,
           "livePreview": "https://preview.coo.ee/element-hq-element-x-android/p/list-item-single-line-trailing-check-box__ideal__default",
           "previewId": "io.element.android.libraries.designsystem.theme.components.ListItemKt.ListItemSingleLineTrailingCheckBoxPreview_List_item__1_line__-_Trailing_Checkbox",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/element-hq-element-x-android/render/list-item-single-line-trailing-check-box__ideal__default.svg"
         }
       ],
       "greenlines": [
@@ -17815,7 +17864,8 @@
           "height": 621,
           "livePreview": "https://preview.coo.ee/element-hq-element-x-android/p/list-item-single-line-trailing-icon__ideal__default",
           "previewId": "io.element.android.libraries.designsystem.theme.components.ListItemKt.ListItemSingleLineTrailingIconPreview_List_item__1_line__-_Trailing_Icon",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/element-hq-element-x-android/render/list-item-single-line-trailing-icon__ideal__default.svg"
         }
       ],
       "greenlines": [],
@@ -17915,7 +17965,8 @@
           "height": 621,
           "livePreview": "https://preview.coo.ee/element-hq-element-x-android/p/list-item-single-line-trailing-radio-button__ideal__default",
           "previewId": "io.element.android.libraries.designsystem.theme.components.ListItemKt.ListItemSingleLineTrailingRadioButtonPreview_List_item__1_line__-_Trailing_RadioButton",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/element-hq-element-x-android/render/list-item-single-line-trailing-radio-button__ideal__default.svg"
         }
       ],
       "greenlines": [],
@@ -18019,7 +18070,8 @@
           "height": 621,
           "livePreview": "https://preview.coo.ee/element-hq-element-x-android/p/list-item-single-line-trailing-switch__ideal__default",
           "previewId": "io.element.android.libraries.designsystem.theme.components.ListItemKt.ListItemSingleLineTrailingSwitchPreview_List_item__1_line__-_Trailing_Switch",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/element-hq-element-x-android/render/list-item-single-line-trailing-switch__ideal__default.svg"
         }
       ],
       "greenlines": [
@@ -18276,7 +18328,8 @@
           "height": 957,
           "livePreview": "https://preview.coo.ee/element-hq-element-x-android/p/list-item-three-lines-both-icons__ideal__default",
           "previewId": "io.element.android.libraries.designsystem.theme.components.ListItemKt.ListItemThreeLinesBothIconsPreview_List_item__3_lines__-_Both_Icons",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/element-hq-element-x-android/render/list-item-three-lines-both-icons__ideal__default.svg"
         }
       ],
       "greenlines": [],
@@ -18376,7 +18429,8 @@
           "height": 957,
           "livePreview": "https://preview.coo.ee/element-hq-element-x-android/p/list-item-three-lines-leading-checkbox__ideal__default",
           "previewId": "io.element.android.libraries.designsystem.theme.components.ListItemKt.ListItemThreeLinesLeadingCheckboxPreview_List_item__3_lines__-_Leading_Checkbox",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/element-hq-element-x-android/render/list-item-three-lines-leading-checkbox__ideal__default.svg"
         }
       ],
       "greenlines": [
@@ -18561,7 +18615,8 @@
           "height": 957,
           "livePreview": "https://preview.coo.ee/element-hq-element-x-android/p/list-item-three-lines-leading-icon__ideal__default",
           "previewId": "io.element.android.libraries.designsystem.theme.components.ListItemKt.ListItemThreeLinesLeadingIconPreview_List_item__3_lines__-_Leading_Icon",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/element-hq-element-x-android/render/list-item-three-lines-leading-icon__ideal__default.svg"
         }
       ],
       "greenlines": [],
@@ -18661,7 +18716,8 @@
           "height": 957,
           "livePreview": "https://preview.coo.ee/element-hq-element-x-android/p/list-item-three-lines-leading-radio-button__ideal__default",
           "previewId": "io.element.android.libraries.designsystem.theme.components.ListItemKt.ListItemThreeLinesLeadingRadioButtonPreview_List_item__3_lines__-_Leading_RadioButton",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/element-hq-element-x-android/render/list-item-three-lines-leading-radio-button__ideal__default.svg"
         }
       ],
       "greenlines": [],
@@ -18765,7 +18821,8 @@
           "height": 957,
           "livePreview": "https://preview.coo.ee/element-hq-element-x-android/p/list-item-three-lines-leading-switch__ideal__default",
           "previewId": "io.element.android.libraries.designsystem.theme.components.ListItemKt.ListItemThreeLinesLeadingSwitchPreview_List_item__3_lines__-_Leading_Switch",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/element-hq-element-x-android/render/list-item-three-lines-leading-switch__ideal__default.svg"
         }
       ],
       "greenlines": [
@@ -19022,7 +19079,8 @@
           "height": 957,
           "livePreview": "https://preview.coo.ee/element-hq-element-x-android/p/list-item-three-lines-simple__ideal__default",
           "previewId": "io.element.android.libraries.designsystem.theme.components.ListItemKt.ListItemThreeLinesSimplePreview_List_item__3_lines__-_Simple",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/element-hq-element-x-android/render/list-item-three-lines-simple__ideal__default.svg"
         }
       ],
       "greenlines": [],
@@ -19122,7 +19180,8 @@
           "height": 957,
           "livePreview": "https://preview.coo.ee/element-hq-element-x-android/p/list-item-three-lines-trailing-check-box__ideal__default",
           "previewId": "io.element.android.libraries.designsystem.theme.components.ListItemKt.ListItemThreeLinesTrailingCheckBoxPreview_List_item__3_lines__-_Trailing_Checkbox",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/element-hq-element-x-android/render/list-item-three-lines-trailing-check-box__ideal__default.svg"
         }
       ],
       "greenlines": [
@@ -19307,7 +19366,8 @@
           "height": 957,
           "livePreview": "https://preview.coo.ee/element-hq-element-x-android/p/list-item-three-lines-trailing-icon__ideal__default",
           "previewId": "io.element.android.libraries.designsystem.theme.components.ListItemKt.ListItemThreeLinesTrailingIconPreview_List_item__3_lines__-_Trailing_Icon",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/element-hq-element-x-android/render/list-item-three-lines-trailing-icon__ideal__default.svg"
         }
       ],
       "greenlines": [],
@@ -19407,7 +19467,8 @@
           "height": 957,
           "livePreview": "https://preview.coo.ee/element-hq-element-x-android/p/list-item-three-lines-trailing-radio-button__ideal__default",
           "previewId": "io.element.android.libraries.designsystem.theme.components.ListItemKt.ListItemThreeLinesTrailingRadioButtonPreview_List_item__3_lines__-_Trailing_RadioButton",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/element-hq-element-x-android/render/list-item-three-lines-trailing-radio-button__ideal__default.svg"
         }
       ],
       "greenlines": [],
@@ -19511,7 +19572,8 @@
           "height": 957,
           "livePreview": "https://preview.coo.ee/element-hq-element-x-android/p/list-item-three-lines-trailing-switch__ideal__default",
           "previewId": "io.element.android.libraries.designsystem.theme.components.ListItemKt.ListItemThreeLinesTrailingSwitchPreview_List_item__3_lines__-_Trailing_Switch",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/element-hq-element-x-android/render/list-item-three-lines-trailing-switch__ideal__default.svg"
         }
       ],
       "greenlines": [
@@ -19768,7 +19830,8 @@
           "height": 789,
           "livePreview": "https://preview.coo.ee/element-hq-element-x-android/p/list-item-two-lines-both-icons-error__ideal__default",
           "previewId": "io.element.android.libraries.designsystem.theme.components.ListItemKt.ListItemTwoLinesBothIconsErrorPreview_List_item__2_lines__-_Both_Icons_-_Error",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/element-hq-element-x-android/render/list-item-two-lines-both-icons-error__ideal__default.svg"
         }
       ],
       "greenlines": [],
@@ -19868,7 +19931,8 @@
           "height": 789,
           "livePreview": "https://preview.coo.ee/element-hq-element-x-android/p/list-item-two-lines-both-icons__ideal__default",
           "previewId": "io.element.android.libraries.designsystem.theme.components.ListItemKt.ListItemTwoLinesBothIconsPreview_List_item__2_lines__-_Both_Icons",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/element-hq-element-x-android/render/list-item-two-lines-both-icons__ideal__default.svg"
         }
       ],
       "greenlines": [],
@@ -19968,7 +20032,8 @@
           "height": 789,
           "livePreview": "https://preview.coo.ee/element-hq-element-x-android/p/list-item-two-lines-leading-checkbox-error__ideal__default",
           "previewId": "io.element.android.libraries.designsystem.theme.components.ListItemKt.ListItemTwoLinesLeadingCheckboxErrorPreview_List_item__2_lines__-_Leading_Checkbox_-_Error",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/element-hq-element-x-android/render/list-item-two-lines-leading-checkbox-error__ideal__default.svg"
         }
       ],
       "greenlines": [
@@ -20153,7 +20218,8 @@
           "height": 789,
           "livePreview": "https://preview.coo.ee/element-hq-element-x-android/p/list-item-two-lines-leading-checkbox__ideal__default",
           "previewId": "io.element.android.libraries.designsystem.theme.components.ListItemKt.ListItemTwoLinesLeadingCheckboxPreview_List_item__2_lines__-_Leading_Checkbox",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/element-hq-element-x-android/render/list-item-two-lines-leading-checkbox__ideal__default.svg"
         }
       ],
       "greenlines": [
@@ -20338,7 +20404,8 @@
           "height": 789,
           "livePreview": "https://preview.coo.ee/element-hq-element-x-android/p/list-item-two-lines-leading-icon-error__ideal__default",
           "previewId": "io.element.android.libraries.designsystem.theme.components.ListItemKt.ListItemTwoLinesLeadingIconErrorPreview_List_item__2_lines__-_Leading_Icon_-_Error",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/element-hq-element-x-android/render/list-item-two-lines-leading-icon-error__ideal__default.svg"
         }
       ],
       "greenlines": [],
@@ -20438,7 +20505,8 @@
           "height": 789,
           "livePreview": "https://preview.coo.ee/element-hq-element-x-android/p/list-item-two-lines-leading-icon__ideal__default",
           "previewId": "io.element.android.libraries.designsystem.theme.components.ListItemKt.ListItemTwoLinesLeadingIconPreview_List_item__2_lines__-_Leading_Icon",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/element-hq-element-x-android/render/list-item-two-lines-leading-icon__ideal__default.svg"
         }
       ],
       "greenlines": [],
@@ -20538,7 +20606,8 @@
           "height": 789,
           "livePreview": "https://preview.coo.ee/element-hq-element-x-android/p/list-item-two-lines-leading-radio-button-error__ideal__default",
           "previewId": "io.element.android.libraries.designsystem.theme.components.ListItemKt.ListItemTwoLinesLeadingRadioButtonErrorPreview_List_item__2_lines__-_Leading_RadioButton_-_Error",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/element-hq-element-x-android/render/list-item-two-lines-leading-radio-button-error__ideal__default.svg"
         }
       ],
       "greenlines": [],
@@ -20642,7 +20711,8 @@
           "height": 789,
           "livePreview": "https://preview.coo.ee/element-hq-element-x-android/p/list-item-two-lines-leading-radio-button__ideal__default",
           "previewId": "io.element.android.libraries.designsystem.theme.components.ListItemKt.ListItemTwoLinesLeadingRadioButtonPreview_List_item__2_lines__-_Leading_RadioButton",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/element-hq-element-x-android/render/list-item-two-lines-leading-radio-button__ideal__default.svg"
         }
       ],
       "greenlines": [],
@@ -20746,7 +20816,8 @@
           "height": 789,
           "livePreview": "https://preview.coo.ee/element-hq-element-x-android/p/list-item-two-lines-leading-switch-error__ideal__default",
           "previewId": "io.element.android.libraries.designsystem.theme.components.ListItemKt.ListItemTwoLinesLeadingSwitchErrorPreview_List_item__2_lines__-_Leading_Switch_-_Error",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/element-hq-element-x-android/render/list-item-two-lines-leading-switch-error__ideal__default.svg"
         }
       ],
       "greenlines": [
@@ -21003,7 +21074,8 @@
           "height": 789,
           "livePreview": "https://preview.coo.ee/element-hq-element-x-android/p/list-item-two-lines-leading-switch__ideal__default",
           "previewId": "io.element.android.libraries.designsystem.theme.components.ListItemKt.ListItemTwoLinesLeadingSwitchPreview_List_item__2_lines__-_Leading_Switch",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/element-hq-element-x-android/render/list-item-two-lines-leading-switch__ideal__default.svg"
         }
       ],
       "greenlines": [
@@ -21260,7 +21332,8 @@
           "height": 789,
           "livePreview": "https://preview.coo.ee/element-hq-element-x-android/p/list-item-two-lines-simple-error__ideal__default",
           "previewId": "io.element.android.libraries.designsystem.theme.components.ListItemKt.ListItemTwoLinesSimpleErrorPreview_List_item__2_lines__-_Simple_-_Error",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/element-hq-element-x-android/render/list-item-two-lines-simple-error__ideal__default.svg"
         }
       ],
       "greenlines": [],
@@ -21360,7 +21433,8 @@
           "height": 789,
           "livePreview": "https://preview.coo.ee/element-hq-element-x-android/p/list-item-two-lines-simple__ideal__default",
           "previewId": "io.element.android.libraries.designsystem.theme.components.ListItemKt.ListItemTwoLinesSimplePreview_List_item__2_lines__-_Simple",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/element-hq-element-x-android/render/list-item-two-lines-simple__ideal__default.svg"
         }
       ],
       "greenlines": [],
@@ -21460,7 +21534,8 @@
           "height": 789,
           "livePreview": "https://preview.coo.ee/element-hq-element-x-android/p/list-item-two-lines-trailing-check-box-error__ideal__default",
           "previewId": "io.element.android.libraries.designsystem.theme.components.ListItemKt.ListItemTwoLinesTrailingCheckBoxErrorPreview_List_item__2_lines__-_Trailing_Checkbox_-_Error",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/element-hq-element-x-android/render/list-item-two-lines-trailing-check-box-error__ideal__default.svg"
         }
       ],
       "greenlines": [
@@ -21645,7 +21720,8 @@
           "height": 789,
           "livePreview": "https://preview.coo.ee/element-hq-element-x-android/p/list-item-two-lines-trailing-check-box__ideal__default",
           "previewId": "io.element.android.libraries.designsystem.theme.components.ListItemKt.ListItemTwoLinesTrailingCheckBoxPreview_List_item__2_lines__-_Trailing_Checkbox",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/element-hq-element-x-android/render/list-item-two-lines-trailing-check-box__ideal__default.svg"
         }
       ],
       "greenlines": [
@@ -21830,7 +21906,8 @@
           "height": 789,
           "livePreview": "https://preview.coo.ee/element-hq-element-x-android/p/list-item-two-lines-trailing-icon-error__ideal__default",
           "previewId": "io.element.android.libraries.designsystem.theme.components.ListItemKt.ListItemTwoLinesTrailingIconErrorPreview_List_item__2_lines__-_Trailing_Icon_-_Error",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/element-hq-element-x-android/render/list-item-two-lines-trailing-icon-error__ideal__default.svg"
         }
       ],
       "greenlines": [],
@@ -21930,7 +22007,8 @@
           "height": 789,
           "livePreview": "https://preview.coo.ee/element-hq-element-x-android/p/list-item-two-lines-trailing-icon__ideal__default",
           "previewId": "io.element.android.libraries.designsystem.theme.components.ListItemKt.ListItemTwoLinesTrailingIconPreview_List_item__2_lines__-_Trailing_Icon",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/element-hq-element-x-android/render/list-item-two-lines-trailing-icon__ideal__default.svg"
         }
       ],
       "greenlines": [],
@@ -22030,7 +22108,8 @@
           "height": 789,
           "livePreview": "https://preview.coo.ee/element-hq-element-x-android/p/list-item-two-lines-trailing-radio-button-error__ideal__default",
           "previewId": "io.element.android.libraries.designsystem.theme.components.ListItemKt.ListItemTwoLinesTrailingRadioButtonErrorPreview_List_item__2_lines__-_Trailing_RadioButton_-_Error",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/element-hq-element-x-android/render/list-item-two-lines-trailing-radio-button-error__ideal__default.svg"
         }
       ],
       "greenlines": [],
@@ -22134,7 +22213,8 @@
           "height": 789,
           "livePreview": "https://preview.coo.ee/element-hq-element-x-android/p/list-item-two-lines-trailing-radio-button__ideal__default",
           "previewId": "io.element.android.libraries.designsystem.theme.components.ListItemKt.ListItemTwoLinesTrailingRadioButtonPreview_List_item__2_lines__-_Trailing_RadioButton",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/element-hq-element-x-android/render/list-item-two-lines-trailing-radio-button__ideal__default.svg"
         }
       ],
       "greenlines": [],
@@ -22238,7 +22318,8 @@
           "height": 789,
           "livePreview": "https://preview.coo.ee/element-hq-element-x-android/p/list-item-two-lines-trailing-switch-error__ideal__default",
           "previewId": "io.element.android.libraries.designsystem.theme.components.ListItemKt.ListItemTwoLinesTrailingSwitchErrorPreview_List_item__2_lines__-_Trailing_Switch_-_Error",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/element-hq-element-x-android/render/list-item-two-lines-trailing-switch-error__ideal__default.svg"
         }
       ],
       "greenlines": [
@@ -22495,7 +22576,8 @@
           "height": 789,
           "livePreview": "https://preview.coo.ee/element-hq-element-x-android/p/list-item-two-lines-trailing-switch__ideal__default",
           "previewId": "io.element.android.libraries.designsystem.theme.components.ListItemKt.ListItemTwoLinesTrailingSwitchPreview_List_item__2_lines__-_Trailing_Switch",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/element-hq-element-x-android/render/list-item-two-lines-trailing-switch__ideal__default.svg"
         }
       ],
       "greenlines": [
@@ -22752,7 +22834,8 @@
           "height": 317,
           "livePreview": "https://preview.coo.ee/element-hq-element-x-android/p/list-section-header__ideal__default",
           "previewId": "io.element.android.libraries.designsystem.theme.components.ListSectionHeaderKt.ListSectionHeaderPreview_List_section_header",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/element-hq-element-x-android/render/list-section-header__ideal__default.svg"
         }
       ],
       "greenlines": [],
@@ -22814,7 +22897,8 @@
           "height": 629,
           "livePreview": "https://preview.coo.ee/element-hq-element-x-android/p/list-section-header-with-description-and-divider__ideal__default",
           "previewId": "io.element.android.libraries.designsystem.theme.components.ListSectionHeaderKt.ListSectionHeaderWithDescriptionAndDividerPreview_List_section_header_with_description_and_divider",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/element-hq-element-x-android/render/list-section-header-with-description-and-divider__ideal__default.svg"
         }
       ],
       "greenlines": [],
@@ -22884,7 +22968,8 @@
           "height": 539,
           "livePreview": "https://preview.coo.ee/element-hq-element-x-android/p/list-section-header-with-description__ideal__default",
           "previewId": "io.element.android.libraries.designsystem.theme.components.ListSectionHeaderKt.ListSectionHeaderWithDescriptionPreview_List_section_header_with_description",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/element-hq-element-x-android/render/list-section-header-with-description__ideal__default.svg"
         }
       ],
       "greenlines": [],
@@ -22954,7 +23039,8 @@
           "height": 407,
           "livePreview": "https://preview.coo.ee/element-hq-element-x-android/p/list-section-header-with-divider__ideal__default",
           "previewId": "io.element.android.libraries.designsystem.theme.components.ListSectionHeaderKt.ListSectionHeaderWithDividerPreview_List_section_header_with_divider",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/element-hq-element-x-android/render/list-section-header-with-divider__ideal__default.svg"
         }
       ],
       "greenlines": [],
@@ -23016,7 +23102,8 @@
           "height": 571,
           "livePreview": "https://preview.coo.ee/element-hq-element-x-android/p/list-supporting-text-custom-padding__ideal__default",
           "previewId": "io.element.android.libraries.designsystem.theme.components.ListSupportingTextKt.ListSupportingTextCustomPaddingPreview_List_supporting_text_-_custom_padding",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/element-hq-element-x-android/render/list-supporting-text-custom-padding__ideal__default.svg"
         }
       ],
       "greenlines": [],
@@ -23116,7 +23203,8 @@
           "height": 571,
           "livePreview": "https://preview.coo.ee/element-hq-element-x-android/p/list-supporting-text-default-padding__ideal__default",
           "previewId": "io.element.android.libraries.designsystem.theme.components.ListSupportingTextKt.ListSupportingTextDefaultPaddingPreview_List_supporting_text_-_default_padding",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/element-hq-element-x-android/render/list-supporting-text-default-padding__ideal__default.svg"
         }
       ],
       "greenlines": [],
@@ -23216,7 +23304,8 @@
           "height": 571,
           "livePreview": "https://preview.coo.ee/element-hq-element-x-android/p/list-supporting-text-large-padding__ideal__default",
           "previewId": "io.element.android.libraries.designsystem.theme.components.ListSupportingTextKt.ListSupportingTextLargePaddingPreview_List_supporting_text_-_large_padding",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/element-hq-element-x-android/render/list-supporting-text-large-padding__ideal__default.svg"
         }
       ],
       "greenlines": [
@@ -23395,7 +23484,8 @@
           "height": 213,
           "livePreview": "https://preview.coo.ee/element-hq-element-x-android/p/list-supporting-text-no-padding__ideal__default",
           "previewId": "io.element.android.libraries.designsystem.theme.components.ListSupportingTextKt.ListSupportingTextNoPaddingPreview_List_supporting_text_-_no_padding",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/element-hq-element-x-android/render/list-supporting-text-no-padding__ideal__default.svg"
         }
       ],
       "greenlines": [],
@@ -23487,7 +23577,8 @@
           "height": 571,
           "livePreview": "https://preview.coo.ee/element-hq-element-x-android/p/list-supporting-text-small-padding__ideal__default",
           "previewId": "io.element.android.libraries.designsystem.theme.components.ListSupportingTextKt.ListSupportingTextSmallPaddingPreview_List_supporting_text_-_small_padding",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/element-hq-element-x-android/render/list-supporting-text-small-padding__ideal__default.svg"
         }
       ],
       "greenlines": [],
@@ -23864,7 +23955,8 @@
           "height": 2100,
           "livePreview": "https://preview.coo.ee/element-hq-element-x-android/p/modal-bottom-sheet-dark__ideal__default",
           "previewId": "io.element.android.libraries.designsystem.theme.components.ModalBottomSheetKt.ModalBottomSheetDarkPreview_Bottom_Sheets",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/element-hq-element-x-android/render/modal-bottom-sheet-dark__ideal__default.svg"
         }
       ],
       "greenlines": [],
@@ -23906,7 +23998,8 @@
           "height": 2100,
           "livePreview": "https://preview.coo.ee/element-hq-element-x-android/p/modal-bottom-sheet-light__ideal__default",
           "previewId": "io.element.android.libraries.designsystem.theme.components.ModalBottomSheetKt.ModalBottomSheetLightPreview_Bottom_Sheets",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/element-hq-element-x-android/render/modal-bottom-sheet-light__ideal__default.svg"
         }
       ],
       "greenlines": [],
@@ -24313,7 +24406,8 @@
           "height": 274,
           "livePreview": "https://preview.coo.ee/element-hq-element-x-android/p/radio-button__ideal__default",
           "previewId": "io.element.android.libraries.designsystem.theme.components.RadioButtonKt.RadioButtonPreview_Toggles",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/element-hq-element-x-android/render/radio-button__ideal__default.svg"
         }
       ],
       "greenlines": [],
@@ -25360,7 +25454,8 @@
           "height": 2625,
           "livePreview": "https://preview.coo.ee/element-hq-element-x-android/p/search-fields-dark__ideal__default",
           "previewId": "io.element.android.libraries.designsystem.theme.components.SearchFieldKt.SearchFieldsDarkPreview_Search_views",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/element-hq-element-x-android/render/search-fields-dark__ideal__default.svg"
         }
       ],
       "greenlines": [
@@ -25482,7 +25577,8 @@
           "height": 2625,
           "livePreview": "https://preview.coo.ee/element-hq-element-x-android/p/search-fields-light__ideal__default",
           "previewId": "io.element.android.libraries.designsystem.theme.components.SearchFieldKt.SearchFieldsLightPreview_Search_views",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/element-hq-element-x-android/render/search-fields-light__ideal__default.svg"
         }
       ],
       "greenlines": [
@@ -25850,7 +25946,8 @@
           "height": 285,
           "livePreview": "https://preview.coo.ee/element-hq-element-x-android/p/snackbar__ideal__default",
           "previewId": "io.element.android.libraries.designsystem.theme.components.SnackbarKt.SnackbarPreview_Snackbar",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/element-hq-element-x-android/render/snackbar__ideal__default.svg"
         }
       ],
       "greenlines": [],
@@ -25959,7 +26056,8 @@
           "height": 285,
           "livePreview": "https://preview.coo.ee/element-hq-element-x-android/p/snackbar-with-action-and-close-button__ideal__default",
           "previewId": "io.element.android.libraries.designsystem.theme.components.SnackbarKt.SnackbarWithActionAndCloseButtonPreview_Snackbar_with_action_and_close_button",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/element-hq-element-x-android/render/snackbar-with-action-and-close-button__ideal__default.svg"
         }
       ],
       "greenlines": [
@@ -26160,7 +26258,8 @@
           "height": 517,
           "livePreview": "https://preview.coo.ee/element-hq-element-x-android/p/snackbar-with-action-on-new-line-and-close-button__ideal__default",
           "previewId": "io.element.android.libraries.designsystem.theme.components.SnackbarKt.SnackbarWithActionOnNewLineAndCloseButtonPreview_Snackbar_with_action_and_close_button_on_new_line",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/element-hq-element-x-android/render/snackbar-with-action-on-new-line-and-close-button__ideal__default.svg"
         }
       ],
       "greenlines": [
@@ -26361,7 +26460,8 @@
           "height": 517,
           "livePreview": "https://preview.coo.ee/element-hq-element-x-android/p/snackbar-with-action-on-new-line__ideal__default",
           "previewId": "io.element.android.libraries.designsystem.theme.components.SnackbarKt.SnackbarWithActionOnNewLinePreview_Snackbar_with_action_on_new_line",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/element-hq-element-x-android/render/snackbar-with-action-on-new-line__ideal__default.svg"
         }
       ],
       "greenlines": [
@@ -26502,7 +26602,8 @@
           "height": 285,
           "livePreview": "https://preview.coo.ee/element-hq-element-x-android/p/snackbar-with-action__ideal__default",
           "previewId": "io.element.android.libraries.designsystem.theme.components.SnackbarKt.SnackbarWithActionPreview_Snackbar_with_action",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/element-hq-element-x-android/render/snackbar-with-action__ideal__default.svg"
         }
       ],
       "greenlines": [
@@ -26643,7 +26744,8 @@
           "height": 369,
           "livePreview": "https://preview.coo.ee/element-hq-element-x-android/p/surface__ideal__default",
           "previewId": "io.element.android.libraries.designsystem.theme.components.SurfaceKt.SurfacePreview",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/element-hq-element-x-android/render/surface__ideal__default.svg"
         }
       ],
       "greenlines": [],
@@ -26725,7 +26827,8 @@
           "height": 673,
           "livePreview": "https://preview.coo.ee/element-hq-element-x-android/p/switch__ideal__default",
           "previewId": "io.element.android.libraries.designsystem.theme.components.SwitchKt.SwitchPreview_Toggles",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/element-hq-element-x-android/render/switch__ideal__default.svg"
         }
       ],
       "greenlines": [
@@ -27100,7 +27203,8 @@
           "height": 1572,
           "livePreview": "https://preview.coo.ee/element-hq-element-x-android/p/text-dark__ideal__default",
           "previewId": "io.element.android.libraries.designsystem.theme.components.TextKt.TextDarkPreview_Text",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/element-hq-element-x-android/render/text-dark__ideal__default.svg"
         }
       ],
       "greenlines": [],
@@ -27311,7 +27415,8 @@
           "height": 1572,
           "livePreview": "https://preview.coo.ee/element-hq-element-x-android/p/text-light__ideal__default",
           "previewId": "io.element.android.libraries.designsystem.theme.components.TextKt.TextLightPreview_Text",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/element-hq-element-x-android/render/text-light__ideal__default.svg"
         }
       ],
       "greenlines": [],
@@ -28322,7 +28427,8 @@
           "height": 1575,
           "livePreview": "https://preview.coo.ee/element-hq-element-x-android/p/date-picker-dark__ideal__default",
           "previewId": "io.element.android.libraries.designsystem.theme.components.previews.DatePickerPreviewKt.DatePickerDarkPreview_DateTime_pickers",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/element-hq-element-x-android/render/date-picker-dark__ideal__default.svg"
         }
       ],
       "greenlines": [
@@ -29523,7 +29629,8 @@
           "height": 1575,
           "livePreview": "https://preview.coo.ee/element-hq-element-x-android/p/date-picker-light__ideal__default",
           "previewId": "io.element.android.libraries.designsystem.theme.components.previews.DatePickerPreviewKt.DatePickerLightPreview_DateTime_pickers",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/element-hq-element-x-android/render/date-picker-light__ideal__default.svg"
         }
       ],
       "greenlines": [
@@ -30724,7 +30831,8 @@
           "height": 285,
           "livePreview": "https://preview.coo.ee/element-hq-element-x-android/p/menu__ideal__default",
           "previewId": "io.element.android.libraries.designsystem.theme.components.previews.MenuPreviewKt.MenuPreview_Menus",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/element-hq-element-x-android/render/menu__ideal__default.svg"
         }
       ],
       "greenlines": [
@@ -31377,7 +31485,8 @@
           "height": 537,
           "livePreview": "https://preview.coo.ee/element-hq-element-x-android/p/back-button__ideal__default",
           "previewId": "io.element.android.libraries.designsystem.components.button.BackButtonKt.BackButtonPreview_Buttons",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/element-hq-element-x-android/render/back-button__ideal__default.svg"
         }
       ],
       "greenlines": [
@@ -31683,7 +31792,8 @@
           "height": 549,
           "livePreview": "https://preview.coo.ee/element-hq-element-x-android/p/main-action-button__ideal__default",
           "previewId": "io.element.android.libraries.designsystem.components.button.MainActionButtonKt.MainActionButtonPreview_Buttons",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/element-hq-element-x-android/render/main-action-button__ideal__default.svg"
         }
       ],
       "greenlines": [],
@@ -31936,7 +32046,8 @@
           "height": 939,
           "livePreview": "https://preview.coo.ee/element-hq-element-x-android/p/alert-dialog-content__ideal__default",
           "previewId": "io.element.android.libraries.designsystem.components.dialogs.AlertDialogKt.AlertDialogContentPreview_Dialogs",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/element-hq-element-x-android/render/alert-dialog-content__ideal__default.svg"
         }
       ],
       "greenlines": [
@@ -32107,7 +32218,8 @@
           "height": 1,
           "livePreview": "https://preview.coo.ee/element-hq-element-x-android/p/alert-dialog__ideal__default",
           "previewId": "io.element.android.libraries.designsystem.components.dialogs.AlertDialogKt.AlertDialogPreview_Day",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/element-hq-element-x-android/render/alert-dialog__ideal__default.svg"
         },
         {
           "variant": "ideal",
@@ -32121,7 +32233,8 @@
           "previewParams": {
             "uiMode": 32
           },
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/element-hq-element-x-android/render/alert-dialog__ideal__default__dark.svg"
         }
       ],
       "greenlines": [],
@@ -32171,7 +32284,8 @@
           "height": 1155,
           "livePreview": "https://preview.coo.ee/element-hq-element-x-android/p/confirmation-dialog-content__ideal__default",
           "previewId": "io.element.android.libraries.designsystem.components.dialogs.ConfirmationDialogKt.ConfirmationDialogContentPreview_Dialogs",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/element-hq-element-x-android/render/confirmation-dialog-content__ideal__default.svg"
         }
       ],
       "greenlines": [
@@ -32466,7 +32580,8 @@
           "height": 1,
           "livePreview": "https://preview.coo.ee/element-hq-element-x-android/p/confirmation-dialog__ideal__default",
           "previewId": "io.element.android.libraries.designsystem.components.dialogs.ConfirmationDialogKt.ConfirmationDialogPreview_Day",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/element-hq-element-x-android/render/confirmation-dialog__ideal__default.svg"
         },
         {
           "variant": "ideal",
@@ -32480,7 +32595,8 @@
           "previewParams": {
             "uiMode": 32
           },
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/element-hq-element-x-android/render/confirmation-dialog__ideal__default__dark.svg"
         }
       ],
       "greenlines": [],
@@ -32565,7 +32681,8 @@
           "height": 1155,
           "livePreview": "https://preview.coo.ee/element-hq-element-x-android/p/error-dialog-content__ideal__default",
           "previewId": "io.element.android.libraries.designsystem.components.dialogs.ErrorDialogKt.ErrorDialogContentPreview_Dialogs",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/element-hq-element-x-android/render/error-dialog-content__ideal__default.svg"
         }
       ],
       "greenlines": [
@@ -32736,7 +32853,8 @@
           "height": 1,
           "livePreview": "https://preview.coo.ee/element-hq-element-x-android/p/error-dialog__ideal__default",
           "previewId": "io.element.android.libraries.designsystem.components.dialogs.ErrorDialogKt.ErrorDialogPreview_Day",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/element-hq-element-x-android/render/error-dialog__ideal__default.svg"
         },
         {
           "variant": "ideal",
@@ -32750,7 +32868,8 @@
           "previewParams": {
             "uiMode": 32
           },
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/element-hq-element-x-android/render/error-dialog__ideal__default__dark.svg"
         }
       ],
       "greenlines": [],
@@ -32810,7 +32929,8 @@
           "height": 1,
           "livePreview": "https://preview.coo.ee/element-hq-element-x-android/p/error-dialog-with-do-not-show-again__ideal__default",
           "previewId": "io.element.android.libraries.designsystem.components.dialogs.ErrorDialogWithDoNotShowAgainKt.ErrorDialogWithDoNotShowAgainPreview_Day",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/element-hq-element-x-android/render/error-dialog-with-do-not-show-again__ideal__default.svg"
         },
         {
           "variant": "ideal",
@@ -32824,7 +32944,8 @@
           "previewParams": {
             "uiMode": 32
           },
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/element-hq-element-x-android/render/error-dialog-with-do-not-show-again__ideal__default__dark.svg"
         }
       ],
       "greenlines": [],
@@ -33159,7 +33280,8 @@
           "height": 2099,
           "livePreview": "https://preview.coo.ee/element-hq-element-x-android/p/multiple-selection-dialog-content__ideal__default",
           "previewId": "io.element.android.libraries.designsystem.components.dialogs.MultipleSelectionDialogKt.MultipleSelectionDialogContentPreview_Dialogs",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/element-hq-element-x-android/render/multiple-selection-dialog-content__ideal__default.svg"
         }
       ],
       "greenlines": [
@@ -33608,7 +33730,8 @@
           "height": 1,
           "livePreview": "https://preview.coo.ee/element-hq-element-x-android/p/multiple-selection-dialog__ideal__default",
           "previewId": "io.element.android.libraries.designsystem.components.dialogs.MultipleSelectionDialogKt.MultipleSelectionDialogPreview_Day",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/element-hq-element-x-android/render/multiple-selection-dialog__ideal__default.svg"
         },
         {
           "variant": "ideal",
@@ -33622,7 +33745,8 @@
           "previewParams": {
             "uiMode": 32
           },
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/element-hq-element-x-android/render/multiple-selection-dialog__ideal__default__dark.svg"
         }
       ],
       "greenlines": [],
@@ -33691,7 +33815,8 @@
           "height": 1155,
           "livePreview": "https://preview.coo.ee/element-hq-element-x-android/p/retry-dialog-content__ideal__default",
           "previewId": "io.element.android.libraries.designsystem.components.dialogs.RetryDialogKt.RetryDialogContentPreview_Dialogs",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/element-hq-element-x-android/render/retry-dialog-content__ideal__default.svg"
         }
       ],
       "greenlines": [
@@ -33924,7 +34049,8 @@
           "height": 1,
           "livePreview": "https://preview.coo.ee/element-hq-element-x-android/p/retry-dialog__ideal__default",
           "previewId": "io.element.android.libraries.designsystem.components.dialogs.RetryDialogKt.RetryDialogPreview_Day",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/element-hq-element-x-android/render/retry-dialog__ideal__default.svg"
         },
         {
           "variant": "ideal",
@@ -33938,7 +34064,8 @@
           "previewParams": {
             "uiMode": 32
           },
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/element-hq-element-x-android/render/retry-dialog__ideal__default__dark.svg"
         }
       ],
       "greenlines": [],
@@ -33997,7 +34124,8 @@
           "height": 1,
           "livePreview": "https://preview.coo.ee/element-hq-element-x-android/p/save-changes-dialog__ideal__default",
           "previewId": "io.element.android.libraries.designsystem.components.dialogs.SaveChangesDialogKt.SaveChangesDialogPreview_Day",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/element-hq-element-x-android/render/save-changes-dialog__ideal__default.svg"
         },
         {
           "variant": "ideal",
@@ -34011,7 +34139,8 @@
           "previewParams": {
             "uiMode": 32
           },
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/element-hq-element-x-android/render/save-changes-dialog__ideal__default__dark.svg"
         }
       ],
       "greenlines": [],
@@ -34075,7 +34204,8 @@
           "height": 949,
           "livePreview": "https://preview.coo.ee/element-hq-element-x-android/p/single-selection-dialog-content__ideal__default",
           "previewId": "io.element.android.libraries.designsystem.components.dialogs.SingleSelectionDialogKt.SingleSelectionDialogContentPreview_Dialogs",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/element-hq-element-x-android/render/single-selection-dialog-content__ideal__default.svg"
         }
       ],
       "greenlines": [
@@ -34231,7 +34361,8 @@
           "height": 1,
           "livePreview": "https://preview.coo.ee/element-hq-element-x-android/p/single-selection-dialog__ideal__default",
           "previewId": "io.element.android.libraries.designsystem.components.dialogs.SingleSelectionDialogKt.SingleSelectionDialogPreview_Day",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/element-hq-element-x-android/render/single-selection-dialog__ideal__default.svg"
         },
         {
           "variant": "ideal",
@@ -34245,7 +34376,8 @@
           "previewParams": {
             "uiMode": 32
           },
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/element-hq-element-x-android/render/single-selection-dialog__ideal__default__dark.svg"
         }
       ],
       "greenlines": [],
@@ -34309,7 +34441,8 @@
           "height": 411,
           "livePreview": "https://preview.coo.ee/element-hq-element-x-android/p/mutiple-selection-list-item__ideal__default",
           "previewId": "io.element.android.libraries.designsystem.components.list.MultipleSelectionListItemKt.MutipleSelectionListItemPreview_Multiple_selection_List_item_-_no_selection",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/element-hq-element-x-android/render/mutiple-selection-list-item__ideal__default.svg"
         }
       ],
       "greenlines": [],
@@ -34401,7 +34534,8 @@
           "height": 411,
           "livePreview": "https://preview.coo.ee/element-hq-element-x-android/p/mutiple-selection-list-item-selected__ideal__default",
           "previewId": "io.element.android.libraries.designsystem.components.list.MultipleSelectionListItemKt.MutipleSelectionListItemSelectedPreview_Multiple_selection_List_item_-_selection_in_supporting_text",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/element-hq-element-x-android/render/mutiple-selection-list-item-selected__ideal__default.svg"
         }
       ],
       "greenlines": [],
@@ -34493,7 +34627,8 @@
           "height": 411,
           "livePreview": "https://preview.coo.ee/element-hq-element-x-android/p/mutiple-selection-list-item-selected-trailing-content__ideal__default",
           "previewId": "io.element.android.libraries.designsystem.components.list.MultipleSelectionListItemKt.MutipleSelectionListItemSelectedTrailingContentPreview_Multiple_selection_List_item_-_selection_in_trailing_content",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/element-hq-element-x-android/render/mutiple-selection-list-item-selected-trailing-content__ideal__default.svg"
         }
       ],
       "greenlines": [],
@@ -34585,7 +34720,8 @@
           "height": 411,
           "livePreview": "https://preview.coo.ee/element-hq-element-x-android/p/single-selection-list-item-custom-formattert__ideal__default",
           "previewId": "io.element.android.libraries.designsystem.components.list.SingleSelectionListItemKt.SingleSelectionListItemCustomFormattertPreview_Single_selection_List_item_-_custom_formatter",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/element-hq-element-x-android/render/single-selection-list-item-custom-formattert__ideal__default.svg"
         }
       ],
       "greenlines": [],
@@ -34677,7 +34813,8 @@
           "height": 327,
           "livePreview": "https://preview.coo.ee/element-hq-element-x-android/p/single-selection-list-item__ideal__default",
           "previewId": "io.element.android.libraries.designsystem.components.list.SingleSelectionListItemKt.SingleSelectionListItemPreview_Single_selection_List_item_-_no_selection",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/element-hq-element-x-android/render/single-selection-list-item__ideal__default.svg"
         }
       ],
       "greenlines": [],
@@ -34791,7 +34928,8 @@
           "height": 411,
           "livePreview": "https://preview.coo.ee/element-hq-element-x-android/p/single-selection-list-item-selected-in-supporting-text__ideal__default",
           "previewId": "io.element.android.libraries.designsystem.components.list.SingleSelectionListItemKt.SingleSelectionListItemSelectedInSupportingTextPreview_Single_selection_List_item_-_selection_in_supporting_text",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/element-hq-element-x-android/render/single-selection-list-item-selected-in-supporting-text__ideal__default.svg"
         }
       ],
       "greenlines": [],
@@ -34883,7 +35021,8 @@
           "height": 411,
           "livePreview": "https://preview.coo.ee/element-hq-element-x-android/p/single-selection-list-item-selected-in-trailing-content__ideal__default",
           "previewId": "io.element.android.libraries.designsystem.components.list.SingleSelectionListItemKt.SingleSelectionListItemSelectedInTrailingContentPreview_Single_selection_List_item_-_selection_in_trailing_content",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/element-hq-element-x-android/render/single-selection-list-item-selected-in-trailing-content__ideal__default.svg"
         }
       ],
       "greenlines": [],
@@ -34975,7 +35114,8 @@
           "height": 411,
           "livePreview": "https://preview.coo.ee/element-hq-element-x-android/p/single-selection-list-item-unselected-with-supporting-text__ideal__default",
           "previewId": "io.element.android.libraries.designsystem.components.list.SingleSelectionListItemKt.SingleSelectionListItemUnselectedWithSupportingTextPreview_Single_selection_List_item_-_no_selection__supporting_text",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/element-hq-element-x-android/render/single-selection-list-item-unselected-with-supporting-text__ideal__default.svg"
         }
       ],
       "greenlines": [],
@@ -35334,7 +35474,8 @@
           "height": 1279,
           "livePreview": "https://preview.coo.ee/element-hq-element-x-android/p/preference-category__ideal__default",
           "previewId": "io.element.android.libraries.designsystem.components.preferences.PreferenceCategoryKt.PreferenceCategoryPreview_Preferences",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/element-hq-element-x-android/render/preference-category__ideal__default.svg"
         }
       ],
       "greenlines": [
@@ -35559,7 +35700,8 @@
           "height": 1839,
           "livePreview": "https://preview.coo.ee/element-hq-element-x-android/p/preference-checkbox__ideal__default",
           "previewId": "io.element.android.libraries.designsystem.components.preferences.PreferenceCheckboxKt.PreferenceCheckboxPreview_Preferences",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/element-hq-element-x-android/render/preference-checkbox__ideal__default.svg"
         }
       ],
       "greenlines": [
@@ -36004,7 +36146,8 @@
           "height": 39,
           "livePreview": "https://preview.coo.ee/element-hq-element-x-android/p/preference-divider__ideal__default",
           "previewId": "io.element.android.libraries.designsystem.components.preferences.PreferenceDividerKt.PreferenceDividerPreview_Preferences",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/element-hq-element-x-android/render/preference-divider__ideal__default.svg"
         }
       ],
       "greenlines": [],
@@ -36447,7 +36590,8 @@
           "height": 327,
           "livePreview": "https://preview.coo.ee/element-hq-element-x-android/p/preference-row__ideal__default",
           "previewId": "io.element.android.libraries.designsystem.components.preferences.PreferenceRowKt.PreferenceRowPreview_Preferences",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/element-hq-element-x-android/render/preference-row__ideal__default.svg"
         }
       ],
       "greenlines": [],
@@ -36529,7 +36673,8 @@
           "height": 1189,
           "livePreview": "https://preview.coo.ee/element-hq-element-x-android/p/preference-slide__ideal__default",
           "previewId": "io.element.android.libraries.designsystem.components.preferences.PreferenceSlideKt.PreferenceSlidePreview_Preferences",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/element-hq-element-x-android/render/preference-slide__ideal__default.svg"
         }
       ],
       "greenlines": [],
@@ -36770,7 +36915,8 @@
           "height": 1083,
           "livePreview": "https://preview.coo.ee/element-hq-element-x-android/p/preference-switch__ideal__default",
           "previewId": "io.element.android.libraries.designsystem.components.preferences.PreferenceSwitchKt.PreferenceSwitchPreview_Preferences",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/element-hq-element-x-android/render/preference-switch__ideal__default.svg"
         }
       ],
       "greenlines": [
@@ -37179,7 +37325,8 @@
           "height": 159,
           "livePreview": "https://preview.coo.ee/element-hq-element-x-android/p/preference-icon__ideal__default",
           "previewId": "io.element.android.libraries.designsystem.components.preferences.components.PreferenceIconKt.PreferenceIconPreview_Preferences",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/element-hq-element-x-android/render/preference-icon__ideal__default.svg"
         }
       ],
       "greenlines": [],
@@ -37241,7 +37388,8 @@
           "height": 159,
           "livePreview": "https://preview.coo.ee/element-hq-element-x-android/p/preference-icon-with-badge__ideal__default",
           "previewId": "io.element.android.libraries.designsystem.components.preferences.components.PreferenceIconKt.PreferenceIconWithBadgePreview_Preferences",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/element-hq-element-x-android/render/preference-icon-with-badge__ideal__default.svg"
         }
       ],
       "greenlines": [],
@@ -37727,7 +37875,8 @@
           "height": 137,
           "livePreview": "https://preview.coo.ee/element-hq-element-x-android/p/avatar-row-last-on-top__ideal__default",
           "previewId": "io.element.android.libraries.designsystem.components.avatar.AvatarRowKt.AvatarRowLastOnTopPreview_Day",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/element-hq-element-x-android/render/avatar-row-last-on-top__ideal__default.svg"
         },
         {
           "variant": "ideal",
@@ -37741,7 +37890,8 @@
           "previewParams": {
             "uiMode": 32
           },
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/element-hq-element-x-android/render/avatar-row-last-on-top__ideal__default__dark.svg"
         }
       ],
       "greenlines": [],
@@ -37839,7 +37989,8 @@
           "height": 137,
           "livePreview": "https://preview.coo.ee/element-hq-element-x-android/p/avatar-row-last-on-top-rtl__ideal__default",
           "previewId": "io.element.android.libraries.designsystem.components.avatar.AvatarRowKt.AvatarRowLastOnTopRtlPreview_Day",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/element-hq-element-x-android/render/avatar-row-last-on-top-rtl__ideal__default.svg"
         },
         {
           "variant": "ideal",
@@ -37853,7 +38004,8 @@
           "previewParams": {
             "uiMode": 32
           },
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/element-hq-element-x-android/render/avatar-row-last-on-top-rtl__ideal__default__dark.svg"
         }
       ],
       "greenlines": [],
@@ -37951,7 +38103,8 @@
           "height": 137,
           "livePreview": "https://preview.coo.ee/element-hq-element-x-android/p/avatar-row__ideal__default",
           "previewId": "io.element.android.libraries.designsystem.components.avatar.AvatarRowKt.AvatarRowPreview_Day",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/element-hq-element-x-android/render/avatar-row__ideal__default.svg"
         },
         {
           "variant": "ideal",
@@ -37965,7 +38118,8 @@
           "previewParams": {
             "uiMode": 32
           },
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/element-hq-element-x-android/render/avatar-row__ideal__default__dark.svg"
         }
       ],
       "greenlines": [],
@@ -38063,7 +38217,8 @@
           "height": 137,
           "livePreview": "https://preview.coo.ee/element-hq-element-x-android/p/avatar-row-rtl__ideal__default",
           "previewId": "io.element.android.libraries.designsystem.components.avatar.AvatarRowKt.AvatarRowRtlPreview_Day",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/element-hq-element-x-android/render/avatar-row-rtl__ideal__default.svg"
         },
         {
           "variant": "ideal",
@@ -38077,7 +38232,8 @@
           "previewParams": {
             "uiMode": 32
           },
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/element-hq-element-x-android/render/avatar-row-rtl__ideal__default__dark.svg"
         }
       ],
       "greenlines": [],
@@ -38175,7 +38331,8 @@
           "height": 939,
           "livePreview": "https://preview.coo.ee/element-hq-element-x-android/p/avatar-cluster__ideal__default",
           "previewId": "io.element.android.libraries.designsystem.components.avatar.internal.AvatarClusterKt.AvatarClusterPreview_Avatars",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/element-hq-element-x-android/render/avatar-cluster__ideal__default.svg"
         }
       ],
       "greenlines": [],
@@ -38996,7 +39153,8 @@
           "height": 391,
           "livePreview": "https://preview.coo.ee/element-hq-element-x-android/p/space-avatar__ideal__default",
           "previewId": "io.element.android.libraries.designsystem.components.avatar.internal.SpaceAvatarKt.SpaceAvatarPreview_Avatars",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/element-hq-element-x-android/render/space-avatar__ideal__default.svg"
         }
       ],
       "greenlines": [],
@@ -39102,7 +39260,8 @@
           "height": 147,
           "livePreview": "https://preview.coo.ee/element-hq-element-x-android/p/text-avatar__ideal__default",
           "previewId": "io.element.android.libraries.designsystem.components.avatar.internal.TextAvatarKt.TextAvatarPreview_Avatars",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/element-hq-element-x-android/render/text-avatar__ideal__default.svg"
         }
       ],
       "greenlines": [],
@@ -39182,7 +39341,8 @@
           "height": 137,
           "livePreview": "https://preview.coo.ee/element-hq-element-x-android/p/tombstoned-room-avatar__ideal__default",
           "previewId": "io.element.android.libraries.designsystem.components.avatar.internal.TombstonedRoomAvatarKt.TombstonedRoomAvatarPreview_Avatars",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/element-hq-element-x-android/render/tombstoned-room-avatar__ideal__default.svg"
         }
       ],
       "greenlines": [],
@@ -39237,7 +39397,8 @@
           "height": 969,
           "livePreview": "https://preview.coo.ee/element-hq-element-x-android/p/user-avatar-colors__ideal__default",
           "previewId": "io.element.android.libraries.designsystem.components.avatar.internal.UserAvatarPreviewKt.UserAvatarColorsPreview_Day",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/element-hq-element-x-android/render/user-avatar-colors__ideal__default.svg"
         },
         {
           "variant": "ideal",
@@ -39251,7 +39412,8 @@
           "previewParams": {
             "uiMode": 32
           },
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/element-hq-element-x-android/render/user-avatar-colors__ideal__default__dark.svg"
         }
       ],
       "greenlines": [],
@@ -39439,7 +39601,8 @@
           "height": 415,
           "livePreview": "https://preview.coo.ee/element-hq-element-x-android/p/async-failure__ideal__default",
           "previewId": "io.element.android.libraries.designsystem.components.async.AsyncFailureKt.AsyncFailurePreview_Day",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/element-hq-element-x-android/render/async-failure__ideal__default.svg"
         },
         {
           "variant": "ideal",
@@ -39453,7 +39616,8 @@
           "previewParams": {
             "uiMode": 32
           },
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/element-hq-element-x-android/render/async-failure__ideal__default__dark.svg"
         }
       ],
       "greenlines": [
@@ -39525,7 +39689,8 @@
           "height": 147,
           "livePreview": "https://preview.coo.ee/element-hq-element-x-android/p/async-indicator-failure__ideal__default",
           "previewId": "io.element.android.libraries.designsystem.components.async.AsyncIndicatorViewKt.AsyncIndicatorFailurePreview_Day",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/element-hq-element-x-android/render/async-indicator-failure__ideal__default.svg"
         },
         {
           "variant": "ideal",
@@ -39539,7 +39704,8 @@
           "previewParams": {
             "uiMode": 32
           },
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/element-hq-element-x-android/render/async-indicator-failure__ideal__default__dark.svg"
         }
       ],
       "greenlines": [],
@@ -39616,7 +39782,8 @@
           "height": 147,
           "livePreview": "https://preview.coo.ee/element-hq-element-x-android/p/async-indicator-loading__ideal__default",
           "previewId": "io.element.android.libraries.designsystem.components.async.AsyncIndicatorViewKt.AsyncIndicatorLoadingPreview_Day",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/element-hq-element-x-android/render/async-indicator-loading__ideal__default.svg"
         },
         {
           "variant": "ideal",
@@ -39630,7 +39797,8 @@
           "previewParams": {
             "uiMode": 32
           },
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/element-hq-element-x-android/render/async-indicator-loading__ideal__default__dark.svg"
         }
       ],
       "greenlines": [],
@@ -39707,7 +39875,8 @@
           "height": 315,
           "livePreview": "https://preview.coo.ee/element-hq-element-x-android/p/async-loading__ideal__default",
           "previewId": "io.element.android.libraries.designsystem.components.async.AsyncLoadingKt.AsyncLoadingPreview_Day",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/element-hq-element-x-android/render/async-loading__ideal__default.svg"
         },
         {
           "variant": "ideal",
@@ -39721,7 +39890,8 @@
           "previewParams": {
             "uiMode": 32
           },
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/element-hq-element-x-android/render/async-loading__ideal__default__dark.svg"
         }
       ],
       "greenlines": [],
@@ -39753,7 +39923,8 @@
           "height": 959,
           "livePreview": "https://preview.coo.ee/element-hq-element-x-android/p/announcement__ideal__default",
           "previewId": "io.element.android.libraries.designsystem.components.AnnouncementKt.AnnouncementPreview_Day",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/element-hq-element-x-android/render/announcement__ideal__default.svg"
         },
         {
           "variant": "ideal",
@@ -39767,7 +39938,8 @@
           "previewParams": {
             "uiMode": 32
           },
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/element-hq-element-x-android/render/announcement__ideal__default__dark.svg"
         }
       ],
       "greenlines": [
@@ -39870,7 +40042,8 @@
           "height": 69,
           "livePreview": "https://preview.coo.ee/element-hq-element-x-android/p/badge__ideal__default",
           "previewId": "io.element.android.libraries.designsystem.components.BadgeKt.BadgePreview_Day",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/element-hq-element-x-android/render/badge__ideal__default.svg"
         },
         {
           "variant": "ideal",
@@ -39884,7 +40057,8 @@
           "previewParams": {
             "uiMode": 32
           },
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/element-hq-element-x-android/render/badge__ideal__default__dark.svg"
         }
       ],
       "greenlines": [],
@@ -39956,7 +40130,8 @@
           "height": 2100,
           "livePreview": "https://preview.coo.ee/element-hq-element-x-android/p/big-icon__ideal__default",
           "previewId": "io.element.android.libraries.designsystem.components.BigIconKt.BigIconPreview_Day",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/element-hq-element-x-android/render/big-icon__ideal__default.svg"
         },
         {
           "variant": "ideal",
@@ -39970,7 +40145,8 @@
           "previewParams": {
             "uiMode": 32
           },
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/element-hq-element-x-android/render/big-icon__ideal__default__dark.svg"
         }
       ],
       "greenlines": [],
@@ -40091,7 +40267,8 @@
           "height": 149,
           "livePreview": "https://preview.coo.ee/element-hq-element-x-android/p/clickable-link-text__ideal__default",
           "previewId": "io.element.android.libraries.designsystem.components.ClickableLinkTextKt.ClickableLinkTextPreview_Text",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/element-hq-element-x-android/render/clickable-link-text__ideal__default.svg"
         }
       ],
       "greenlines": [],
@@ -40121,16 +40298,17 @@
       "sourceFunction": "ClickableLinkTextPreview",
       "parameters": [
         {
-          "name": "text",
-          "type": "String"
-        },
-        {
-          "name": "interactionSource",
-          "type": "MutableInteractionSource"
+          "name": "annotatedString",
+          "type": "AnnotatedString"
         },
         {
           "name": "modifier",
           "type": "Modifier",
+          "hasDefault": true
+        },
+        {
+          "name": "interactionSource",
+          "type": "MutableInteractionSource",
           "hasDefault": true
         },
         {
@@ -40323,7 +40501,8 @@
           "height": 285,
           "livePreview": "https://preview.coo.ee/element-hq-element-x-android/p/labelled-checkbox__ideal__default",
           "previewId": "io.element.android.libraries.designsystem.components.LabelledCheckboxKt.LabelledCheckboxPreview_Toggles",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/element-hq-element-x-android/render/labelled-checkbox__ideal__default.svg"
         }
       ],
       "greenlines": [
@@ -40508,7 +40687,8 @@
           "height": 1433,
           "livePreview": "https://preview.coo.ee/element-hq-element-x-android/p/progress-dialog-content__ideal__default",
           "previewId": "io.element.android.libraries.designsystem.components.ProgressDialogKt.ProgressDialogContentPreview_Dialogs",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/element-hq-element-x-android/render/progress-dialog-content__ideal__default.svg"
         }
       ],
       "greenlines": [
@@ -40677,7 +40857,8 @@
           "height": 1,
           "livePreview": "https://preview.coo.ee/element-hq-element-x-android/p/progress-dialog__ideal__default",
           "previewId": "io.element.android.libraries.designsystem.components.ProgressDialogKt.ProgressDialogPreview_Day",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/element-hq-element-x-android/render/progress-dialog__ideal__default.svg"
         },
         {
           "variant": "ideal",
@@ -40691,7 +40872,8 @@
           "previewParams": {
             "uiMode": 32
           },
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/element-hq-element-x-android/render/progress-dialog__ideal__default__dark.svg"
         }
       ],
       "greenlines": [],
@@ -40754,7 +40936,8 @@
           "height": 1,
           "livePreview": "https://preview.coo.ee/element-hq-element-x-android/p/progress-dialog-with-content__ideal__default",
           "previewId": "io.element.android.libraries.designsystem.components.ProgressDialogKt.ProgressDialogWithContentPreview_Day",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/element-hq-element-x-android/render/progress-dialog-with-content__ideal__default.svg"
         },
         {
           "variant": "ideal",
@@ -40768,7 +40951,8 @@
           "previewParams": {
             "uiMode": 32
           },
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/element-hq-element-x-android/render/progress-dialog-with-content__ideal__default__dark.svg"
         }
       ],
       "greenlines": [],
@@ -40793,7 +40977,8 @@
           "height": 1,
           "livePreview": "https://preview.coo.ee/element-hq-element-x-android/p/progress-dialog-with-text-and-content__ideal__default",
           "previewId": "io.element.android.libraries.designsystem.components.ProgressDialogKt.ProgressDialogWithTextAndContentPreview_Day",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/element-hq-element-x-android/render/progress-dialog-with-text-and-content__ideal__default.svg"
         },
         {
           "variant": "ideal",
@@ -40807,7 +40992,8 @@
           "previewParams": {
             "uiMode": 32
           },
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/element-hq-element-x-android/render/progress-dialog-with-text-and-content__ideal__default__dark.svg"
         }
       ],
       "greenlines": [],
@@ -40832,7 +41018,8 @@
           "height": 2100,
           "livePreview": "https://preview.coo.ee/element-hq-element-x-android/p/simple-modal-bottom-sheet__ideal__default",
           "previewId": "io.element.android.libraries.designsystem.components.SimpleModalBottomSheetKt.SimpleModalBottomSheetPreview_Day",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/element-hq-element-x-android/render/simple-modal-bottom-sheet__ideal__default.svg"
         },
         {
           "variant": "ideal",
@@ -40846,7 +41033,8 @@
           "previewParams": {
             "uiMode": 32
           },
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/element-hq-element-x-android/render/simple-modal-bottom-sheet__ideal__default__dark.svg"
         }
       ],
       "greenlines": [],
@@ -40998,7 +41186,8 @@
           "height": 373,
           "livePreview": "https://preview.coo.ee/element-hq-element-x-android/p/visual-list__ideal__default",
           "previewId": "io.element.android.libraries.designsystem.components.visuallist.VisualListKt.VisualListPreview_Day",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/element-hq-element-x-android/render/visual-list__ideal__default.svg"
         },
         {
           "variant": "ideal",
@@ -41012,7 +41201,8 @@
           "previewParams": {
             "uiMode": 32
           },
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/element-hq-element-x-android/render/visual-list__ideal__default__dark.svg"
         }
       ],
       "greenlines": [],
@@ -41127,7 +41317,8 @@
           "height": 623,
           "livePreview": "https://preview.coo.ee/element-hq-element-x-android/p/visual-list-item__ideal__default",
           "previewId": "io.element.android.libraries.designsystem.components.visuallist.VisualListItemKt.VisualListItemPreview_Day",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/element-hq-element-x-android/render/visual-list-item__ideal__default.svg"
         },
         {
           "variant": "ideal",
@@ -41141,7 +41332,8 @@
           "previewParams": {
             "uiMode": 32
           },
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/element-hq-element-x-android/render/visual-list-item__ideal__default__dark.svg"
         }
       ],
       "greenlines": [],
@@ -41231,7 +41423,8 @@
           "height": 67,
           "livePreview": "https://preview.coo.ee/element-hq-element-x-android/p/beta-label__ideal__default",
           "previewId": "io.element.android.libraries.designsystem.atomic.atoms.BetaLabelKt.BetaLabelPreview_Day",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/element-hq-element-x-android/render/beta-label__ideal__default.svg"
         },
         {
           "variant": "ideal",
@@ -41245,7 +41438,8 @@
           "previewParams": {
             "uiMode": 32
           },
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/element-hq-element-x-android/render/beta-label__ideal__default__dark.svg"
         }
       ],
       "greenlines": [],
@@ -41294,7 +41488,8 @@
           "height": 55,
           "livePreview": "https://preview.coo.ee/element-hq-element-x-android/p/counter-atom__ideal__default",
           "previewId": "io.element.android.libraries.designsystem.atomic.atoms.CounterAtomKt.CounterAtomPreview_Day",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/element-hq-element-x-android/render/counter-atom__ideal__default.svg"
         },
         {
           "variant": "ideal",
@@ -41308,7 +41503,8 @@
           "previewParams": {
             "uiMode": 32
           },
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/element-hq-element-x-android/render/counter-atom__ideal__default__dark.svg"
         }
       ],
       "greenlines": [],
@@ -41844,7 +42040,8 @@
           "height": 69,
           "livePreview": "https://preview.coo.ee/element-hq-element-x-android/p/matrix-badge-atom-info__ideal__default",
           "previewId": "io.element.android.libraries.designsystem.atomic.atoms.MatrixBadgeAtomKt.MatrixBadgeAtomInfoPreview_Day",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/element-hq-element-x-android/render/matrix-badge-atom-info__ideal__default.svg"
         },
         {
           "variant": "ideal",
@@ -41858,7 +42055,8 @@
           "previewParams": {
             "uiMode": 32
           },
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/element-hq-element-x-android/render/matrix-badge-atom-info__ideal__default__dark.svg"
         }
       ],
       "greenlines": [],
@@ -41920,7 +42118,8 @@
           "height": 69,
           "livePreview": "https://preview.coo.ee/element-hq-element-x-android/p/matrix-badge-atom-negative__ideal__default",
           "previewId": "io.element.android.libraries.designsystem.atomic.atoms.MatrixBadgeAtomKt.MatrixBadgeAtomNegativePreview_Day",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/element-hq-element-x-android/render/matrix-badge-atom-negative__ideal__default.svg"
         },
         {
           "variant": "ideal",
@@ -41934,7 +42133,8 @@
           "previewParams": {
             "uiMode": 32
           },
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/element-hq-element-x-android/render/matrix-badge-atom-negative__ideal__default__dark.svg"
         }
       ],
       "greenlines": [],
@@ -41996,7 +42196,8 @@
           "height": 69,
           "livePreview": "https://preview.coo.ee/element-hq-element-x-android/p/matrix-badge-atom-neutral__ideal__default",
           "previewId": "io.element.android.libraries.designsystem.atomic.atoms.MatrixBadgeAtomKt.MatrixBadgeAtomNeutralPreview_Day",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/element-hq-element-x-android/render/matrix-badge-atom-neutral__ideal__default.svg"
         },
         {
           "variant": "ideal",
@@ -42010,7 +42211,8 @@
           "previewParams": {
             "uiMode": 32
           },
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/element-hq-element-x-android/render/matrix-badge-atom-neutral__ideal__default__dark.svg"
         }
       ],
       "greenlines": [],
@@ -42072,7 +42274,8 @@
           "height": 69,
           "livePreview": "https://preview.coo.ee/element-hq-element-x-android/p/matrix-badge-atom-neutral-wrapping__ideal__default",
           "previewId": "io.element.android.libraries.designsystem.atomic.atoms.MatrixBadgeAtomKt.MatrixBadgeAtomNeutralWrappingPreview_Day",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/element-hq-element-x-android/render/matrix-badge-atom-neutral-wrapping__ideal__default.svg"
         },
         {
           "variant": "ideal",
@@ -42086,7 +42289,8 @@
           "previewParams": {
             "uiMode": 32
           },
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/element-hq-element-x-android/render/matrix-badge-atom-neutral-wrapping__ideal__default__dark.svg"
         }
       ],
       "greenlines": [],
@@ -42148,7 +42352,8 @@
           "height": 69,
           "livePreview": "https://preview.coo.ee/element-hq-element-x-android/p/matrix-badge-atom-positive__ideal__default",
           "previewId": "io.element.android.libraries.designsystem.atomic.atoms.MatrixBadgeAtomKt.MatrixBadgeAtomPositivePreview_Day",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/element-hq-element-x-android/render/matrix-badge-atom-positive__ideal__default.svg"
         },
         {
           "variant": "ideal",
@@ -42162,7 +42367,8 @@
           "previewParams": {
             "uiMode": 32
           },
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/element-hq-element-x-android/render/matrix-badge-atom-positive__ideal__default__dark.svg"
         }
       ],
       "greenlines": [],
@@ -42224,7 +42430,8 @@
           "height": 32,
           "livePreview": "https://preview.coo.ee/element-hq-element-x-android/p/placeholder-atom__ideal__default",
           "previewId": "io.element.android.libraries.designsystem.atomic.atoms.PlaceholderAtomKt.PlaceholderAtomPreview_Day",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/element-hq-element-x-android/render/placeholder-atom__ideal__default.svg"
         },
         {
           "variant": "ideal",
@@ -42238,7 +42445,8 @@
           "previewParams": {
             "uiMode": 32
           },
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/element-hq-element-x-android/render/placeholder-atom__ideal__default__dark.svg"
         }
       ],
       "greenlines": [],
@@ -42293,7 +42501,8 @@
           "height": 84,
           "livePreview": "https://preview.coo.ee/element-hq-element-x-android/p/playback-speed-button__ideal__default",
           "previewId": "io.element.android.libraries.designsystem.atomic.atoms.PlaybackSpeedButtonKt.PlaybackSpeedButtonPreview_Day",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/element-hq-element-x-android/render/playback-speed-button__ideal__default.svg"
         },
         {
           "variant": "ideal",
@@ -42307,7 +42516,8 @@
           "previewParams": {
             "uiMode": 32
           },
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/element-hq-element-x-android/render/playback-speed-button__ideal__default__dark.svg"
         }
       ],
       "greenlines": [],
@@ -42438,7 +42648,8 @@
           "height": 26,
           "livePreview": "https://preview.coo.ee/element-hq-element-x-android/p/red-indicator-atom__ideal__default",
           "previewId": "io.element.android.libraries.designsystem.atomic.atoms.RedIndicatorAtomKt.RedIndicatorAtomPreview_Day",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/element-hq-element-x-android/render/red-indicator-atom__ideal__default.svg"
         },
         {
           "variant": "ideal",
@@ -42452,7 +42663,8 @@
           "previewParams": {
             "uiMode": 32
           },
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/element-hq-element-x-android/render/red-indicator-atom__ideal__default__dark.svg"
         }
       ],
       "greenlines": [],
@@ -42515,7 +42727,8 @@
           "height": 195,
           "livePreview": "https://preview.coo.ee/element-hq-element-x-android/p/rounded-icon-atom__ideal__default",
           "previewId": "io.element.android.libraries.designsystem.atomic.atoms.RoundedIconAtomKt.RoundedIconAtomPreview_Day",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/element-hq-element-x-android/render/rounded-icon-atom__ideal__default.svg"
         },
         {
           "variant": "ideal",
@@ -42529,7 +42742,8 @@
           "previewParams": {
             "uiMode": 32
           },
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/element-hq-element-x-android/render/rounded-icon-atom__ideal__default__dark.svg"
         }
       ],
       "greenlines": [],
@@ -42605,7 +42819,8 @@
           "height": 357,
           "livePreview": "https://preview.coo.ee/element-hq-element-x-android/p/selected-indicator-atom__ideal__default",
           "previewId": "io.element.android.libraries.designsystem.atomic.atoms.SelectedIndicatorAtomKt.SelectedIndicatorAtomPreview_Day",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/element-hq-element-x-android/render/selected-indicator-atom__ideal__default.svg"
         },
         {
           "variant": "ideal",
@@ -42619,7 +42834,8 @@
           "previewParams": {
             "uiMode": 32
           },
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/element-hq-element-x-android/render/selected-indicator-atom__ideal__default__dark.svg"
         }
       ],
       "greenlines": [
@@ -42700,7 +42916,8 @@
           "height": 45,
           "livePreview": "https://preview.coo.ee/element-hq-element-x-android/p/unread-indicator-atom__ideal__default",
           "previewId": "io.element.android.libraries.designsystem.atomic.atoms.UnreadIndicatorAtomKt.UnreadIndicatorAtomPreview_Day",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/element-hq-element-x-android/render/unread-indicator-atom__ideal__default.svg"
         },
         {
           "variant": "ideal",
@@ -42714,7 +42931,8 @@
           "previewParams": {
             "uiMode": 32
           },
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/element-hq-element-x-android/render/unread-indicator-atom__ideal__default__dark.svg"
         }
       ],
       "greenlines": [],
@@ -42834,7 +43052,8 @@
           "height": 462,
           "livePreview": "https://preview.coo.ee/element-hq-element-x-android/p/button-column-molecule__ideal__default",
           "previewId": "io.element.android.libraries.designsystem.atomic.molecules.ButtonColumnMoleculeKt.ButtonColumnMoleculePreview_Day",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/element-hq-element-x-android/render/button-column-molecule__ideal__default.svg"
         },
         {
           "variant": "ideal",
@@ -42848,7 +43067,8 @@
           "previewParams": {
             "uiMode": 32
           },
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/element-hq-element-x-android/render/button-column-molecule__ideal__default__dark.svg"
         }
       ],
       "greenlines": [
@@ -42965,7 +43185,8 @@
           "height": 126,
           "livePreview": "https://preview.coo.ee/element-hq-element-x-android/p/button-row-molecule__ideal__default",
           "previewId": "io.element.android.libraries.designsystem.atomic.molecules.ButtonRowMoleculeKt.ButtonRowMoleculePreview_Day",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/element-hq-element-x-android/render/button-row-molecule__ideal__default.svg"
         },
         {
           "variant": "ideal",
@@ -42979,7 +43200,8 @@
           "previewParams": {
             "uiMode": 32
           },
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/element-hq-element-x-android/render/button-row-molecule__ideal__default__dark.svg"
         }
       ],
       "greenlines": [
@@ -43088,7 +43310,8 @@
           "height": 287,
           "livePreview": "https://preview.coo.ee/element-hq-element-x-android/p/composer-alert-molecule__ideal__default",
           "previewId": "io.element.android.libraries.designsystem.atomic.molecules.ComposerAlertMoleculeKt.ComposerAlertMoleculePreview_Day",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/element-hq-element-x-android/render/composer-alert-molecule__ideal__default.svg"
         },
         {
           "variant": "ideal",
@@ -43102,7 +43325,8 @@
           "previewParams": {
             "uiMode": 32
           },
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/element-hq-element-x-android/render/composer-alert-molecule__ideal__default__dark.svg"
         }
       ],
       "greenlines": [
@@ -43200,7 +43424,8 @@
           "height": 84,
           "livePreview": "https://preview.coo.ee/element-hq-element-x-android/p/icon-title-placeholders-row-molecule__ideal__default",
           "previewId": "io.element.android.libraries.designsystem.atomic.molecules.IconTitlePlaceholdersRowMoleculeKt.IconTitlePlaceholdersRowMoleculePreview_Day",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/element-hq-element-x-android/render/icon-title-placeholders-row-molecule__ideal__default.svg"
         },
         {
           "variant": "ideal",
@@ -43214,7 +43439,8 @@
           "previewParams": {
             "uiMode": 32
           },
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/element-hq-element-x-android/render/icon-title-placeholders-row-molecule__ideal__default__dark.svg"
         }
       ],
       "greenlines": [],
@@ -43288,7 +43514,8 @@
           "height": 355,
           "livePreview": "https://preview.coo.ee/element-hq-element-x-android/p/icon-title-subtitle-molecule__ideal__default",
           "previewId": "io.element.android.libraries.designsystem.atomic.molecules.IconTitleSubtitleMoleculeKt.IconTitleSubtitleMoleculePreview_Day",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/element-hq-element-x-android/render/icon-title-subtitle-molecule__ideal__default.svg"
         },
         {
           "variant": "ideal",
@@ -43302,7 +43529,8 @@
           "previewParams": {
             "uiMode": 32
           },
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/element-hq-element-x-android/render/icon-title-subtitle-molecule__ideal__default__dark.svg"
         }
       ],
       "greenlines": [],
@@ -43361,7 +43589,8 @@
           "height": 303,
           "livePreview": "https://preview.coo.ee/element-hq-element-x-android/p/members-count-molecule__ideal__default",
           "previewId": "io.element.android.libraries.designsystem.atomic.molecules.MembersCountMoleculeKt.MembersCountMoleculePreview_Day",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/element-hq-element-x-android/render/members-count-molecule__ideal__default.svg"
         },
         {
           "variant": "ideal",
@@ -43375,7 +43604,8 @@
           "previewParams": {
             "uiMode": 32
           },
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/element-hq-element-x-android/render/members-count-molecule__ideal__default__dark.svg"
         }
       ],
       "greenlines": [],
@@ -43460,7 +43690,8 @@
           "height": 2100,
           "livePreview": "https://preview.coo.ee/element-hq-element-x-android/p/flow-step-page__ideal__default",
           "previewId": "io.element.android.libraries.designsystem.atomic.pages.FlowStepPageKt.FlowStepPagePreview_Day",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/element-hq-element-x-android/render/flow-step-page__ideal__default.svg"
         },
         {
           "variant": "ideal",
@@ -43474,7 +43705,8 @@
           "previewParams": {
             "uiMode": 32
           },
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/element-hq-element-x-android/render/flow-step-page__ideal__default__dark.svg"
         }
       ],
       "greenlines": [
@@ -43614,7 +43846,8 @@
           "height": 2100,
           "livePreview": "https://preview.coo.ee/element-hq-element-x-android/p/header-footer-page__ideal__default",
           "previewId": "io.element.android.libraries.designsystem.atomic.pages.HeaderFooterPageKt.HeaderFooterPagePreview_Day",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/element-hq-element-x-android/render/header-footer-page__ideal__default.svg"
         },
         {
           "variant": "ideal",
@@ -43628,7 +43861,8 @@
           "previewParams": {
             "uiMode": 32
           },
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/element-hq-element-x-android/render/header-footer-page__ideal__default__dark.svg"
         }
       ],
       "greenlines": [],
@@ -43705,7 +43939,8 @@
           "height": 2100,
           "livePreview": "https://preview.coo.ee/element-hq-element-x-android/p/header-footer-page-scrollable__ideal__default",
           "previewId": "io.element.android.libraries.designsystem.atomic.pages.HeaderFooterPageKt.HeaderFooterPageScrollablePreview_Day",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/element-hq-element-x-android/render/header-footer-page-scrollable__ideal__default.svg"
         },
         {
           "variant": "ideal",
@@ -43719,7 +43954,8 @@
           "previewParams": {
             "uiMode": 32
           },
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/element-hq-element-x-android/render/header-footer-page-scrollable__ideal__default__dark.svg"
         }
       ],
       "greenlines": [],
@@ -43980,7 +44216,8 @@
           "height": 871,
           "livePreview": "https://preview.coo.ee/element-hq-element-x-android/p/adaptative-title__ideal__default",
           "previewId": "io.element.android.libraries.designsystem.text.AdaptativeTitleKt.AdaptativeTitlePreview_Day",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/element-hq-element-x-android/render/adaptative-title__ideal__default.svg"
         },
         {
           "variant": "ideal",
@@ -43994,7 +44231,8 @@
           "previewParams": {
             "uiMode": 32
           },
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/element-hq-element-x-android/render/adaptative-title__ideal__default__dark.svg"
         }
       ],
       "greenlines": [],
@@ -44084,7 +44322,8 @@
           "height": 198,
           "livePreview": "https://preview.coo.ee/element-hq-element-x-android/p/dp-scale_0_75f___ideal__default",
           "previewId": "io.element.android.libraries.designsystem.text.DpScaleKt.DpScale_0_75f_Preview",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/element-hq-element-x-android/render/dp-scale_0_75f___ideal__default.svg"
         }
       ],
       "greenlines": [],
@@ -44109,7 +44348,8 @@
           "height": 228,
           "livePreview": "https://preview.coo.ee/element-hq-element-x-android/p/dp-scale_1_0f___ideal__default",
           "previewId": "io.element.android.libraries.designsystem.text.DpScaleKt.DpScale_1_0f_Preview",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/element-hq-element-x-android/render/dp-scale_1_0f___ideal__default.svg"
         }
       ],
       "greenlines": [],
@@ -44134,7 +44374,8 @@
           "height": 382,
           "livePreview": "https://preview.coo.ee/element-hq-element-x-android/p/dp-scale_1_5f___ideal__default",
           "previewId": "io.element.android.libraries.designsystem.text.DpScaleKt.DpScale_1_5f_Preview",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/element-hq-element-x-android/render/dp-scale_1_5f___ideal__default.svg"
         }
       ],
       "greenlines": [],
@@ -44225,7 +44466,8 @@
           "height": 263,
           "livePreview": "https://preview.coo.ee/element-hq-element-x-android/p/background-vertical-gradient-disabled__ideal__default",
           "previewId": "io.element.android.libraries.designsystem.modifiers.GradientKt.BackgroundVerticalGradientDisabledPreview_Day",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/element-hq-element-x-android/render/background-vertical-gradient-disabled__ideal__default.svg"
         },
         {
           "variant": "ideal",
@@ -44239,7 +44481,8 @@
           "previewParams": {
             "uiMode": 32
           },
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/element-hq-element-x-android/render/background-vertical-gradient-disabled__ideal__default__dark.svg"
         }
       ],
       "greenlines": [],
@@ -44291,7 +44534,8 @@
           "height": 263,
           "livePreview": "https://preview.coo.ee/element-hq-element-x-android/p/background-vertical-gradient__ideal__default",
           "previewId": "io.element.android.libraries.designsystem.modifiers.GradientKt.BackgroundVerticalGradientPreview_Day",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/element-hq-element-x-android/render/background-vertical-gradient__ideal__default.svg"
         },
         {
           "variant": "ideal",
@@ -44305,7 +44549,8 @@
           "previewParams": {
             "uiMode": 32
           },
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/element-hq-element-x-android/render/background-vertical-gradient__ideal__default__dark.svg"
         }
       ],
       "greenlines": [],
@@ -44357,7 +44602,8 @@
           "height": 483,
           "livePreview": "https://preview.coo.ee/element-hq-element-x-android/p/square-size-modifier-inside-square__ideal__default",
           "previewId": "io.element.android.libraries.designsystem.modifiers.SquareSizeModifierKt.SquareSizeModifierInsideSquarePreview",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/element-hq-element-x-android/render/square-size-modifier-inside-square__ideal__default.svg"
         }
       ],
       "greenlines": [],
@@ -44424,7 +44670,8 @@
           "height": 431,
           "livePreview": "https://preview.coo.ee/element-hq-element-x-android/p/square-size-modifier-large-height__ideal__default",
           "previewId": "io.element.android.libraries.designsystem.modifiers.SquareSizeModifierKt.SquareSizeModifierLargeHeightPreview",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/element-hq-element-x-android/render/square-size-modifier-large-height__ideal__default.svg"
         }
       ],
       "greenlines": [],
@@ -44491,7 +44738,8 @@
           "height": 431,
           "livePreview": "https://preview.coo.ee/element-hq-element-x-android/p/square-size-modifier-large-width__ideal__default",
           "previewId": "io.element.android.libraries.designsystem.modifiers.SquareSizeModifierKt.SquareSizeModifierLargeWidthPreview",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/element-hq-element-x-android/render/square-size-modifier-large-width__ideal__default.svg"
         }
       ],
       "greenlines": [],
@@ -44558,7 +44806,8 @@
           "height": 26,
           "livePreview": "https://preview.coo.ee/element-hq-element-x-android/p/horizontal-ruler__ideal__default",
           "previewId": "io.element.android.libraries.designsystem.ruler.HorizontalRulerKt.HorizontalRulerPreview_Day",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/element-hq-element-x-android/render/horizontal-ruler__ideal__default.svg"
         },
         {
           "variant": "ideal",
@@ -44572,7 +44821,8 @@
           "previewParams": {
             "uiMode": 32
           },
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/element-hq-element-x-android/render/horizontal-ruler__ideal__default__dark.svg"
         }
       ],
       "greenlines": [],
@@ -44604,7 +44854,8 @@
           "height": 2100,
           "livePreview": "https://preview.coo.ee/element-hq-element-x-android/p/vertical-ruler__ideal__default",
           "previewId": "io.element.android.libraries.designsystem.ruler.VerticalRulerKt.VerticalRulerPreview_Day",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/element-hq-element-x-android/render/vertical-ruler__ideal__default.svg"
         },
         {
           "variant": "ideal",
@@ -44618,7 +44869,8 @@
           "previewParams": {
             "uiMode": 32
           },
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/element-hq-element-x-android/render/vertical-ruler__ideal__default__dark.svg"
         }
       ],
       "greenlines": [],
@@ -44650,7 +44902,8 @@
           "height": 126,
           "livePreview": "https://preview.coo.ee/element-hq-element-x-android/p/with-rulers__ideal__default",
           "previewId": "io.element.android.libraries.designsystem.ruler.WithRulersKt.WithRulersPreview_Day",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/element-hq-element-x-android/render/with-rulers__ideal__default.svg"
         },
         {
           "variant": "ideal",
@@ -44664,7 +44917,8 @@
           "previewParams": {
             "uiMode": 32
           },
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/element-hq-element-x-android/render/with-rulers__ideal__default__dark.svg"
         }
       ],
       "greenlines": [
@@ -44733,8 +44987,8 @@
       ]
     }
   ],
-  "renderer": "compose-preview 2.39.1",
-  "generatedAt": "2026-10-10T06:47:41.260Z",
+  "renderer": "compose-preview 2.57.0",
+  "generatedAt": "2026-10-14T08:26:20.130Z",
   "liveBundle": {
     "path": "bundle/",
     "file": "bundle.png"
@@ -44750,7 +45004,7 @@
   "componentsFile": "components.json",
   "source": {
     "repo": "element-hq/element-x-android",
-    "ref": "f12b9c77d539010a257a4bbdca84dfbf38530008",
+    "ref": "9b3a9a0a2dff0db60720d7bb6be732a81c00b2de",
     "module": ":libraries:designsystem"
   }
 }

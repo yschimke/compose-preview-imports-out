@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1050" height="1083" viewBox="0 0 1050 1083" text-rendering="geometricPrecision" font-family="sans-serif">
+<g transform="translate(0, 0)">
+  <g id="Root">
+    <g id="ReusableComposeNode">
+        <rect x="0" y="0" width="1050" height="1083" fill="#888888"/>
+      <g id="ReusableComposeNode">
+        <g id="ReusableComposeNode">
+            <rect x="11" y="11" width="1028" height="525" fill="#FFFFFF"/>
+          <g id="ReusableComposeNode">
+            <g id="ReusableComposeNode">
+              <image href="search-bar-active-none-query.figma-raster/2773.png" x="11" y="11" width="1028" height="525"/>
+            </g>
+            <g id="ReusableComposeNode">
+              <image href="search-bar-active-none-query.figma-raster/2777.png" x="11" y="32" width="1028" height="147"/>
+            </g>
+            <g id="ReusableComposeNode">
+              <g transform="translate(11 200) scale(1 1)">
+                <path d="M0,1.31 L1028,1.31" fill="none" stroke="#818A95" stroke-width="2.62"/>
+              </g>
+            </g>
+          </g>
+        </g>
+        <g id="ReusableComposeNode">
+        </g>
+        <g id="ReusableComposeNode">
+            <rect x="11" y="547" width="1028" height="525" fill="#101317"/>
+          <g id="ReusableComposeNode">
+            <g id="ReusableComposeNode">
+              <image href="search-bar-active-none-query.figma-raster/2794.png" x="11" y="547" width="1028" height="525"/>
+            </g>
+            <g id="ReusableComposeNode">
+              <image href="search-bar-active-none-query.figma-raster/2798.png" x="11" y="568" width="1028" height="147"/>
+            </g>
+            <g id="ReusableComposeNode">
+              <g transform="translate(11 736) scale(1 1)">
+                <path d="M0,1.31 L1028,1.31" fill="none" stroke="#656C76" stroke-width="2.62"/>
+              </g>
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</g>
+</svg>

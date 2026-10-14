@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1050" height="267" viewBox="0 0 1050 267" text-rendering="geometricPrecision" font-family="sans-serif">
+<g transform="translate(0, 0)">
+  <g id="Root">
+    <g id="ReusableComposeNode">
+        <rect x="0" y="0" width="1050" height="267" fill="#FFFFFF"/>
+      <g id="ReusableComposeNode">
+        <g id="ReusableComposeNode">
+          <image href="waveform-playback-view.figma-raster/327.png" x="0" y="0" width="1050" height="89"/>
+        </g>
+        <g id="ReusableComposeNode">
+          <image href="waveform-playback-view.figma-raster/328.png" x="0" y="89" width="1050" height="89"/>
+        </g>
+        <g id="ReusableComposeNode">
+          <image href="waveform-playback-view.figma-raster/329.png" x="0" y="178" width="1050" height="89"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</g>
+</svg>

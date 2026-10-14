@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="262" height="306" viewBox="0 0 262 306" text-rendering="geometricPrecision" font-family="sans-serif">
+<g transform="translate(0, 0)">
+  <g id="Root">
+    <g id="ReusableComposeNode">
+        <rect x="0" y="0" width="262" height="306" fill="#FFFFFF"/>
+      <g id="ReusableComposeNode">
+        <g id="ReusableComposeNode">
+          <g id="ReusableComposeNode">
+            <image href="ideal__default.figma-raster/10.png" x="0" y="0" width="110" height="132"/>
+          </g>
+          <g id="ReusableComposeNode">
+            <image href="ideal__default.figma-raster/11.png" x="152" y="0" width="110" height="132"/>
+          </g>
+        </g>
+        <g id="ReusableComposeNode">
+          <g id="ReusableComposeNode">
+            <image href="ideal__default.figma-raster/13.png" x="0" y="174" width="110" height="132"/>
+          </g>
+          <g id="ReusableComposeNode">
+            <image href="ideal__default.figma-raster/14.png" x="152" y="174" width="110" height="132"/>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</g>
+</svg>

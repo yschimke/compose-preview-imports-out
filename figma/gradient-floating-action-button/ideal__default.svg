@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="232" height="232" viewBox="0 0 232 232" text-rendering="geometricPrecision" font-family="sans-serif">
+<g transform="translate(0, 0)">
+  <g id="Root">
+    <g id="ReusableComposeNode">
+      <rect x="0" y="0" width="232" height="232" fill="#FFFFFF"/>
+      <clipPath id="clip-0"><rect x="53" y="53" width="126" height="126" rx="31.5" ry="31.5"/></clipPath>
+      <g id="ReusableComposeNode">
+        <image href="ideal__default.figma-raster/380.png" x="53" y="53" width="126" height="126" clip-path="url(#clip-0)"/>
+        <g clip-path="url(#clip-0)">
+          <g id="ReusableComposeNode">
+            <g transform="translate(85 85) scale(2.62 2.62)">
+              <path d="M19 6 h-2 a 0.97 0.97 0 0 1 -0.712 -0.287 A 0.97 0.97 0 0 1 16 5 q 0 -0.424 0.288 -0.713 A 0.97 0.97 0 0 1 17 4 h2 V2 q 0 -0.424 0.288 -0.712 A 0.97 0.97 0 0 1 20 1 q 0.424 0 0.712 0.288 Q 21 1.575 21 2 v2 h2 q 0.424 0 0.712 0.287 Q 24 4.576 24 5 t 0 0 A 0.97 0.97 0 0 1 23 6 h-2 v2 q 0 0.424 -0.288 0.713 A 0.97 0.97 0 0 1 20 9 a 0.97 0.97 0 0 1 -0.712 -0.287 A 0.97 0.97 0 0 1 19 8 Z" fill="#FFFFFF"/>
+              <path d="M22 17 v-6.341 A 6 6 0 0 1 20 11 v6 H6 a 2 2 0 0 0 -1.414 0.586 L4 18.172 V5 h10 c 0 -0.701 0.12 -1.374 0.341 -2 H4 a 2 2 0 0 0 -2 2 v15.586 c 0 0.89 1.077 1.337 1.707 0.707 L6 19 h14 a 2 2 0 0 0 2 -2" fill="#FFFFFF"/>
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</g>
+</svg>

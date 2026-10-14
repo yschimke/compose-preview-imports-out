@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1050" height="2100" viewBox="0 0 1050 2100" text-rendering="geometricPrecision" font-family="sans-serif">
+<g transform="translate(0, 0)">
+  <g id="Root">
+    <g id="ReusableComposeNode">
+        <rect x="0" y="0" width="1050" height="2100" fill="#FFFFFF"/>
+      <g id="ReusableComposeNode">
+          <rect x="0" y="0" width="1050" height="2100" fill="#FFFFFF"/>
+        <g id="ReusableComposeNode">
+          <image href="ideal__default.figma-raster/166.png" x="0" y="1522" width="1050" height="578"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</g>
+</svg>
