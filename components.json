@@ -85,7 +85,8 @@
             "overloadsCollided": false,
             "builder": null,
             "requiredOptIns": [],
-            "androidxOptIns": []
+            "androidxOptIns": [],
+            "overloads": []
         },
         {
             "canonicalId": "ui-components/org.jetbrains.kotlinconf.ui.components.DividerKt.VerticalDivider",
@@ -169,7 +170,8 @@
             "overloadsCollided": false,
             "builder": null,
             "requiredOptIns": [],
-            "androidxOptIns": []
+            "androidxOptIns": [],
+            "overloads": []
         },
         {
             "canonicalId": "ui-components/org.jetbrains.kotlinconf.ui.components.ErrorLoadingKt.MajorError",
@@ -242,7 +244,8 @@
             "overloadsCollided": false,
             "builder": null,
             "requiredOptIns": [],
-            "androidxOptIns": []
+            "androidxOptIns": [],
+            "overloads": []
         },
         {
             "canonicalId": "ui-components/org.jetbrains.kotlinconf.ui.components.ErrorLoadingKt.MinorError",
@@ -315,7 +318,8 @@
             "overloadsCollided": false,
             "builder": null,
             "requiredOptIns": [],
-            "androidxOptIns": []
+            "androidxOptIns": [],
+            "overloads": []
         },
         {
             "canonicalId": "ui-components/org.jetbrains.kotlinconf.ui.components.FiltersKt.Filters",
@@ -399,7 +403,8 @@
             "overloadsCollided": false,
             "builder": null,
             "requiredOptIns": [],
-            "androidxOptIns": []
+            "androidxOptIns": [],
+            "overloads": []
         },
         {
             "canonicalId": "ui-components/org.jetbrains.kotlinconf.ui.components.IconKt.Icon",
@@ -496,7 +501,8 @@
             "overloadsCollided": false,
             "builder": null,
             "requiredOptIns": [],
-            "androidxOptIns": []
+            "androidxOptIns": [],
+            "overloads": []
         },
         {
             "canonicalId": "ui-components/org.jetbrains.kotlinconf.ui.components.LargeSwitcherKt.LargeSwitcher",
@@ -593,7 +599,8 @@
             "overloadsCollided": false,
             "builder": null,
             "requiredOptIns": [],
-            "androidxOptIns": []
+            "androidxOptIns": [],
+            "overloads": []
         },
         {
             "canonicalId": "ui-components/org.jetbrains.kotlinconf.ui.components.MainNavigationBarKt.MainNavigationBar",
@@ -690,7 +697,8 @@
             "overloadsCollided": false,
             "builder": null,
             "requiredOptIns": [],
-            "androidxOptIns": []
+            "androidxOptIns": [],
+            "overloads": []
         },
         {
             "canonicalId": "ui-components/org.jetbrains.kotlinconf.ui.components.NowLabelKt.NowLabel",
@@ -763,7 +771,8 @@
             "overloadsCollided": false,
             "builder": null,
             "requiredOptIns": [],
-            "androidxOptIns": []
+            "androidxOptIns": [],
+            "overloads": []
         },
         {
             "canonicalId": "ui-components/org.jetbrains.kotlinconf.ui.components.PageMenuItemKt.PageMenuItem",
@@ -875,7 +884,8 @@
             "overloadsCollided": false,
             "builder": null,
             "requiredOptIns": [],
-            "androidxOptIns": []
+            "androidxOptIns": [],
+            "overloads": []
         },
         {
             "canonicalId": "ui-components/org.jetbrains.kotlinconf.ui.components.ParagraphTitleKt.ParagraphTitle",
@@ -948,7 +958,8 @@
             "overloadsCollided": false,
             "builder": null,
             "requiredOptIns": [],
-            "androidxOptIns": []
+            "androidxOptIns": [],
+            "overloads": []
         },
         {
             "canonicalId": "ui-components/org.jetbrains.kotlinconf.ui.components.PartnerCardKt.PartnerCard",
@@ -1047,7 +1058,8 @@
             "overloadsCollided": false,
             "builder": null,
             "requiredOptIns": [],
-            "androidxOptIns": []
+            "androidxOptIns": [],
+            "overloads": []
         },
         {
             "canonicalId": "ui-components/org.jetbrains.kotlinconf.ui.components.ServiceEventsKt.ServiceEvent",
@@ -1118,7 +1130,8 @@
             "overloadsCollided": false,
             "builder": null,
             "requiredOptIns": [],
-            "androidxOptIns": []
+            "androidxOptIns": [],
+            "overloads": []
         },
         {
             "canonicalId": "ui-components/org.jetbrains.kotlinconf.ui.components.SpeakerCardKt.SpeakerCard",
@@ -1256,7 +1269,8 @@
             "overloadsCollided": false,
             "builder": null,
             "requiredOptIns": [],
-            "androidxOptIns": []
+            "androidxOptIns": [],
+            "overloads": []
         },
         {
             "canonicalId": "ui-components/org.jetbrains.kotlinconf.ui.components.SwitcherKt.Switcher",
@@ -1366,7 +1380,8 @@
             "overloadsCollided": false,
             "builder": null,
             "requiredOptIns": [],
-            "androidxOptIns": []
+            "androidxOptIns": [],
+            "overloads": []
         },
         {
             "canonicalId": "ui-components/org.jetbrains.kotlinconf.ui.components.TooltipKt.Tooltip",
@@ -1426,7 +1441,8 @@
             "overloadsCollided": false,
             "builder": null,
             "requiredOptIns": [],
-            "androidxOptIns": []
+            "androidxOptIns": [],
+            "overloads": []
         },
         {
             "canonicalId": "ui-components/org.jetbrains.kotlinconf.ui.theme.PreviewHelperKt.PreviewHelper",
@@ -2078,7 +2094,8 @@
             "overloadsCollided": false,
             "builder": null,
             "requiredOptIns": [],
-            "androidxOptIns": []
+            "androidxOptIns": [],
+            "overloads": []
         }
     ],
     "builderOrphans": []
