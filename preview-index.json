@@ -6,6 +6,13 @@
   ],
   "revisions": [
     {
+      "commit": "c38e52dc942508df4dbcd2ba83e46d8f10f54563",
+      "previews": [
+        "people-in-space-card__ideal__default__compact",
+        "person-view__ideal__default"
+      ]
+    },
+    {
       "commit": "003de713f4ab0c05920837e377bcfaf762a22ea9",
       "previews": [
         "people-in-space-card__ideal__default__compact",

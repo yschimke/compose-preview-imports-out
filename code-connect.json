@@ -4,16 +4,16 @@
   "label": "Compose",
   "source": {
     "repo": "joreilly/PeopleInSpace",
-    "ref": "7bb1d208dacb036cfb84fcf59a1b864d529973e0",
+    "ref": "22bdbfdf996e6ee5619dbcae233329e091ee1acb",
     "module": ":app"
   },
-  "generatedAt": "2026-10-05T12:39:50.787Z",
+  "generatedAt": "2026-10-14T09:11:27.827Z",
   "mappings": [
     {
       "componentId": "person-view",
       "figmaLayerName": "person-view",
       "componentName": "PersonView",
-      "source": "https://github.com/joreilly/PeopleInSpace/blob/7bb1d208dacb036cfb84fcf59a1b864d529973e0/app/dev/johnoreilly/peopleinspace/personlist/PersonListScreen.kt",
+      "source": "https://github.com/joreilly/PeopleInSpace/blob/22bdbfdf996e6ee5619dbcae233329e091ee1acb/app/dev/johnoreilly/peopleinspace/personlist/PersonListScreen.kt",
       "label": "Compose",
       "confidence": "HIGH",
       "previewName": "PersonViewPreview",
@@ -61,13 +61,14 @@
           "scopeDslReceiver": null,
           "lambdaReturnTypeFqn": "kotlin.Unit"
         }
-      ]
+      ],
+      "figmaSvg": "https://preview.coo.ee/joreilly-peopleinspace/render/person-view__ideal__default.svg"
     },
     {
       "componentId": "people-in-space-card",
       "figmaLayerName": "people-in-space-card",
       "componentName": "PeopleInSpaceCard",
-      "source": "https://github.com/joreilly/PeopleInSpace/blob/7bb1d208dacb036cfb84fcf59a1b864d529973e0/app/src/main/java/dev/johnoreilly/peopleinspace/peopleinspace/remotecompose/PeopleInSpaceCard.kt",
+      "source": "https://github.com/joreilly/PeopleInSpace/blob/22bdbfdf996e6ee5619dbcae233329e091ee1acb/app/src/main/java/dev/johnoreilly/peopleinspace/peopleinspace/remotecompose/PeopleInSpaceCard.kt",
       "label": "Compose",
       "confidence": "HIGH",
       "previewName": "PeopleInSpaceCardPreview",
@@ -89,7 +90,8 @@
           "scopeDslReceiver": null,
           "lambdaReturnTypeFqn": null
         }
-      ]
+      ],
+      "figmaSvg": "figma/people-in-space-card.svg"
     }
   ]
 }
