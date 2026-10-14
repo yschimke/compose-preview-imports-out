@@ -15,7 +15,8 @@
           "theme": "light",
           "livePreview": "https://preview.coo.ee/pocketcasts/p/buttons-row-button__ideal__default__light",
           "previewId": "au.com.shiftyjelly.pocketcasts.compose.buttons.RowButtonKt.RowButtonLightPreview_Light",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/pocketcasts/render/buttons-row-button__ideal__default__light.svg"
         },
         {
           "variant": "ideal",
@@ -26,7 +27,8 @@
           "theme": "dark",
           "livePreview": "https://preview.coo.ee/pocketcasts/p/buttons-row-button__ideal__default__dark",
           "previewId": "au.com.shiftyjelly.pocketcasts.compose.buttons.RowButtonKt.RowButtonDarkPreview_Dark",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/pocketcasts/render/buttons-row-button__ideal__default__dark.svg"
         },
         {
           "variant": "ideal",
@@ -36,7 +38,8 @@
           "height": 216,
           "livePreview": "https://preview.coo.ee/pocketcasts/p/buttons-row-button__ideal__disabled",
           "previewId": "au.com.shiftyjelly.pocketcasts.compose.buttons.RowButtonKt.RowButtonDisabledPreview_Disabled",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/pocketcasts/render/buttons-row-button__ideal__disabled.svg"
         },
         {
           "variant": "ideal",
@@ -49,7 +52,8 @@
           },
           "livePreview": "https://preview.coo.ee/pocketcasts/p/buttons-row-button__ideal__default__includepadding-false",
           "previewId": "au.com.shiftyjelly.pocketcasts.compose.buttons.RowButtonKt.RowButtonNoPaddingPreview_No_padding",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/pocketcasts/render/buttons-row-button__ideal__default__includepadding-false.svg"
         },
         {
           "variant": "ideal",
@@ -62,7 +66,8 @@
           },
           "livePreview": "https://preview.coo.ee/pocketcasts/p/buttons-row-button__ideal__default__texticon-ic_retry",
           "previewId": "au.com.shiftyjelly.pocketcasts.compose.buttons.RowButtonKt.RowButtonTextIconPreview_Text_icon",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/pocketcasts/render/buttons-row-button__ideal__default__texticon-ic_retry.svg"
         }
       ],
       "greenlines": [
@@ -147,7 +152,8 @@
           "theme": "light",
           "livePreview": "https://preview.coo.ee/pocketcasts/p/buttons-row-outlined-button__ideal__default__light",
           "previewId": "au.com.shiftyjelly.pocketcasts.compose.buttons.RowOutlinedButtonKt.RowOutlinedButtonLightPreview_Light",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/pocketcasts/render/buttons-row-outlined-button__ideal__default__light.svg"
         },
         {
           "variant": "ideal",
@@ -158,7 +164,8 @@
           "theme": "dark",
           "livePreview": "https://preview.coo.ee/pocketcasts/p/buttons-row-outlined-button__ideal__default__dark",
           "previewId": "au.com.shiftyjelly.pocketcasts.compose.buttons.RowOutlinedButtonKt.RowOutlinedButtonDarkPreview_Dark",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/pocketcasts/render/buttons-row-outlined-button__ideal__default__dark.svg"
         },
         {
           "variant": "ideal",
@@ -171,7 +178,8 @@
           },
           "livePreview": "https://preview.coo.ee/pocketcasts/p/buttons-row-outlined-button__ideal__default__leadingicon-set",
           "previewId": "au.com.shiftyjelly.pocketcasts.compose.buttons.RowOutlinedButtonKt.RowOutlinedButtonLeadingIconPreview_Leading_icon",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/pocketcasts/render/buttons-row-outlined-button__ideal__default__leadingicon-set.svg"
         }
       ],
       "greenlines": [
@@ -256,7 +264,8 @@
           "theme": "light",
           "livePreview": "https://preview.coo.ee/pocketcasts/p/buttons-row-text-button__ideal__default__light",
           "previewId": "au.com.shiftyjelly.pocketcasts.compose.buttons.RowTextButtonKt.RowTextButtonLightPreview_Light",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/pocketcasts/render/buttons-row-text-button__ideal__default__light.svg"
         },
         {
           "variant": "ideal",
@@ -267,7 +276,8 @@
           "theme": "dark",
           "livePreview": "https://preview.coo.ee/pocketcasts/p/buttons-row-text-button__ideal__default__dark",
           "previewId": "au.com.shiftyjelly.pocketcasts.compose.buttons.RowTextButtonKt.RowTextButtonDarkPreview_Dark",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/pocketcasts/render/buttons-row-text-button__ideal__default__dark.svg"
         }
       ],
       "greenlines": [
@@ -352,7 +362,8 @@
           "theme": "light",
           "livePreview": "https://preview.coo.ee/pocketcasts/p/buttons-row-loading-button__ideal__default__light",
           "previewId": "au.com.shiftyjelly.pocketcasts.compose.buttons.RowLoadingButtonKt.RowLoadingButtonLightPreview_Light",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/pocketcasts/render/buttons-row-loading-button__ideal__default__light.svg"
         },
         {
           "variant": "ideal",
@@ -363,7 +374,8 @@
           "theme": "dark",
           "livePreview": "https://preview.coo.ee/pocketcasts/p/buttons-row-loading-button__ideal__default__dark",
           "previewId": "au.com.shiftyjelly.pocketcasts.compose.buttons.RowLoadingButtonKt.RowLoadingButtonDarkPreview_Dark",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/pocketcasts/render/buttons-row-loading-button__ideal__default__dark.svg"
         },
         {
           "variant": "ideal",
@@ -373,7 +385,8 @@
           "height": 216,
           "livePreview": "https://preview.coo.ee/pocketcasts/p/buttons-row-loading-button__ideal__disabled",
           "previewId": "au.com.shiftyjelly.pocketcasts.compose.buttons.RowLoadingButtonKt.RowLoadingButtonDisabledPreview_Disabled",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/pocketcasts/render/buttons-row-loading-button__ideal__disabled.svg"
         },
         {
           "variant": "ideal",
@@ -386,7 +399,8 @@
           },
           "livePreview": "https://preview.coo.ee/pocketcasts/p/buttons-row-loading-button__ideal__default__includepadding-false",
           "previewId": "au.com.shiftyjelly.pocketcasts.compose.buttons.RowLoadingButtonKt.RowLoadingButtonNoPaddingPreview_No_padding",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/pocketcasts/render/buttons-row-loading-button__ideal__default__includepadding-false.svg"
         },
         {
           "variant": "ideal",
@@ -399,7 +413,8 @@
           },
           "livePreview": "https://preview.coo.ee/pocketcasts/p/buttons-row-loading-button__ideal__default__texticon-set",
           "previewId": "au.com.shiftyjelly.pocketcasts.compose.buttons.RowLoadingButtonKt.RowLoadingButtonTextIconPreview_Text_icon",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/pocketcasts/render/buttons-row-loading-button__ideal__default__texticon-set.svg"
         }
       ],
       "greenlines": [
@@ -483,7 +498,8 @@
           "height": 140,
           "livePreview": "https://preview.coo.ee/pocketcasts/p/buttons-gradient-row-button__ideal__default",
           "previewId": "au.com.shiftyjelly.pocketcasts.compose.buttons.GradientRowButtonKt.GradientRowButtonPreview",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/pocketcasts/render/buttons-gradient-row-button__ideal__default.svg"
         }
       ],
       "greenlines": [],
@@ -560,7 +576,8 @@
           "theme": "light",
           "livePreview": "https://preview.coo.ee/pocketcasts/p/buttons-row-close-button__ideal__default__light",
           "previewId": "au.com.shiftyjelly.pocketcasts.compose.buttons.RowCloseButtonKt.RowCloseButtonLightPreview_Light",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/pocketcasts/render/buttons-row-close-button__ideal__default__light.svg"
         },
         {
           "variant": "ideal",
@@ -571,7 +588,8 @@
           "theme": "dark",
           "livePreview": "https://preview.coo.ee/pocketcasts/p/buttons-row-close-button__ideal__default__dark",
           "previewId": "au.com.shiftyjelly.pocketcasts.compose.buttons.RowCloseButtonKt.RowCloseButtonDarkPreview_Dark",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/pocketcasts/render/buttons-row-close-button__ideal__default__dark.svg"
         }
       ],
       "greenlines": [
@@ -632,7 +650,8 @@
           "previewParams": {
             "showBackground": true
           },
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/pocketcasts/render/buttons-circle-button__ideal__default.svg"
         }
       ],
       "greenlines": [
@@ -720,7 +739,8 @@
           "theme": "light",
           "livePreview": "https://preview.coo.ee/pocketcasts/p/buttons-circle-icon-button__ideal__default__light",
           "previewId": "au.com.shiftyjelly.pocketcasts.compose.buttons.CircleIconButtonKt.CircleIconButtonLightPreview_Light",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/pocketcasts/render/buttons-circle-icon-button__ideal__default__light.svg"
         },
         {
           "variant": "ideal",
@@ -731,7 +751,8 @@
           "theme": "dark",
           "livePreview": "https://preview.coo.ee/pocketcasts/p/buttons-circle-icon-button__ideal__default__dark",
           "previewId": "au.com.shiftyjelly.pocketcasts.compose.buttons.CircleIconButtonKt.CircleIconButtonDarkPreview_Dark",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/pocketcasts/render/buttons-circle-icon-button__ideal__default__dark.svg"
         }
       ],
       "greenlines": [
@@ -790,7 +811,8 @@
           "theme": "light",
           "livePreview": "https://preview.coo.ee/pocketcasts/p/buttons-close-button__ideal__default__light",
           "previewId": "au.com.shiftyjelly.pocketcasts.compose.buttons.CloseButtonKt.CloseButtonLightPreview_Light",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/pocketcasts/render/buttons-close-button__ideal__default__light.svg"
         },
         {
           "variant": "ideal",
@@ -801,7 +823,8 @@
           "theme": "dark",
           "livePreview": "https://preview.coo.ee/pocketcasts/p/buttons-close-button__ideal__default__dark",
           "previewId": "au.com.shiftyjelly.pocketcasts.compose.buttons.CloseButtonKt.CloseButtonDarkPreview_Dark",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/pocketcasts/render/buttons-close-button__ideal__default__dark.svg"
         }
       ],
       "greenlines": [
@@ -860,7 +883,8 @@
           "theme": "light",
           "livePreview": "https://preview.coo.ee/pocketcasts/p/buttons-button-tabs__ideal__default__light",
           "previewId": "au.com.shiftyjelly.pocketcasts.compose.buttons.ButtonTabsKt.ButtonTabsLightPreview_Light",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/pocketcasts/render/buttons-button-tabs__ideal__default__light.svg"
         },
         {
           "variant": "ideal",
@@ -871,7 +895,8 @@
           "theme": "dark",
           "livePreview": "https://preview.coo.ee/pocketcasts/p/buttons-button-tabs__ideal__default__dark",
           "previewId": "au.com.shiftyjelly.pocketcasts.compose.buttons.ButtonTabsKt.ButtonTabsDarkPreview_Dark",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/pocketcasts/render/buttons-button-tabs__ideal__default__dark.svg"
         }
       ],
       "greenlines": [
@@ -979,7 +1004,8 @@
           "height": 126,
           "livePreview": "https://preview.coo.ee/pocketcasts/p/buttons-time-play-button__ideal__default",
           "previewId": "au.com.shiftyjelly.pocketcasts.compose.buttons.TimePlayButtonKt.TimePlayButtonPreview",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/pocketcasts/render/buttons-time-play-button__ideal__default.svg"
         }
       ],
       "greenlines": [
@@ -1447,7 +1473,8 @@
           "height": 148,
           "livePreview": "https://preview.coo.ee/pocketcasts/p/inputs-number-stepper__ideal__default",
           "previewId": "au.com.shiftyjelly.pocketcasts.compose.components.NumberStepperKt.NumberStepperPreview",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/pocketcasts/render/inputs-number-stepper__ideal__default.svg"
         }
       ],
       "greenlines": [
@@ -1550,7 +1577,8 @@
           "height": 113,
           "livePreview": "https://preview.coo.ee/pocketcasts/p/inputs-segmented-tab-bar__ideal__default",
           "previewId": "au.com.shiftyjelly.pocketcasts.compose.components.SegmentedTabBarKt.SegmentedTabBarPreview",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/pocketcasts/render/inputs-segmented-tab-bar__ideal__default.svg"
         }
       ],
       "greenlines": [
@@ -1667,7 +1695,8 @@
           "height": 881,
           "livePreview": "https://preview.coo.ee/pocketcasts/p/inputs-selected-option-column__ideal__default",
           "previewId": "au.com.shiftyjelly.pocketcasts.compose.components.SelectedOptionColumnKt.SelectOptionColumnPreview",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/pocketcasts/render/inputs-selected-option-column__ideal__default.svg"
         },
         {
           "variant": "ideal",
@@ -1677,7 +1706,8 @@
           "height": 818,
           "livePreview": "https://preview.coo.ee/pocketcasts/p/inputs-selected-option-column__ideal__no-title",
           "previewId": "au.com.shiftyjelly.pocketcasts.compose.components.SelectedOptionColumnKt.SelectOptionColumnWithoutTitlePreview",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/pocketcasts/render/inputs-selected-option-column__ideal__no-title.svg"
         }
       ],
       "greenlines": [
@@ -1871,7 +1901,8 @@
             "showBackground": true,
             "backgroundColor": 4278190080
           },
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/pocketcasts/render/inputs-folder-colour-picker__ideal__default.svg"
         }
       ],
       "greenlines": [
@@ -2275,7 +2306,8 @@
           "theme": "light",
           "livePreview": "https://preview.coo.ee/pocketcasts/p/content-text-styles__ideal__default__light",
           "previewId": "au.com.shiftyjelly.pocketcasts.compose.components.TextStylesKt.TextStylesLightPreview_Light",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/pocketcasts/render/content-text-styles__ideal__default__light.svg"
         },
         {
           "variant": "ideal",
@@ -2286,7 +2318,8 @@
           "theme": "dark",
           "livePreview": "https://preview.coo.ee/pocketcasts/p/content-text-styles__ideal__default__dark",
           "previewId": "au.com.shiftyjelly.pocketcasts.compose.components.TextStylesKt.TextStylesDarkPreview_Dark",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/pocketcasts/render/content-text-styles__ideal__default__dark.svg"
         }
       ],
       "greenlines": [],
@@ -2504,7 +2537,8 @@
           "height": 525,
           "livePreview": "https://preview.coo.ee/pocketcasts/p/content-expandable-text__ideal__default",
           "previewId": "au.com.shiftyjelly.pocketcasts.compose.components.ExpandableTextKt.ExpandedTextPreviewRegular",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/pocketcasts/render/content-expandable-text__ideal__default.svg"
         },
         {
           "variant": "ideal",
@@ -2514,7 +2548,8 @@
           "height": 525,
           "livePreview": "https://preview.coo.ee/pocketcasts/p/content-expandable-text__ideal__short",
           "previewId": "au.com.shiftyjelly.pocketcasts.compose.components.ExpandableTextKt.ExpandedTextPreviewShort",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/pocketcasts/render/content-expandable-text__ideal__short.svg"
         },
         {
           "variant": "ideal",
@@ -2524,7 +2559,8 @@
           "height": 525,
           "livePreview": "https://preview.coo.ee/pocketcasts/p/content-expandable-text__ideal__empty-space",
           "previewId": "au.com.shiftyjelly.pocketcasts.compose.components.ExpandableTextKt.ExpandedTextPreviewEmptySpace",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/pocketcasts/render/content-expandable-text__ideal__empty-space.svg"
         }
       ],
       "greenlines": [],
@@ -2571,7 +2607,8 @@
           "height": 79,
           "livePreview": "https://preview.coo.ee/pocketcasts/p/content-auto-resize-text__ideal__default",
           "previewId": "au.com.shiftyjelly.pocketcasts.compose.components.AutoResizeTextKt.AutoResizePreview",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/pocketcasts/render/content-auto-resize-text__ideal__default.svg"
         }
       ],
       "greenlines": [],
@@ -2691,7 +2728,8 @@
           "previewParams": {
             "showBackground": true
           },
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/pocketcasts/render/content-podcast-selected-text__ideal__default.svg"
         },
         {
           "variant": "ideal",
@@ -2707,7 +2745,8 @@
           "previewParams": {
             "showBackground": true
           },
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/pocketcasts/render/content-podcast-selected-text__ideal__default__locale-fr.svg"
         }
       ],
       "greenlines": [],
@@ -2800,7 +2839,8 @@
           "height": 210,
           "livePreview": "https://preview.coo.ee/pocketcasts/p/content-playlist-artwork__ideal__empty",
           "previewId": "au.com.shiftyjelly.pocketcasts.compose.components.PlaylistArtworkKt.PlaylistArtworkNoEpisodePreview",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/pocketcasts/render/content-playlist-artwork__ideal__empty.svg"
         }
       ],
       "greenlines": [],
@@ -3264,7 +3304,8 @@
           "height": 549,
           "livePreview": "https://preview.coo.ee/pocketcasts/p/content-bookmark-row__ideal__default",
           "previewId": "au.com.shiftyjelly.pocketcasts.compose.bookmark.BookmarkRowKt.BookmarkRowNormalPreview",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/pocketcasts/render/content-bookmark-row__ideal__default.svg"
         },
         {
           "variant": "ideal",
@@ -3275,7 +3316,8 @@
           "theme": "light",
           "livePreview": "https://preview.coo.ee/pocketcasts/p/content-bookmark-row__ideal__loading__light",
           "previewId": "au.com.shiftyjelly.pocketcasts.compose.loading.LoadingViewKt.BookmarkRowLightPreview_Light",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/pocketcasts/render/content-bookmark-row__ideal__loading__light.svg"
         },
         {
           "variant": "ideal",
@@ -3286,7 +3328,8 @@
           "theme": "dark",
           "livePreview": "https://preview.coo.ee/pocketcasts/p/content-bookmark-row__ideal__loading__dark",
           "previewId": "au.com.shiftyjelly.pocketcasts.compose.loading.LoadingViewKt.BookmarkRowDarkPreview_Dark",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/pocketcasts/render/content-bookmark-row__ideal__loading__dark.svg"
         }
       ],
       "greenlines": [
@@ -3419,10 +3462,10 @@
           "bounds": {
             "x": 42,
             "y": 104,
-            "width": 215,
+            "width": 235,
             "height": 37
           },
-          "label": "Oct 5, 1:12 PM",
+          "label": "Oct 14, 9:38 AM",
           "padding": {
             "start": 0,
             "top": 4,
@@ -3445,10 +3488,10 @@
           "bounds": {
             "x": 147,
             "y": 287,
-            "width": 215,
+            "width": 235,
             "height": 37
           },
-          "label": "Oct 5, 1:12 PM",
+          "label": "Oct 14, 9:38 AM",
           "padding": {
             "start": 0,
             "top": 4,
@@ -3471,10 +3514,10 @@
           "bounds": {
             "x": 147,
             "y": 470,
-            "width": 215,
+            "width": 235,
             "height": 37
           },
-          "label": "Oct 5, 1:12 PM",
+          "label": "Oct 14, 9:38 AM",
           "padding": {
             "start": 0,
             "top": 4,
@@ -3526,7 +3569,8 @@
           "height": 327,
           "livePreview": "https://preview.coo.ee/pocketcasts/p/feedback-banner__ideal__default",
           "previewId": "au.com.shiftyjelly.pocketcasts.compose.components.BannerKt.BannerPreview",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/pocketcasts/render/feedback-banner__ideal__default.svg"
         },
         {
           "variant": "ideal",
@@ -3536,7 +3580,8 @@
           "height": 327,
           "livePreview": "https://preview.coo.ee/pocketcasts/p/feedback-banner__ideal__no-dismiss",
           "previewId": "au.com.shiftyjelly.pocketcasts.compose.components.BannerKt.BannerPreviewWithoutDismiss",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/pocketcasts/render/feedback-banner__ideal__no-dismiss.svg"
         }
       ],
       "greenlines": [
@@ -3694,7 +3739,8 @@
           "height": 593,
           "livePreview": "https://preview.coo.ee/pocketcasts/p/feedback-no-content-banner__ideal__default",
           "previewId": "au.com.shiftyjelly.pocketcasts.compose.components.NoContentBannerKt.UpNextNoContentBannerPreview",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/pocketcasts/render/feedback-no-content-banner__ideal__default.svg"
         },
         {
           "variant": "ideal",
@@ -3704,7 +3750,8 @@
           "height": 493,
           "livePreview": "https://preview.coo.ee/pocketcasts/p/feedback-no-content-banner__ideal__no-subtitle",
           "previewId": "au.com.shiftyjelly.pocketcasts.compose.components.NoContentBannerKt.UpNextNoContentBannerWithoutSubtitlePreview",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/pocketcasts/render/feedback-no-content-banner__ideal__no-subtitle.svg"
         },
         {
           "variant": "ideal",
@@ -3714,7 +3761,8 @@
           "height": 450,
           "livePreview": "https://preview.coo.ee/pocketcasts/p/feedback-no-content-banner__ideal__no-primary",
           "previewId": "au.com.shiftyjelly.pocketcasts.compose.components.NoContentBannerKt.UpNextNoContentBannerWithoutPrimaryButtonPreview",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/pocketcasts/render/feedback-no-content-banner__ideal__no-primary.svg"
         },
         {
           "variant": "ideal",
@@ -3724,7 +3772,8 @@
           "height": 456,
           "livePreview": "https://preview.coo.ee/pocketcasts/p/feedback-no-content-banner__ideal__no-secondary",
           "previewId": "au.com.shiftyjelly.pocketcasts.compose.components.NoContentBannerKt.UpNextNoContentBannerWithoutSecondaryButtonPreview",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/pocketcasts/render/feedback-no-content-banner__ideal__no-secondary.svg"
         }
       ],
       "greenlines": [
@@ -3844,7 +3893,8 @@
           "height": 504,
           "livePreview": "https://preview.coo.ee/pocketcasts/p/feedback-dialog__ideal__default",
           "previewId": "au.com.shiftyjelly.pocketcasts.compose.components.DialogKt.SimpleDialogPreview",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/pocketcasts/render/feedback-dialog__ideal__default.svg"
         },
         {
           "variant": "ideal",
@@ -3854,7 +3904,8 @@
           "height": 748,
           "livePreview": "https://preview.coo.ee/pocketcasts/p/feedback-dialog__ideal__radio",
           "previewId": "au.com.shiftyjelly.pocketcasts.compose.components.DialogKt.RadioDialogPreview",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/pocketcasts/render/feedback-dialog__ideal__radio.svg"
         },
         {
           "variant": "ideal",
@@ -3864,7 +3915,8 @@
           "height": 231,
           "livePreview": "https://preview.coo.ee/pocketcasts/p/feedback-dialog__ideal__progress",
           "previewId": "au.com.shiftyjelly.pocketcasts.compose.components.DialogKt.ProgressDialogPreview",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/pocketcasts/render/feedback-dialog__ideal__progress.svg"
         }
       ],
       "greenlines": [
@@ -4014,7 +4066,8 @@
           "height": 365,
           "livePreview": "https://preview.coo.ee/pocketcasts/p/feedback-tooltip__ideal__default",
           "previewId": "au.com.shiftyjelly.pocketcasts.compose.components.TooltipKt.TooltipThemePreview",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/pocketcasts/render/feedback-tooltip__ideal__default.svg"
         },
         {
           "variant": "ideal",
@@ -4027,7 +4080,8 @@
           },
           "livePreview": "https://preview.coo.ee/pocketcasts/p/feedback-tooltip__ideal__default__tipposition-all",
           "previewId": "au.com.shiftyjelly.pocketcasts.compose.components.TooltipKt.TooltipTipPreview",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/pocketcasts/render/feedback-tooltip__ideal__default__tipposition-all.svg"
         }
       ],
       "greenlines": [],
@@ -4148,7 +4202,8 @@
           "previewParams": {
             "showBackground": true
           },
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/pocketcasts/render/chrome-top-app-bar__ideal__default.svg"
         }
       ],
       "greenlines": [
@@ -4319,7 +4374,8 @@
           "theme": "light",
           "livePreview": "https://preview.coo.ee/pocketcasts/p/chrome-bottom-sheet-app-bar__ideal__default__light",
           "previewId": "au.com.shiftyjelly.pocketcasts.compose.bars.BottomSheetAppBarKt.BottomSheetAppBarLightPreview_Light",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/pocketcasts/render/chrome-bottom-sheet-app-bar__ideal__default__light.svg"
         },
         {
           "variant": "ideal",
@@ -4330,7 +4386,8 @@
           "theme": "dark",
           "livePreview": "https://preview.coo.ee/pocketcasts/p/chrome-bottom-sheet-app-bar__ideal__default__dark",
           "previewId": "au.com.shiftyjelly.pocketcasts.compose.bars.BottomSheetAppBarKt.BottomSheetAppBarDarkPreview_Dark",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/pocketcasts/render/chrome-bottom-sheet-app-bar__ideal__default__dark.svg"
         },
         {
           "variant": "ideal",
@@ -4340,7 +4397,8 @@
           "height": 147,
           "livePreview": "https://preview.coo.ee/pocketcasts/p/chrome-bottom-sheet-app-bar__ideal__back",
           "previewId": "au.com.shiftyjelly.pocketcasts.compose.bars.BottomSheetAppBarKt.BottomSheetAppBarBackPreview_Back",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/pocketcasts/render/chrome-bottom-sheet-app-bar__ideal__back.svg"
         }
       ],
       "greenlines": [
@@ -4401,7 +4459,8 @@
           "previewParams": {
             "showBackground": true
           },
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/pocketcasts/render/chrome-bottom-sheet-content__ideal__default.svg"
         }
       ],
       "greenlines": [
@@ -4557,7 +4616,8 @@
           "height": 420,
           "livePreview": "https://preview.coo.ee/pocketcasts/p/chrome-pager-dot-indicator__ideal__default",
           "previewId": "au.com.shiftyjelly.pocketcasts.compose.components.PagerDotIndicatorKt.PagerDotIndicatorPreview",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/pocketcasts/render/chrome-pager-dot-indicator__ideal__default.svg"
         },
         {
           "variant": "ideal",
@@ -4854,7 +4914,8 @@
           "previewParams": {
             "showBackground": true
           },
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/pocketcasts/render/chrome-divider__ideal__default.svg"
         }
       ],
       "greenlines": [],
@@ -5097,7 +5158,8 @@
           "theme": "light",
           "livePreview": "https://preview.coo.ee/pocketcasts/p/settings-setting-row__ideal__default__light",
           "previewId": "au.com.shiftyjelly.pocketcasts.compose.components.SettingsKt.SettingRowLightPreview_Light",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/pocketcasts/render/settings-setting-row__ideal__default__light.svg"
         },
         {
           "variant": "ideal",
@@ -5108,7 +5170,8 @@
           "theme": "dark",
           "livePreview": "https://preview.coo.ee/pocketcasts/p/settings-setting-row__ideal__default__dark",
           "previewId": "au.com.shiftyjelly.pocketcasts.compose.components.SettingsKt.SettingRowDarkPreview_Dark",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/pocketcasts/render/settings-setting-row__ideal__default__dark.svg"
         },
         {
           "variant": "ideal",
@@ -5118,7 +5181,8 @@
           "height": 127,
           "livePreview": "https://preview.coo.ee/pocketcasts/p/settings-setting-row__ideal__switch",
           "previewId": "au.com.shiftyjelly.pocketcasts.compose.components.SettingsKt.SettingRowSwitchPreview_Switch",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/pocketcasts/render/settings-setting-row__ideal__switch.svg"
         },
         {
           "variant": "ideal",
@@ -5128,7 +5192,8 @@
           "height": 127,
           "livePreview": "https://preview.coo.ee/pocketcasts/p/settings-setting-row__ideal__checkbox",
           "previewId": "au.com.shiftyjelly.pocketcasts.compose.components.SettingsKt.SettingRowCheckboxPreview_Checkbox",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/pocketcasts/render/settings-setting-row__ideal__checkbox.svg"
         },
         {
           "variant": "ideal",
@@ -5141,7 +5206,8 @@
           },
           "livePreview": "https://preview.coo.ee/pocketcasts/p/settings-setting-row__ideal__default__icon-material",
           "previewId": "au.com.shiftyjelly.pocketcasts.compose.components.SettingsKt.SettingRowIconMaterialPreview_Icon__Material_",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/pocketcasts/render/settings-setting-row__ideal__default__icon-material.svg"
         },
         {
           "variant": "ideal",
@@ -5154,7 +5220,8 @@
           },
           "livePreview": "https://preview.coo.ee/pocketcasts/p/settings-setting-row__ideal__default__icon-project",
           "previewId": "au.com.shiftyjelly.pocketcasts.compose.components.SettingsKt.SettingRowIconProjectPreview_Icon__Project_",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/pocketcasts/render/settings-setting-row__ideal__default__icon-project.svg"
         },
         {
           "variant": "ideal",
@@ -5230,7 +5297,8 @@
           "theme": "light",
           "livePreview": "https://preview.coo.ee/pocketcasts/p/settings-setting-section__ideal__default__light",
           "previewId": "au.com.shiftyjelly.pocketcasts.compose.components.SettingsKt.SettingSectionLightPreview_Light",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/pocketcasts/render/settings-setting-section__ideal__default__light.svg"
         },
         {
           "variant": "ideal",
@@ -5241,7 +5309,8 @@
           "theme": "dark",
           "livePreview": "https://preview.coo.ee/pocketcasts/p/settings-setting-section__ideal__default__dark",
           "previewId": "au.com.shiftyjelly.pocketcasts.compose.components.SettingsKt.SettingSectionDarkPreview_Dark",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/pocketcasts/render/settings-setting-section__ideal__default__dark.svg"
         }
       ],
       "greenlines": [],
@@ -5404,7 +5473,8 @@
           "height": 117,
           "livePreview": "https://preview.coo.ee/pocketcasts/p/settings-setting-info-row__ideal__default",
           "previewId": "au.com.shiftyjelly.pocketcasts.compose.components.SettingsKt.SettingInfoRowPreview_Info",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/pocketcasts/render/settings-setting-info-row__ideal__default.svg"
         }
       ],
       "greenlines": [],
@@ -5713,7 +5783,8 @@
             "showBackground": true,
             "backgroundColor": 4278190080
           },
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/pocketcasts/render/identity-horizontal-logo__ideal__default.svg"
         }
       ],
       "greenlines": [],
@@ -5750,7 +5821,8 @@
             "showBackground": true,
             "backgroundColor": 4278190080
           },
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/pocketcasts/render/identity-vertical-logo__ideal__default.svg"
         },
         {
           "variant": "ideal",
@@ -6177,7 +6249,8 @@
           "height": 391,
           "livePreview": "https://preview.coo.ee/pocketcasts/p/ads-ad-decisions-column__ideal__default",
           "previewId": "au.com.shiftyjelly.pocketcasts.compose.ad.AdDecisionsColumnKt.AdDecisionsColumnThemePreview",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/pocketcasts/render/ads-ad-decisions-column__ideal__default.svg"
         },
         {
           "variant": "ideal",
@@ -6190,7 +6263,8 @@
           },
           "livePreview": "https://preview.coo.ee/pocketcasts/p/ads-ad-decisions-column__ideal__default__podcastcolors-all",
           "previewId": "au.com.shiftyjelly.pocketcasts.compose.ad.AdDecisionsColumnKt.AdDecisionsColumnPodcastPreview",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/pocketcasts/render/ads-ad-decisions-column__ideal__default__podcastcolors-all.svg"
         }
       ],
       "greenlines": [
@@ -6302,7 +6376,8 @@
           "height": 846,
           "livePreview": "https://preview.coo.ee/pocketcasts/p/ads-ad-report-reasons__ideal__default",
           "previewId": "au.com.shiftyjelly.pocketcasts.compose.ad.AdReportReasonsColumnKt.AdReportReasonsColumnPreview",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/pocketcasts/render/ads-ad-report-reasons__ideal__default.svg"
         },
         {
           "variant": "ideal",
@@ -6315,7 +6390,8 @@
           },
           "livePreview": "https://preview.coo.ee/pocketcasts/p/ads-ad-report-reasons__ideal__default__podcastcolors-all",
           "previewId": "au.com.shiftyjelly.pocketcasts.compose.ad.AdReportReasonsColumnKt.AdReportReasonsColumnPodcastPreview",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/pocketcasts/render/ads-ad-report-reasons__ideal__default__podcastcolors-all.svg"
         }
       ],
       "greenlines": [
@@ -6561,7 +6637,8 @@
             "widthDp": 400,
             "heightDp": 800
           },
-          "density": 2
+          "density": 2,
+          "figmaSvg": "https://preview.coo.ee/pocketcasts/render/ads-ad-report-content__ideal__default__compact.svg"
         }
       ],
       "greenlines": [
@@ -6701,7 +6778,8 @@
           "height": 379,
           "livePreview": "https://preview.coo.ee/pocketcasts/p/insights-calendar-heat-map__ideal__default",
           "previewId": "au.com.shiftyjelly.pocketcasts.compose.stats.CalendarHeatMapKt.CalendarHeatMapPreview",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/pocketcasts/render/insights-calendar-heat-map__ideal__default.svg"
         },
         {
           "variant": "ideal",
@@ -6714,7 +6792,8 @@
           },
           "livePreview": "https://preview.coo.ee/pocketcasts/p/insights-calendar-heat-map__ideal__default__fontscale-1.5",
           "previewId": "au.com.shiftyjelly.pocketcasts.compose.stats.CalendarHeatMapKt.CalendarHeatMapPreviewFont150Percent_fs1.5",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/pocketcasts/render/insights-calendar-heat-map__ideal__default__fontscale-1.5.svg"
         },
         {
           "variant": "ideal",
@@ -6727,7 +6806,8 @@
           },
           "livePreview": "https://preview.coo.ee/pocketcasts/p/insights-calendar-heat-map__ideal__default__fontscale-2.0",
           "previewId": "au.com.shiftyjelly.pocketcasts.compose.stats.CalendarHeatMapKt.CalendarHeatMapPreviewFont200Percent_fs2.0",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/pocketcasts/render/insights-calendar-heat-map__ideal__default__fontscale-2.0.svg"
         },
         {
           "variant": "ideal",
@@ -6740,7 +6820,8 @@
           },
           "livePreview": "https://preview.coo.ee/pocketcasts/p/insights-calendar-heat-map__ideal__default__locale-non-en",
           "previewId": "au.com.shiftyjelly.pocketcasts.compose.stats.CalendarHeatMapKt.CalendarHeatMapPreviewLocale",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/pocketcasts/render/insights-calendar-heat-map__ideal__default__locale-non-en.svg"
         }
       ],
       "greenlines": [],
@@ -6792,7 +6873,8 @@
           "height": 148,
           "livePreview": "https://preview.coo.ee/pocketcasts/p/insights-player-header-row__ideal__default",
           "previewId": "au.com.shiftyjelly.pocketcasts.compose.bookmark.HeaderRowKt.HeaderRowPlayerPreview",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/pocketcasts/render/insights-player-header-row__ideal__default.svg"
         }
       ],
       "greenlines": [
@@ -6944,8 +7026,8 @@
   "library": [
     "Compose Material 2 + Pocket Casts theme roles"
   ],
-  "renderer": "compose-preview 2.34.1",
-  "generatedAt": "2026-10-05T13:14:12.536Z",
+  "renderer": "compose-preview 2.57.0",
+  "generatedAt": "2026-10-14T09:39:17.832Z",
   "display": {
     "surface": "light",
     "hero": "Insights/Calendar heat map"
@@ -6965,7 +7047,7 @@
   "componentsFile": "components.json",
   "source": {
     "repo": "Automattic/pocket-casts-android",
-    "ref": "626e5c278af37a88b5bf6e3e1d357406c4d34cbf",
+    "ref": "a95e5870f1b236105dd440786969689ee914033c",
     "module": ":modules:services:compose"
   }
 }
