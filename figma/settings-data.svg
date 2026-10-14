@@ -40,10 +40,8 @@
                       </g>
                       <g id="Box">
                       </g>
-                      <g id="Box">
-                      </g>
                       <g id="Empty">
-                        <text x="-48" y="644.8" font-size="26.25" font-family="outfit-regular.ttf:FontWeight(weight=400):Normal:SettingFloat(ital,0.0),SettingInt(wght,400, sans-serif" font-weight="400" letter-spacing="1.05" style="font-variation-settings:&apos;ital&apos; 0.0,&apos;wght&apos; 400.0" fill="#3D4A3F">May</text>
+                        <text x="-91" y="644.8" font-size="26.25" font-family="outfit-regular.ttf:FontWeight(weight=400):Normal:SettingFloat(ital,0.0),SettingInt(wght,400, sans-serif" font-weight="400" letter-spacing="1.05" style="font-variation-settings:&apos;ital&apos; 0.0,&apos;wght&apos; 400.0" fill="#3D4A3F">May</text>
                       </g>
                       <g id="Box">
                       </g>
@@ -54,7 +52,7 @@
                       <g id="Box">
                       </g>
                       <g id="Empty">
-                        <text x="167" y="644.8" font-size="26.25" font-family="outfit-regular.ttf:FontWeight(weight=400):Normal:SettingFloat(ital,0.0),SettingInt(wght,400, sans-serif" font-weight="400" letter-spacing="1.05" style="font-variation-settings:&apos;ital&apos; 0.0,&apos;wght&apos; 400.0" fill="#3D4A3F">Jun</text>
+                        <text x="124" y="644.8" font-size="26.25" font-family="outfit-regular.ttf:FontWeight(weight=400):Normal:SettingFloat(ital,0.0),SettingInt(wght,400, sans-serif" font-weight="400" letter-spacing="1.05" style="font-variation-settings:&apos;ital&apos; 0.0,&apos;wght&apos; 400.0" fill="#3D4A3F">Jun</text>
                       </g>
                       <g id="Box">
                       </g>
@@ -63,7 +61,7 @@
                       <g id="Box">
                       </g>
                       <g id="Empty">
-                        <text x="339" y="644.8" font-size="26.25" font-family="outfit-regular.ttf:FontWeight(weight=400):Normal:SettingFloat(ital,0.0),SettingInt(wght,400, sans-serif" font-weight="400" letter-spacing="1.05" style="font-variation-settings:&apos;ital&apos; 0.0,&apos;wght&apos; 400.0" fill="#3D4A3F">Jul</text>
+                        <text x="296" y="644.8" font-size="26.25" font-family="outfit-regular.ttf:FontWeight(weight=400):Normal:SettingFloat(ital,0.0),SettingInt(wght,400, sans-serif" font-weight="400" letter-spacing="1.05" style="font-variation-settings:&apos;ital&apos; 0.0,&apos;wght&apos; 400.0" fill="#3D4A3F">Jul</text>
                       </g>
                       <g id="Box">
                       </g>
@@ -72,7 +70,7 @@
                       <g id="Box">
                       </g>
                       <g id="Empty">
-                        <text x="511" y="644.8" font-size="26.25" font-family="outfit-regular.ttf:FontWeight(weight=400):Normal:SettingFloat(ital,0.0),SettingInt(wght,400, sans-serif" font-weight="400" letter-spacing="1.05" style="font-variation-settings:&apos;ital&apos; 0.0,&apos;wght&apos; 400.0" fill="#3D4A3F">Aug</text>
+                        <text x="468" y="644.8" font-size="26.25" font-family="outfit-regular.ttf:FontWeight(weight=400):Normal:SettingFloat(ital,0.0),SettingInt(wght,400, sans-serif" font-weight="400" letter-spacing="1.05" style="font-variation-settings:&apos;ital&apos; 0.0,&apos;wght&apos; 400.0" fill="#3D4A3F">Aug</text>
                       </g>
                       <g id="Box">
                       </g>
@@ -83,7 +81,7 @@
                       <g id="Box">
                       </g>
                       <g id="Empty">
-                        <text x="726" y="644.8" font-size="26.25" font-family="outfit-regular.ttf:FontWeight(weight=400):Normal:SettingFloat(ital,0.0),SettingInt(wght,400, sans-serif" font-weight="400" letter-spacing="1.05" style="font-variation-settings:&apos;ital&apos; 0.0,&apos;wght&apos; 400.0" fill="#3D4A3F">Sep</text>
+                        <text x="683" y="644.8" font-size="26.25" font-family="outfit-regular.ttf:FontWeight(weight=400):Normal:SettingFloat(ital,0.0),SettingInt(wght,400, sans-serif" font-weight="400" letter-spacing="1.05" style="font-variation-settings:&apos;ital&apos; 0.0,&apos;wght&apos; 400.0" fill="#3D4A3F">Sep</text>
                       </g>
                       <g id="Box">
                       </g>
@@ -92,7 +90,9 @@
                       <g id="Box">
                       </g>
                       <g id="Empty">
-                        <text x="898" y="644.8" font-size="26.25" font-family="outfit-regular.ttf:FontWeight(weight=400):Normal:SettingFloat(ital,0.0),SettingInt(wght,400, sans-serif" font-weight="400" letter-spacing="1.05" style="font-variation-settings:&apos;ital&apos; 0.0,&apos;wght&apos; 400.0" fill="#3D4A3F">Oct</text>
+                        <text x="855" y="644.8" font-size="26.25" font-family="outfit-regular.ttf:FontWeight(weight=400):Normal:SettingFloat(ital,0.0),SettingInt(wght,400, sans-serif" font-weight="400" letter-spacing="1.05" style="font-variation-settings:&apos;ital&apos; 0.0,&apos;wght&apos; 400.0" fill="#3D4A3F">Oct</text>
+                      </g>
+                      <g id="Box">
                       </g>
                     </g>
                     <g id="Spacer">
@@ -703,6 +703,12 @@
                         <g id="BoxKt">
                           <rect x="934" y="716" width="32" height="32" rx="5.25" ry="5.25" fill="#141E16" fill-opacity="0.1"/>
                         </g>
+                        <g id="BoxKt">
+                          <rect x="934" y="759" width="32" height="32" rx="5.25" ry="5.25" fill="#141E16" fill-opacity="0.1"/>
+                        </g>
+                        <g id="BoxKt">
+                          <rect x="934" y="802" width="32" height="32" rx="5.25" ry="5.25" fill="#141E16" fill-opacity="0.1"/>
+                        </g>
                       </g>
                     </g>
                   </g>
@@ -752,7 +758,7 @@
                 <g id="Box">
                     <rect x="63" y="1239" width="126" height="126" rx="31.5" ry="31.5" fill="#FFFFFF"/>
                   <g id="UtilsKt">
-                    <image href="settings-data.figma-raster/339.png" x="63" y="1239" width="126" height="126"/>
+                    <image href="settings-data.figma-raster/1318.png" x="63" y="1239" width="126" height="126"/>
                   </g>
                 </g>
                 <g id="Spacer">
@@ -778,7 +784,7 @@
                 <g id="Box">
                     <rect x="63" y="1407" width="63" height="63" rx="15.75" ry="15.75" fill="#FFFFFF"/>
                   <g id="UtilsKt">
-                    <image href="settings-data.figma-raster/351.png" x="63" y="1407" width="63" height="63"/>
+                    <image href="settings-data.figma-raster/1330.png" x="63" y="1407" width="63" height="63"/>
                   </g>
                 </g>
                 <g id="Spacer">
@@ -799,7 +805,7 @@
                 <g id="Box">
                     <rect x="63" y="1512" width="63" height="63" rx="15.75" ry="15.75" fill="#FFFFFF"/>
                   <g id="UtilsKt">
-                    <image href="settings-data.figma-raster/362.png" x="63" y="1512" width="63" height="63"/>
+                    <image href="settings-data.figma-raster/1341.png" x="63" y="1512" width="63" height="63"/>
                   </g>
                 </g>
                 <g id="Spacer">
@@ -820,7 +826,7 @@
                 <g id="Box">
                     <rect x="63" y="1617" width="63" height="63" rx="15.75" ry="15.75" fill="#FFFFFF"/>
                   <g id="UtilsKt">
-                    <image href="settings-data.figma-raster/373.png" x="63" y="1617" width="63" height="63"/>
+                    <image href="settings-data.figma-raster/1352.png" x="63" y="1617" width="63" height="63"/>
                   </g>
                 </g>
                 <g id="Spacer">
@@ -841,7 +847,7 @@
                 <g id="Box">
                     <rect x="63" y="1722" width="63" height="63" rx="15.75" ry="15.75" fill="#FFFFFF"/>
                   <g id="UtilsKt">
-                    <image href="settings-data.figma-raster/384.png" x="63" y="1722" width="63" height="63"/>
+                    <image href="settings-data.figma-raster/1363.png" x="63" y="1722" width="63" height="63"/>
                   </g>
                 </g>
                 <g id="Spacer">
@@ -862,7 +868,7 @@
           </g>
           <g id="Box">
             <g id="Box">
-              <image href="settings-data.figma-raster/44.png" x="0" y="0" width="1050" height="210"/>
+              <image href="settings-data.figma-raster/1021.png" x="0" y="0" width="1050" height="210"/>
               <g id="TopAppBar">
                 <g id="Box">
                   <rect x="43" y="52" width="105" height="105" rx="52.5" ry="52.5" fill="#141E16" fill-opacity="0.07"/>

@@ -7,7 +7,7 @@
     "ref": "ca63e338fa4e8a9e1c5884b02224a2997a671753",
     "module": ":shared"
   },
-  "generatedAt": "2026-10-05T12:47:55.830Z",
+  "generatedAt": "2026-10-14T09:18:32.013Z",
   "mappings": [
     {
       "componentId": "home",
@@ -57,15 +57,28 @@
       "label": "Compose",
       "confidence": "HIGH",
       "previewName": "NavigationDrawerPreview",
-      "codeSnippet": "NavigationDrawerContent(\n    feedsViewModel = TODO(\"FeedsViewModel\"),\n    selectedDestination = TODO(\"MainDestination\"),\n    onDestinationSelected = TODO(\"(MainDestination) -> Unit\"),\n    openFeedInfoSheet = TODO(\"(String) -> Unit\"),\n    openGroupScreen = TODO(\"(String) -> Unit\"),\n    openGroupSelectionSheet = TODO(\"() -> Unit\"),\n    openAddFeedScreen = TODO(\"() -> Unit\"),\n    openPaywall = TODO(\"() -> Unit\"),\n    closeDrawer = TODO(\"() -> Unit\"),\n)",
+      "codeSnippet": "NavigationDrawerContent(\n    state = TODO(\"FeedsState\"),\n    searchQuery = TODO(\"TextFieldValue\"),\n    selectedDestination = TODO(\"MainDestination\"),\n    onDestinationSelected = TODO(\"(MainDestination) -> Unit\"),\n    dispatch = TODO(\"(FeedsEvent) -> Unit\"),\n    openFeedInfoSheet = TODO(\"(String) -> Unit\"),\n    openGroupScreen = TODO(\"(String) -> Unit\"),\n    openGroupSelectionSheet = TODO(\"() -> Unit\"),\n    closeDrawer = TODO(\"() -> Unit\"),\n)",
       "imports": [
         "import dev.sasikanth.rss.reader.main.ui.NavigationDrawerContent"
       ],
       "parameters": [
         {
-          "name": "feedsViewModel",
-          "type": "FeedsViewModel",
-          "typeFqn": "dev.sasikanth.rss.reader.feeds.FeedsViewModel",
+          "name": "state",
+          "type": "FeedsState",
+          "typeFqn": "dev.sasikanth.rss.reader.feeds.FeedsState",
+          "hasDefault": false,
+          "composableSlot": false,
+          "composableSlotReceiver": null,
+          "nullable": false,
+          "noArgConstructible": false,
+          "noArgFactory": null,
+          "scopeDslReceiver": null,
+          "lambdaReturnTypeFqn": null
+        },
+        {
+          "name": "searchQuery",
+          "type": "TextFieldValue",
+          "typeFqn": "androidx.compose.ui.text.input.TextFieldValue",
           "hasDefault": false,
           "composableSlot": false,
           "composableSlotReceiver": null,
@@ -91,6 +104,19 @@
         {
           "name": "onDestinationSelected",
           "type": "(MainDestination) -> Unit",
+          "typeFqn": "kotlin.Function1",
+          "hasDefault": false,
+          "composableSlot": false,
+          "composableSlotReceiver": null,
+          "nullable": false,
+          "noArgConstructible": false,
+          "noArgFactory": null,
+          "scopeDslReceiver": null,
+          "lambdaReturnTypeFqn": "kotlin.Unit"
+        },
+        {
+          "name": "dispatch",
+          "type": "(FeedsEvent) -> Unit",
           "typeFqn": "kotlin.Function1",
           "hasDefault": false,
           "composableSlot": false,
@@ -129,32 +155,6 @@
         },
         {
           "name": "openGroupSelectionSheet",
-          "type": "() -> Unit",
-          "typeFqn": "kotlin.Function0",
-          "hasDefault": false,
-          "composableSlot": false,
-          "composableSlotReceiver": null,
-          "nullable": false,
-          "noArgConstructible": false,
-          "noArgFactory": null,
-          "scopeDslReceiver": null,
-          "lambdaReturnTypeFqn": "kotlin.Unit"
-        },
-        {
-          "name": "openAddFeedScreen",
-          "type": "() -> Unit",
-          "typeFqn": "kotlin.Function0",
-          "hasDefault": false,
-          "composableSlot": false,
-          "composableSlotReceiver": null,
-          "nullable": false,
-          "noArgConstructible": false,
-          "noArgFactory": null,
-          "scopeDslReceiver": null,
-          "lambdaReturnTypeFqn": "kotlin.Unit"
-        },
-        {
-          "name": "openPaywall",
           "type": "() -> Unit",
           "typeFqn": "kotlin.Function0",
           "hasDefault": false,
@@ -230,6 +230,45 @@
           "noArgFactory": null,
           "scopeDslReceiver": null,
           "lambdaReturnTypeFqn": null
+        },
+        {
+          "name": "scrollIndex",
+          "type": "Int",
+          "typeFqn": "kotlin.Int",
+          "hasDefault": true,
+          "composableSlot": false,
+          "composableSlotReceiver": null,
+          "nullable": false,
+          "noArgConstructible": false,
+          "noArgFactory": null,
+          "scopeDslReceiver": null,
+          "lambdaReturnTypeFqn": null
+        },
+        {
+          "name": "scrollOffset",
+          "type": "Int",
+          "typeFqn": "kotlin.Int",
+          "hasDefault": true,
+          "composableSlot": false,
+          "composableSlotReceiver": null,
+          "nullable": false,
+          "noArgConstructible": false,
+          "noArgFactory": null,
+          "scopeDslReceiver": null,
+          "lambdaReturnTypeFqn": null
+        },
+        {
+          "name": "onScrollPositionChanged",
+          "type": "(Int, Int) -> Unit",
+          "typeFqn": "kotlin.Function2",
+          "hasDefault": true,
+          "composableSlot": false,
+          "composableSlotReceiver": null,
+          "nullable": false,
+          "noArgConstructible": false,
+          "noArgFactory": null,
+          "scopeDslReceiver": null,
+          "lambdaReturnTypeFqn": "kotlin.Unit"
         }
       ],
       "figmaSvg": "figma/navigation-drawer.svg"

@@ -901,8 +901,12 @@
       "sourceFunction": "NavigationDrawerPreview",
       "parameters": [
         {
-          "name": "feedsViewModel",
-          "type": "FeedsViewModel"
+          "name": "state",
+          "type": "FeedsState"
+        },
+        {
+          "name": "searchQuery",
+          "type": "TextFieldValue"
         },
         {
           "name": "selectedDestination",
@@ -911,6 +915,10 @@
         {
           "name": "onDestinationSelected",
           "type": "(MainDestination) -> Unit"
+        },
+        {
+          "name": "dispatch",
+          "type": "(FeedsEvent) -> Unit"
         },
         {
           "name": "openFeedInfoSheet",
@@ -922,14 +930,6 @@
         },
         {
           "name": "openGroupSelectionSheet",
-          "type": "() -> Unit"
-        },
-        {
-          "name": "openAddFeedScreen",
-          "type": "() -> Unit"
-        },
-        {
-          "name": "openPaywall",
           "type": "() -> Unit"
         },
         {
@@ -954,6 +954,21 @@
         {
           "name": "dismissOnSelection",
           "type": "Boolean",
+          "hasDefault": true
+        },
+        {
+          "name": "scrollIndex",
+          "type": "Int",
+          "hasDefault": true
+        },
+        {
+          "name": "scrollOffset",
+          "type": "Int",
+          "hasDefault": true
+        },
+        {
+          "name": "onScrollPositionChanged",
+          "type": "(Int, Int) -> Unit",
           "hasDefault": true
         }
       ]
@@ -5020,6 +5035,24 @@
         },
         {
           "bounds": {
+            "x": 934,
+            "y": 759,
+            "width": 32,
+            "height": 32
+          },
+          "cornerRadius": 2
+        },
+        {
+          "bounds": {
+            "x": 934,
+            "y": 802,
+            "width": 32,
+            "height": 32
+          },
+          "cornerRadius": 2
+        },
+        {
+          "bounds": {
             "x": 709,
             "y": 1005,
             "width": 32,
@@ -5896,8 +5929,8 @@
       "sourceFunction": "AboutPreview"
     }
   ],
-  "renderer": "compose-preview 2.34.1",
-  "generatedAt": "2026-10-05T12:47:54.635Z",
+  "renderer": "compose-preview 2.57.0",
+  "generatedAt": "2026-10-14T09:18:30.862Z",
   "display": {
     "hero": "settings-appearance"
   },
