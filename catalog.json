@@ -17,7 +17,8 @@
           "previewParams": {
             "showBackground": true
           },
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/thunderbird-android/render/checkbox-disabled__ideal__default.svg"
         }
       ],
       "greenlines": [
@@ -247,7 +248,8 @@
           "previewParams": {
             "showBackground": true
           },
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/thunderbird-android/render/checkbox__ideal__default.svg"
         }
       ],
       "greenlines": [
@@ -497,7 +499,8 @@
           "previewParams": {
             "showBackground": true
           },
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/thunderbird-android/render/circular-progress-indicator-colored__ideal__default.svg"
         }
       ],
       "greenlines": [],
@@ -586,7 +589,8 @@
           "previewParams": {
             "showBackground": true
           },
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/thunderbird-android/render/circular-progress-indicator__ideal__default.svg"
         }
       ],
       "greenlines": [],
@@ -691,7 +695,8 @@
           "previewParams": {
             "showBackground": true
           },
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/thunderbird-android/render/divider-horizontal__ideal__default.svg"
         }
       ],
       "greenlines": [],
@@ -780,7 +785,8 @@
           "previewParams": {
             "showBackground": true
           },
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/thunderbird-android/render/divider-vertical__ideal__default.svg"
         }
       ],
       "greenlines": [],
@@ -869,7 +875,8 @@
           "previewParams": {
             "showBackground": true
           },
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/thunderbird-android/render/radio-group-selected__ideal__default.svg"
         }
       ],
       "greenlines": [],
@@ -1198,7 +1205,8 @@
           "previewParams": {
             "showBackground": true
           },
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/thunderbird-android/render/radio-group-un-selected__ideal__default.svg"
         }
       ],
       "greenlines": [],
@@ -1527,7 +1535,8 @@
           "previewParams": {
             "showBackground": true
           },
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/thunderbird-android/render/surface__ideal__default.svg"
         }
       ],
       "greenlines": [],
@@ -1616,7 +1625,8 @@
           "previewParams": {
             "showBackground": true
           },
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/thunderbird-android/render/surface-with-shape__ideal__default.svg"
         }
       ],
       "greenlines": [],
@@ -1741,7 +1751,8 @@
           "previewParams": {
             "showBackground": true
           },
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/thunderbird-android/render/switch-disabled__ideal__default.svg"
         }
       ],
       "greenlines": [
@@ -1987,7 +1998,8 @@
           "previewParams": {
             "showBackground": true
           },
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/thunderbird-android/render/switch__ideal__default.svg"
         }
       ],
       "greenlines": [
@@ -2253,7 +2265,8 @@
           "previewParams": {
             "showBackground": true
           },
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/thunderbird-android/render/button-elevated-disabled__ideal__default.svg"
         }
       ],
       "greenlines": [
@@ -2463,7 +2476,8 @@
           "previewParams": {
             "showBackground": true
           },
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/thunderbird-android/render/button-elevated-multi-line__ideal__default.svg"
         }
       ],
       "greenlines": [
@@ -2673,7 +2687,8 @@
           "previewParams": {
             "showBackground": true
           },
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/thunderbird-android/render/button-elevated__ideal__default.svg"
         }
       ],
       "greenlines": [
@@ -2903,7 +2918,8 @@
           "previewParams": {
             "showBackground": true
           },
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/thunderbird-android/render/button-filled-disabled__ideal__default.svg"
         }
       ],
       "greenlines": [
@@ -3113,7 +3129,8 @@
           "previewParams": {
             "showBackground": true
           },
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/thunderbird-android/render/button-filled-multi-line__ideal__default.svg"
         }
       ],
       "greenlines": [
@@ -3323,7 +3340,8 @@
           "previewParams": {
             "showBackground": true
           },
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/thunderbird-android/render/button-filled__ideal__default.svg"
         }
       ],
       "greenlines": [
@@ -3573,7 +3591,8 @@
           "previewParams": {
             "showBackground": true
           },
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/thunderbird-android/render/button-filled-tonal-disabled__ideal__default.svg"
         }
       ],
       "greenlines": [
@@ -3783,7 +3802,8 @@
           "previewParams": {
             "showBackground": true
           },
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/thunderbird-android/render/button-filled-tonal-multi-line__ideal__default.svg"
         }
       ],
       "greenlines": [
@@ -3993,7 +4013,8 @@
           "previewParams": {
             "showBackground": true
           },
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/thunderbird-android/render/button-filled-tonal__ideal__default.svg"
         }
       ],
       "greenlines": [
@@ -4223,7 +4244,8 @@
           "previewParams": {
             "showBackground": true
           },
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/thunderbird-android/render/button-icon-filled__ideal__default.svg"
         }
       ],
       "greenlines": [
@@ -4433,7 +4455,8 @@
           "previewParams": {
             "showBackground": true
           },
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/thunderbird-android/render/button-icon__ideal__default.svg"
         }
       ],
       "greenlines": [
@@ -4673,7 +4696,8 @@
           "previewParams": {
             "showBackground": true
           },
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/thunderbird-android/render/button-outlined-disabled__ideal__default.svg"
         }
       ],
       "greenlines": [
@@ -4883,7 +4907,8 @@
           "previewParams": {
             "showBackground": true
           },
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/thunderbird-android/render/button-outlined-icon__ideal__default.svg"
         }
       ],
       "greenlines": [
@@ -5093,7 +5118,8 @@
           "previewParams": {
             "showBackground": true
           },
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/thunderbird-android/render/button-outlined-multi-line__ideal__default.svg"
         }
       ],
       "greenlines": [
@@ -5303,7 +5329,8 @@
           "previewParams": {
             "showBackground": true
           },
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/thunderbird-android/render/button-outlined__ideal__default.svg"
         }
       ],
       "greenlines": [
@@ -5553,7 +5580,8 @@
           "previewParams": {
             "showBackground": true
           },
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/thunderbird-android/render/button-segmented-single-choice-empty__ideal__default.svg"
         }
       ],
       "greenlines": [],
@@ -5642,7 +5670,8 @@
           "previewParams": {
             "showBackground": true
           },
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/thunderbird-android/render/button-segmented-single-choice__ideal__default.svg"
         }
       ],
       "greenlines": [],
@@ -5835,7 +5864,8 @@
           "previewParams": {
             "showBackground": true
           },
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/thunderbird-android/render/button-segmented-single-choice-with-selection__ideal__default.svg"
         }
       ],
       "greenlines": [],
@@ -6004,7 +6034,8 @@
           "previewParams": {
             "showBackground": true
           },
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/thunderbird-android/render/button-text-colored__ideal__default.svg"
         }
       ],
       "greenlines": [
@@ -6214,7 +6245,8 @@
           "previewParams": {
             "showBackground": true
           },
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/thunderbird-android/render/button-text-disabled__ideal__default.svg"
         }
       ],
       "greenlines": [
@@ -6424,7 +6456,8 @@
           "previewParams": {
             "showBackground": true
           },
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/thunderbird-android/render/button-text-multi-line__ideal__default.svg"
         }
       ],
       "greenlines": [
@@ -6634,7 +6667,8 @@
           "previewParams": {
             "showBackground": true
           },
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/thunderbird-android/render/button-text__ideal__default.svg"
         }
       ],
       "greenlines": [
@@ -6875,7 +6909,8 @@
           "previewParams": {
             "showBackground": true
           },
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/thunderbird-android/render/card-elevated__ideal__default.svg"
         }
       ],
       "greenlines": [],
@@ -7000,7 +7035,8 @@
           "previewParams": {
             "showBackground": true
           },
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/thunderbird-android/render/card-filled__ideal__default.svg"
         }
       ],
       "greenlines": [],
@@ -7126,7 +7162,8 @@
           "previewParams": {
             "uiMode": 33
           },
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/thunderbird-android/render/card-outlined__ideal__default__dark.svg"
         },
         {
           "variant": "ideal",
@@ -7137,7 +7174,8 @@
           "theme": "light",
           "livePreview": "https://preview.coo.ee/thunderbird-android/p/card-outlined__ideal__default__light",
           "previewId": "net.thunderbird.components.ui.bolt.atom.card.CardOutlinedKt.CardOutlinedPreview_Light",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/thunderbird-android/render/card-outlined__ideal__default__light.svg"
         }
       ],
       "greenlines": [],
@@ -7239,7 +7277,8 @@
           "height": 79,
           "livePreview": "https://preview.coo.ee/thunderbird-android/p/preview-big-red__ideal__default",
           "previewId": "net.thunderbird.components.ui.bolt.atom.chip.ColorChipDefaultsKt.PreviewBigRed",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/thunderbird-android/render/preview-big-red__ideal__default.svg"
         }
       ],
       "greenlines": [],
@@ -7286,7 +7325,8 @@
           "height": 53,
           "livePreview": "https://preview.coo.ee/thunderbird-android/p/preview-default__ideal__default",
           "previewId": "net.thunderbird.components.ui.bolt.atom.chip.ColorChipDefaultsKt.PreviewDefault",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/thunderbird-android/render/preview-default__ideal__default.svg"
         }
       ],
       "greenlines": [],
@@ -7333,7 +7373,8 @@
           "height": 53,
           "livePreview": "https://preview.coo.ee/thunderbird-android/p/preview-magenta__ideal__default",
           "previewId": "net.thunderbird.components.ui.bolt.atom.chip.ColorChipDefaultsKt.PreviewMagenta",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/thunderbird-android/render/preview-magenta__ideal__default.svg"
         }
       ],
       "greenlines": [],
@@ -7383,7 +7424,8 @@
           "previewParams": {
             "showBackground": true
           },
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/thunderbird-android/render/icon-tinted__ideal__default.svg"
         }
       ],
       "greenlines": [],
@@ -7472,7 +7514,8 @@
           "previewParams": {
             "showBackground": true
           },
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/thunderbird-android/render/filled-thundermail__ideal__default.svg"
         }
       ],
       "greenlines": [],
@@ -7521,7 +7564,8 @@
           "previewParams": {
             "showBackground": true
           },
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/thunderbird-android/render/qr-code__ideal__default.svg"
         }
       ],
       "greenlines": [],
@@ -7570,7 +7614,8 @@
           "previewParams": {
             "showBackground": true
           },
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/thunderbird-android/render/outlined-reply-all__ideal__default.svg"
         }
       ],
       "greenlines": [],
@@ -7619,7 +7664,8 @@
           "previewParams": {
             "showBackground": true
           },
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/thunderbird-android/render/outlined-reply__ideal__default.svg"
         }
       ],
       "greenlines": [],
@@ -7781,7 +7827,8 @@
           "previewParams": {
             "uiMode": 33
           },
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/thunderbird-android/render/tab-primary__ideal__default__dark.svg"
         },
         {
           "variant": "ideal",
@@ -7792,7 +7839,8 @@
           "theme": "light",
           "livePreview": "https://preview.coo.ee/thunderbird-android/p/tab-primary__ideal__default__light",
           "previewId": "net.thunderbird.components.ui.bolt.atom.tab.TabPrimaryKt.TabPrimaryPreview_Light",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/thunderbird-android/render/tab-primary__ideal__default__light.svg"
         }
       ],
       "greenlines": [
@@ -7885,7 +7933,8 @@
           "previewParams": {
             "uiMode": 33
           },
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/thunderbird-android/render/tab-secondary__ideal__default__dark.svg"
         },
         {
           "variant": "ideal",
@@ -7896,7 +7945,8 @@
           "theme": "light",
           "livePreview": "https://preview.coo.ee/thunderbird-android/p/tab-secondary__ideal__default__light",
           "previewId": "net.thunderbird.components.ui.bolt.atom.tab.TabSecondaryKt.TabSecondaryPreview_Light",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/thunderbird-android/render/tab-secondary__ideal__default__light.svg"
         }
       ],
       "greenlines": [
@@ -7988,7 +8038,8 @@
           "previewParams": {
             "showBackground": true
           },
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/thunderbird-android/render/text-body-large__ideal__default.svg"
         }
       ],
       "greenlines": [],
@@ -8108,7 +8159,8 @@
           "previewParams": {
             "showBackground": true
           },
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/thunderbird-android/render/text-body-large-with-annotated-string__ideal__default.svg"
         }
       ],
       "greenlines": [],
@@ -8197,7 +8249,8 @@
           "previewParams": {
             "showBackground": true
           },
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/thunderbird-android/render/text-body-large-with-color__ideal__default.svg"
         }
       ],
       "greenlines": [],
@@ -8286,7 +8339,8 @@
           "previewParams": {
             "showBackground": true
           },
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/thunderbird-android/render/text-body-large-with-text-align__ideal__default.svg"
         }
       ],
       "greenlines": [],
@@ -8375,7 +8429,8 @@
           "previewParams": {
             "showBackground": true
           },
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/thunderbird-android/render/text-body-medium__ideal__default.svg"
         }
       ],
       "greenlines": [],
@@ -8500,7 +8555,8 @@
           "previewParams": {
             "showBackground": true
           },
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/thunderbird-android/render/text-body-medium-with-annotated-string__ideal__default.svg"
         }
       ],
       "greenlines": [],
@@ -8589,7 +8645,8 @@
           "previewParams": {
             "showBackground": true
           },
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/thunderbird-android/render/text-body-medium-with-color__ideal__default.svg"
         }
       ],
       "greenlines": [],
@@ -8678,7 +8735,8 @@
           "previewParams": {
             "showBackground": true
           },
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/thunderbird-android/render/text-body-medium-with-text-align__ideal__default.svg"
         }
       ],
       "greenlines": [],
@@ -8767,7 +8825,8 @@
           "previewParams": {
             "showBackground": true
           },
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/thunderbird-android/render/text-body-small__ideal__default.svg"
         }
       ],
       "greenlines": [],
@@ -8887,7 +8946,8 @@
           "previewParams": {
             "showBackground": true
           },
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/thunderbird-android/render/text-body-small-with-annotated-string__ideal__default.svg"
         }
       ],
       "greenlines": [],
@@ -8976,7 +9036,8 @@
           "previewParams": {
             "showBackground": true
           },
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/thunderbird-android/render/text-body-small-with-color__ideal__default.svg"
         }
       ],
       "greenlines": [],
@@ -9065,7 +9126,8 @@
           "previewParams": {
             "showBackground": true
           },
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/thunderbird-android/render/text-body-small-with-text-align__ideal__default.svg"
         }
       ],
       "greenlines": [],
@@ -9154,7 +9216,8 @@
           "previewParams": {
             "showBackground": true
           },
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/thunderbird-android/render/text-display-large__ideal__default.svg"
         }
       ],
       "greenlines": [],
@@ -9274,7 +9337,8 @@
           "previewParams": {
             "showBackground": true
           },
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/thunderbird-android/render/text-display-large-with-annotated-string__ideal__default.svg"
         }
       ],
       "greenlines": [],
@@ -9363,7 +9427,8 @@
           "previewParams": {
             "showBackground": true
           },
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/thunderbird-android/render/text-display-large-with-color__ideal__default.svg"
         }
       ],
       "greenlines": [],
@@ -9452,7 +9517,8 @@
           "previewParams": {
             "showBackground": true
           },
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/thunderbird-android/render/text-display-large-with-text-align__ideal__default.svg"
         }
       ],
       "greenlines": [],
@@ -9541,7 +9607,8 @@
           "previewParams": {
             "showBackground": true
           },
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/thunderbird-android/render/text-display-medium__ideal__default.svg"
         }
       ],
       "greenlines": [],
@@ -9661,7 +9728,8 @@
           "previewParams": {
             "showBackground": true
           },
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/thunderbird-android/render/text-display-medium-with-annotated-string__ideal__default.svg"
         }
       ],
       "greenlines": [],
@@ -9750,7 +9818,8 @@
           "previewParams": {
             "showBackground": true
           },
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/thunderbird-android/render/text-display-medium-with-color__ideal__default.svg"
         }
       ],
       "greenlines": [],
@@ -9839,7 +9908,8 @@
           "previewParams": {
             "showBackground": true
           },
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/thunderbird-android/render/text-display-medium-with-text-align__ideal__default.svg"
         }
       ],
       "greenlines": [],
@@ -9928,7 +9998,8 @@
           "previewParams": {
             "showBackground": true
           },
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/thunderbird-android/render/text-display-small__ideal__default.svg"
         }
       ],
       "greenlines": [],
@@ -10048,7 +10119,8 @@
           "previewParams": {
             "showBackground": true
           },
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/thunderbird-android/render/text-display-small-with-annotated-string__ideal__default.svg"
         }
       ],
       "greenlines": [],
@@ -10137,7 +10209,8 @@
           "previewParams": {
             "showBackground": true
           },
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/thunderbird-android/render/text-display-small-with-color__ideal__default.svg"
         }
       ],
       "greenlines": [],
@@ -10226,7 +10299,8 @@
           "previewParams": {
             "showBackground": true
           },
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/thunderbird-android/render/text-display-small-with-text-align__ideal__default.svg"
         }
       ],
       "greenlines": [],
@@ -10315,7 +10389,8 @@
           "previewParams": {
             "showBackground": true
           },
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/thunderbird-android/render/text-headline-large__ideal__default.svg"
         }
       ],
       "greenlines": [],
@@ -10435,7 +10510,8 @@
           "previewParams": {
             "showBackground": true
           },
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/thunderbird-android/render/text-headline-large-with-annotated-string__ideal__default.svg"
         }
       ],
       "greenlines": [],
@@ -10524,7 +10600,8 @@
           "previewParams": {
             "showBackground": true
           },
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/thunderbird-android/render/text-headline-large-with-color__ideal__default.svg"
         }
       ],
       "greenlines": [],
@@ -10613,7 +10690,8 @@
           "previewParams": {
             "showBackground": true
           },
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/thunderbird-android/render/text-headline-large-with-text-align__ideal__default.svg"
         }
       ],
       "greenlines": [],
@@ -10702,7 +10780,8 @@
           "previewParams": {
             "showBackground": true
           },
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/thunderbird-android/render/text-headline-medium__ideal__default.svg"
         }
       ],
       "greenlines": [],
@@ -10822,7 +10901,8 @@
           "previewParams": {
             "showBackground": true
           },
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/thunderbird-android/render/text-headline-medium-with-annotated-string__ideal__default.svg"
         }
       ],
       "greenlines": [],
@@ -10911,7 +10991,8 @@
           "previewParams": {
             "showBackground": true
           },
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/thunderbird-android/render/text-headline-medium-with-color__ideal__default.svg"
         }
       ],
       "greenlines": [],
@@ -11000,7 +11081,8 @@
           "previewParams": {
             "showBackground": true
           },
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/thunderbird-android/render/text-headline-medium-with-text-align__ideal__default.svg"
         }
       ],
       "greenlines": [],
@@ -11089,7 +11171,8 @@
           "previewParams": {
             "showBackground": true
           },
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/thunderbird-android/render/text-headline-small__ideal__default.svg"
         }
       ],
       "greenlines": [],
@@ -11209,7 +11292,8 @@
           "previewParams": {
             "showBackground": true
           },
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/thunderbird-android/render/text-headline-small-with-annotated-string__ideal__default.svg"
         }
       ],
       "greenlines": [],
@@ -11298,7 +11382,8 @@
           "previewParams": {
             "showBackground": true
           },
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/thunderbird-android/render/text-headline-small-with-color__ideal__default.svg"
         }
       ],
       "greenlines": [],
@@ -11387,7 +11472,8 @@
           "previewParams": {
             "showBackground": true
           },
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/thunderbird-android/render/text-headline-small-with-text-align__ideal__default.svg"
         }
       ],
       "greenlines": [],
@@ -11476,7 +11562,8 @@
           "previewParams": {
             "showBackground": true
           },
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/thunderbird-android/render/text-label-large__ideal__default.svg"
         }
       ],
       "greenlines": [],
@@ -11596,7 +11683,8 @@
           "previewParams": {
             "showBackground": true
           },
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/thunderbird-android/render/text-label-large-with-annotated-string__ideal__default.svg"
         }
       ],
       "greenlines": [],
@@ -11685,7 +11773,8 @@
           "previewParams": {
             "showBackground": true
           },
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/thunderbird-android/render/text-label-large-with-color__ideal__default.svg"
         }
       ],
       "greenlines": [],
@@ -11774,7 +11863,8 @@
           "previewParams": {
             "showBackground": true
           },
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/thunderbird-android/render/text-label-large-with-text-align__ideal__default.svg"
         }
       ],
       "greenlines": [],
@@ -11863,7 +11953,8 @@
           "previewParams": {
             "showBackground": true
           },
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/thunderbird-android/render/text-label-medium__ideal__default.svg"
         }
       ],
       "greenlines": [],
@@ -11983,7 +12074,8 @@
           "previewParams": {
             "showBackground": true
           },
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/thunderbird-android/render/text-label-medium-with-annotated-string__ideal__default.svg"
         }
       ],
       "greenlines": [],
@@ -12072,7 +12164,8 @@
           "previewParams": {
             "showBackground": true
           },
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/thunderbird-android/render/text-label-medium-with-color__ideal__default.svg"
         }
       ],
       "greenlines": [],
@@ -12161,7 +12254,8 @@
           "previewParams": {
             "showBackground": true
           },
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/thunderbird-android/render/text-label-medium-with-text-align__ideal__default.svg"
         }
       ],
       "greenlines": [],
@@ -12250,7 +12344,8 @@
           "previewParams": {
             "showBackground": true
           },
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/thunderbird-android/render/text-label-small__ideal__default.svg"
         }
       ],
       "greenlines": [],
@@ -12370,7 +12465,8 @@
           "previewParams": {
             "showBackground": true
           },
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/thunderbird-android/render/text-label-small-with-annotated-string__ideal__default.svg"
         }
       ],
       "greenlines": [],
@@ -12459,7 +12555,8 @@
           "previewParams": {
             "showBackground": true
           },
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/thunderbird-android/render/text-label-small-with-color__ideal__default.svg"
         }
       ],
       "greenlines": [],
@@ -12548,7 +12645,8 @@
           "previewParams": {
             "showBackground": true
           },
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/thunderbird-android/render/text-label-small-with-text-align__ideal__default.svg"
         }
       ],
       "greenlines": [],
@@ -12637,7 +12735,8 @@
           "previewParams": {
             "showBackground": true
           },
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/thunderbird-android/render/text-title-large__ideal__default.svg"
         }
       ],
       "greenlines": [],
@@ -12757,7 +12856,8 @@
           "previewParams": {
             "showBackground": true
           },
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/thunderbird-android/render/text-title-large-with-annotated-string__ideal__default.svg"
         }
       ],
       "greenlines": [],
@@ -12846,7 +12946,8 @@
           "previewParams": {
             "showBackground": true
           },
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/thunderbird-android/render/text-title-large-with-color__ideal__default.svg"
         }
       ],
       "greenlines": [],
@@ -12935,7 +13036,8 @@
           "previewParams": {
             "showBackground": true
           },
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/thunderbird-android/render/text-title-large-with-text-align__ideal__default.svg"
         }
       ],
       "greenlines": [],
@@ -13024,7 +13126,8 @@
           "previewParams": {
             "showBackground": true
           },
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/thunderbird-android/render/text-title-medium__ideal__default.svg"
         }
       ],
       "greenlines": [],
@@ -13144,7 +13247,8 @@
           "previewParams": {
             "showBackground": true
           },
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/thunderbird-android/render/text-title-medium-with-annotated-string__ideal__default.svg"
         }
       ],
       "greenlines": [],
@@ -13233,7 +13337,8 @@
           "previewParams": {
             "showBackground": true
           },
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/thunderbird-android/render/text-title-medium-with-color__ideal__default.svg"
         }
       ],
       "greenlines": [],
@@ -13322,7 +13427,8 @@
           "previewParams": {
             "showBackground": true
           },
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/thunderbird-android/render/text-title-medium-with-text-align__ideal__default.svg"
         }
       ],
       "greenlines": [],
@@ -13411,7 +13517,8 @@
           "previewParams": {
             "showBackground": true
           },
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/thunderbird-android/render/text-title-small__ideal__default.svg"
         }
       ],
       "greenlines": [],
@@ -13531,7 +13638,8 @@
           "previewParams": {
             "showBackground": true
           },
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/thunderbird-android/render/text-title-small-with-annotated-string__ideal__default.svg"
         }
       ],
       "greenlines": [],
@@ -13620,7 +13728,8 @@
           "previewParams": {
             "showBackground": true
           },
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/thunderbird-android/render/text-title-small-with-color__ideal__default.svg"
         }
       ],
       "greenlines": [],
@@ -13709,7 +13818,8 @@
           "previewParams": {
             "showBackground": true
           },
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/thunderbird-android/render/text-title-small-with-text-align__ideal__default.svg"
         }
       ],
       "greenlines": [],
@@ -13798,7 +13908,8 @@
           "previewParams": {
             "showBackground": true
           },
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/thunderbird-android/render/text-field-label__ideal__default.svg"
         }
       ],
       "greenlines": [],
@@ -13897,7 +14008,8 @@
           "previewParams": {
             "showBackground": true
           },
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/thunderbird-android/render/text-field-label-required-empty-label__ideal__default.svg"
         }
       ],
       "greenlines": [],
@@ -13986,7 +14098,8 @@
           "previewParams": {
             "showBackground": true
           },
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/thunderbird-android/render/text-field-label-required__ideal__default.svg"
         }
       ],
       "greenlines": [],
@@ -18006,7 +18119,8 @@
           "previewParams": {
             "showBackground": true
           },
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/thunderbird-android/render/content-loading-error-view-content__ideal__default.svg"
         }
       ],
       "greenlines": [],
@@ -18107,7 +18221,8 @@
           "previewParams": {
             "showBackground": true
           },
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/thunderbird-android/render/content-loading-error-view-error__ideal__default.svg"
         }
       ],
       "greenlines": [],
@@ -18208,7 +18323,8 @@
           "previewParams": {
             "showBackground": true
           },
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/thunderbird-android/render/content-loading-error-view-interactive__ideal__default.svg"
         }
       ],
       "greenlines": [],
@@ -18309,7 +18425,8 @@
           "previewParams": {
             "showBackground": true
           },
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/thunderbird-android/render/content-loading-error-view-loading__ideal__default.svg"
         }
       ],
       "greenlines": [],
@@ -18410,7 +18527,8 @@
           "previewParams": {
             "showBackground": true
           },
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/thunderbird-android/render/content-loading-view-interactive__ideal__default.svg"
         }
       ],
       "greenlines": [],
@@ -18499,7 +18617,8 @@
           "previewParams": {
             "showBackground": true
           },
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/thunderbird-android/render/content-loading-view-loading__ideal__default.svg"
         }
       ],
       "greenlines": [],
@@ -18600,7 +18719,8 @@
           "previewParams": {
             "showBackground": true
           },
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/thunderbird-android/render/content-loading-view__ideal__default.svg"
         }
       ],
       "greenlines": [],
@@ -18701,7 +18821,8 @@
           "previewParams": {
             "showBackground": true
           },
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/thunderbird-android/render/error-view__ideal__default.svg"
         }
       ],
       "greenlines": [],
@@ -18816,7 +18937,8 @@
           "previewParams": {
             "showBackground": true
           },
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/thunderbird-android/render/error-view-with-message__ideal__default.svg"
         }
       ],
       "greenlines": [],
@@ -18905,7 +19027,8 @@
           "previewParams": {
             "showBackground": true
           },
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/thunderbird-android/render/error-view-with-retry-and-message__ideal__default.svg"
         }
       ],
       "greenlines": [
@@ -19105,7 +19228,8 @@
           "previewParams": {
             "showBackground": true
           },
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/thunderbird-android/render/error-view-with-retry__ideal__default.svg"
         }
       ],
       "greenlines": [
@@ -20685,7 +20809,8 @@
           "previewParams": {
             "showBackground": true
           },
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/thunderbird-android/render/checkbox-input-checked__ideal__default.svg"
         }
       ],
       "greenlines": [
@@ -20895,7 +21020,8 @@
           "previewParams": {
             "showBackground": true
           },
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/thunderbird-android/render/checkbox-input__ideal__default.svg"
         }
       ],
       "greenlines": [
@@ -21134,7 +21260,8 @@
           "previewParams": {
             "showBackground": true
           },
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/thunderbird-android/render/checkbox-input-with-error__ideal__default.svg"
         }
       ],
       "greenlines": [
@@ -23733,7 +23860,8 @@
           "previewParams": {
             "showBackground": true
           },
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/thunderbird-android/render/switch-input-checked__ideal__default.svg"
         }
       ],
       "greenlines": [
@@ -24015,7 +24143,8 @@
           "previewParams": {
             "showBackground": true
           },
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/thunderbird-android/render/switch-input__ideal__default.svg"
         }
       ],
       "greenlines": [
@@ -24326,7 +24455,8 @@
           "previewParams": {
             "showBackground": true
           },
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/thunderbird-android/render/switch-input-with-error__ideal__default.svg"
         }
       ],
       "greenlines": [
@@ -25216,7 +25346,8 @@
           "previewParams": {
             "uiMode": 33
           },
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/thunderbird-android/render/notification-action-button__ideal__default__dark.svg"
         },
         {
           "variant": "ideal",
@@ -25227,7 +25358,8 @@
           "theme": "light",
           "livePreview": "https://preview.coo.ee/thunderbird-android/p/notification-action-button__ideal__default__light",
           "previewId": "net.thunderbird.components.ui.bolt.molecule.notification.NotificationActionButtonKt.NotificationActionButtonPreview_Light",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/thunderbird-android/render/notification-action-button__ideal__default__light.svg"
         }
       ],
       "greenlines": [
@@ -25408,7 +25540,8 @@
           "previewParams": {
             "uiMode": 33
           },
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/thunderbird-android/render/tab-row-primary-edge-padding__ideal__default__dark.svg"
         },
         {
           "variant": "ideal",
@@ -25419,7 +25552,8 @@
           "theme": "light",
           "livePreview": "https://preview.coo.ee/thunderbird-android/p/tab-row-primary-edge-padding__ideal__default__light",
           "previewId": "net.thunderbird.components.ui.bolt.molecule.tab.TabRowPrimaryKt.TabRowPrimaryEdgePaddingPreview_Light",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/thunderbird-android/render/tab-row-primary-edge-padding__ideal__default__light.svg"
         }
       ],
       "greenlines": [
@@ -25574,7 +25708,8 @@
           "previewParams": {
             "uiMode": 33
           },
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/thunderbird-android/render/tab-row-primary-indicator-changes__ideal__default__dark.svg"
         },
         {
           "variant": "ideal",
@@ -25585,7 +25720,8 @@
           "theme": "light",
           "livePreview": "https://preview.coo.ee/thunderbird-android/p/tab-row-primary-indicator-changes__ideal__default__light",
           "previewId": "net.thunderbird.components.ui.bolt.molecule.tab.TabRowPrimaryKt.TabRowPrimaryIndicatorChangesPreview_Light",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/thunderbird-android/render/tab-row-primary-indicator-changes__ideal__default__light.svg"
         }
       ],
       "greenlines": [
@@ -25700,7 +25836,8 @@
           "previewParams": {
             "uiMode": 33
           },
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/thunderbird-android/render/tab-row-primary__ideal__default__dark.svg"
         },
         {
           "variant": "ideal",
@@ -25711,7 +25848,8 @@
           "theme": "light",
           "livePreview": "https://preview.coo.ee/thunderbird-android/p/tab-row-primary__ideal__default__light",
           "previewId": "net.thunderbird.components.ui.bolt.molecule.tab.TabRowPrimaryKt.TabRowPrimaryPreview_Light",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/thunderbird-android/render/tab-row-primary__ideal__default__light.svg"
         }
       ],
       "greenlines": [
@@ -25826,7 +25964,8 @@
           "previewParams": {
             "uiMode": 33
           },
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/thunderbird-android/render/tab-row-secondary-edge-padding__ideal__default__dark.svg"
         },
         {
           "variant": "ideal",
@@ -25837,7 +25976,8 @@
           "theme": "light",
           "livePreview": "https://preview.coo.ee/thunderbird-android/p/tab-row-secondary-edge-padding__ideal__default__light",
           "previewId": "net.thunderbird.components.ui.bolt.molecule.tab.TabRowSecondaryKt.TabRowSecondaryEdgePaddingPreview_Light",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/thunderbird-android/render/tab-row-secondary-edge-padding__ideal__default__light.svg"
         }
       ],
       "greenlines": [
@@ -25983,7 +26123,8 @@
           "previewParams": {
             "uiMode": 33
           },
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/thunderbird-android/render/tab-row-secondary-indicator-changes__ideal__default__dark.svg"
         },
         {
           "variant": "ideal",
@@ -25994,7 +26135,8 @@
           "theme": "light",
           "livePreview": "https://preview.coo.ee/thunderbird-android/p/tab-row-secondary-indicator-changes__ideal__default__light",
           "previewId": "net.thunderbird.components.ui.bolt.molecule.tab.TabRowSecondaryKt.TabRowSecondaryIndicatorChangesPreview_Light",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/thunderbird-android/render/tab-row-secondary-indicator-changes__ideal__default__light.svg"
         }
       ],
       "greenlines": [
@@ -26100,7 +26242,8 @@
           "previewParams": {
             "uiMode": 33
           },
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/thunderbird-android/render/tab-row-secondary__ideal__default__dark.svg"
         },
         {
           "variant": "ideal",
@@ -26111,7 +26254,8 @@
           "theme": "light",
           "livePreview": "https://preview.coo.ee/thunderbird-android/p/tab-row-secondary__ideal__default__light",
           "previewId": "net.thunderbird.components.ui.bolt.molecule.tab.TabRowSecondaryKt.TabRowSecondaryPreview_Light",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/thunderbird-android/render/tab-row-secondary__ideal__default__light.svg"
         }
       ],
       "greenlines": [
@@ -26216,7 +26360,8 @@
           "previewParams": {
             "showBackground": true
           },
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/thunderbird-android/render/alert-dialog__ideal__default.svg"
         }
       ],
       "greenlines": [
@@ -26332,7 +26477,8 @@
           "previewParams": {
             "showBackground": true
           },
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/thunderbird-android/render/alert-dialog-with-cancel__ideal__default.svg"
         }
       ],
       "greenlines": [
@@ -26478,7 +26624,8 @@
           "previewParams": {
             "showBackground": true
           },
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/thunderbird-android/render/alert-dialog-with-custom-content__ideal__default.svg"
         }
       ],
       "greenlines": [
@@ -26577,7 +26724,8 @@
           "previewParams": {
             "showBackground": true
           },
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/thunderbird-android/render/alert-dialog-with-icon__ideal__default.svg"
         }
       ],
       "greenlines": [
@@ -26698,7 +26846,8 @@
             "widthDp": 841,
             "heightDp": 673
           },
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/thunderbird-android/render/basic-dialog__ideal__default__dark__expanded.svg"
         },
         {
           "variant": "ideal",
@@ -26715,7 +26864,8 @@
             "widthDp": 841,
             "heightDp": 673
           },
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/thunderbird-android/render/basic-dialog__ideal__default__light__expanded.svg"
         }
       ],
       "greenlines": [
@@ -27000,7 +27150,8 @@
             "widthDp": 841,
             "heightDp": 673
           },
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/thunderbird-android/render/preview-only-supporting-text__ideal__default__dark__expanded.svg"
         },
         {
           "variant": "ideal",
@@ -27017,7 +27168,8 @@
             "widthDp": 841,
             "heightDp": 673
           },
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/thunderbird-android/render/preview-only-supporting-text__ideal__default__light__expanded.svg"
         }
       ],
       "greenlines": [
@@ -29913,7 +30065,8 @@
           "previewParams": {
             "uiMode": 33
           },
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/thunderbird-android/render/banner-global-notification-card-annotated-string-title__ideal__default__dark.svg"
         },
         {
           "variant": "ideal",
@@ -29924,7 +30077,8 @@
           "theme": "light",
           "livePreview": "https://preview.coo.ee/thunderbird-android/p/banner-global-notification-card-annotated-string-title__ideal__default__light",
           "previewId": "net.thunderbird.components.ui.bolt.organism.banner.global.BannerGlobalNotificationCardKt.BannerGlobalNotificationCardAnnotatedStringTitlePreview_Light",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/thunderbird-android/render/banner-global-notification-card-annotated-string-title__ideal__default__light.svg"
         }
       ],
       "greenlines": [
@@ -30073,7 +30227,8 @@
           "previewParams": {
             "uiMode": 33
           },
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/thunderbird-android/render/banner-global-notification-card-string-title__ideal__default__dark.svg"
         },
         {
           "variant": "ideal",
@@ -30084,7 +30239,8 @@
           "theme": "light",
           "livePreview": "https://preview.coo.ee/thunderbird-android/p/banner-global-notification-card-string-title__ideal__default__light",
           "previewId": "net.thunderbird.components.ui.bolt.organism.banner.global.BannerGlobalNotificationCardKt.BannerGlobalNotificationCardStringTitlePreview_Light",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/thunderbird-android/render/banner-global-notification-card-string-title__ideal__default__light.svg"
         }
       ],
       "greenlines": [
@@ -30233,7 +30389,8 @@
           "previewParams": {
             "uiMode": 33
           },
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/thunderbird-android/render/error-banner-global-notification-card-annotated-string-title__ideal__default__dark.svg"
         },
         {
           "variant": "ideal",
@@ -30244,7 +30401,8 @@
           "theme": "light",
           "livePreview": "https://preview.coo.ee/thunderbird-android/p/error-banner-global-notification-card-annotated-string-title__ideal__default__light",
           "previewId": "net.thunderbird.components.ui.bolt.organism.banner.global.ErrorBannerGlobalNotificationCardKt.ErrorBannerGlobalNotificationCardAnnotatedStringTitlePreview_Light",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/thunderbird-android/render/error-banner-global-notification-card-annotated-string-title__ideal__default__light.svg"
         }
       ],
       "greenlines": [
@@ -30393,7 +30551,8 @@
           "previewParams": {
             "uiMode": 33
           },
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/thunderbird-android/render/error-banner-global-notification-card-string-title__ideal__default__dark.svg"
         },
         {
           "variant": "ideal",
@@ -30404,7 +30563,8 @@
           "theme": "light",
           "livePreview": "https://preview.coo.ee/thunderbird-android/p/error-banner-global-notification-card-string-title__ideal__default__light",
           "previewId": "net.thunderbird.components.ui.bolt.organism.banner.global.ErrorBannerGlobalNotificationCardKt.ErrorBannerGlobalNotificationCardStringTitlePreview_Light",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/thunderbird-android/render/error-banner-global-notification-card-string-title__ideal__default__light.svg"
         }
       ],
       "greenlines": [
@@ -30553,7 +30713,8 @@
           "previewParams": {
             "uiMode": 33
           },
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/thunderbird-android/render/info-banner-global-notification-card-annotated-string-title__ideal__default__dark.svg"
         },
         {
           "variant": "ideal",
@@ -30564,7 +30725,8 @@
           "theme": "light",
           "livePreview": "https://preview.coo.ee/thunderbird-android/p/info-banner-global-notification-card-annotated-string-title__ideal__default__light",
           "previewId": "net.thunderbird.components.ui.bolt.organism.banner.global.InfoBannerGlobalNotificationCardKt.InfoBannerGlobalNotificationCardAnnotatedStringTitlePreview_Light",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/thunderbird-android/render/info-banner-global-notification-card-annotated-string-title__ideal__default__light.svg"
         }
       ],
       "greenlines": [
@@ -30713,7 +30875,8 @@
           "previewParams": {
             "uiMode": 33
           },
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/thunderbird-android/render/info-banner-global-notification-card-long-no-action-text__ideal__default__dark.svg"
         },
         {
           "variant": "ideal",
@@ -30724,7 +30887,8 @@
           "theme": "light",
           "livePreview": "https://preview.coo.ee/thunderbird-android/p/info-banner-global-notification-card-long-no-action-text__ideal__default__light",
           "previewId": "net.thunderbird.components.ui.bolt.organism.banner.global.InfoBannerGlobalNotificationCardKt.InfoBannerGlobalNotificationCardLongNoActionTextPreview_Light",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/thunderbird-android/render/info-banner-global-notification-card-long-no-action-text__ideal__default__light.svg"
         }
       ],
       "greenlines": [],
@@ -30849,7 +31013,8 @@
           "previewParams": {
             "uiMode": 33
           },
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/thunderbird-android/render/info-banner-global-notification-card-long-text__ideal__default__dark.svg"
         },
         {
           "variant": "ideal",
@@ -30860,7 +31025,8 @@
           "theme": "light",
           "livePreview": "https://preview.coo.ee/thunderbird-android/p/info-banner-global-notification-card-long-text__ideal__default__light",
           "previewId": "net.thunderbird.components.ui.bolt.organism.banner.global.InfoBannerGlobalNotificationCardKt.InfoBannerGlobalNotificationCardLongTextPreview_Light",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/thunderbird-android/render/info-banner-global-notification-card-long-text__ideal__default__light.svg"
         }
       ],
       "greenlines": [
@@ -31046,7 +31212,8 @@
           "previewParams": {
             "uiMode": 33
           },
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/thunderbird-android/render/info-banner-global-notification-card-no-action__ideal__default__dark.svg"
         },
         {
           "variant": "ideal",
@@ -31057,7 +31224,8 @@
           "theme": "light",
           "livePreview": "https://preview.coo.ee/thunderbird-android/p/info-banner-global-notification-card-no-action__ideal__default__light",
           "previewId": "net.thunderbird.components.ui.bolt.organism.banner.global.InfoBannerGlobalNotificationCardKt.InfoBannerGlobalNotificationCardNoActionPreview_Light",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/thunderbird-android/render/info-banner-global-notification-card-no-action__ideal__default__light.svg"
         }
       ],
       "greenlines": [],
@@ -31145,7 +31313,8 @@
           "previewParams": {
             "uiMode": 33
           },
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/thunderbird-android/render/info-banner-global-notification-card-string-title__ideal__default__dark.svg"
         },
         {
           "variant": "ideal",
@@ -31156,7 +31325,8 @@
           "theme": "light",
           "livePreview": "https://preview.coo.ee/thunderbird-android/p/info-banner-global-notification-card-string-title__ideal__default__light",
           "previewId": "net.thunderbird.components.ui.bolt.organism.banner.global.InfoBannerGlobalNotificationCardKt.InfoBannerGlobalNotificationCardStringTitlePreview_Light",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/thunderbird-android/render/info-banner-global-notification-card-string-title__ideal__default__light.svg"
         }
       ],
       "greenlines": [
@@ -31305,7 +31475,8 @@
           "previewParams": {
             "uiMode": 33
           },
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/thunderbird-android/render/success-banner-global-notification-card-annotated-string-title__ideal__default__dark.svg"
         },
         {
           "variant": "ideal",
@@ -31316,7 +31487,8 @@
           "theme": "light",
           "livePreview": "https://preview.coo.ee/thunderbird-android/p/success-banner-global-notification-card-annotated-string-title__ideal__default__light",
           "previewId": "net.thunderbird.components.ui.bolt.organism.banner.global.SuccessBannerGlobalNotificationCardKt.SuccessBannerGlobalNotificationCardAnnotatedStringTitlePreview_Light",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/thunderbird-android/render/success-banner-global-notification-card-annotated-string-title__ideal__default__light.svg"
         }
       ],
       "greenlines": [
@@ -31465,7 +31637,8 @@
           "previewParams": {
             "uiMode": 33
           },
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/thunderbird-android/render/success-banner-global-notification-card-long-no-action-text__ideal__default__dark.svg"
         },
         {
           "variant": "ideal",
@@ -31476,7 +31649,8 @@
           "theme": "light",
           "livePreview": "https://preview.coo.ee/thunderbird-android/p/success-banner-global-notification-card-long-no-action-text__ideal__default__light",
           "previewId": "net.thunderbird.components.ui.bolt.organism.banner.global.SuccessBannerGlobalNotificationCardKt.SuccessBannerGlobalNotificationCardLongNoActionTextPreview_Light",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/thunderbird-android/render/success-banner-global-notification-card-long-no-action-text__ideal__default__light.svg"
         }
       ],
       "greenlines": [],
@@ -31601,7 +31775,8 @@
           "previewParams": {
             "uiMode": 33
           },
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/thunderbird-android/render/success-banner-global-notification-card-long-text__ideal__default__dark.svg"
         },
         {
           "variant": "ideal",
@@ -31612,7 +31787,8 @@
           "theme": "light",
           "livePreview": "https://preview.coo.ee/thunderbird-android/p/success-banner-global-notification-card-long-text__ideal__default__light",
           "previewId": "net.thunderbird.components.ui.bolt.organism.banner.global.SuccessBannerGlobalNotificationCardKt.SuccessBannerGlobalNotificationCardLongTextPreview_Light",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/thunderbird-android/render/success-banner-global-notification-card-long-text__ideal__default__light.svg"
         }
       ],
       "greenlines": [
@@ -31798,7 +31974,8 @@
           "previewParams": {
             "uiMode": 33
           },
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/thunderbird-android/render/success-banner-global-notification-card-no-action__ideal__default__dark.svg"
         },
         {
           "variant": "ideal",
@@ -31809,7 +31986,8 @@
           "theme": "light",
           "livePreview": "https://preview.coo.ee/thunderbird-android/p/success-banner-global-notification-card-no-action__ideal__default__light",
           "previewId": "net.thunderbird.components.ui.bolt.organism.banner.global.SuccessBannerGlobalNotificationCardKt.SuccessBannerGlobalNotificationCardNoActionPreview_Light",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/thunderbird-android/render/success-banner-global-notification-card-no-action__ideal__default__light.svg"
         }
       ],
       "greenlines": [],
@@ -31897,7 +32075,8 @@
           "previewParams": {
             "uiMode": 33
           },
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/thunderbird-android/render/success-banner-global-notification-card-string-title__ideal__default__dark.svg"
         },
         {
           "variant": "ideal",
@@ -31908,7 +32087,8 @@
           "theme": "light",
           "livePreview": "https://preview.coo.ee/thunderbird-android/p/success-banner-global-notification-card-string-title__ideal__default__light",
           "previewId": "net.thunderbird.components.ui.bolt.organism.banner.global.SuccessBannerGlobalNotificationCardKt.SuccessBannerGlobalNotificationCardStringTitlePreview_Light",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/thunderbird-android/render/success-banner-global-notification-card-string-title__ideal__default__light.svg"
         }
       ],
       "greenlines": [
@@ -32057,7 +32237,8 @@
           "previewParams": {
             "uiMode": 33
           },
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/thunderbird-android/render/warning-banner-global-notification-card-annotated-string-title__ideal__default__dark.svg"
         },
         {
           "variant": "ideal",
@@ -32068,7 +32249,8 @@
           "theme": "light",
           "livePreview": "https://preview.coo.ee/thunderbird-android/p/warning-banner-global-notification-card-annotated-string-title__ideal__default__light",
           "previewId": "net.thunderbird.components.ui.bolt.organism.banner.global.WarningBannerGlobalNotificationCardKt.WarningBannerGlobalNotificationCardAnnotatedStringTitlePreview_Light",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/thunderbird-android/render/warning-banner-global-notification-card-annotated-string-title__ideal__default__light.svg"
         }
       ],
       "greenlines": [
@@ -32217,7 +32399,8 @@
           "previewParams": {
             "uiMode": 33
           },
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/thunderbird-android/render/warning-banner-global-notification-card-long-no-action-text__ideal__default__dark.svg"
         },
         {
           "variant": "ideal",
@@ -32228,7 +32411,8 @@
           "theme": "light",
           "livePreview": "https://preview.coo.ee/thunderbird-android/p/warning-banner-global-notification-card-long-no-action-text__ideal__default__light",
           "previewId": "net.thunderbird.components.ui.bolt.organism.banner.global.WarningBannerGlobalNotificationCardKt.WarningBannerGlobalNotificationCardLongNoActionTextPreview_Light",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/thunderbird-android/render/warning-banner-global-notification-card-long-no-action-text__ideal__default__light.svg"
         }
       ],
       "greenlines": [],
@@ -32353,7 +32537,8 @@
           "previewParams": {
             "uiMode": 33
           },
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/thunderbird-android/render/warning-banner-global-notification-card-long-text__ideal__default__dark.svg"
         },
         {
           "variant": "ideal",
@@ -32364,7 +32549,8 @@
           "theme": "light",
           "livePreview": "https://preview.coo.ee/thunderbird-android/p/warning-banner-global-notification-card-long-text__ideal__default__light",
           "previewId": "net.thunderbird.components.ui.bolt.organism.banner.global.WarningBannerGlobalNotificationCardKt.WarningBannerGlobalNotificationCardLongTextPreview_Light",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/thunderbird-android/render/warning-banner-global-notification-card-long-text__ideal__default__light.svg"
         }
       ],
       "greenlines": [
@@ -32550,7 +32736,8 @@
           "previewParams": {
             "uiMode": 33
           },
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/thunderbird-android/render/warning-banner-global-notification-card-no-action__ideal__default__dark.svg"
         },
         {
           "variant": "ideal",
@@ -32561,7 +32748,8 @@
           "theme": "light",
           "livePreview": "https://preview.coo.ee/thunderbird-android/p/warning-banner-global-notification-card-no-action__ideal__default__light",
           "previewId": "net.thunderbird.components.ui.bolt.organism.banner.global.WarningBannerGlobalNotificationCardKt.WarningBannerGlobalNotificationCardNoActionPreview_Light",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/thunderbird-android/render/warning-banner-global-notification-card-no-action__ideal__default__light.svg"
         }
       ],
       "greenlines": [],
@@ -32649,7 +32837,8 @@
           "previewParams": {
             "uiMode": 33
           },
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/thunderbird-android/render/warning-banner-global-notification-card-string-title__ideal__default__dark.svg"
         },
         {
           "variant": "ideal",
@@ -32660,7 +32849,8 @@
           "theme": "light",
           "livePreview": "https://preview.coo.ee/thunderbird-android/p/warning-banner-global-notification-card-string-title__ideal__default__light",
           "previewId": "net.thunderbird.components.ui.bolt.organism.banner.global.WarningBannerGlobalNotificationCardKt.WarningBannerGlobalNotificationCardStringTitlePreview_Light",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/thunderbird-android/render/warning-banner-global-notification-card-string-title__ideal__default__light.svg"
         }
       ],
       "greenlines": [
@@ -32809,7 +32999,8 @@
           "previewParams": {
             "uiMode": 33
           },
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/thunderbird-android/render/banner-inline-notification-card-annotated-string__ideal__default__dark.svg"
         },
         {
           "variant": "ideal",
@@ -32820,7 +33011,8 @@
           "theme": "light",
           "livePreview": "https://preview.coo.ee/thunderbird-android/p/banner-inline-notification-card-annotated-string__ideal__default__light",
           "previewId": "net.thunderbird.components.ui.bolt.organism.banner.inline.BannerInlineNotificationCardKt.BannerInlineNotificationCardAnnotatedStringPreview_Light",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/thunderbird-android/render/banner-inline-notification-card-annotated-string__ideal__default__light.svg"
         }
       ],
       "greenlines": [
@@ -33079,7 +33271,8 @@
           "previewParams": {
             "uiMode": 33
           },
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/thunderbird-android/render/banner-inline-notification-card-custom-title-and-description__ideal__default__dark.svg"
         },
         {
           "variant": "ideal",
@@ -33090,7 +33283,8 @@
           "theme": "light",
           "livePreview": "https://preview.coo.ee/thunderbird-android/p/banner-inline-notification-card-custom-title-and-description__ideal__default__light",
           "previewId": "net.thunderbird.components.ui.bolt.organism.banner.inline.BannerInlineNotificationCardKt.BannerInlineNotificationCardCustomTitleAndDescriptionPreview_Light",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/thunderbird-android/render/banner-inline-notification-card-custom-title-and-description__ideal__default__light.svg"
         }
       ],
       "greenlines": [
@@ -33349,7 +33543,8 @@
           "previewParams": {
             "uiMode": 33
           },
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/thunderbird-android/render/banner-inline-notification-card-text__ideal__default__dark.svg"
         },
         {
           "variant": "ideal",
@@ -33360,7 +33555,8 @@
           "theme": "light",
           "livePreview": "https://preview.coo.ee/thunderbird-android/p/banner-inline-notification-card-text__ideal__default__light",
           "previewId": "net.thunderbird.components.ui.bolt.organism.banner.inline.BannerInlineNotificationCardKt.BannerInlineNotificationCardTextPreview_Light",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/thunderbird-android/render/banner-inline-notification-card-text__ideal__default__light.svg"
         }
       ],
       "greenlines": [
@@ -33619,7 +33815,8 @@
           "previewParams": {
             "uiMode": 33
           },
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/thunderbird-android/render/banner-inline-notification-clipped-card-text__ideal__default__dark.svg"
         },
         {
           "variant": "ideal",
@@ -33630,7 +33827,8 @@
           "theme": "light",
           "livePreview": "https://preview.coo.ee/thunderbird-android/p/banner-inline-notification-clipped-card-text__ideal__default__light",
           "previewId": "net.thunderbird.components.ui.bolt.organism.banner.inline.BannerInlineNotificationCardKt.BannerInlineNotificationClippedCardTextPreview_Light",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/thunderbird-android/render/banner-inline-notification-clipped-card-text__ideal__default__light.svg"
         }
       ],
       "greenlines": [
@@ -33889,7 +34087,8 @@
           "previewParams": {
             "uiMode": 33
           },
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/thunderbird-android/render/banner-inline-notification-expanded-card-text__ideal__default__dark.svg"
         },
         {
           "variant": "ideal",
@@ -33900,7 +34099,8 @@
           "theme": "light",
           "livePreview": "https://preview.coo.ee/thunderbird-android/p/banner-inline-notification-expanded-card-text__ideal__default__light",
           "previewId": "net.thunderbird.components.ui.bolt.organism.banner.inline.BannerInlineNotificationCardKt.BannerInlineNotificationExpandedCardTextPreview_Light",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/thunderbird-android/render/banner-inline-notification-expanded-card-text__ideal__default__light.svg"
         }
       ],
       "greenlines": [
@@ -34159,7 +34359,8 @@
           "previewParams": {
             "uiMode": 33
           },
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/thunderbird-android/render/error-banner-inline-notification-card-long-text-clipped-preview__ideal__default__dark.svg"
         },
         {
           "variant": "ideal",
@@ -34170,7 +34371,8 @@
           "theme": "light",
           "livePreview": "https://preview.coo.ee/thunderbird-android/p/error-banner-inline-notification-card-long-text-clipped-preview__ideal__default__light",
           "previewId": "net.thunderbird.components.ui.bolt.organism.banner.inline.ErrorBannerInlineNotificationCardKt.ErrorBannerInlineNotificationCardLongTextClippedPreviewPreview_Light",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/thunderbird-android/render/error-banner-inline-notification-card-long-text-clipped-preview__ideal__default__light.svg"
         }
       ],
       "greenlines": [
@@ -34389,7 +34591,8 @@
           "previewParams": {
             "uiMode": 33
           },
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/thunderbird-android/render/error-banner-inline-notification-card-long-text-expanded-preview__ideal__default__dark.svg"
         },
         {
           "variant": "ideal",
@@ -34400,7 +34603,8 @@
           "theme": "light",
           "livePreview": "https://preview.coo.ee/thunderbird-android/p/error-banner-inline-notification-card-long-text-expanded-preview__ideal__default__light",
           "previewId": "net.thunderbird.components.ui.bolt.organism.banner.inline.ErrorBannerInlineNotificationCardKt.ErrorBannerInlineNotificationCardLongTextExpandedPreviewPreview_Light",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/thunderbird-android/render/error-banner-inline-notification-card-long-text-expanded-preview__ideal__default__light.svg"
         }
       ],
       "greenlines": [
@@ -34619,7 +34823,8 @@
           "previewParams": {
             "uiMode": 33
           },
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/thunderbird-android/render/error-banner-inline-notification-card-preview__ideal__default__dark.svg"
         },
         {
           "variant": "ideal",
@@ -34630,7 +34835,8 @@
           "theme": "light",
           "livePreview": "https://preview.coo.ee/thunderbird-android/p/error-banner-inline-notification-card-preview__ideal__default__light",
           "previewId": "net.thunderbird.components.ui.bolt.organism.banner.inline.ErrorBannerInlineNotificationCardKt.ErrorBannerInlineNotificationCardPreviewPreview_Light",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/thunderbird-android/render/error-banner-inline-notification-card-preview__ideal__default__light.svg"
         }
       ],
       "greenlines": [
@@ -34849,7 +35055,8 @@
           "previewParams": {
             "uiMode": 33
           },
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/thunderbird-android/render/info-banner-inline-notification-card-long-text-clipped-preview__ideal__default__dark.svg"
         },
         {
           "variant": "ideal",
@@ -34860,7 +35067,8 @@
           "theme": "light",
           "livePreview": "https://preview.coo.ee/thunderbird-android/p/info-banner-inline-notification-card-long-text-clipped-preview__ideal__default__light",
           "previewId": "net.thunderbird.components.ui.bolt.organism.banner.inline.InfoBannerInlineNotificationCardKt.InfoBannerInlineNotificationCardLongTextClippedPreviewPreview_Light",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/thunderbird-android/render/info-banner-inline-notification-card-long-text-clipped-preview__ideal__default__light.svg"
         }
       ],
       "greenlines": [
@@ -35079,7 +35287,8 @@
           "previewParams": {
             "uiMode": 33
           },
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/thunderbird-android/render/info-banner-inline-notification-card-long-text-expanded-preview__ideal__default__dark.svg"
         },
         {
           "variant": "ideal",
@@ -35090,7 +35299,8 @@
           "theme": "light",
           "livePreview": "https://preview.coo.ee/thunderbird-android/p/info-banner-inline-notification-card-long-text-expanded-preview__ideal__default__light",
           "previewId": "net.thunderbird.components.ui.bolt.organism.banner.inline.InfoBannerInlineNotificationCardKt.InfoBannerInlineNotificationCardLongTextExpandedPreviewPreview_Light",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/thunderbird-android/render/info-banner-inline-notification-card-long-text-expanded-preview__ideal__default__light.svg"
         }
       ],
       "greenlines": [
@@ -35309,7 +35519,8 @@
           "previewParams": {
             "uiMode": 33
           },
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/thunderbird-android/render/info-banner-inline-notification-card-preview__ideal__default__dark.svg"
         },
         {
           "variant": "ideal",
@@ -35320,7 +35531,8 @@
           "theme": "light",
           "livePreview": "https://preview.coo.ee/thunderbird-android/p/info-banner-inline-notification-card-preview__ideal__default__light",
           "previewId": "net.thunderbird.components.ui.bolt.organism.banner.inline.InfoBannerInlineNotificationCardKt.InfoBannerInlineNotificationCardPreviewPreview_Light",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/thunderbird-android/render/info-banner-inline-notification-card-preview__ideal__default__light.svg"
         }
       ],
       "greenlines": [
@@ -35539,7 +35751,8 @@
           "previewParams": {
             "uiMode": 33
           },
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/thunderbird-android/render/success-banner-inline-notification-card-long-text-clipped-preview__ideal__default__dark.svg"
         },
         {
           "variant": "ideal",
@@ -35550,7 +35763,8 @@
           "theme": "light",
           "livePreview": "https://preview.coo.ee/thunderbird-android/p/success-banner-inline-notification-card-long-text-clipped-preview__ideal__default__light",
           "previewId": "net.thunderbird.components.ui.bolt.organism.banner.inline.SuccessBannerInlineNotificationCardKt.SuccessBannerInlineNotificationCardLongTextClippedPreviewPreview_Light",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/thunderbird-android/render/success-banner-inline-notification-card-long-text-clipped-preview__ideal__default__light.svg"
         }
       ],
       "greenlines": [
@@ -35769,7 +35983,8 @@
           "previewParams": {
             "uiMode": 33
           },
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/thunderbird-android/render/success-banner-inline-notification-card-long-text-expanded-preview__ideal__default__dark.svg"
         },
         {
           "variant": "ideal",
@@ -35780,7 +35995,8 @@
           "theme": "light",
           "livePreview": "https://preview.coo.ee/thunderbird-android/p/success-banner-inline-notification-card-long-text-expanded-preview__ideal__default__light",
           "previewId": "net.thunderbird.components.ui.bolt.organism.banner.inline.SuccessBannerInlineNotificationCardKt.SuccessBannerInlineNotificationCardLongTextExpandedPreviewPreview_Light",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/thunderbird-android/render/success-banner-inline-notification-card-long-text-expanded-preview__ideal__default__light.svg"
         }
       ],
       "greenlines": [
@@ -35999,7 +36215,8 @@
           "previewParams": {
             "uiMode": 33
           },
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/thunderbird-android/render/success-banner-inline-notification-card-preview__ideal__default__dark.svg"
         },
         {
           "variant": "ideal",
@@ -36010,7 +36227,8 @@
           "theme": "light",
           "livePreview": "https://preview.coo.ee/thunderbird-android/p/success-banner-inline-notification-card-preview__ideal__default__light",
           "previewId": "net.thunderbird.components.ui.bolt.organism.banner.inline.SuccessBannerInlineNotificationCardKt.SuccessBannerInlineNotificationCardPreviewPreview_Light",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/thunderbird-android/render/success-banner-inline-notification-card-preview__ideal__default__light.svg"
         }
       ],
       "greenlines": [
@@ -36229,7 +36447,8 @@
           "previewParams": {
             "uiMode": 33
           },
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/thunderbird-android/render/warning-banner-inline-notification-card-long-text-clipped-preview__ideal__default__dark.svg"
         },
         {
           "variant": "ideal",
@@ -36240,7 +36459,8 @@
           "theme": "light",
           "livePreview": "https://preview.coo.ee/thunderbird-android/p/warning-banner-inline-notification-card-long-text-clipped-preview__ideal__default__light",
           "previewId": "net.thunderbird.components.ui.bolt.organism.banner.inline.WarningBannerInlineNotificationCardKt.WarningBannerInlineNotificationCardLongTextClippedPreviewPreview_Light",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/thunderbird-android/render/warning-banner-inline-notification-card-long-text-clipped-preview__ideal__default__light.svg"
         }
       ],
       "greenlines": [
@@ -36459,7 +36679,8 @@
           "previewParams": {
             "uiMode": 33
           },
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/thunderbird-android/render/warning-banner-inline-notification-card-long-text-expanded-preview__ideal__default__dark.svg"
         },
         {
           "variant": "ideal",
@@ -36470,7 +36691,8 @@
           "theme": "light",
           "livePreview": "https://preview.coo.ee/thunderbird-android/p/warning-banner-inline-notification-card-long-text-expanded-preview__ideal__default__light",
           "previewId": "net.thunderbird.components.ui.bolt.organism.banner.inline.WarningBannerInlineNotificationCardKt.WarningBannerInlineNotificationCardLongTextExpandedPreviewPreview_Light",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/thunderbird-android/render/warning-banner-inline-notification-card-long-text-expanded-preview__ideal__default__light.svg"
         }
       ],
       "greenlines": [
@@ -36689,7 +36911,8 @@
           "previewParams": {
             "uiMode": 33
           },
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/thunderbird-android/render/warning-banner-inline-notification-card-preview__ideal__default__dark.svg"
         },
         {
           "variant": "ideal",
@@ -36700,7 +36923,8 @@
           "theme": "light",
           "livePreview": "https://preview.coo.ee/thunderbird-android/p/warning-banner-inline-notification-card-preview__ideal__default__light",
           "previewId": "net.thunderbird.components.ui.bolt.organism.banner.inline.WarningBannerInlineNotificationCardKt.WarningBannerInlineNotificationCardPreviewPreview_Light",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/thunderbird-android/render/warning-banner-inline-notification-card-preview__ideal__default__light.svg"
         }
       ],
       "greenlines": [
@@ -36918,7 +37142,8 @@
           "previewParams": {
             "showBackground": true
           },
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/thunderbird-android/render/navigation-drawer-item-selected__ideal__default.svg"
         }
       ],
       "greenlines": [
@@ -37152,7 +37377,8 @@
           "previewParams": {
             "showBackground": true
           },
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/thunderbird-android/render/navigation-drawer-item-unselected__ideal__default.svg"
         }
       ],
       "greenlines": [
@@ -37386,7 +37612,8 @@
           "previewParams": {
             "showBackground": true
           },
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/thunderbird-android/render/navigation-drawer-item-with-icon__ideal__default.svg"
         }
       ],
       "greenlines": [
@@ -37620,7 +37847,8 @@
           "previewParams": {
             "showBackground": true
           },
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/thunderbird-android/render/navigation-drawer-item-with-label-badge__ideal__default.svg"
         }
       ],
       "greenlines": [
@@ -37854,7 +38082,8 @@
           "previewParams": {
             "showBackground": true
           },
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/thunderbird-android/render/navigation-drawer-item-badge__ideal__default.svg"
         }
       ],
       "greenlines": [],
@@ -37959,7 +38188,8 @@
           "previewParams": {
             "showBackground": true
           },
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/thunderbird-android/render/navigation-drawer-item-badge-with-icon__ideal__default.svg"
         }
       ],
       "greenlines": [],
@@ -38048,7 +38278,8 @@
           "previewParams": {
             "showBackground": true
           },
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/thunderbird-android/render/lazy-column-with-header-footer__ideal__default.svg"
         }
       ],
       "greenlines": [],
@@ -38079,7 +38310,8 @@
             "widthDp": 1920,
             "heightDp": 1080
           },
-          "density": 1
+          "density": 1,
+          "figmaSvg": "https://preview.coo.ee/thunderbird-android/render/list-detail-pane__ideal__default__desktop.svg"
         },
         {
           "variant": "ideal",
@@ -38095,7 +38327,8 @@
             "widthDp": 673,
             "heightDp": 841
           },
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/thunderbird-android/render/list-detail-pane__ideal__default__foldable.svg"
         },
         {
           "variant": "ideal",
@@ -38111,7 +38344,8 @@
             "widthDp": 411,
             "heightDp": 891
           },
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/thunderbird-android/render/list-detail-pane__ideal__default__phone.svg"
         },
         {
           "variant": "ideal",
@@ -38127,7 +38361,8 @@
             "widthDp": 891,
             "heightDp": 411
           },
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/thunderbird-android/render/list-detail-pane__ideal__default__phonelandscape.svg"
         },
         {
           "variant": "ideal",
@@ -38143,7 +38378,8 @@
             "widthDp": 360,
             "heightDp": 640
           },
-          "density": 1
+          "density": 1,
+          "figmaSvg": "https://preview.coo.ee/thunderbird-android/render/list-detail-pane__ideal__default__smallphone.svg"
         },
         {
           "variant": "ideal",
@@ -38159,7 +38395,8 @@
             "widthDp": 1280,
             "heightDp": 800
           },
-          "density": 1.5
+          "density": 1.5,
+          "figmaSvg": "https://preview.coo.ee/thunderbird-android/render/list-detail-pane__ideal__default__tablet.svg"
         }
       ],
       "greenlines": [],
@@ -38190,7 +38427,8 @@
             "widthDp": 1920,
             "heightDp": 1080
           },
-          "density": 1
+          "density": 1,
+          "figmaSvg": "https://preview.coo.ee/thunderbird-android/render/responsive-content__ideal__default__desktop.svg"
         },
         {
           "variant": "ideal",
@@ -38206,7 +38444,8 @@
             "widthDp": 673,
             "heightDp": 841
           },
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/thunderbird-android/render/responsive-content__ideal__default__foldable.svg"
         },
         {
           "variant": "ideal",
@@ -38222,7 +38461,8 @@
             "widthDp": 411,
             "heightDp": 891
           },
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/thunderbird-android/render/responsive-content__ideal__default__phone.svg"
         },
         {
           "variant": "ideal",
@@ -38238,7 +38478,8 @@
             "widthDp": 891,
             "heightDp": 411
           },
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/thunderbird-android/render/responsive-content__ideal__default__phonelandscape.svg"
         },
         {
           "variant": "ideal",
@@ -38254,7 +38495,8 @@
             "widthDp": 360,
             "heightDp": 640
           },
-          "density": 1
+          "density": 1,
+          "figmaSvg": "https://preview.coo.ee/thunderbird-android/render/responsive-content__ideal__default__smallphone.svg"
         },
         {
           "variant": "ideal",
@@ -38270,7 +38512,8 @@
             "widthDp": 1280,
             "heightDp": 800
           },
-          "density": 1.5
+          "density": 1.5,
+          "figmaSvg": "https://preview.coo.ee/thunderbird-android/render/responsive-content__ideal__default__tablet.svg"
         }
       ],
       "greenlines": [],
@@ -38316,7 +38559,8 @@
             "widthDp": 1920,
             "heightDp": 1080
           },
-          "density": 1
+          "density": 1,
+          "figmaSvg": "https://preview.coo.ee/thunderbird-android/render/responsive-content-with-background__ideal__default__desktop.svg"
         },
         {
           "variant": "ideal",
@@ -38332,7 +38576,8 @@
             "widthDp": 673,
             "heightDp": 841
           },
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/thunderbird-android/render/responsive-content-with-background__ideal__default__foldable.svg"
         },
         {
           "variant": "ideal",
@@ -38348,7 +38593,8 @@
             "widthDp": 411,
             "heightDp": 891
           },
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/thunderbird-android/render/responsive-content-with-background__ideal__default__phone.svg"
         },
         {
           "variant": "ideal",
@@ -38364,7 +38610,8 @@
             "widthDp": 891,
             "heightDp": 411
           },
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/thunderbird-android/render/responsive-content-with-background__ideal__default__phonelandscape.svg"
         },
         {
           "variant": "ideal",
@@ -38380,7 +38627,8 @@
             "widthDp": 360,
             "heightDp": 640
           },
-          "density": 1
+          "density": 1,
+          "figmaSvg": "https://preview.coo.ee/thunderbird-android/render/responsive-content-with-background__ideal__default__smallphone.svg"
         },
         {
           "variant": "ideal",
@@ -38396,7 +38644,8 @@
             "widthDp": 1280,
             "heightDp": 800
           },
-          "density": 1.5
+          "density": 1.5,
+          "figmaSvg": "https://preview.coo.ee/thunderbird-android/render/responsive-content-with-background__ideal__default__tablet.svg"
         }
       ],
       "greenlines": [],
@@ -38456,7 +38705,8 @@
             "widthDp": 1920,
             "heightDp": 1080
           },
-          "density": 1
+          "density": 1,
+          "figmaSvg": "https://preview.coo.ee/thunderbird-android/render/responsive-width-container__ideal__default__desktop.svg"
         },
         {
           "variant": "ideal",
@@ -38472,7 +38722,8 @@
             "widthDp": 673,
             "heightDp": 841
           },
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/thunderbird-android/render/responsive-width-container__ideal__default__foldable.svg"
         },
         {
           "variant": "ideal",
@@ -38488,7 +38739,8 @@
             "widthDp": 411,
             "heightDp": 891
           },
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/thunderbird-android/render/responsive-width-container__ideal__default__phone.svg"
         },
         {
           "variant": "ideal",
@@ -38504,7 +38756,8 @@
             "widthDp": 891,
             "heightDp": 411
           },
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/thunderbird-android/render/responsive-width-container__ideal__default__phonelandscape.svg"
         },
         {
           "variant": "ideal",
@@ -38520,7 +38773,8 @@
             "widthDp": 360,
             "heightDp": 640
           },
-          "density": 1
+          "density": 1,
+          "figmaSvg": "https://preview.coo.ee/thunderbird-android/render/responsive-width-container__ideal__default__smallphone.svg"
         },
         {
           "variant": "ideal",
@@ -38536,7 +38790,8 @@
             "widthDp": 1280,
             "heightDp": 800
           },
-          "density": 1.5
+          "density": 1.5,
+          "figmaSvg": "https://preview.coo.ee/thunderbird-android/render/responsive-width-container__ideal__default__tablet.svg"
         }
       ],
       "greenlines": [],
@@ -38582,7 +38837,8 @@
             "widthDp": 1920,
             "heightDp": 1080
           },
-          "density": 1
+          "density": 1,
+          "figmaSvg": "https://preview.coo.ee/thunderbird-android/render/scaffold__ideal__default__desktop.svg"
         },
         {
           "variant": "ideal",
@@ -38598,7 +38854,8 @@
             "widthDp": 673,
             "heightDp": 841
           },
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/thunderbird-android/render/scaffold__ideal__default__foldable.svg"
         },
         {
           "variant": "ideal",
@@ -38614,7 +38871,8 @@
             "widthDp": 411,
             "heightDp": 891
           },
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/thunderbird-android/render/scaffold__ideal__default__phone.svg"
         },
         {
           "variant": "ideal",
@@ -38630,7 +38888,8 @@
             "widthDp": 891,
             "heightDp": 411
           },
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/thunderbird-android/render/scaffold__ideal__default__phonelandscape.svg"
         },
         {
           "variant": "ideal",
@@ -38646,7 +38905,8 @@
             "widthDp": 360,
             "heightDp": 640
           },
-          "density": 1
+          "density": 1,
+          "figmaSvg": "https://preview.coo.ee/thunderbird-android/render/scaffold__ideal__default__smallphone.svg"
         },
         {
           "variant": "ideal",
@@ -38662,7 +38922,8 @@
             "widthDp": 1280,
             "heightDp": 800
           },
-          "density": 1.5
+          "density": 1.5,
+          "figmaSvg": "https://preview.coo.ee/thunderbird-android/render/scaffold__ideal__default__tablet.svg"
         }
       ],
       "greenlines": [],
@@ -38690,7 +38951,8 @@
           "previewParams": {
             "showBackground": true
           },
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/thunderbird-android/render/scaffold-wit-fab__ideal__default.svg"
         }
       ],
       "greenlines": [
@@ -38751,7 +39013,8 @@
           "previewParams": {
             "uiMode": 33
           },
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/thunderbird-android/render/horizontal-tab-pager-secondary__ideal__default__dark.svg"
         },
         {
           "variant": "ideal",
@@ -38762,7 +39025,8 @@
           "theme": "light",
           "livePreview": "https://preview.coo.ee/thunderbird-android/p/horizontal-tab-pager-secondary__ideal__default__light",
           "previewId": "net.thunderbird.components.ui.bolt.template.pager.HorizontalTabPagerSecondaryKt.HorizontalTabPagerSecondaryPreview_Light",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/thunderbird-android/render/horizontal-tab-pager-secondary__ideal__default__light.svg"
         }
       ],
       "greenlines": [
@@ -38994,8 +39258,8 @@
       "sourceFunction": "HorizontalTabPagerSecondaryPreview"
     }
   ],
-  "renderer": "compose-preview 2.34.1",
-  "generatedAt": "2026-10-05T13:25:18.723Z",
+  "renderer": "compose-preview 2.57.0",
+  "generatedAt": "2026-10-14T09:51:56.508Z",
   "liveBundle": {
     "path": "bundle/",
     "file": "bundle.png"
@@ -39011,7 +39275,7 @@
   "componentsFile": "components.json",
   "source": {
     "repo": "thunderbird/thunderbird-android",
-    "ref": "f89572cd68070df989d055690598d9074251f7c4",
+    "ref": "016c18fd27c2d7a613fe8bec1834edda5dae67ef",
     "module": ":ui:bolt"
   }
 }
