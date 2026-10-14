@@ -6468,19 +6468,24 @@
       "sourceFunction": "SamplePromptScreenPreviewEmpty",
       "parameters": [
         {
-          "name": "modifier",
-          "type": "Modifier",
-          "hasDefault": true
+          "name": "uiState",
+          "type": "PromptUiState"
         },
         {
-          "name": "viewModel",
-          "type": "SamplePromptViewModel",
+          "name": "modifier",
+          "type": "Modifier",
           "hasDefault": true
         },
         {
           "name": "onSettingsClick",
           "type": "(() -> Unit)?",
           "hasDefault": true
+        },
+        {
+          "name": "promptEntry",
+          "type": "(Boolean) -> Unit",
+          "hasDefault": true,
+          "composableSlot": true
         }
       ]
     },
@@ -6632,19 +6637,24 @@
       "sourceFunction": "SamplePromptScreenPreviewMany",
       "parameters": [
         {
-          "name": "modifier",
-          "type": "Modifier",
-          "hasDefault": true
+          "name": "uiState",
+          "type": "PromptUiState"
         },
         {
-          "name": "viewModel",
-          "type": "SamplePromptViewModel",
+          "name": "modifier",
+          "type": "Modifier",
           "hasDefault": true
         },
         {
           "name": "onSettingsClick",
           "type": "(() -> Unit)?",
           "hasDefault": true
+        },
+        {
+          "name": "promptEntry",
+          "type": "(Boolean) -> Unit",
+          "hasDefault": true,
+          "composableSlot": true
         }
       ]
     },
@@ -6781,19 +6791,24 @@
       "sourceFunction": "SamplePromptScreenPreviewQuestion",
       "parameters": [
         {
-          "name": "modifier",
-          "type": "Modifier",
-          "hasDefault": true
+          "name": "uiState",
+          "type": "PromptUiState"
         },
         {
-          "name": "viewModel",
-          "type": "SamplePromptViewModel",
+          "name": "modifier",
+          "type": "Modifier",
           "hasDefault": true
         },
         {
           "name": "onSettingsClick",
           "type": "(() -> Unit)?",
           "hasDefault": true
+        },
+        {
+          "name": "promptEntry",
+          "type": "(Boolean) -> Unit",
+          "hasDefault": true,
+          "composableSlot": true
         }
       ]
     },
@@ -6912,19 +6927,24 @@
       "sourceFunction": "SamplePromptScreenPreviewMarkdown",
       "parameters": [
         {
-          "name": "modifier",
-          "type": "Modifier",
-          "hasDefault": true
+          "name": "uiState",
+          "type": "PromptUiState"
         },
         {
-          "name": "viewModel",
-          "type": "SamplePromptViewModel",
+          "name": "modifier",
+          "type": "Modifier",
           "hasDefault": true
         },
         {
           "name": "onSettingsClick",
           "type": "(() -> Unit)?",
           "hasDefault": true
+        },
+        {
+          "name": "promptEntry",
+          "type": "(Boolean) -> Unit",
+          "hasDefault": true,
+          "composableSlot": true
         }
       ]
     },
@@ -7025,14 +7045,17 @@
       "sourceFunction": "SettingsScreenPreview",
       "parameters": [
         {
+          "name": "uiState",
+          "type": "SettingsUiState"
+        },
+        {
           "name": "modifier",
           "type": "Modifier",
           "hasDefault": true
         },
         {
-          "name": "viewModel",
-          "type": "SettingsViewModel",
-          "hasDefault": true
+          "name": "selectModel",
+          "type": "(ModelInstanceUiModel) -> Unit"
         }
       ]
     },
@@ -7055,7 +7078,8 @@
             "widthDp": 227,
             "heightDp": 227
           },
-          "density": 2
+          "density": 2,
+          "figmaSvg": "https://preview.coo.ee/horologist/render/ai-ui-textresponsecardpreview__ideal__default__largeround.svg"
         }
       ],
       "greenlines": [],
@@ -7125,7 +7149,8 @@
             "widthDp": 227,
             "heightDp": 227
           },
-          "density": 2
+          "density": 2,
+          "figmaSvg": "https://preview.coo.ee/horologist/render/ai-ui-failedresponsechippreview__ideal__default__largeround.svg"
         }
       ],
       "greenlines": [],
@@ -7233,7 +7258,8 @@
             "widthDp": 227,
             "heightDp": 227
           },
-          "density": 2
+          "density": 2,
+          "figmaSvg": "https://preview.coo.ee/horologist/render/ai-ui-textpromptdisplaypreview__ideal__default__largeround.svg"
         }
       ],
       "greenlines": [],
@@ -9838,7 +9864,8 @@
           "previewParams": {
             "showBackground": true
           },
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/horologist/render/auth-sample-phone-mainpreview__ideal__default.svg"
         }
       ],
       "greenlines": [
@@ -9952,7 +9979,8 @@
             "widthDp": 192,
             "heightDp": 192
           },
-          "density": 2
+          "density": 2,
+          "figmaSvg": "https://preview.coo.ee/horologist/render/auth-sample-wear-auth-sample-wear-defaultpreview__ideal__default__smallround.svg"
         }
       ],
       "greenlines": [
@@ -10144,7 +10172,8 @@
             "widthDp": 227,
             "heightDp": 227
           },
-          "density": 2
+          "density": 2,
+          "figmaSvg": "https://preview.coo.ee/horologist/render/auth-sample-wear-authmenuscreenpreview__ideal__default__largeround.svg"
         },
         {
           "variant": "ideal",
@@ -10162,7 +10191,8 @@
             "widthDp": 192,
             "heightDp": 192
           },
-          "density": 2
+          "density": 2,
+          "figmaSvg": "https://preview.coo.ee/horologist/render/auth-sample-wear-authmenuscreenpreview__ideal__default__smallround.svg"
         }
       ],
       "greenlines": [
@@ -10374,7 +10404,8 @@
             "widthDp": 227,
             "heightDp": 227
           },
-          "density": 2
+          "density": 2,
+          "figmaSvg": "https://preview.coo.ee/horologist/render/auth-sample-wear-googlesigninpromptsamplescreenpreview__ideal__default__largeround.svg"
         },
         {
           "variant": "ideal",
@@ -10392,7 +10423,8 @@
             "widthDp": 192,
             "heightDp": 192
           },
-          "density": 2
+          "density": 2,
+          "figmaSvg": "https://preview.coo.ee/horologist/render/auth-sample-wear-googlesigninpromptsamplescreenpreview__ideal__default__smallround.svg"
         }
       ],
       "greenlines": [
@@ -10515,7 +10547,8 @@
             "widthDp": 227,
             "heightDp": 227
           },
-          "density": 2
+          "density": 2,
+          "figmaSvg": "https://preview.coo.ee/horologist/render/auth-ui-signinpromptscreenpreviewsignedout__ideal__default__largeround.svg"
         },
         {
           "variant": "ideal",
@@ -10533,7 +10566,8 @@
             "widthDp": 192,
             "heightDp": 192
           },
-          "density": 2
+          "density": 2,
+          "figmaSvg": "https://preview.coo.ee/horologist/render/auth-ui-signinpromptscreenpreviewsignedout__ideal__default__smallround.svg"
         }
       ],
       "greenlines": [
@@ -10640,8 +10674,20 @@
       "sourceFunction": "SignInPromptScreenPreviewSignedOut",
       "parameters": [
         {
+          "name": "state",
+          "type": "SignInPromptScreenState"
+        },
+        {
+          "name": "title",
+          "type": "String"
+        },
+        {
           "name": "message",
           "type": "String"
+        },
+        {
+          "name": "onIdleStateObserved",
+          "type": "() -> Unit"
         },
         {
           "name": "onAlreadySignedIn",
@@ -10650,16 +10696,6 @@
         {
           "name": "modifier",
           "type": "Modifier",
-          "hasDefault": true
-        },
-        {
-          "name": "title",
-          "type": "String",
-          "hasDefault": true
-        },
-        {
-          "name": "viewModel",
-          "type": "SignInPromptViewModel",
           "hasDefault": true
         },
         {
@@ -10693,7 +10729,8 @@
             "widthDp": 227,
             "heightDp": 227
           },
-          "density": 2
+          "density": 2,
+          "figmaSvg": "https://preview.coo.ee/horologist/render/auth-ui-signinpromptscreenpreviewloading__ideal__default__largeround.svg"
         },
         {
           "variant": "ideal",
@@ -10711,7 +10748,8 @@
             "widthDp": 192,
             "heightDp": 192
           },
-          "density": 2
+          "density": 2,
+          "figmaSvg": "https://preview.coo.ee/horologist/render/auth-ui-signinpromptscreenpreviewloading__ideal__default__smallround.svg"
         }
       ],
       "greenlines": [],
@@ -10751,8 +10789,20 @@
       "sourceFunction": "SignInPromptScreenPreviewLoading",
       "parameters": [
         {
+          "name": "state",
+          "type": "SignInPromptScreenState"
+        },
+        {
+          "name": "title",
+          "type": "String"
+        },
+        {
           "name": "message",
           "type": "String"
+        },
+        {
+          "name": "onIdleStateObserved",
+          "type": "() -> Unit"
         },
         {
           "name": "onAlreadySignedIn",
@@ -10761,16 +10811,6 @@
         {
           "name": "modifier",
           "type": "Modifier",
-          "hasDefault": true
-        },
-        {
-          "name": "title",
-          "type": "String",
-          "hasDefault": true
-        },
-        {
-          "name": "viewModel",
-          "type": "SignInPromptViewModel",
           "hasDefault": true
         },
         {
@@ -10804,7 +10844,8 @@
             "widthDp": 227,
             "heightDp": 227
           },
-          "density": 2
+          "density": 2,
+          "figmaSvg": "https://preview.coo.ee/horologist/render/auth-ui-signinpromptscreenpreviewcustomloading__ideal__default__largeround.svg"
         },
         {
           "variant": "ideal",
@@ -10822,7 +10863,8 @@
             "widthDp": 192,
             "heightDp": 192
           },
-          "density": 2
+          "density": 2,
+          "figmaSvg": "https://preview.coo.ee/horologist/render/auth-ui-signinpromptscreenpreviewcustomloading__ideal__default__smallround.svg"
         }
       ],
       "greenlines": [],
@@ -10837,8 +10879,20 @@
       "sourceFunction": "SignInPromptScreenPreviewCustomLoading",
       "parameters": [
         {
+          "name": "state",
+          "type": "SignInPromptScreenState"
+        },
+        {
+          "name": "title",
+          "type": "String"
+        },
+        {
           "name": "message",
           "type": "String"
+        },
+        {
+          "name": "onIdleStateObserved",
+          "type": "() -> Unit"
         },
         {
           "name": "onAlreadySignedIn",
@@ -10847,16 +10901,6 @@
         {
           "name": "modifier",
           "type": "Modifier",
-          "hasDefault": true
-        },
-        {
-          "name": "title",
-          "type": "String",
-          "hasDefault": true
-        },
-        {
-          "name": "viewModel",
-          "type": "SignInPromptViewModel",
           "hasDefault": true
         },
         {
@@ -10890,7 +10934,8 @@
             "widthDp": 227,
             "heightDp": 227
           },
-          "density": 2
+          "density": 2,
+          "figmaSvg": "https://preview.coo.ee/horologist/render/auth-ui-material3-auth-ui-material3-signinpromptscreenpreviewsignedout__ideal__default__largeround.svg"
         },
         {
           "variant": "ideal",
@@ -10908,7 +10953,8 @@
             "widthDp": 192,
             "heightDp": 192
           },
-          "density": 2
+          "density": 2,
+          "figmaSvg": "https://preview.coo.ee/horologist/render/auth-ui-material3-auth-ui-material3-signinpromptscreenpreviewsignedout__ideal__default__smallround.svg"
         }
       ],
       "greenlines": [
@@ -10997,8 +11043,20 @@
       "sourceFunction": "SignInPromptScreenPreviewSignedOut",
       "parameters": [
         {
+          "name": "state",
+          "type": "SignInPromptScreenState"
+        },
+        {
+          "name": "title",
+          "type": "String"
+        },
+        {
           "name": "message",
           "type": "String"
+        },
+        {
+          "name": "onIdleStateObserved",
+          "type": "() -> Unit"
         },
         {
           "name": "onAlreadySignedIn",
@@ -11007,16 +11065,6 @@
         {
           "name": "modifier",
           "type": "Modifier",
-          "hasDefault": true
-        },
-        {
-          "name": "title",
-          "type": "String",
-          "hasDefault": true
-        },
-        {
-          "name": "viewModel",
-          "type": "SignInPromptViewModel",
           "hasDefault": true
         },
         {
@@ -11050,7 +11098,8 @@
             "widthDp": 227,
             "heightDp": 227
           },
-          "density": 2
+          "density": 2,
+          "figmaSvg": "https://preview.coo.ee/horologist/render/auth-ui-material3-auth-ui-material3-signinpromptscreenpreviewloading__ideal__default__largeround.svg"
         },
         {
           "variant": "ideal",
@@ -11068,7 +11117,8 @@
             "widthDp": 192,
             "heightDp": 192
           },
-          "density": 2
+          "density": 2,
+          "figmaSvg": "https://preview.coo.ee/horologist/render/auth-ui-material3-auth-ui-material3-signinpromptscreenpreviewloading__ideal__default__smallround.svg"
         }
       ],
       "greenlines": [],
@@ -11108,8 +11158,20 @@
       "sourceFunction": "SignInPromptScreenPreviewLoading",
       "parameters": [
         {
+          "name": "state",
+          "type": "SignInPromptScreenState"
+        },
+        {
+          "name": "title",
+          "type": "String"
+        },
+        {
           "name": "message",
           "type": "String"
+        },
+        {
+          "name": "onIdleStateObserved",
+          "type": "() -> Unit"
         },
         {
           "name": "onAlreadySignedIn",
@@ -11118,16 +11180,6 @@
         {
           "name": "modifier",
           "type": "Modifier",
-          "hasDefault": true
-        },
-        {
-          "name": "title",
-          "type": "String",
-          "hasDefault": true
-        },
-        {
-          "name": "viewModel",
-          "type": "SignInPromptViewModel",
           "hasDefault": true
         },
         {
@@ -11161,7 +11213,8 @@
             "widthDp": 227,
             "heightDp": 227
           },
-          "density": 2
+          "density": 2,
+          "figmaSvg": "https://preview.coo.ee/horologist/render/auth-ui-material3-auth-ui-material3-signinpromptscreenpreviewcustomloading__ideal__default__largeround.svg"
         },
         {
           "variant": "ideal",
@@ -11179,7 +11232,8 @@
             "widthDp": 192,
             "heightDp": 192
           },
-          "density": 2
+          "density": 2,
+          "figmaSvg": "https://preview.coo.ee/horologist/render/auth-ui-material3-auth-ui-material3-signinpromptscreenpreviewcustomloading__ideal__default__smallround.svg"
         }
       ],
       "greenlines": [],
@@ -11194,8 +11248,20 @@
       "sourceFunction": "SignInPromptScreenPreviewCustomLoading",
       "parameters": [
         {
+          "name": "state",
+          "type": "SignInPromptScreenState"
+        },
+        {
+          "name": "title",
+          "type": "String"
+        },
+        {
           "name": "message",
           "type": "String"
+        },
+        {
+          "name": "onIdleStateObserved",
+          "type": "() -> Unit"
         },
         {
           "name": "onAlreadySignedIn",
@@ -11204,16 +11270,6 @@
         {
           "name": "modifier",
           "type": "Modifier",
-          "hasDefault": true
-        },
-        {
-          "name": "title",
-          "type": "String",
-          "hasDefault": true
-        },
-        {
-          "name": "viewModel",
-          "type": "SignInPromptViewModel",
           "hasDefault": true
         },
         {
@@ -14403,7 +14459,8 @@
             "widthDp": 227,
             "heightDp": 227
           },
-          "density": 2
+          "density": 2,
+          "figmaSvg": "https://preview.coo.ee/horologist/render/compose-layout-fillmaxrectanglepreview__ideal__default__largeround.svg"
         },
         {
           "variant": "ideal",
@@ -14421,7 +14478,8 @@
             "widthDp": 192,
             "heightDp": 192
           },
-          "density": 2
+          "density": 2,
+          "figmaSvg": "https://preview.coo.ee/horologist/render/compose-layout-fillmaxrectanglepreview__ideal__default__smallround.svg"
         }
       ],
       "greenlines": [],
@@ -14469,7 +14527,8 @@
             "widthDp": 227,
             "heightDp": 227
           },
-          "density": 2
+          "density": 2,
+          "figmaSvg": "https://preview.coo.ee/horologist/render/compose-layout-pagerscreenpreview__ideal__default__largeround.svg"
         },
         {
           "variant": "ideal",
@@ -14487,7 +14546,8 @@
             "widthDp": 192,
             "heightDp": 192
           },
-          "density": 2
+          "density": 2,
+          "figmaSvg": "https://preview.coo.ee/horologist/render/compose-layout-pagerscreenpreview__ideal__default__smallround.svg"
         }
       ],
       "greenlines": [],
@@ -14593,7 +14653,8 @@
             "widthDp": 227,
             "heightDp": 227
           },
-          "density": 2
+          "density": 2,
+          "figmaSvg": "https://preview.coo.ee/horologist/render/compose-layout-verticalpagerindicatorpreview__ideal__default__largeround.svg"
         },
         {
           "variant": "ideal",
@@ -14611,7 +14672,8 @@
             "widthDp": 192,
             "heightDp": 192
           },
-          "density": 2
+          "density": 2,
+          "figmaSvg": "https://preview.coo.ee/horologist/render/compose-layout-verticalpagerindicatorpreview__ideal__default__smallround.svg"
         }
       ],
       "greenlines": [],
@@ -23189,7 +23251,8 @@
           "previewParams": {
             "showBackground": true
           },
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/horologist/render/datalayer-sample-phone-installappcustompromptdemoscreenpreview__ideal__default.svg"
         }
       ],
       "greenlines": [
@@ -23242,13 +23305,24 @@
       "sourceFunction": "InstallAppCustomPromptDemoScreenPreview",
       "parameters": [
         {
-          "name": "modifier",
-          "type": "Modifier",
-          "hasDefault": true
+          "name": "state",
+          "type": "InstallAppCustomPromptDemoScreenState"
         },
         {
-          "name": "viewModel",
-          "type": "InstallAppPromptDemoViewModel",
+          "name": "onRunDemoClick",
+          "type": "() -> Unit"
+        },
+        {
+          "name": "onInstallPromptInstallClick",
+          "type": "() -> Unit"
+        },
+        {
+          "name": "onInstallPromptCancel",
+          "type": "() -> Unit"
+        },
+        {
+          "name": "modifier",
+          "type": "Modifier",
           "hasDefault": true
         }
       ]
@@ -23267,7 +23341,8 @@
           "previewParams": {
             "showBackground": true
           },
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/horologist/render/datalayer-sample-phone-installappcustompromptdemoscreenpreviewwithprompt__ideal__default.svg"
         }
       ],
       "greenlines": [
@@ -23320,13 +23395,24 @@
       "sourceFunction": "InstallAppCustomPromptDemoScreenPreviewWithPrompt",
       "parameters": [
         {
-          "name": "modifier",
-          "type": "Modifier",
-          "hasDefault": true
+          "name": "state",
+          "type": "InstallAppCustomPromptDemoScreenState"
         },
         {
-          "name": "viewModel",
-          "type": "InstallAppPromptDemoViewModel",
+          "name": "onRunDemoClick",
+          "type": "() -> Unit"
+        },
+        {
+          "name": "onInstallPromptInstallClick",
+          "type": "() -> Unit"
+        },
+        {
+          "name": "onInstallPromptCancel",
+          "type": "() -> Unit"
+        },
+        {
+          "name": "modifier",
+          "type": "Modifier",
           "hasDefault": true
         }
       ]
@@ -23345,7 +23431,8 @@
           "previewParams": {
             "showBackground": true
           },
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/horologist/render/datalayer-sample-phone-installtilecustompromptdemoscreenpreview__ideal__default.svg"
         }
       ],
       "greenlines": [
@@ -23398,13 +23485,24 @@
       "sourceFunction": "InstallTileCustomPromptDemoScreenPreview",
       "parameters": [
         {
-          "name": "modifier",
-          "type": "Modifier",
-          "hasDefault": true
+          "name": "state",
+          "type": "InstallTileCustomPromptDemoScreenState"
         },
         {
-          "name": "viewModel",
-          "type": "InstallTilePromptDemoViewModel",
+          "name": "onRunDemoClick",
+          "type": "() -> Unit"
+        },
+        {
+          "name": "onInstallPromptInstallClick",
+          "type": "() -> Unit"
+        },
+        {
+          "name": "onInstallPromptCancel",
+          "type": "() -> Unit"
+        },
+        {
+          "name": "modifier",
+          "type": "Modifier",
           "hasDefault": true
         }
       ]
@@ -23423,7 +23521,8 @@
           "previewParams": {
             "showBackground": true
           },
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/horologist/render/datalayer-sample-phone-installtilecustompromptdemoscreenpreviewwithprompt__ideal__default.svg"
         }
       ],
       "greenlines": [
@@ -23476,13 +23575,24 @@
       "sourceFunction": "InstallTileCustomPromptDemoScreenPreviewWithPrompt",
       "parameters": [
         {
-          "name": "modifier",
-          "type": "Modifier",
-          "hasDefault": true
+          "name": "state",
+          "type": "InstallTileCustomPromptDemoScreenState"
         },
         {
-          "name": "viewModel",
-          "type": "InstallTilePromptDemoViewModel",
+          "name": "onRunDemoClick",
+          "type": "() -> Unit"
+        },
+        {
+          "name": "onInstallPromptInstallClick",
+          "type": "() -> Unit"
+        },
+        {
+          "name": "onInstallPromptCancel",
+          "type": "() -> Unit"
+        },
+        {
+          "name": "modifier",
+          "type": "Modifier",
           "hasDefault": true
         }
       ]
@@ -23501,7 +23611,8 @@
           "previewParams": {
             "showBackground": true
           },
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/horologist/render/datalayer-sample-phone-reengagecustompromptdemoscreenpreview__ideal__default.svg"
         }
       ],
       "greenlines": [
@@ -23554,13 +23665,24 @@
       "sourceFunction": "ReEngageCustomPromptDemoScreenPreview",
       "parameters": [
         {
-          "name": "modifier",
-          "type": "Modifier",
-          "hasDefault": true
+          "name": "state",
+          "type": "ReEngageCustomPromptDemoScreenState"
         },
         {
-          "name": "viewModel",
-          "type": "ReEngageCustomPromptDemoViewModel",
+          "name": "onRunDemoClick",
+          "type": "() -> Unit"
+        },
+        {
+          "name": "onPromptPositiveButtonClick",
+          "type": "(String) -> Unit"
+        },
+        {
+          "name": "onPromptDismiss",
+          "type": "() -> Unit"
+        },
+        {
+          "name": "modifier",
+          "type": "Modifier",
           "hasDefault": true
         }
       ]
@@ -23579,7 +23701,8 @@
           "previewParams": {
             "showBackground": true
           },
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/horologist/render/datalayer-sample-phone-signincustompromptdemoscreenpreview__ideal__default.svg"
         }
       ],
       "greenlines": [
@@ -23632,13 +23755,24 @@
       "sourceFunction": "SignInCustomPromptDemoScreenPreview",
       "parameters": [
         {
-          "name": "modifier",
-          "type": "Modifier",
-          "hasDefault": true
+          "name": "state",
+          "type": "SignInCustomPromptDemoScreenState"
         },
         {
-          "name": "viewModel",
-          "type": "SignInCustomPromptDemoViewModel",
+          "name": "onRunDemoClick",
+          "type": "() -> Unit"
+        },
+        {
+          "name": "onPromptSignInClick",
+          "type": "(String) -> Unit"
+        },
+        {
+          "name": "onPromptDismiss",
+          "type": "() -> Unit"
+        },
+        {
+          "name": "modifier",
+          "type": "Modifier",
           "hasDefault": true
         }
       ]
@@ -23657,7 +23791,8 @@
           "previewParams": {
             "showBackground": true
           },
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/horologist/render/datalayer-sample-phone-signincustompromptdemoscreenpreviewwithprompt__ideal__default.svg"
         }
       ],
       "greenlines": [
@@ -23784,13 +23919,24 @@
       "sourceFunction": "SignInCustomPromptDemoScreenPreviewWithPrompt",
       "parameters": [
         {
-          "name": "modifier",
-          "type": "Modifier",
-          "hasDefault": true
+          "name": "state",
+          "type": "SignInCustomPromptDemoScreenState"
         },
         {
-          "name": "viewModel",
-          "type": "SignInCustomPromptDemoViewModel",
+          "name": "onRunDemoClick",
+          "type": "() -> Unit"
+        },
+        {
+          "name": "onPromptSignInClick",
+          "type": "(String) -> Unit"
+        },
+        {
+          "name": "onPromptDismiss",
+          "type": "() -> Unit"
+        },
+        {
+          "name": "modifier",
+          "type": "Modifier",
           "hasDefault": true
         }
       ]
@@ -23809,7 +23955,8 @@
           "previewParams": {
             "showBackground": true
           },
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/horologist/render/datalayer-sample-phone-installapppromptdemoscreenpreview__ideal__default.svg"
         }
       ],
       "greenlines": [
@@ -23897,13 +24044,32 @@
       "sourceFunction": "InstallAppPromptDemoScreenPreview",
       "parameters": [
         {
-          "name": "modifier",
-          "type": "Modifier",
-          "hasDefault": true
+          "name": "state",
+          "type": "InstallAppPromptDemoScreenState"
         },
         {
-          "name": "viewModel",
-          "type": "InstallAppPromptDemoViewModel",
+          "name": "onRunDemoClick",
+          "type": "(Boolean) -> Unit"
+        },
+        {
+          "name": "getInstallPromptIntent",
+          "type": "() -> Intent"
+        },
+        {
+          "name": "onInstallPromptLaunched",
+          "type": "() -> Unit"
+        },
+        {
+          "name": "onInstallPromptInstallClick",
+          "type": "() -> Unit"
+        },
+        {
+          "name": "onInstallPromptCancel",
+          "type": "() -> Unit"
+        },
+        {
+          "name": "modifier",
+          "type": "Modifier",
           "hasDefault": true
         }
       ]
@@ -23922,7 +24088,8 @@
           "previewParams": {
             "showBackground": true
           },
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/horologist/render/datalayer-sample-phone-installtilepromptdemoscreenpreview__ideal__default.svg"
         }
       ],
       "greenlines": [
@@ -23975,13 +24142,32 @@
       "sourceFunction": "InstallTilePromptDemoScreenPreview",
       "parameters": [
         {
-          "name": "modifier",
-          "type": "Modifier",
-          "hasDefault": true
+          "name": "state",
+          "type": "InstallTilePromptDemoScreenState"
         },
         {
-          "name": "viewModel",
-          "type": "InstallTilePromptDemoViewModel",
+          "name": "onRunDemoClick",
+          "type": "() -> Unit"
+        },
+        {
+          "name": "getInstallTilePromptIntent",
+          "type": "(String) -> Intent"
+        },
+        {
+          "name": "onPromptLaunched",
+          "type": "() -> Unit"
+        },
+        {
+          "name": "onPromptPositiveButtonClick",
+          "type": "() -> Unit"
+        },
+        {
+          "name": "onPromptDismiss",
+          "type": "() -> Unit"
+        },
+        {
+          "name": "modifier",
+          "type": "Modifier",
           "hasDefault": true
         }
       ]
@@ -24000,7 +24186,8 @@
           "previewParams": {
             "showBackground": true
           },
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/horologist/render/datalayer-sample-phone-reengagepromptdemoscreenpreview__ideal__default.svg"
         }
       ],
       "greenlines": [
@@ -24053,13 +24240,32 @@
       "sourceFunction": "ReEngagePromptDemoScreenPreview",
       "parameters": [
         {
-          "name": "modifier",
-          "type": "Modifier",
-          "hasDefault": true
+          "name": "state",
+          "type": "ReEngagePromptDemoScreenState"
         },
         {
-          "name": "viewModel",
-          "type": "ReEngagePromptDemoViewModel",
+          "name": "onRunDemoClick",
+          "type": "() -> Unit"
+        },
+        {
+          "name": "getReEngagePromptIntent",
+          "type": "(String) -> Intent"
+        },
+        {
+          "name": "onPromptLaunched",
+          "type": "() -> Unit"
+        },
+        {
+          "name": "onPromptPositiveButtonClick",
+          "type": "() -> Unit"
+        },
+        {
+          "name": "onPromptDismiss",
+          "type": "() -> Unit"
+        },
+        {
+          "name": "modifier",
+          "type": "Modifier",
           "hasDefault": true
         }
       ]
@@ -24078,7 +24284,8 @@
           "previewParams": {
             "showBackground": true
           },
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/horologist/render/datalayer-sample-phone-signinpromptdemoscreenpreview__ideal__default.svg"
         }
       ],
       "greenlines": [
@@ -24131,13 +24338,32 @@
       "sourceFunction": "SignInPromptDemoScreenPreview",
       "parameters": [
         {
-          "name": "modifier",
-          "type": "Modifier",
-          "hasDefault": true
+          "name": "state",
+          "type": "SignInPromptDemoScreenState"
         },
         {
-          "name": "viewModel",
-          "type": "SignInPromptDemoViewModel",
+          "name": "onRunDemoClick",
+          "type": "() -> Unit"
+        },
+        {
+          "name": "getSignInPromptIntent",
+          "type": "(String) -> Intent"
+        },
+        {
+          "name": "onPromptLaunched",
+          "type": "() -> Unit"
+        },
+        {
+          "name": "onPromptSignInClick",
+          "type": "() -> Unit"
+        },
+        {
+          "name": "onPromptDismiss",
+          "type": "() -> Unit"
+        },
+        {
+          "name": "modifier",
+          "type": "Modifier",
           "hasDefault": true
         }
       ]
@@ -24153,7 +24379,8 @@
           "height": 936,
           "livePreview": "https://preview.coo.ee/horologist/p/datalayer-sample-phone-nodecardpreview__ideal__default",
           "previewId": "module_3a646174616c617965723a73616d706c653a70686f6e65__module_646174616c617965723a73616d706c653a70686f6e65__com.google.android.horologist.datalayer.sample.screens.nodes.AppHelperNodeStatusCardKt.NodeCardPreview",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/horologist/render/datalayer-sample-phone-nodecardpreview__ideal__default.svg"
         }
       ],
       "greenlines": [
@@ -24351,7 +24578,8 @@
           "previewParams": {
             "showBackground": true
           },
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/horologist/render/datalayer-sample-phone-nodesactionsucceededdialogpreview__ideal__default.svg"
         }
       ],
       "greenlines": [
@@ -24457,7 +24685,8 @@
           "previewParams": {
             "showBackground": true
           },
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/horologist/render/datalayer-sample-phone-nodesactionfailuredialogpreview__ideal__default.svg"
         }
       ],
       "greenlines": [
@@ -24563,7 +24792,8 @@
           "previewParams": {
             "showBackground": true
           },
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/horologist/render/datalayer-sample-phone-nodesactiondialogpreview__ideal__default.svg"
         }
       ],
       "greenlines": [
@@ -24673,7 +24903,8 @@
           "previewParams": {
             "showBackground": true
           },
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/horologist/render/datalayer-sample-phone-nodesscreenpreview__ideal__default.svg"
         }
       ],
       "greenlines": [
@@ -24876,13 +25107,36 @@
       "sourceFunction": "NodesScreenPreview",
       "parameters": [
         {
-          "name": "modifier",
-          "type": "Modifier",
-          "hasDefault": true
+          "name": "state",
+          "type": "NodesScreenState"
         },
         {
-          "name": "viewModel",
-          "type": "NodesViewModel",
+          "name": "onRefreshClick",
+          "type": "() -> Unit"
+        },
+        {
+          "name": "onInstallOnNodeClick",
+          "type": "(String) -> Unit"
+        },
+        {
+          "name": "onStartCompanionClick",
+          "type": "(String) -> Unit"
+        },
+        {
+          "name": "onStartRemoteOwnAppClick",
+          "type": "(String) -> Unit"
+        },
+        {
+          "name": "onStartRemoteActivityClick",
+          "type": "(String) -> Unit"
+        },
+        {
+          "name": "onDialogDismiss",
+          "type": "() -> Unit"
+        },
+        {
+          "name": "modifier",
+          "type": "Modifier",
           "hasDefault": true
         }
       ]
@@ -24901,7 +25155,8 @@
           "previewParams": {
             "showBackground": true
           },
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/horologist/render/datalayer-sample-phone-nodesscreenpreviewemptynodes__ideal__default.svg"
         }
       ],
       "greenlines": [
@@ -24963,13 +25218,36 @@
       "sourceFunction": "NodesScreenPreviewEmptyNodes",
       "parameters": [
         {
-          "name": "modifier",
-          "type": "Modifier",
-          "hasDefault": true
+          "name": "state",
+          "type": "NodesScreenState"
         },
         {
-          "name": "viewModel",
-          "type": "NodesViewModel",
+          "name": "onRefreshClick",
+          "type": "() -> Unit"
+        },
+        {
+          "name": "onInstallOnNodeClick",
+          "type": "(String) -> Unit"
+        },
+        {
+          "name": "onStartCompanionClick",
+          "type": "(String) -> Unit"
+        },
+        {
+          "name": "onStartRemoteOwnAppClick",
+          "type": "(String) -> Unit"
+        },
+        {
+          "name": "onStartRemoteActivityClick",
+          "type": "(String) -> Unit"
+        },
+        {
+          "name": "onDialogDismiss",
+          "type": "() -> Unit"
+        },
+        {
+          "name": "modifier",
+          "type": "Modifier",
           "hasDefault": true
         }
       ]
@@ -24988,7 +25266,8 @@
           "previewParams": {
             "showBackground": true
           },
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/horologist/render/datalayer-sample-phone-nodesscreenpreviewapinotavailable__ideal__default.svg"
         }
       ],
       "greenlines": [],
@@ -25019,13 +25298,36 @@
       "sourceFunction": "NodesScreenPreviewApiNotAvailable",
       "parameters": [
         {
-          "name": "modifier",
-          "type": "Modifier",
-          "hasDefault": true
+          "name": "state",
+          "type": "NodesScreenState"
         },
         {
-          "name": "viewModel",
-          "type": "NodesViewModel",
+          "name": "onRefreshClick",
+          "type": "() -> Unit"
+        },
+        {
+          "name": "onInstallOnNodeClick",
+          "type": "(String) -> Unit"
+        },
+        {
+          "name": "onStartCompanionClick",
+          "type": "(String) -> Unit"
+        },
+        {
+          "name": "onStartRemoteOwnAppClick",
+          "type": "(String) -> Unit"
+        },
+        {
+          "name": "onStartRemoteActivityClick",
+          "type": "(String) -> Unit"
+        },
+        {
+          "name": "onDialogDismiss",
+          "type": "() -> Unit"
+        },
+        {
+          "name": "modifier",
+          "type": "Modifier",
           "hasDefault": true
         }
       ]
@@ -25044,7 +25346,8 @@
           "previewParams": {
             "showBackground": true
           },
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/horologist/render/datalayer-sample-phone-nodeslistenerscreenpreview__ideal__default.svg"
         }
       ],
       "greenlines": [],
@@ -25108,13 +25411,12 @@
       "sourceFunction": "NodesListenerScreenPreview",
       "parameters": [
         {
-          "name": "modifier",
-          "type": "Modifier",
-          "hasDefault": true
+          "name": "state",
+          "type": "NodesListenerScreenState"
         },
         {
-          "name": "viewModel",
-          "type": "NodesListenerViewModel",
+          "name": "modifier",
+          "type": "Modifier",
           "hasDefault": true
         }
       ]
@@ -25133,7 +25435,8 @@
           "previewParams": {
             "showBackground": true
           },
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/horologist/render/datalayer-sample-phone-nodeslistenerscreenpreviewemptynodes__ideal__default.svg"
         }
       ],
       "greenlines": [],
@@ -25179,13 +25482,12 @@
       "sourceFunction": "NodesListenerScreenPreviewEmptyNodes",
       "parameters": [
         {
-          "name": "modifier",
-          "type": "Modifier",
-          "hasDefault": true
+          "name": "state",
+          "type": "NodesListenerScreenState"
         },
         {
-          "name": "viewModel",
-          "type": "NodesListenerViewModel",
+          "name": "modifier",
+          "type": "Modifier",
           "hasDefault": true
         }
       ]
@@ -25204,7 +25506,8 @@
           "previewParams": {
             "showBackground": true
           },
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/horologist/render/datalayer-sample-phone-nodeslistenerscreenpreviewapinotavailable__ideal__default.svg"
         }
       ],
       "greenlines": [],
@@ -25235,13 +25538,12 @@
       "sourceFunction": "NodesListenerScreenPreviewApiNotAvailable",
       "parameters": [
         {
-          "name": "modifier",
-          "type": "Modifier",
-          "hasDefault": true
+          "name": "state",
+          "type": "NodesListenerScreenState"
         },
         {
-          "name": "viewModel",
-          "type": "NodesListenerViewModel",
+          "name": "modifier",
+          "type": "Modifier",
           "hasDefault": true
         }
       ]
@@ -52389,8 +52691,8 @@
   "library": [
     "com.google.android.horologist"
   ],
-  "renderer": "compose-preview 2.34.1",
-  "generatedAt": "2026-10-05T12:53:33.221Z",
+  "renderer": "compose-preview 2.57.0",
+  "generatedAt": "2026-10-14T09:15:52.720Z",
   "display": {
     "hero": "PlayerScreenPreviewUamp",
     "surface": "dark"
@@ -52536,7 +52838,7 @@
   "componentsFile": "components.json",
   "source": {
     "repo": "google/horologist",
-    "ref": "17eed9320b5bb89002baeb5303dee05d4786bc7c",
+    "ref": "38a1912c6dd14479b66f65ec15d7af8db790806e",
     "module": ""
   }
 }
