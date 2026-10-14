@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="454" height="454" viewBox="0 0 454 454" text-rendering="geometricPrecision" font-family="sans-serif">
+<clipPath id="deviceRound"><circle cx="227" cy="227" r="227"/></clipPath>
+<g transform="translate(0, 0)" clip-path="url(#deviceRound)">
+  <g id="Root">
+    <g id="ReusableComposeNode">
+      <g id="Row">
+        <image href="ideal__loading__largeround.figma-raster/173.png" x="9" y="61" width="436" height="90"/>
+      </g>
+      <g id="ButtonGroupKt">
+        <g id="Box Placeholder">
+          <rect x="24" y="161" width="279" height="104" rx="52" ry="52" fill="#474150"/>
+        </g>
+        <g id="Box Placeholder">
+          <rect x="311" y="161" width="119" height="104" rx="52" ry="52" fill="#474150"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</g>
+</svg>

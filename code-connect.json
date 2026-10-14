@@ -7,7 +7,7 @@
     "ref": "5a390e4a9d3c4e5b30e942041bde93582c4d9492",
     "module": ":wear"
   },
-  "generatedAt": "2026-10-10T10:36:21.050Z",
+  "generatedAt": "2026-10-14T07:50:18.082Z",
   "mappings": [
     {
       "componentId": "Episode/Latest",
@@ -17,11 +17,24 @@
       "label": "Compose",
       "confidence": "HIGH",
       "previewName": "LatestEpisodeScreenLoadedPreview",
-      "codeSnippet": "LatestEpisodesScreen(\n    onPlayButtonClick = TODO(\"() -> Unit\"),\n    onDismiss = TODO(\"() -> Unit\"),\n)",
+      "codeSnippet": "LatestEpisodesScreen(\n    episodeList = TODO(\"List<PlayerEpisode>\"),\n    onPlayButtonClick = TODO(\"() -> Unit\"),\n    onPlayEpisode = TODO(\"(PlayerEpisode) -> Unit\"),\n    onPlayEpisodes = TODO(\"(List<PlayerEpisode>) -> Unit\"),\n    contentPadding = TODO(\"PaddingValues\"),\n    scrollState = TODO(\"TransformingLazyColumnState\"),\n    placeholderState = TODO(\"PlaceholderState\"),\n)",
       "imports": [
         "import com.example.jetcaster.ui.latest_episodes.LatestEpisodesScreen"
       ],
       "parameters": [
+        {
+          "name": "episodeList",
+          "type": "List<PlayerEpisode>",
+          "typeFqn": "kotlin.collections.List",
+          "hasDefault": false,
+          "composableSlot": false,
+          "composableSlotReceiver": null,
+          "nullable": false,
+          "noArgConstructible": false,
+          "noArgFactory": null,
+          "scopeDslReceiver": null,
+          "lambdaReturnTypeFqn": null
+        },
         {
           "name": "onPlayButtonClick",
           "type": "() -> Unit",
@@ -36,9 +49,9 @@
           "lambdaReturnTypeFqn": "kotlin.Unit"
         },
         {
-          "name": "onDismiss",
-          "type": "() -> Unit",
-          "typeFqn": "kotlin.Function0",
+          "name": "onPlayEpisode",
+          "type": "(PlayerEpisode) -> Unit",
+          "typeFqn": "kotlin.Function1",
           "hasDefault": false,
           "composableSlot": false,
           "composableSlotReceiver": null,
@@ -47,6 +60,58 @@
           "noArgFactory": null,
           "scopeDslReceiver": null,
           "lambdaReturnTypeFqn": "kotlin.Unit"
+        },
+        {
+          "name": "onPlayEpisodes",
+          "type": "(List<PlayerEpisode>) -> Unit",
+          "typeFqn": "kotlin.Function1",
+          "hasDefault": false,
+          "composableSlot": false,
+          "composableSlotReceiver": null,
+          "nullable": false,
+          "noArgConstructible": false,
+          "noArgFactory": null,
+          "scopeDslReceiver": null,
+          "lambdaReturnTypeFqn": "kotlin.Unit"
+        },
+        {
+          "name": "contentPadding",
+          "type": "PaddingValues",
+          "typeFqn": "androidx.compose.foundation.layout.PaddingValues",
+          "hasDefault": false,
+          "composableSlot": false,
+          "composableSlotReceiver": null,
+          "nullable": false,
+          "noArgConstructible": false,
+          "noArgFactory": null,
+          "scopeDslReceiver": null,
+          "lambdaReturnTypeFqn": null
+        },
+        {
+          "name": "scrollState",
+          "type": "TransformingLazyColumnState",
+          "typeFqn": "androidx.wear.compose.foundation.lazy.TransformingLazyColumnState",
+          "hasDefault": false,
+          "composableSlot": false,
+          "composableSlotReceiver": null,
+          "nullable": false,
+          "noArgConstructible": false,
+          "noArgFactory": null,
+          "scopeDslReceiver": null,
+          "lambdaReturnTypeFqn": null
+        },
+        {
+          "name": "placeholderState",
+          "type": "PlaceholderState",
+          "typeFqn": "androidx.wear.compose.material3.PlaceholderState",
+          "hasDefault": false,
+          "composableSlot": false,
+          "composableSlotReceiver": null,
+          "nullable": false,
+          "noArgConstructible": false,
+          "noArgFactory": null,
+          "scopeDslReceiver": null,
+          "lambdaReturnTypeFqn": null
         },
         {
           "name": "modifier",
@@ -60,21 +125,9 @@
           "noArgFactory": null,
           "scopeDslReceiver": null,
           "lambdaReturnTypeFqn": null
-        },
-        {
-          "name": "latestEpisodeViewModel",
-          "type": "LatestEpisodeViewModel",
-          "typeFqn": "com.example.jetcaster.ui.latest_episodes.LatestEpisodeViewModel",
-          "hasDefault": true,
-          "composableSlot": false,
-          "composableSlotReceiver": null,
-          "nullable": false,
-          "noArgConstructible": false,
-          "noArgFactory": null,
-          "scopeDslReceiver": null,
-          "lambdaReturnTypeFqn": null
         }
-      ]
+      ],
+      "figmaSvg": "figma/episode-latest.svg"
     },
     {
       "componentId": "Library/Screen",
@@ -84,11 +137,50 @@
       "label": "Compose",
       "confidence": "HIGH",
       "previewName": "LibraryScreenPreview",
-      "codeSnippet": "LibraryScreen(\n    onLatestEpisodeClick = TODO(\"() -> Unit\"),\n    onYourPodcastClick = TODO(\"() -> Unit\"),\n    onUpNextClick = TODO(\"() -> Unit\"),\n)",
+      "codeSnippet": "LibraryScreen(\n    columnState = TODO(\"TransformingLazyColumnState\"),\n    placeholderState = TODO(\"PlaceholderState\"),\n    contentPadding = TODO(\"PaddingValues\"),\n    onLatestEpisodeClick = TODO(\"() -> Unit\"),\n    onYourPodcastClick = TODO(\"() -> Unit\"),\n    onUpNextClick = TODO(\"() -> Unit\"),\n    queue = TODO(\"List<PlayerEpisode>\"),\n)",
       "imports": [
         "import com.example.jetcaster.ui.library.LibraryScreen"
       ],
       "parameters": [
+        {
+          "name": "columnState",
+          "type": "TransformingLazyColumnState",
+          "typeFqn": "androidx.wear.compose.foundation.lazy.TransformingLazyColumnState",
+          "hasDefault": false,
+          "composableSlot": false,
+          "composableSlotReceiver": null,
+          "nullable": false,
+          "noArgConstructible": false,
+          "noArgFactory": null,
+          "scopeDslReceiver": null,
+          "lambdaReturnTypeFqn": null
+        },
+        {
+          "name": "placeholderState",
+          "type": "PlaceholderState",
+          "typeFqn": "androidx.wear.compose.material3.PlaceholderState",
+          "hasDefault": false,
+          "composableSlot": false,
+          "composableSlotReceiver": null,
+          "nullable": false,
+          "noArgConstructible": false,
+          "noArgFactory": null,
+          "scopeDslReceiver": null,
+          "lambdaReturnTypeFqn": null
+        },
+        {
+          "name": "contentPadding",
+          "type": "PaddingValues",
+          "typeFqn": "androidx.compose.foundation.layout.PaddingValues",
+          "hasDefault": false,
+          "composableSlot": false,
+          "composableSlotReceiver": null,
+          "nullable": false,
+          "noArgConstructible": false,
+          "noArgFactory": null,
+          "scopeDslReceiver": null,
+          "lambdaReturnTypeFqn": null
+        },
         {
           "name": "onLatestEpisodeClick",
           "type": "() -> Unit",
@@ -129,6 +221,19 @@
           "lambdaReturnTypeFqn": "kotlin.Unit"
         },
         {
+          "name": "queue",
+          "type": "List<PlayerEpisode>",
+          "typeFqn": "kotlin.collections.List",
+          "hasDefault": false,
+          "composableSlot": false,
+          "composableSlotReceiver": null,
+          "nullable": false,
+          "noArgConstructible": false,
+          "noArgFactory": null,
+          "scopeDslReceiver": null,
+          "lambdaReturnTypeFqn": null
+        },
+        {
           "name": "modifier",
           "type": "Modifier",
           "typeFqn": "androidx.compose.ui.Modifier",
@@ -140,21 +245,9 @@
           "noArgFactory": null,
           "scopeDslReceiver": null,
           "lambdaReturnTypeFqn": null
-        },
-        {
-          "name": "libraryScreenViewModel",
-          "type": "LibraryViewModel",
-          "typeFqn": "com.example.jetcaster.ui.library.LibraryViewModel",
-          "hasDefault": true,
-          "composableSlot": false,
-          "composableSlotReceiver": null,
-          "nullable": false,
-          "noArgConstructible": false,
-          "noArgFactory": null,
-          "scopeDslReceiver": null,
-          "lambdaReturnTypeFqn": null
         }
-      ]
+      ],
+      "figmaSvg": "figma/library-screen.svg"
     },
     {
       "componentId": "Podcast/Screen",
@@ -247,7 +340,8 @@
           "scopeDslReceiver": null,
           "lambdaReturnTypeFqn": null
         }
-      ]
+      ],
+      "figmaSvg": "figma/podcast-screen.svg"
     },
     {
       "componentId": "Podcast/Details",
@@ -257,11 +351,37 @@
       "label": "Compose",
       "confidence": "HIGH",
       "previewName": "PodcastDetailsScreenLoadedPreview",
-      "codeSnippet": "PodcastDetailsScreen(\n    onPlayButtonClick = TODO(\"() -> Unit\"),\n    onEpisodeItemClick = TODO(\"(PlayerEpisode) -> Unit\"),\n    onDismiss = TODO(\"() -> Unit\"),\n)",
+      "codeSnippet": "PodcastDetailsScreen(\n    uiState = TODO(\"PodcastDetailsScreenState\"),\n    placeholderState = TODO(\"PlaceholderState\"),\n    onPlayButtonClick = TODO(\"() -> Unit\"),\n    onEpisodeItemClick = TODO(\"(PlayerEpisode) -> Unit\"),\n    onPlayEpisode = TODO(\"(List<PlayerEpisode>) -> Unit\"),\n    onDismiss = TODO(\"() -> Unit\"),\n)",
       "imports": [
         "import com.example.jetcaster.ui.podcast.PodcastDetailsScreen"
       ],
       "parameters": [
+        {
+          "name": "uiState",
+          "type": "PodcastDetailsScreenState",
+          "typeFqn": "com.example.jetcaster.ui.podcast.PodcastDetailsScreenState",
+          "hasDefault": false,
+          "composableSlot": false,
+          "composableSlotReceiver": null,
+          "nullable": false,
+          "noArgConstructible": false,
+          "noArgFactory": null,
+          "scopeDslReceiver": null,
+          "lambdaReturnTypeFqn": null
+        },
+        {
+          "name": "placeholderState",
+          "type": "PlaceholderState",
+          "typeFqn": "androidx.wear.compose.material3.PlaceholderState",
+          "hasDefault": false,
+          "composableSlot": false,
+          "composableSlotReceiver": null,
+          "nullable": false,
+          "noArgConstructible": false,
+          "noArgFactory": null,
+          "scopeDslReceiver": null,
+          "lambdaReturnTypeFqn": null
+        },
         {
           "name": "onPlayButtonClick",
           "type": "() -> Unit",
@@ -278,6 +398,19 @@
         {
           "name": "onEpisodeItemClick",
           "type": "(PlayerEpisode) -> Unit",
+          "typeFqn": "kotlin.Function1",
+          "hasDefault": false,
+          "composableSlot": false,
+          "composableSlotReceiver": null,
+          "nullable": false,
+          "noArgConstructible": false,
+          "noArgFactory": null,
+          "scopeDslReceiver": null,
+          "lambdaReturnTypeFqn": "kotlin.Unit"
+        },
+        {
+          "name": "onPlayEpisode",
+          "type": "(List<PlayerEpisode>) -> Unit",
           "typeFqn": "kotlin.Function1",
           "hasDefault": false,
           "composableSlot": false,
@@ -313,21 +446,9 @@
           "noArgFactory": null,
           "scopeDslReceiver": null,
           "lambdaReturnTypeFqn": null
-        },
-        {
-          "name": "podcastDetailsViewModel",
-          "type": "PodcastDetailsViewModel",
-          "typeFqn": "com.example.jetcaster.ui.podcast.PodcastDetailsViewModel",
-          "hasDefault": true,
-          "composableSlot": false,
-          "composableSlotReceiver": null,
-          "nullable": false,
-          "noArgConstructible": false,
-          "noArgFactory": null,
-          "scopeDslReceiver": null,
-          "lambdaReturnTypeFqn": null
         }
-      ]
+      ],
+      "figmaSvg": "figma/podcast-details.svg"
     },
     {
       "componentId": "Episode/Screen",
@@ -459,7 +580,8 @@
           "scopeDslReceiver": null,
           "lambdaReturnTypeFqn": null
         }
-      ]
+      ],
+      "figmaSvg": "figma/episode-screen.svg"
     },
     {
       "componentId": "Queue/Screen",
@@ -591,7 +713,8 @@
           "scopeDslReceiver": null,
           "lambdaReturnTypeFqn": null
         }
-      ]
+      ],
+      "figmaSvg": "figma/queue-screen.svg"
     }
   ]
 }

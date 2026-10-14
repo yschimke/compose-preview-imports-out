@@ -215,21 +215,36 @@
       "sourceFunction": "LatestEpisodeScreenLoadedPreview",
       "parameters": [
         {
+          "name": "episodeList",
+          "type": "List<PlayerEpisode>"
+        },
+        {
           "name": "onPlayButtonClick",
           "type": "() -> Unit"
         },
         {
-          "name": "onDismiss",
-          "type": "() -> Unit"
+          "name": "onPlayEpisode",
+          "type": "(PlayerEpisode) -> Unit"
+        },
+        {
+          "name": "onPlayEpisodes",
+          "type": "(List<PlayerEpisode>) -> Unit"
+        },
+        {
+          "name": "contentPadding",
+          "type": "PaddingValues"
+        },
+        {
+          "name": "scrollState",
+          "type": "TransformingLazyColumnState"
+        },
+        {
+          "name": "placeholderState",
+          "type": "PlaceholderState"
         },
         {
           "name": "modifier",
           "type": "Modifier",
-          "hasDefault": true
-        },
-        {
-          "name": "latestEpisodeViewModel",
-          "type": "LatestEpisodeViewModel",
           "hasDefault": true
         }
       ]
@@ -467,6 +482,18 @@
       "sourceFunction": "LibraryScreenPreview",
       "parameters": [
         {
+          "name": "columnState",
+          "type": "TransformingLazyColumnState"
+        },
+        {
+          "name": "placeholderState",
+          "type": "PlaceholderState"
+        },
+        {
+          "name": "contentPadding",
+          "type": "PaddingValues"
+        },
+        {
           "name": "onLatestEpisodeClick",
           "type": "() -> Unit"
         },
@@ -479,13 +506,12 @@
           "type": "() -> Unit"
         },
         {
-          "name": "modifier",
-          "type": "Modifier",
-          "hasDefault": true
+          "name": "queue",
+          "type": "List<PlayerEpisode>"
         },
         {
-          "name": "libraryScreenViewModel",
-          "type": "LibraryViewModel",
+          "name": "modifier",
+          "type": "Modifier",
           "hasDefault": true
         }
       ]
@@ -605,7 +631,8 @@
             "widthDp": 227,
             "heightDp": 227
           },
-          "density": 2
+          "density": 2,
+          "figmaSvg": "https://preview.coo.ee/compose-samples-jetcaster-wear/render/podcast-screen__ideal__empty__largeround.svg"
         },
         {
           "variant": "ideal",
@@ -623,7 +650,8 @@
             "widthDp": 192,
             "heightDp": 192
           },
-          "density": 2
+          "density": 2,
+          "figmaSvg": "https://preview.coo.ee/compose-samples-jetcaster-wear/render/podcast-screen__ideal__empty__smallround.svg"
         },
         {
           "variant": "ideal",
@@ -1000,6 +1028,14 @@
       "sourceFunction": "PodcastDetailsScreenLoadedPreview",
       "parameters": [
         {
+          "name": "uiState",
+          "type": "PodcastDetailsScreenState"
+        },
+        {
+          "name": "placeholderState",
+          "type": "PlaceholderState"
+        },
+        {
           "name": "onPlayButtonClick",
           "type": "() -> Unit"
         },
@@ -1008,17 +1044,16 @@
           "type": "(PlayerEpisode) -> Unit"
         },
         {
+          "name": "onPlayEpisode",
+          "type": "(List<PlayerEpisode>) -> Unit"
+        },
+        {
           "name": "onDismiss",
           "type": "() -> Unit"
         },
         {
           "name": "modifier",
           "type": "Modifier",
-          "hasDefault": true
-        },
-        {
-          "name": "podcastDetailsViewModel",
-          "type": "PodcastDetailsViewModel",
           "hasDefault": true
         }
       ]
@@ -1234,7 +1269,8 @@
             "widthDp": 227,
             "heightDp": 227
           },
-          "density": 2
+          "density": 2,
+          "figmaSvg": "https://preview.coo.ee/compose-samples-jetcaster-wear/render/episode-screen__ideal__empty__largeround.svg"
         },
         {
           "variant": "ideal",
@@ -1252,7 +1288,8 @@
             "widthDp": 192,
             "heightDp": 192
           },
-          "density": 2
+          "density": 2,
+          "figmaSvg": "https://preview.coo.ee/compose-samples-jetcaster-wear/render/episode-screen__ideal__empty__smallround.svg"
         },
         {
           "variant": "ideal",
@@ -1601,7 +1638,8 @@
             "widthDp": 227,
             "heightDp": 227
           },
-          "density": 2
+          "density": 2,
+          "figmaSvg": "https://preview.coo.ee/compose-samples-jetcaster-wear/render/queue-screen__ideal__empty__largeround.svg"
         },
         {
           "variant": "ideal",
@@ -1619,7 +1657,8 @@
             "widthDp": 192,
             "heightDp": 192
           },
-          "density": 2
+          "density": 2,
+          "figmaSvg": "https://preview.coo.ee/compose-samples-jetcaster-wear/render/queue-screen__ideal__empty__smallround.svg"
         },
         {
           "variant": "ideal",
@@ -1875,8 +1914,8 @@
     "androidx.wear.compose:compose-material3",
     "androidx.wear.compose:compose-foundation"
   ],
-  "renderer": "compose-preview 2.39.2",
-  "generatedAt": "2026-10-10T10:36:20.267Z",
+  "renderer": "compose-preview 2.57.0",
+  "generatedAt": "2026-10-14T07:50:17.133Z",
   "display": {
     "surface": "dark",
     "hero": "Episode/Latest"
