@@ -914,8 +914,8 @@
       "sourceFunction": "PreviewPostDrawer",
       "parameters": [
         {
-          "name": "uiState",
-          "type": "PostUiState"
+          "name": "post",
+          "type": "Post"
         },
         {
           "name": "isExpandedScreen",
@@ -926,12 +926,22 @@
           "type": "() -> Unit"
         },
         {
+          "name": "isFavorite",
+          "type": "Boolean"
+        },
+        {
           "name": "onToggleFavorite",
           "type": "() -> Unit"
         },
         {
-          "name": "onScroll",
-          "type": "(Int, Int) -> Unit"
+          "name": "modifier",
+          "type": "Modifier",
+          "hasDefault": true
+        },
+        {
+          "name": "lazyListState",
+          "type": "LazyListState",
+          "hasDefault": true
         }
       ]
     },
@@ -1693,12 +1703,20 @@
       "sourceFunction": "PreviewInterestsScreenDrawer",
       "parameters": [
         {
-          "name": "interestsViewModel",
-          "type": "InterestsViewModel"
+          "name": "tabContent",
+          "type": "List<TabContent>"
+        },
+        {
+          "name": "currentSection",
+          "type": "Sections"
         },
         {
           "name": "isExpandedScreen",
           "type": "Boolean"
+        },
+        {
+          "name": "onTabChange",
+          "type": "(Sections) -> Unit"
         },
         {
           "name": "openDrawer",
@@ -1706,8 +1724,7 @@
         },
         {
           "name": "snackbarHostState",
-          "type": "SnackbarHostState",
-          "hasDefault": true
+          "type": "SnackbarHostState"
         }
       ]
     },
@@ -1866,7 +1883,8 @@
           "height": 2100,
           "livePreview": "https://preview.coo.ee/compose-samples-jetnews/p/navigation-drawer__ideal__default",
           "previewId": "com.example.jetnews.ui.AppDrawerKt.PreviewAppDrawer_Drawer_contents",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/compose-samples-jetnews/render/navigation-drawer__ideal__default.svg"
         },
         {
           "variant": "ideal",
@@ -1880,7 +1898,8 @@
           "previewParams": {
             "uiMode": 32
           },
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/compose-samples-jetnews/render/navigation-drawer__ideal__default__dark.svg"
         }
       ],
       "greenlines": [
@@ -2567,7 +2586,8 @@
           "height": 126,
           "livePreview": "https://preview.coo.ee/compose-samples-jetnews/p/bookmark-button__ideal__default",
           "previewId": "com.example.jetnews.ui.home.PostCardsKt.BookmarkButtonPreview_Bookmark_Button",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/compose-samples-jetnews/render/bookmark-button__ideal__default.svg"
         },
         {
           "variant": "ideal",
@@ -2577,7 +2597,8 @@
           "height": 126,
           "livePreview": "https://preview.coo.ee/compose-samples-jetnews/p/bookmark-button__ideal__bookmarked",
           "previewId": "com.example.jetnews.ui.home.PostCardsKt.BookmarkButtonBookmarkedPreview_Bookmark_Button_Bookmarked",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/compose-samples-jetnews/render/bookmark-button__ideal__bookmarked.svg"
         }
       ],
       "greenlines": [
@@ -4176,7 +4197,8 @@
           "height": 263,
           "livePreview": "https://preview.coo.ee/compose-samples-jetnews/p/interests-select-topic__ideal__default",
           "previewId": "com.example.jetnews.ui.interests.SelectTopicButtonKt.SelectTopicButtonPreviewOff_Off",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/compose-samples-jetnews/render/interests-select-topic__ideal__default.svg"
         },
         {
           "variant": "ideal",
@@ -4190,7 +4212,8 @@
           "previewParams": {
             "uiMode": 32
           },
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/compose-samples-jetnews/render/interests-select-topic__ideal__default__dark.svg"
         },
         {
           "variant": "ideal",
@@ -4200,7 +4223,8 @@
           "height": 263,
           "livePreview": "https://preview.coo.ee/compose-samples-jetnews/p/interests-select-topic__ideal__on",
           "previewId": "com.example.jetnews.ui.interests.SelectTopicButtonKt.SelectTopicButtonPreviewOn_On",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/compose-samples-jetnews/render/interests-select-topic__ideal__on.svg"
         },
         {
           "variant": "ideal",
@@ -4214,7 +4238,8 @@
           "previewParams": {
             "uiMode": 32
           },
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/compose-samples-jetnews/render/interests-select-topic__ideal__on__dark.svg"
         }
       ],
       "greenlines": [],
@@ -4269,8 +4294,8 @@
   "library": [
     "androidx.compose.material3:material3"
   ],
-  "renderer": "compose-preview 2.40.0",
-  "generatedAt": "2026-10-10T10:52:12.039Z",
+  "renderer": "compose-preview 2.57.0",
+  "generatedAt": "2026-10-14T08:06:51.432Z",
   "display": {
     "surface": "light",
     "hero": "Screens/Home feed"
