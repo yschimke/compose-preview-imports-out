@@ -929,7 +929,8 @@
           "height": 2100,
           "livePreview": "https://preview.coo.ee/compose-samples-reply/p/states-coming-soon__ideal__default",
           "previewId": "com.example.reply.ui.EmptyComingSoonKt.ComingSoonPreview",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/compose-samples-reply/render/states-coming-soon__ideal__default.svg"
         }
       ],
       "greenlines": [],
@@ -987,8 +988,8 @@
     "androidx.compose.material3:material3",
     "androidx.compose.material3.adaptive:adaptive"
   ],
-  "renderer": "compose-preview 2.40.0",
-  "generatedAt": "2026-10-10T10:56:41.335Z",
+  "renderer": "compose-preview 2.57.0",
+  "generatedAt": "2026-10-14T08:11:12.617Z",
   "display": {
     "surface": "light",
     "hero": "Adaptive/Phone"

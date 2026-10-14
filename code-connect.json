@@ -7,7 +7,7 @@
     "ref": "5a390e4a9d3c4e5b30e942041bde93582c4d9492",
     "module": ":app"
   },
-  "generatedAt": "2026-10-10T10:56:41.924Z",
+  "generatedAt": "2026-10-14T08:11:13.267Z",
   "mappings": [
     {
       "componentId": "Adaptive/Phone",
@@ -100,7 +100,8 @@
           "scopeDslReceiver": null,
           "lambdaReturnTypeFqn": "kotlin.Unit"
         }
-      ]
+      ],
+      "figmaSvg": "figma/adaptive-phone.svg"
     },
     {
       "componentId": "States/Coming soon",
@@ -128,7 +129,8 @@
           "scopeDslReceiver": null,
           "lambdaReturnTypeFqn": null
         }
-      ]
+      ],
+      "figmaSvg": "https://preview.coo.ee/compose-samples-reply/render/states-coming-soon__ideal__default.svg"
     }
   ]
 }
