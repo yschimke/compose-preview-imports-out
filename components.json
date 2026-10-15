@@ -2655,16 +2655,6 @@
                     "group": null
                 },
                 {
-                    "previewId": "au.com.shiftyjelly.pocketcasts.compose.summary.SummaryPaywallKt.SummaryPaywallFreeTrialPreview",
-                    "componentId": null,
-                    "group": null
-                },
-                {
-                    "previewId": "au.com.shiftyjelly.pocketcasts.compose.summary.SummaryPaywallKt.SummaryPaywallPreview",
-                    "componentId": null,
-                    "group": null
-                },
-                {
                     "previewId": "au.com.shiftyjelly.pocketcasts.compose.swipe.SwipeRowKt.SwipeRowPreview",
                     "componentId": null,
                     "group": null
@@ -5383,21 +5373,6 @@
                     "group": null
                 },
                 {
-                    "previewId": "au.com.shiftyjelly.pocketcasts.compose.summary.SummaryContentKt.SummaryContentPreview",
-                    "componentId": null,
-                    "group": null
-                },
-                {
-                    "previewId": "au.com.shiftyjelly.pocketcasts.compose.summary.SummaryPaywallKt.SummaryPaywallFreeTrialPreview",
-                    "componentId": null,
-                    "group": null
-                },
-                {
-                    "previewId": "au.com.shiftyjelly.pocketcasts.compose.summary.SummaryPaywallKt.SummaryPaywallPreview",
-                    "componentId": null,
-                    "group": null
-                },
-                {
                     "previewId": "au.com.shiftyjelly.pocketcasts.compose.swipe.SwipeRowKt.SwipeRowPreview",
                     "componentId": null,
                     "group": null
@@ -6444,21 +6419,6 @@
                     "group": null
                 },
                 {
-                    "previewId": "au.com.shiftyjelly.pocketcasts.compose.summary.SummaryContentKt.SummaryContentPreview",
-                    "componentId": null,
-                    "group": null
-                },
-                {
-                    "previewId": "au.com.shiftyjelly.pocketcasts.compose.summary.SummaryPaywallKt.SummaryPaywallFreeTrialPreview",
-                    "componentId": null,
-                    "group": null
-                },
-                {
-                    "previewId": "au.com.shiftyjelly.pocketcasts.compose.summary.SummaryPaywallKt.SummaryPaywallPreview",
-                    "componentId": null,
-                    "group": null
-                },
-                {
                     "previewId": "au.com.shiftyjelly.pocketcasts.compose.swipe.SwipeRowKt.SwipeRowPreview",
                     "componentId": null,
                     "group": null
@@ -7298,11 +7258,6 @@
                 },
                 {
                     "previewId": "au.com.shiftyjelly.pocketcasts.compose.stats.CalendarHeatMapKt.CalendarHeatMapPreviewLocale",
-                    "componentId": null,
-                    "group": null
-                },
-                {
-                    "previewId": "au.com.shiftyjelly.pocketcasts.compose.summary.SummaryPaywallKt.SummaryPaywallFreeTrialPreview",
                     "componentId": null,
                     "group": null
                 },
@@ -12276,248 +12231,6 @@
                 "call": null,
                 "imports": [],
                 "refusedReason": "no placeholder can be written for required parameter `menuActions: List<MenuAction>`",
-                "requiredOptIns": [],
-                "androidxOptIns": []
-            },
-            "signatureKnown": true,
-            "callableFromAnotherFile": true,
-            "hasTypeParameters": false,
-            "hasContextReceivers": false,
-            "overloadsCollided": false,
-            "builder": null,
-            "requiredOptIns": [],
-            "androidxOptIns": [],
-            "overloads": []
-        },
-        {
-            "canonicalId": "compose/au.com.shiftyjelly.pocketcasts.compose.summary.SummaryContentKt.SummaryContent",
-            "componentIds": [],
-            "symbol": {
-                "jvmOwner": "au.com.shiftyjelly.pocketcasts.compose.summary.SummaryContentKt",
-                "callable": "au.com.shiftyjelly.pocketcasts.compose.summary.SummaryContent",
-                "name": "SummaryContent",
-                "origin": "PROJECT",
-                "jvmName": "SummaryContent-HeMV0OM",
-                "descriptor": "(Ljava/lang/String;Landroidx/compose/ui/Modifier;JJJLandroidx/compose/foundation/layout/PaddingValues;Landroidx/compose/runtime/Composer;II)V",
-                "sourceFile": "src/main/java/au/com/shiftyjelly/pocketcasts/compose/summary/SummaryContent.kt",
-                "docs": "unavailable",
-                "receiver": null
-            },
-            "parameters": [
-                {
-                    "name": "text",
-                    "type": "String",
-                    "typeFqn": "kotlin.String",
-                    "hasDefault": false,
-                    "composableSlot": false,
-                    "composableSlotReceiver": null,
-                    "nullable": false,
-                    "noArgConstructible": false,
-                    "noArgFactory": null,
-                    "scopeDslReceiver": null,
-                    "lambdaReturnTypeFqn": null
-                },
-                {
-                    "name": "modifier",
-                    "type": "Modifier",
-                    "typeFqn": "androidx.compose.ui.Modifier",
-                    "hasDefault": true,
-                    "composableSlot": false,
-                    "composableSlotReceiver": null,
-                    "nullable": false,
-                    "noArgConstructible": false,
-                    "noArgFactory": null,
-                    "scopeDslReceiver": null,
-                    "lambdaReturnTypeFqn": null
-                },
-                {
-                    "name": "titleColor",
-                    "type": "Color",
-                    "typeFqn": "androidx.compose.ui.graphics.Color",
-                    "hasDefault": true,
-                    "composableSlot": false,
-                    "composableSlotReceiver": null,
-                    "nullable": false,
-                    "noArgConstructible": false,
-                    "noArgFactory": null,
-                    "scopeDslReceiver": null,
-                    "lambdaReturnTypeFqn": null
-                },
-                {
-                    "name": "textColor",
-                    "type": "Color",
-                    "typeFqn": "androidx.compose.ui.graphics.Color",
-                    "hasDefault": true,
-                    "composableSlot": false,
-                    "composableSlotReceiver": null,
-                    "nullable": false,
-                    "noArgConstructible": false,
-                    "noArgFactory": null,
-                    "scopeDslReceiver": null,
-                    "lambdaReturnTypeFqn": null
-                },
-                {
-                    "name": "scrollBarColor",
-                    "type": "Color",
-                    "typeFqn": "androidx.compose.ui.graphics.Color",
-                    "hasDefault": true,
-                    "composableSlot": false,
-                    "composableSlotReceiver": null,
-                    "nullable": false,
-                    "noArgConstructible": false,
-                    "noArgFactory": null,
-                    "scopeDslReceiver": null,
-                    "lambdaReturnTypeFqn": null
-                },
-                {
-                    "name": "contentPadding",
-                    "type": "PaddingValues",
-                    "typeFqn": "androidx.compose.foundation.layout.PaddingValues",
-                    "hasDefault": true,
-                    "composableSlot": false,
-                    "composableSlotReceiver": null,
-                    "nullable": false,
-                    "noArgConstructible": false,
-                    "noArgFactory": null,
-                    "scopeDslReceiver": null,
-                    "lambdaReturnTypeFqn": null
-                }
-            ],
-            "slots": [],
-            "bindings": [
-                {
-                    "previewId": "au.com.shiftyjelly.pocketcasts.compose.summary.SummaryContentKt.SummaryContentPreview",
-                    "componentId": null,
-                    "group": null
-                }
-            ],
-            "code": {
-                "call": "SummaryContent(text = \"\")",
-                "imports": [
-                    "au.com.shiftyjelly.pocketcasts.compose.summary.SummaryContent"
-                ],
-                "refusedReason": null,
-                "requiredOptIns": [],
-                "androidxOptIns": []
-            },
-            "signatureKnown": true,
-            "callableFromAnotherFile": true,
-            "hasTypeParameters": false,
-            "hasContextReceivers": false,
-            "overloadsCollided": false,
-            "builder": null,
-            "requiredOptIns": [],
-            "androidxOptIns": [],
-            "overloads": []
-        },
-        {
-            "canonicalId": "compose/au.com.shiftyjelly.pocketcasts.compose.summary.SummaryPaywallKt.SummaryPaywall",
-            "componentIds": [],
-            "symbol": {
-                "jvmOwner": "au.com.shiftyjelly.pocketcasts.compose.summary.SummaryPaywallKt",
-                "callable": "au.com.shiftyjelly.pocketcasts.compose.summary.SummaryPaywall",
-                "name": "SummaryPaywall",
-                "origin": "PROJECT",
-                "jvmName": "SummaryPaywall",
-                "descriptor": "(Ljava/lang/String;ZLkotlin/jvm/functions/Function0;Landroidx/compose/ui/Modifier;Lau/com/shiftyjelly/pocketcasts/compose/summary/SummaryPaywallColors;Landroidx/compose/foundation/layout/PaddingValues;Landroidx/compose/runtime/Composer;II)V",
-                "sourceFile": "src/main/java/au/com/shiftyjelly/pocketcasts/compose/summary/SummaryPaywall.kt",
-                "docs": "unavailable",
-                "receiver": null
-            },
-            "parameters": [
-                {
-                    "name": "summaryText",
-                    "type": "String",
-                    "typeFqn": "kotlin.String",
-                    "hasDefault": false,
-                    "composableSlot": false,
-                    "composableSlotReceiver": null,
-                    "nullable": false,
-                    "noArgConstructible": false,
-                    "noArgFactory": null,
-                    "scopeDslReceiver": null,
-                    "lambdaReturnTypeFqn": null
-                },
-                {
-                    "name": "isFreeTrialAvailable",
-                    "type": "Boolean",
-                    "typeFqn": "kotlin.Boolean",
-                    "hasDefault": false,
-                    "composableSlot": false,
-                    "composableSlotReceiver": null,
-                    "nullable": false,
-                    "noArgConstructible": false,
-                    "noArgFactory": null,
-                    "scopeDslReceiver": null,
-                    "lambdaReturnTypeFqn": null
-                },
-                {
-                    "name": "onClickSubscribe",
-                    "type": "() -> Unit",
-                    "typeFqn": "kotlin.Function0",
-                    "hasDefault": false,
-                    "composableSlot": false,
-                    "composableSlotReceiver": null,
-                    "nullable": false,
-                    "noArgConstructible": false,
-                    "noArgFactory": null,
-                    "scopeDslReceiver": null,
-                    "lambdaReturnTypeFqn": "kotlin.Unit"
-                },
-                {
-                    "name": "modifier",
-                    "type": "Modifier",
-                    "typeFqn": "androidx.compose.ui.Modifier",
-                    "hasDefault": true,
-                    "composableSlot": false,
-                    "composableSlotReceiver": null,
-                    "nullable": false,
-                    "noArgConstructible": false,
-                    "noArgFactory": null,
-                    "scopeDslReceiver": null,
-                    "lambdaReturnTypeFqn": null
-                },
-                {
-                    "name": "colors",
-                    "type": "SummaryPaywallColors",
-                    "typeFqn": "au.com.shiftyjelly.pocketcasts.compose.summary.SummaryPaywallColors",
-                    "hasDefault": true,
-                    "composableSlot": false,
-                    "composableSlotReceiver": null,
-                    "nullable": false,
-                    "noArgConstructible": false,
-                    "noArgFactory": null,
-                    "scopeDslReceiver": null,
-                    "lambdaReturnTypeFqn": null
-                },
-                {
-                    "name": "contentPadding",
-                    "type": "PaddingValues",
-                    "typeFqn": "androidx.compose.foundation.layout.PaddingValues",
-                    "hasDefault": true,
-                    "composableSlot": false,
-                    "composableSlotReceiver": null,
-                    "nullable": false,
-                    "noArgConstructible": false,
-                    "noArgFactory": null,
-                    "scopeDslReceiver": null,
-                    "lambdaReturnTypeFqn": null
-                }
-            ],
-            "slots": [],
-            "bindings": [
-                {
-                    "previewId": "au.com.shiftyjelly.pocketcasts.compose.summary.SummaryPaywallKt.SummaryPaywallPreview",
-                    "componentId": null,
-                    "group": null
-                }
-            ],
-            "code": {
-                "call": "SummaryPaywall(summaryText = \"\", isFreeTrialAvailable = false, onClickSubscribe = {})",
-                "imports": [
-                    "au.com.shiftyjelly.pocketcasts.compose.summary.SummaryPaywall"
-                ],
-                "refusedReason": null,
                 "requiredOptIns": [],
                 "androidxOptIns": []
             },
