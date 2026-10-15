@@ -11,7 +11,7 @@
         <g id="Row">
           <g id="Column">
             <g id="Spacer">
-              <image href="morphing-loader.figma-raster/8.png" x="63" y="179" width="147" height="147"/>
+              <image href="morphing-loader.figma-raster/25.png" x="63" y="179" width="147" height="147"/>
             </g>
             <g id="Empty">
               <text x="112" y="372.96" font-size="28.88" font-family="Roboto" font-weight="500" letter-spacing="1.31" fill="#1D1B20">0%</text>
@@ -19,7 +19,7 @@
           </g>
           <g id="Column">
             <g id="Spacer">
-              <image href="morphing-loader.figma-raster/11.png" x="263" y="179" width="147" height="147"/>
+              <image href="morphing-loader.figma-raster/28.png" x="263" y="179" width="147" height="147"/>
             </g>
             <g id="Empty">
               <text x="302" y="372.96" font-size="28.88" font-family="Roboto" font-weight="500" letter-spacing="1.31" fill="#1D1B20">25%</text>
@@ -27,7 +27,7 @@
           </g>
           <g id="Column">
             <g id="Spacer">
-              <image href="morphing-loader.figma-raster/14.png" x="463" y="179" width="147" height="147"/>
+              <image href="morphing-loader.figma-raster/31.png" x="463" y="179" width="147" height="147"/>
             </g>
             <g id="Empty">
               <text x="502" y="372.96" font-size="28.88" font-family="Roboto" font-weight="500" letter-spacing="1.31" fill="#1D1B20">50%</text>
@@ -35,7 +35,7 @@
           </g>
           <g id="Column">
             <g id="Spacer">
-              <image href="morphing-loader.figma-raster/17.png" x="663" y="179" width="147" height="147"/>
+              <image href="morphing-loader.figma-raster/34.png" x="663" y="179" width="147" height="147"/>
             </g>
             <g id="Empty">
               <text x="702" y="372.96" font-size="28.88" font-family="Roboto" font-weight="500" letter-spacing="1.31" fill="#1D1B20">75%</text>
@@ -43,7 +43,7 @@
           </g>
           <g id="Column">
             <g id="Spacer">
-              <image href="morphing-loader.figma-raster/20.png" x="863" y="179" width="124" height="147"/>
+              <image href="morphing-loader.figma-raster/37.png" x="863" y="179" width="124" height="147"/>
             </g>
             <g id="Empty">
               <text x="881" y="372.96" font-size="28.88" font-family="Roboto" font-weight="500" letter-spacing="1.31" fill="#1D1B20">100%</text>
@@ -56,7 +56,7 @@
         <g id="Row">
           <g id="Column">
             <g id="Spacer">
-              <image href="morphing-loader.figma-raster/25.png" x="63" y="563" width="147" height="147"/>
+              <image href="morphing-loader.figma-raster/42.png" x="63" y="563" width="147" height="147"/>
             </g>
             <g id="Empty">
               <text x="112" y="756.96" font-size="28.88" font-family="Roboto" font-weight="500" letter-spacing="1.31" fill="#1D1B20">0%</text>
@@ -64,7 +64,7 @@
           </g>
           <g id="Column">
             <g id="Spacer">
-              <image href="morphing-loader.figma-raster/28.png" x="263" y="563" width="147" height="147"/>
+              <image href="morphing-loader.figma-raster/45.png" x="263" y="563" width="147" height="147"/>
             </g>
             <g id="Empty">
               <text x="302" y="756.96" font-size="28.88" font-family="Roboto" font-weight="500" letter-spacing="1.31" fill="#1D1B20">25%</text>
@@ -72,7 +72,7 @@
           </g>
           <g id="Column">
             <g id="Spacer">
-              <image href="morphing-loader.figma-raster/31.png" x="463" y="563" width="147" height="147"/>
+              <image href="morphing-loader.figma-raster/48.png" x="463" y="563" width="147" height="147"/>
             </g>
             <g id="Empty">
               <text x="502" y="756.96" font-size="28.88" font-family="Roboto" font-weight="500" letter-spacing="1.31" fill="#1D1B20">50%</text>
@@ -80,7 +80,7 @@
           </g>
           <g id="Column">
             <g id="Spacer">
-              <image href="morphing-loader.figma-raster/34.png" x="663" y="563" width="147" height="147"/>
+              <image href="morphing-loader.figma-raster/51.png" x="663" y="563" width="147" height="147"/>
             </g>
             <g id="Empty">
               <text x="702" y="756.96" font-size="28.88" font-family="Roboto" font-weight="500" letter-spacing="1.31" fill="#1D1B20">75%</text>
@@ -88,7 +88,7 @@
           </g>
           <g id="Column">
             <g id="Spacer">
-              <image href="morphing-loader.figma-raster/37.png" x="863" y="563" width="124" height="147"/>
+              <image href="morphing-loader.figma-raster/54.png" x="863" y="563" width="124" height="147"/>
             </g>
             <g id="Empty">
               <text x="881" y="756.96" font-size="28.88" font-family="Roboto" font-weight="500" letter-spacing="1.31" fill="#1D1B20">100%</text>
