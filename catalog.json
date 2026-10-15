@@ -1041,8 +1041,8 @@
       "sourceFunction": "TypographySpecimenPreview"
     }
   ],
-  "renderer": "compose-preview 2.57.0",
-  "generatedAt": "2026-10-14T08:59:07.155Z",
+  "renderer": "compose-preview 2.61.2",
+  "generatedAt": "2026-10-15T12:11:50.781Z",
   "display": {
     "hero": "station-list"
   },
