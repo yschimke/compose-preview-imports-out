@@ -7393,8 +7393,8 @@
       "sourceFunction": "BitwardenTypography_preview"
     }
   ],
-  "renderer": "compose-preview 2.57.0",
-  "generatedAt": "2026-10-14T07:49:27.282Z",
+  "renderer": "compose-preview 2.61.2",
+  "generatedAt": "2026-10-15T11:13:07.372Z",
   "liveBundle": {
     "path": "bundle/",
     "file": "bundle.png"
@@ -7410,7 +7410,7 @@
   "componentsFile": "components.json",
   "source": {
     "repo": "bitwarden/android",
-    "ref": "26771c22f3315c982e74dc7aa0d31005fe55bd73",
+    "ref": "43d7b8b2dea80b55332044b435f9cc792947a633",
     "module": ":ui"
   }
 }
