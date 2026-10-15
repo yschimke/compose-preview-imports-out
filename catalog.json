@@ -1233,9 +1233,9 @@
         },
         {
           "bounds": {
-            "x": 113,
+            "x": 96,
             "y": 96,
-            "width": 228,
+            "width": 262,
             "height": 262
           },
           "label": "Refresh interval",
@@ -2593,8 +2593,8 @@
   "library": [
     "Wear Compose Material + Home Assistant surfaces"
   ],
-  "renderer": "compose-preview 2.57.0",
-  "generatedAt": "2026-10-14T08:33:52.085Z",
+  "renderer": "compose-preview 2.61.2",
+  "generatedAt": "2026-10-15T11:52:17.274Z",
   "display": {
     "surface": "dark",
     "hero": "Home/Entity list"
@@ -2614,7 +2614,7 @@
   "componentsFile": "components.json",
   "source": {
     "repo": "home-assistant/android",
-    "ref": "8e95230789d252b6911e6a8378f9f082d2f5d0ea",
+    "ref": "42ade0d17b2e20ae4809f5bfa67dfed7401cf624",
     "module": ":wear"
   }
 }
