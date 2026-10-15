@@ -6,23 +6,16 @@
     <g id="ReusableComposeNode">
         <rect x="0" y="0" width="384" height="384" fill="#000000"/>
       <g id="ReusableComposeNode">
+        <clipPath id="clip-0"><rect x="0" y="0" width="384" height="384" rx="192" ry="192"/></clipPath>
         <g id="ReusableComposeNode">
-            <rect x="0" y="0" width="384" height="384" fill="#000000"/>
-          <clipPath id="clip-0"><rect x="35" y="35" width="314" height="314" rx="157" ry="157"/></clipPath>
-          <g id="ReusableComposeNode">
-            <g clip-path="url(#clip-0)">
+            <rect x="0" y="0" width="384" height="384" rx="192" ry="192" fill="#000000"/>
+          <g clip-path="url(#clip-0)">
+            <g id="ReusableComposeNode">
               <g id="ReusableComposeNode">
-                <g id="ReusableComposeNode">
-                  <image href="ideal__default__smallround.figma-raster/11.png" x="110" y="35" width="164" height="314"/>
-                </g>
-                <g id="ReusableComposeNode" opacity="0.97">
-                  <text x="35" y="53.9" font-size="20" font-family="Roboto Flex" font-weight="500" letter-spacing="0.4" style="font-variation-settings:&apos;wdth&apos; 104.0,&apos;wght&apos; 500.0" fill="#FFFFFF">Google Pixel Watch</text>
-                </g>
+                <image href="ideal__default__smallround.figma-raster/11.png" x="92" y="0" width="200" height="384"/>
               </g>
-              <g id="ReusableComposeNode" opacity="0.97">
-                <g transform="translate(35 35) scale(1 1)">
-                  <path d="M0,157 A157,157 0 1 0 314,157 A157,157 0 1 0 0,157 Z" fill="#FFFFFF" fill-opacity="0.07"/>
-                </g>
+              <g id="ReusableComposeNode">
+                <text x="0" y="18.9" font-size="20" font-family="Roboto Flex" font-weight="500" letter-spacing="0.4" style="font-variation-settings:&apos;wdth&apos; 104.0,&apos;wght&apos; 500.0" fill="#FFFFFF">Google Pixel Watch</text>
               </g>
             </g>
           </g>

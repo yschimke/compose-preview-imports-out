@@ -6,33 +6,26 @@
     <g id="ReusableComposeNode">
         <rect x="0" y="0" width="384" height="384" fill="#000000"/>
       <g id="ReusableComposeNode">
+        <clipPath id="clip-0"><rect x="0" y="0" width="384" height="384" rx="192" ry="192"/></clipPath>
         <g id="ReusableComposeNode">
-            <rect x="0" y="0" width="384" height="384" fill="#000000"/>
-          <clipPath id="clip-0"><rect x="35" y="35" width="314" height="314" rx="157" ry="157"/></clipPath>
-          <g id="ReusableComposeNode">
-            <g clip-path="url(#clip-0)">
+            <rect x="0" y="0" width="384" height="384" rx="192" ry="192" fill="#000000"/>
+          <g clip-path="url(#clip-0)">
+            <g id="ReusableComposeNode">
               <g id="ReusableComposeNode">
-                <g id="ReusableComposeNode">
-                  <g id="Row">
-                    <image href="ideal__default__smallround.figma-raster/119.png" x="51" y="87" width="282" height="125"/>
-                  </g>
-                  <g id="Row">
-                    <image href="ideal__default__smallround.figma-raster/114.png" x="35" y="299" width="314" height="50"/>
-                  </g>
+                <g id="Row">
+                  <image href="ideal__default__smallround.figma-raster/67.png" x="20" y="64" width="344" height="152"/>
                 </g>
-                <g id="ReusableComposeNode" opacity="0">
-                  <g id="ReusableComposeNode">
-                    <g transform="translate(332 147) scale(1 1)">
-                      <path d="M-0.82,-11.13 A0,0 0 1 0 -0.82,-11.13 A0,0 0 1 0 -0.82,-11.13 Z" fill="none"/>
-                      <path d="M1.41,-3.67 A183,183 0 0 1 7.38,60.01" fill="none" stroke="#C6C6C7" stroke-width="10" stroke-linecap="round"/>
-                      <path d="M5.45,75.47 A183,183 0 0 1 1.41,93.67" fill="none" stroke="#2F3131" stroke-width="10" stroke-linecap="round"/>
-                    </g>
-                  </g>
+                <g id="Row">
+                  <image href="ideal__default__smallround.figma-raster/62.png" x="0" y="323" width="384" height="60"/>
                 </g>
               </g>
-              <g id="ReusableComposeNode" opacity="0.97">
-                <g transform="translate(35 35) scale(1 1)">
-                  <path d="M0,157 A157,157 0 1 0 314,157 A157,157 0 1 0 0,157 Z" fill="#FFFFFF" fill-opacity="0.07"/>
+              <g id="ReusableComposeNode" opacity="0">
+                <g id="ReusableComposeNode">
+                  <g transform="translate(363 137) scale(1 1)">
+                    <path d="M3.18,-1.13 A0,0 0 1 0 3.18,-1.13 A0,0 0 1 0 3.18,-1.13 Z" fill="none"/>
+                    <path d="M5.41,6.33 A183,183 0 0 1 11.38,70.01" fill="none" stroke="#C6C6C7" stroke-width="10" stroke-linecap="round"/>
+                    <path d="M9.45,85.47 A183,183 0 0 1 5.41,103.67" fill="none" stroke="#2F3131" stroke-width="10" stroke-linecap="round"/>
+                  </g>
                 </g>
               </g>
             </g>

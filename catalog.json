@@ -6167,10 +6167,10 @@
       "redlines": [
         {
           "bounds": {
-            "x": 34,
-            "y": 34,
-            "width": 315,
-            "height": 315
+            "x": 0,
+            "y": 0,
+            "width": 384,
+            "height": 384
           },
           "cornerRadius": 96
         }
@@ -6249,17 +6249,17 @@
           "detail": {
             "role": "button",
             "bounds": {
-              "x": 304,
-              "y": 142,
-              "width": 53,
-              "height": 53
+              "x": 322,
+              "y": 124,
+              "width": 64,
+              "height": 64
             }
           },
           "bounds": {
-            "x": 304,
-            "y": 142,
-            "width": 53,
-            "height": 53
+            "x": 322,
+            "y": 124,
+            "width": 64,
+            "height": 64
           }
         },
         {
@@ -6269,36 +6269,36 @@
           "detail": {
             "role": "button",
             "bounds": {
-              "x": 40,
-              "y": 340,
-              "width": 373,
-              "height": 68
+              "x": 0,
+              "y": 365,
+              "width": 454,
+              "height": 83
             }
           },
           "bounds": {
-            "x": 40,
-            "y": 340,
-            "width": 373,
-            "height": 68
+            "x": 0,
+            "y": 365,
+            "width": 454,
+            "height": 83
           }
         }
       ],
       "redlines": [
         {
           "bounds": {
-            "x": 40,
-            "y": 40,
-            "width": 373,
-            "height": 373
+            "x": 0,
+            "y": 0,
+            "width": 454,
+            "height": 454
           },
           "cornerRadius": 113.5
         },
         {
           "bounds": {
-            "x": 83,
-            "y": 129,
-            "width": 287,
-            "height": 79
+            "x": 52,
+            "y": 108,
+            "width": 350,
+            "height": 96
           },
           "padding": {
             "start": 14,
@@ -6309,10 +6309,10 @@
         },
         {
           "bounds": {
-            "x": 304,
-            "y": 142,
-            "width": 53,
-            "height": 53
+            "x": 322,
+            "y": 124,
+            "width": 64,
+            "height": 64
           },
           "role": "Button",
           "padding": {
@@ -6325,10 +6325,10 @@
         },
         {
           "bounds": {
-            "x": 40,
-            "y": 340,
-            "width": 373,
-            "height": 68
+            "x": 0,
+            "y": 365,
+            "width": 454,
+            "height": 83
           },
           "role": "Button",
           "padding": {
@@ -9991,17 +9991,17 @@
           "detail": {
             "role": "button",
             "bounds": {
-              "x": 51,
-              "y": 135,
-              "width": 281,
-              "height": 85
+              "x": 20,
+              "y": 123,
+              "width": 344,
+              "height": 104
             }
           },
           "bounds": {
-            "x": 51,
-            "y": 135,
-            "width": 281,
-            "height": 85
+            "x": 20,
+            "y": 123,
+            "width": 344,
+            "height": 104
           }
         },
         {
@@ -10011,36 +10011,36 @@
           "detail": {
             "role": "button",
             "bounds": {
-              "x": 51,
-              "y": 227,
-              "width": 281,
-              "height": 85
+              "x": 20,
+              "y": 235,
+              "width": 344,
+              "height": 104
             }
           },
           "bounds": {
-            "x": 51,
-            "y": 227,
-            "width": 281,
-            "height": 85
+            "x": 20,
+            "y": 235,
+            "width": 344,
+            "height": 104
           }
         }
       ],
       "redlines": [
         {
           "bounds": {
-            "x": 34,
-            "y": 34,
-            "width": 315,
-            "height": 315
+            "x": 0,
+            "y": 0,
+            "width": 384,
+            "height": 384
           },
           "cornerRadius": 96
         },
         {
           "bounds": {
-            "x": 91,
-            "y": 87,
-            "width": 202,
-            "height": 29
+            "x": 69,
+            "y": 65,
+            "width": 246,
+            "height": 34
           },
           "padding": {
             "start": 14.016,
@@ -10051,10 +10051,10 @@
         },
         {
           "bounds": {
-            "x": 107,
-            "y": 87,
-            "width": 170,
-            "height": 29
+            "x": 89,
+            "y": 65,
+            "width": 206,
+            "height": 34
           },
           "label": "Google Sign-In",
           "padding": {
@@ -10066,10 +10066,10 @@
         },
         {
           "bounds": {
-            "x": 51,
-            "y": 135,
-            "width": 281,
-            "height": 85
+            "x": 20,
+            "y": 123,
+            "width": 344,
+            "height": 104
           },
           "role": "Button",
           "padding": {
@@ -10082,10 +10082,10 @@
         },
         {
           "bounds": {
-            "x": 51,
-            "y": 227,
-            "width": 281,
-            "height": 85
+            "x": 20,
+            "y": 235,
+            "width": 344,
+            "height": 104
           },
           "role": "Button",
           "padding": {
@@ -10098,10 +10098,10 @@
         },
         {
           "bounds": {
-            "x": 116,
-            "y": 319,
-            "width": 151,
-            "height": 21
+            "x": 100,
+            "y": 347,
+            "width": 184,
+            "height": 26
           },
           "padding": {
             "start": 14.016,
@@ -10112,10 +10112,10 @@
         },
         {
           "bounds": {
-            "x": 129,
-            "y": 319,
-            "width": 126,
-            "height": 21
+            "x": 115,
+            "y": 347,
+            "width": 154,
+            "height": 26
           },
           "label": "Token Sharing",
           "padding": {
@@ -52691,8 +52691,8 @@
   "library": [
     "com.google.android.horologist"
   ],
-  "renderer": "compose-preview 2.57.0",
-  "generatedAt": "2026-10-14T09:15:52.720Z",
+  "renderer": "compose-preview 2.61.2",
+  "generatedAt": "2026-10-15T12:32:21.355Z",
   "display": {
     "hero": "PlayerScreenPreviewUamp",
     "surface": "dark"
