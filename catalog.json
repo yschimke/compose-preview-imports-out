@@ -5053,6 +5053,15 @@
         },
         {
           "bounds": {
+            "x": 934,
+            "y": 845,
+            "width": 32,
+            "height": 32
+          },
+          "cornerRadius": 2
+        },
+        {
+          "bounds": {
             "x": 709,
             "y": 1005,
             "width": 32,
@@ -5929,8 +5938,8 @@
       "sourceFunction": "AboutPreview"
     }
   ],
-  "renderer": "compose-preview 2.57.0",
-  "generatedAt": "2026-10-14T09:18:30.862Z",
+  "renderer": "compose-preview 2.61.2",
+  "generatedAt": "2026-10-15T12:40:05.954Z",
   "display": {
     "hero": "settings-appearance"
   },
