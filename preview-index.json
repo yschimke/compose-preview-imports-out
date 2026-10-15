@@ -15,6 +15,22 @@
   ],
   "revisions": [
     {
+      "commit": "ac9e6b78da6d0159c14a9f12c60259ce0d7b0843",
+      "previews": [
+        "components-icon-dialog__ideal__default",
+        "components-icon-dialog__ideal__results",
+        "components-icon-dialog__ideal__search",
+        "onboarding-matter-commissioning__ideal__default",
+        "settings-external-url__ideal__cloud-off",
+        "settings-external-url__ideal__cloud-unavailable",
+        "settings-external-url__ideal__default",
+        "settings-notification-detail__ideal__default",
+        "settings-wear-companion__ideal__default",
+        "settings-wi-fi-ssids__ideal__default",
+        "settings-wi-fi-ssids__ideal__empty"
+      ]
+    },
+    {
       "commit": "ed022f88acbd34ce69bedce2c956030edcfab4dc",
       "previews": [
         "components-icon-dialog__ideal__default",
@@ -160,22 +176,6 @@
     },
     {
       "commit": "af1f81a87021a4df2c11c18d3b472e1c94b357fe",
-      "previews": [
-        "components-icon-dialog__ideal__default",
-        "components-icon-dialog__ideal__results",
-        "components-icon-dialog__ideal__search",
-        "onboarding-matter-commissioning__ideal__default",
-        "settings-external-url__ideal__cloud-off",
-        "settings-external-url__ideal__cloud-unavailable",
-        "settings-external-url__ideal__default",
-        "settings-notification-detail__ideal__default",
-        "settings-wear-companion__ideal__default",
-        "settings-wi-fi-ssids__ideal__default",
-        "settings-wi-fi-ssids__ideal__empty"
-      ]
-    },
-    {
-      "commit": "20483b3a85860e946927d6437d51acf62595f409",
       "previews": [
         "components-icon-dialog__ideal__default",
         "components-icon-dialog__ideal__results",
