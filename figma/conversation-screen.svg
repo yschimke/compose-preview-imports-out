@@ -33,7 +33,7 @@
                   </g>
                 </g>
                 <g id="ImageKt">
-                  <image href="conversation-screen.figma-raster/174.png" x="898" y="1571" width="110" height="110"/>
+                  <image href="conversation-screen.figma-raster/125.png" x="898" y="1571" width="110" height="110"/>
                 </g>
               </g>
               <g id="Column">
@@ -52,7 +52,7 @@
                 </g>
                 <g id="Row">
                   <g id="ImageKt">
-                    <image href="conversation-screen.figma-raster/183.png" x="42" y="816" width="110" height="110"/>
+                    <image href="conversation-screen.figma-raster/134.png" x="42" y="816" width="110" height="110"/>
                   </g>
                   <g id="Column">
                     <g id="Column">
@@ -118,7 +118,7 @@
                         <path d="M278.5,-66 H845.5 A10.5,10.5 0 0 1 856,-55.5 V511.5 A52.5,52.5 0 0 1 803.5,564 H278.5 A52.5,52.5 0 0 1 226,511.5 V-13.5 A52.5,52.5 0 0 1 278.5,-66 Z" fill="#B8C6EE"/>
                       <g clip-path="url(#clip-3)">
                         <g id="ImageKt">
-                          <image href="conversation-screen.figma-raster/212.png" x="226" y="-66" width="630" height="630"/>
+                          <image href="conversation-screen.figma-raster/163.png" x="226" y="-66" width="630" height="630"/>
                         </g>
                       </g>
                     </g>
@@ -144,13 +144,13 @@
                 </g>
                 <g id="Row">
                   <g id="ImageKt">
-                    <image href="conversation-screen.figma-raster/122.png" x="85" y="84" width="63" height="63"/>
+                    <image href="conversation-screen.figma-raster/73.png" x="85" y="84" width="63" height="63"/>
                   </g>
                   <g id="ImageKt">
-                    <image href="conversation-screen.figma-raster/123.png" x="138" y="84" width="63" height="63"/>
+                    <image href="conversation-screen.figma-raster/74.png" x="138" y="84" width="63" height="63"/>
                   </g>
                   <g id="ImageKt">
-                    <image href="conversation-screen.figma-raster/124.png" x="191" y="84" width="63" height="63"/>
+                    <image href="conversation-screen.figma-raster/75.png" x="191" y="84" width="63" height="63"/>
                   </g>
                 </g>
               </g>
@@ -183,7 +183,7 @@
             <g id="Column">
               <g id="Box">
                 <g id="CoreTextFieldKt">
-                  <image href="conversation-screen.figma-raster/146.png" x="84" y="1775" width="860" height="61"/>
+                  <image href="conversation-screen.figma-raster/97.png" x="84" y="1775" width="860" height="61"/>
                 </g>
                 <g id="Empty">
                   <text x="84" y="1824.61" font-size="52.5" font-family="Karla" font-weight="500" fill="#5D5F68">Send a message</text>
