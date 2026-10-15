@@ -44987,8 +44987,8 @@
       ]
     }
   ],
-  "renderer": "compose-preview 2.57.0",
-  "generatedAt": "2026-10-14T08:26:20.130Z",
+  "renderer": "compose-preview 2.61.2",
+  "generatedAt": "2026-10-15T11:42:54.014Z",
   "liveBundle": {
     "path": "bundle/",
     "file": "bundle.png"
@@ -45004,7 +45004,7 @@
   "componentsFile": "components.json",
   "source": {
     "repo": "element-hq/element-x-android",
-    "ref": "9b3a9a0a2dff0db60720d7bb6be732a81c00b2de",
+    "ref": "e1b9ba21dc022e398144e30b45d86115db00f454",
     "module": ":libraries:designsystem"
   }
 }
