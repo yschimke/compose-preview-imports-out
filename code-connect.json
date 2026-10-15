@@ -4,16 +4,16 @@
   "label": "Compose",
   "source": {
     "repo": "android/compose-samples",
-    "ref": "5a390e4a9d3c4e5b30e942041bde93582c4d9492",
+    "ref": "0c2267c6c69bd06c8b7a8ec5fed7d7a3c4d7c822",
     "module": ":app"
   },
-  "generatedAt": "2026-10-10T10:48:11.685Z",
+  "generatedAt": "2026-10-15T11:05:34.323Z",
   "mappings": [
     {
       "componentId": "Conversation/Screen",
       "figmaLayerName": "Conversation/Screen",
       "componentName": "ConversationContent",
-      "source": "https://github.com/android/compose-samples/blob/5a390e4a9d3c4e5b30e942041bde93582c4d9492/app/src/main/java/com/example/compose/jetchat/conversation/Conversation.kt",
+      "source": "https://github.com/android/compose-samples/blob/0c2267c6c69bd06c8b7a8ec5fed7d7a3c4d7c822/app/src/main/java/com/example/compose/jetchat/conversation/Conversation.kt",
       "label": "Compose",
       "confidence": "HIGH",
       "previewName": "ConversationPreview",
@@ -87,13 +87,14 @@
           "scopeDslReceiver": null,
           "lambdaReturnTypeFqn": "kotlin.Unit"
         }
-      ]
+      ],
+      "figmaSvg": "figma/conversation-screen.svg"
     },
     {
       "componentId": "Profile/Screen",
       "figmaLayerName": "Profile/Screen",
       "componentName": "ProfileScreen",
-      "source": "https://github.com/android/compose-samples/blob/5a390e4a9d3c4e5b30e942041bde93582c4d9492/app/src/main/java/com/example/compose/jetchat/profile/Profile.kt",
+      "source": "https://github.com/android/compose-samples/blob/0c2267c6c69bd06c8b7a8ec5fed7d7a3c4d7c822/app/src/main/java/com/example/compose/jetchat/profile/Profile.kt",
       "label": "Compose",
       "confidence": "HIGH",
       "previewName": "ProfilePreview340",
@@ -115,13 +116,14 @@
           "scopeDslReceiver": null,
           "lambdaReturnTypeFqn": null
         }
-      ]
+      ],
+      "figmaSvg": "figma/profile-screen.svg"
     },
     {
       "componentId": "Conversation/Day header",
       "figmaLayerName": "Conversation/Day header",
       "componentName": "DayHeader",
-      "source": "https://github.com/android/compose-samples/blob/5a390e4a9d3c4e5b30e942041bde93582c4d9492/app/src/main/java/com/example/compose/jetchat/conversation/Conversation.kt",
+      "source": "https://github.com/android/compose-samples/blob/0c2267c6c69bd06c8b7a8ec5fed7d7a3c4d7c822/app/src/main/java/com/example/compose/jetchat/conversation/Conversation.kt",
       "label": "Compose",
       "confidence": "HIGH",
       "previewName": "DayHeaderPrev",
@@ -143,13 +145,14 @@
           "scopeDslReceiver": null,
           "lambdaReturnTypeFqn": null
         }
-      ]
+      ],
+      "figmaSvg": "https://preview.coo.ee/compose-samples-jetchat/render/conversation-day-header__ideal__default.svg"
     },
     {
       "componentId": "Conversation/Jump to bottom",
       "figmaLayerName": "Conversation/Jump to bottom",
       "componentName": "JumpToBottom",
-      "source": "https://github.com/android/compose-samples/blob/5a390e4a9d3c4e5b30e942041bde93582c4d9492/app/src/main/java/com/example/compose/jetchat/conversation/JumpToBottom.kt",
+      "source": "https://github.com/android/compose-samples/blob/0c2267c6c69bd06c8b7a8ec5fed7d7a3c4d7c822/app/src/main/java/com/example/compose/jetchat/conversation/JumpToBottom.kt",
       "label": "Compose",
       "confidence": "HIGH",
       "previewName": "JumpToBottomPreview",
@@ -197,13 +200,14 @@
           "scopeDslReceiver": null,
           "lambdaReturnTypeFqn": null
         }
-      ]
+      ],
+      "figmaSvg": "https://preview.coo.ee/compose-samples-jetchat/render/conversation-jump-to-bottom__ideal__default.svg"
     },
     {
       "componentId": "Conversation/Input",
       "figmaLayerName": "Conversation/Input",
       "componentName": "UserInput",
-      "source": "https://github.com/android/compose-samples/blob/5a390e4a9d3c4e5b30e942041bde93582c4d9492/app/src/main/java/com/example/compose/jetchat/conversation/UserInput.kt",
+      "source": "https://github.com/android/compose-samples/blob/0c2267c6c69bd06c8b7a8ec5fed7d7a3c4d7c822/app/src/main/java/com/example/compose/jetchat/conversation/UserInput.kt",
       "label": "Compose",
       "confidence": "HIGH",
       "previewName": "UserInputPreview",
@@ -264,13 +268,14 @@
           "scopeDslReceiver": null,
           "lambdaReturnTypeFqn": "kotlin.Unit"
         }
-      ]
+      ],
+      "figmaSvg": "figma/conversation-input.svg"
     },
     {
       "componentId": "Profile/FAB",
       "figmaLayerName": "Profile/FAB",
       "componentName": "ProfileFab",
-      "source": "https://github.com/android/compose-samples/blob/5a390e4a9d3c4e5b30e942041bde93582c4d9492/app/src/main/java/com/example/compose/jetchat/profile/Profile.kt",
+      "source": "https://github.com/android/compose-samples/blob/0c2267c6c69bd06c8b7a8ec5fed7d7a3c4d7c822/app/src/main/java/com/example/compose/jetchat/profile/Profile.kt",
       "label": "Compose",
       "confidence": "HIGH",
       "previewName": "ProfileFabPreview",
@@ -331,13 +336,14 @@
           "scopeDslReceiver": null,
           "lambdaReturnTypeFqn": "kotlin.Unit"
         }
-      ]
+      ],
+      "figmaSvg": "https://preview.coo.ee/compose-samples-jetchat/render/profile-fab__ideal__default.svg"
     },
     {
       "componentId": "Chrome/App bar",
       "figmaLayerName": "Chrome/App bar",
       "componentName": "JetchatAppBar",
-      "source": "https://github.com/android/compose-samples/blob/5a390e4a9d3c4e5b30e942041bde93582c4d9492/app/src/main/java/com/example/compose/jetchat/components/JetchatAppBar.kt",
+      "source": "https://github.com/android/compose-samples/blob/0c2267c6c69bd06c8b7a8ec5fed7d7a3c4d7c822/app/src/main/java/com/example/compose/jetchat/components/JetchatAppBar.kt",
       "label": "Compose",
       "confidence": "HIGH",
       "previewName": "JetchatAppBarPreview",
@@ -424,13 +430,14 @@
           "scopeDslReceiver": null,
           "lambdaReturnTypeFqn": "kotlin.Unit"
         }
-      ]
+      ],
+      "figmaSvg": "https://preview.coo.ee/compose-samples-jetchat/render/chrome-app-bar__ideal__default.svg"
     },
     {
       "componentId": "Chrome/Drawer",
       "figmaLayerName": "Chrome/Drawer",
       "componentName": "JetchatDrawerContent",
-      "source": "https://github.com/android/compose-samples/blob/5a390e4a9d3c4e5b30e942041bde93582c4d9492/app/src/main/java/com/example/compose/jetchat/components/JetchatDrawer.kt",
+      "source": "https://github.com/android/compose-samples/blob/0c2267c6c69bd06c8b7a8ec5fed7d7a3c4d7c822/app/src/main/java/com/example/compose/jetchat/components/JetchatDrawer.kt",
       "label": "Compose",
       "confidence": "HIGH",
       "previewName": "DrawerPreview",
@@ -478,13 +485,14 @@
           "scopeDslReceiver": null,
           "lambdaReturnTypeFqn": null
         }
-      ]
+      ],
+      "figmaSvg": "figma/chrome-drawer.svg"
     },
     {
       "componentId": "Chrome/Channel bar",
       "figmaLayerName": "Chrome/Channel bar",
       "componentName": "ChannelNameBar",
-      "source": "https://github.com/android/compose-samples/blob/5a390e4a9d3c4e5b30e942041bde93582c4d9492/app/src/main/java/com/example/compose/jetchat/conversation/Conversation.kt",
+      "source": "https://github.com/android/compose-samples/blob/0c2267c6c69bd06c8b7a8ec5fed7d7a3c4d7c822/app/src/main/java/com/example/compose/jetchat/conversation/Conversation.kt",
       "label": "Compose",
       "confidence": "HIGH",
       "previewName": "ChannelBarPrev",
@@ -558,7 +566,8 @@
           "scopeDslReceiver": null,
           "lambdaReturnTypeFqn": "kotlin.Unit"
         }
-      ]
+      ],
+      "figmaSvg": "figma/chrome-channel-bar.svg"
     }
   ]
 }

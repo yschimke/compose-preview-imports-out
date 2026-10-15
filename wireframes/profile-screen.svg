@@ -11,12 +11,12 @@
     <rect x="0" y="0" width="892" height="2100" fill="none" fill-opacity="0" stroke="#8E6BA8" stroke-width="1" stroke-opacity="0.5"/>
   </g>
   <g>
-    <rect x="0" y="0" width="892" height="2100" fill="#FAF8FF" fill-opacity="1" stroke="#B0813B" stroke-width="1.5" stroke-opacity="1"/>
-    <text x="3" y="12" font-family="system-ui, sans-serif" font-size="9" fill="#B0813B">#FFFAF8FF</text>
+    <rect x="0" y="0" width="892" height="2100" fill="#FAF8FE" fill-opacity="1" stroke="#B0813B" stroke-width="1.5" stroke-opacity="1"/>
+    <text x="3" y="12" font-family="system-ui, sans-serif" font-size="9" fill="#B0813B">#FFFAF8FE</text>
   </g>
   <g>
-    <rect x="0" y="0" width="892" height="2100" fill="#EEEDF4" fill-opacity="1" stroke="#3B72A8" stroke-width="1.5" stroke-opacity="1"/>
-    <text x="3" y="12" font-family="system-ui, sans-serif" font-size="9" fill="#3B72A8">#FFEEEDF4</text>
+    <rect x="0" y="0" width="892" height="2100" fill="#EDEDF6" fill-opacity="1" stroke="#3B72A8" stroke-width="1.5" stroke-opacity="1"/>
+    <text x="3" y="12" font-family="system-ui, sans-serif" font-size="9" fill="#3B72A8">#FFEDEDF6</text>
   </g>
   <g>
     <rect x="0" y="0" width="892" height="857" fill="none" fill-opacity="0" stroke="#A85B6B" stroke-width="1" stroke-opacity="0.5"/>
