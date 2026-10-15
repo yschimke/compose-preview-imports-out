@@ -11,8 +11,8 @@
                 "callable": "androidx.compose.material3.TopAppBar",
                 "name": "TopAppBar",
                 "origin": "LIBRARY",
-                "jvmName": "TopAppBar-GHTll3U",
-                "descriptor": "(Lkotlin/jvm/functions/Function2;Landroidx/compose/ui/Modifier;Lkotlin/jvm/functions/Function2;Lkotlin/jvm/functions/Function3;FLandroidx/compose/foundation/layout/WindowInsets;Landroidx/compose/material3/TopAppBarColors;Landroidx/compose/material3/TopAppBarScrollBehavior;Landroidx/compose/runtime/Composer;II)V",
+                "jvmName": "TopAppBar-gNPyAyM",
+                "descriptor": "(Lkotlin/jvm/functions/Function2;Landroidx/compose/ui/Modifier;Lkotlin/jvm/functions/Function2;Lkotlin/jvm/functions/Function3;FLandroidx/compose/foundation/layout/WindowInsets;Landroidx/compose/material3/TopAppBarColors;Landroidx/compose/material3/TopAppBarScrollBehavior;Landroidx/compose/foundation/layout/PaddingValues;Landroidx/compose/runtime/Composer;II)V",
                 "sourceFile": null,
                 "docs": "unavailable",
                 "receiver": null
@@ -121,6 +121,19 @@
                     "noArgFactory": null,
                     "scopeDslReceiver": null,
                     "lambdaReturnTypeFqn": null
+                },
+                {
+                    "name": "contentPadding",
+                    "type": "PaddingValues",
+                    "typeFqn": "androidx.compose.foundation.layout.PaddingValues",
+                    "hasDefault": true,
+                    "composableSlot": false,
+                    "composableSlotReceiver": null,
+                    "nullable": false,
+                    "noArgConstructible": false,
+                    "noArgFactory": null,
+                    "scopeDslReceiver": null,
+                    "lambdaReturnTypeFqn": null
                 }
             ],
             "slots": [
@@ -206,7 +219,7 @@
             "androidxOptIns": [],
             "overloads": [
                 {
-                    "descriptor": "(Lkotlin/jvm/functions/Function2;Landroidx/compose/ui/Modifier;Lkotlin/jvm/functions/Function2;Lkotlin/jvm/functions/Function3;FLandroidx/compose/foundation/layout/WindowInsets;Landroidx/compose/material3/TopAppBarColors;Landroidx/compose/material3/TopAppBarScrollBehavior;Landroidx/compose/runtime/Composer;II)V",
+                    "descriptor": "(Lkotlin/jvm/functions/Function2;Landroidx/compose/ui/Modifier;Lkotlin/jvm/functions/Function2;Lkotlin/jvm/functions/Function3;FLandroidx/compose/foundation/layout/WindowInsets;Landroidx/compose/material3/TopAppBarColors;Landroidx/compose/material3/TopAppBarScrollBehavior;Landroidx/compose/foundation/layout/PaddingValues;Landroidx/compose/runtime/Composer;II)V",
                     "parameters": [
                         {
                             "name": "title",
@@ -307,6 +320,19 @@
                             "composableSlot": false,
                             "composableSlotReceiver": null,
                             "nullable": true,
+                            "noArgConstructible": false,
+                            "noArgFactory": null,
+                            "scopeDslReceiver": null,
+                            "lambdaReturnTypeFqn": null
+                        },
+                        {
+                            "name": "contentPadding",
+                            "type": "PaddingValues",
+                            "typeFqn": "androidx.compose.foundation.layout.PaddingValues",
+                            "hasDefault": true,
+                            "composableSlot": false,
+                            "composableSlotReceiver": null,
+                            "nullable": false,
                             "noArgConstructible": false,
                             "noArgFactory": null,
                             "scopeDslReceiver": null,
@@ -891,6 +917,102 @@
                             "composableSlot": false,
                             "composableSlotReceiver": null,
                             "nullable": false,
+                            "noArgConstructible": false,
+                            "noArgFactory": null,
+                            "scopeDslReceiver": null,
+                            "lambdaReturnTypeFqn": null
+                        },
+                        {
+                            "name": "content",
+                            "type": "() -> Unit",
+                            "typeFqn": "kotlin.Function0",
+                            "hasDefault": false,
+                            "composableSlot": true,
+                            "composableSlotReceiver": null,
+                            "nullable": false,
+                            "noArgConstructible": false,
+                            "noArgFactory": null,
+                            "scopeDslReceiver": null,
+                            "lambdaReturnTypeFqn": "kotlin.Unit"
+                        }
+                    ]
+                },
+                {
+                    "descriptor": "(Lkotlin/jvm/functions/Function0;Landroidx/compose/material3/IconButtonShapes;Landroidx/compose/ui/Modifier;ZLandroidx/compose/material3/IconButtonColors;Landroidx/compose/foundation/interaction/MutableInteractionSource;Lkotlin/jvm/functions/Function2;Landroidx/compose/runtime/Composer;II)V",
+                    "parameters": [
+                        {
+                            "name": "onClick",
+                            "type": "() -> Unit",
+                            "typeFqn": "kotlin.Function0",
+                            "hasDefault": false,
+                            "composableSlot": false,
+                            "composableSlotReceiver": null,
+                            "nullable": false,
+                            "noArgConstructible": false,
+                            "noArgFactory": null,
+                            "scopeDslReceiver": null,
+                            "lambdaReturnTypeFqn": "kotlin.Unit"
+                        },
+                        {
+                            "name": "shapes",
+                            "type": "IconButtonShapes",
+                            "typeFqn": "androidx.compose.material3.IconButtonShapes",
+                            "hasDefault": false,
+                            "composableSlot": false,
+                            "composableSlotReceiver": null,
+                            "nullable": false,
+                            "noArgConstructible": false,
+                            "noArgFactory": null,
+                            "scopeDslReceiver": null,
+                            "lambdaReturnTypeFqn": null
+                        },
+                        {
+                            "name": "modifier",
+                            "type": "Modifier",
+                            "typeFqn": "androidx.compose.ui.Modifier",
+                            "hasDefault": true,
+                            "composableSlot": false,
+                            "composableSlotReceiver": null,
+                            "nullable": false,
+                            "noArgConstructible": false,
+                            "noArgFactory": null,
+                            "scopeDslReceiver": null,
+                            "lambdaReturnTypeFqn": null
+                        },
+                        {
+                            "name": "enabled",
+                            "type": "Boolean",
+                            "typeFqn": "kotlin.Boolean",
+                            "hasDefault": true,
+                            "composableSlot": false,
+                            "composableSlotReceiver": null,
+                            "nullable": false,
+                            "noArgConstructible": false,
+                            "noArgFactory": null,
+                            "scopeDslReceiver": null,
+                            "lambdaReturnTypeFqn": null
+                        },
+                        {
+                            "name": "colors",
+                            "type": "IconButtonColors",
+                            "typeFqn": "androidx.compose.material3.IconButtonColors",
+                            "hasDefault": true,
+                            "composableSlot": false,
+                            "composableSlotReceiver": null,
+                            "nullable": false,
+                            "noArgConstructible": false,
+                            "noArgFactory": null,
+                            "scopeDslReceiver": null,
+                            "lambdaReturnTypeFqn": null
+                        },
+                        {
+                            "name": "interactionSource",
+                            "type": "MutableInteractionSource?",
+                            "typeFqn": "androidx.compose.foundation.interaction.MutableInteractionSource",
+                            "hasDefault": true,
+                            "composableSlot": false,
+                            "composableSlotReceiver": null,
+                            "nullable": true,
                             "noArgConstructible": false,
                             "noArgFactory": null,
                             "scopeDslReceiver": null,
@@ -1867,37 +1989,24 @@
                 "name": "Slider",
                 "origin": "LIBRARY",
                 "jvmName": "Slider",
-                "descriptor": "(FLkotlin/jvm/functions/Function1;Landroidx/compose/ui/Modifier;ZLkotlin/ranges/ClosedFloatingPointRange;ILkotlin/jvm/functions/Function0;Landroidx/compose/material3/SliderColors;Landroidx/compose/foundation/interaction/MutableInteractionSource;Landroidx/compose/runtime/Composer;II)V",
+                "descriptor": "(Landroidx/compose/material3/SliderState;Landroidx/compose/ui/Modifier;ZLandroidx/compose/material3/SliderColors;Landroidx/compose/foundation/interaction/MutableInteractionSource;Lkotlin/jvm/functions/Function3;Lkotlin/jvm/functions/Function3;Landroidx/compose/runtime/Composer;II)V",
                 "sourceFile": null,
                 "docs": "unavailable",
                 "receiver": null
             },
             "parameters": [
                 {
-                    "name": "value",
-                    "type": "Float",
-                    "typeFqn": "kotlin.Float",
+                    "name": "state",
+                    "type": "SliderState",
+                    "typeFqn": "androidx.compose.material3.SliderState",
                     "hasDefault": false,
                     "composableSlot": false,
                     "composableSlotReceiver": null,
                     "nullable": false,
-                    "noArgConstructible": false,
-                    "noArgFactory": null,
+                    "noArgConstructible": true,
+                    "noArgFactory": "androidx.compose.material3.rememberSliderState",
                     "scopeDslReceiver": null,
                     "lambdaReturnTypeFqn": null
-                },
-                {
-                    "name": "onValueChange",
-                    "type": "(Float) -> Unit",
-                    "typeFqn": "kotlin.Function1",
-                    "hasDefault": false,
-                    "composableSlot": false,
-                    "composableSlotReceiver": null,
-                    "nullable": false,
-                    "noArgConstructible": false,
-                    "noArgFactory": null,
-                    "scopeDslReceiver": null,
-                    "lambdaReturnTypeFqn": "kotlin.Unit"
                 },
                 {
                     "name": "modifier",
@@ -1926,45 +2035,6 @@
                     "lambdaReturnTypeFqn": null
                 },
                 {
-                    "name": "valueRange",
-                    "type": "ClosedFloatingPointRange<Float>",
-                    "typeFqn": "kotlin.ranges.ClosedFloatingPointRange",
-                    "hasDefault": true,
-                    "composableSlot": false,
-                    "composableSlotReceiver": null,
-                    "nullable": false,
-                    "noArgConstructible": false,
-                    "noArgFactory": null,
-                    "scopeDslReceiver": null,
-                    "lambdaReturnTypeFqn": null
-                },
-                {
-                    "name": "steps",
-                    "type": "Int",
-                    "typeFqn": "kotlin.Int",
-                    "hasDefault": true,
-                    "composableSlot": false,
-                    "composableSlotReceiver": null,
-                    "nullable": false,
-                    "noArgConstructible": false,
-                    "noArgFactory": null,
-                    "scopeDslReceiver": null,
-                    "lambdaReturnTypeFqn": null
-                },
-                {
-                    "name": "onValueChangeFinished",
-                    "type": "(() -> Unit)?",
-                    "typeFqn": "kotlin.Function0",
-                    "hasDefault": true,
-                    "composableSlot": false,
-                    "composableSlotReceiver": null,
-                    "nullable": true,
-                    "noArgConstructible": false,
-                    "noArgFactory": null,
-                    "scopeDslReceiver": null,
-                    "lambdaReturnTypeFqn": "kotlin.Unit"
-                },
-                {
                     "name": "colors",
                     "type": "SliderColors",
                     "typeFqn": "androidx.compose.material3.SliderColors",
@@ -1989,9 +2059,46 @@
                     "noArgFactory": null,
                     "scopeDslReceiver": null,
                     "lambdaReturnTypeFqn": null
+                },
+                {
+                    "name": "thumb",
+                    "type": "(SliderState) -> Unit",
+                    "typeFqn": "kotlin.Function1",
+                    "hasDefault": true,
+                    "composableSlot": true,
+                    "composableSlotReceiver": null,
+                    "nullable": false,
+                    "noArgConstructible": false,
+                    "noArgFactory": null,
+                    "scopeDslReceiver": null,
+                    "lambdaReturnTypeFqn": "kotlin.Unit"
+                },
+                {
+                    "name": "track",
+                    "type": "(SliderState) -> Unit",
+                    "typeFqn": "kotlin.Function1",
+                    "hasDefault": true,
+                    "composableSlot": true,
+                    "composableSlotReceiver": null,
+                    "nullable": false,
+                    "noArgConstructible": false,
+                    "noArgFactory": null,
+                    "scopeDslReceiver": null,
+                    "lambdaReturnTypeFqn": "kotlin.Unit"
                 }
             ],
-            "slots": [],
+            "slots": [
+                {
+                    "name": "thumb",
+                    "required": false,
+                    "receiverScope": null
+                },
+                {
+                    "name": "track",
+                    "required": false,
+                    "receiverScope": null
+                }
+            ],
             "bindings": [
                 {
                     "previewId": "com.example.jetsnack.ui.home.FilterScreenKt.FilterScreenPreview_filter_screen",
@@ -2000,9 +2107,10 @@
                 }
             ],
             "code": {
-                "call": "Slider(value = 0f, onValueChange = {})",
+                "call": "Slider(state = rememberSliderState())",
                 "imports": [
-                    "androidx.compose.material3.Slider"
+                    "androidx.compose.material3.Slider",
+                    "androidx.compose.material3.rememberSliderState"
                 ],
                 "refusedReason": null,
                 "requiredOptIns": [],
@@ -2298,8 +2406,8 @@
                             "composableSlot": false,
                             "composableSlotReceiver": null,
                             "nullable": false,
-                            "noArgConstructible": false,
-                            "noArgFactory": null,
+                            "noArgConstructible": true,
+                            "noArgFactory": "androidx.compose.material3.rememberSliderState",
                             "scopeDslReceiver": null,
                             "lambdaReturnTypeFqn": null
                         },
