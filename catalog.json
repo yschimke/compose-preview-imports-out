@@ -145,13 +145,7 @@
       "sourceModule": ":common",
       "bodyLine": 60,
       "sourceDirectory": "common",
-      "sourceFunction": "StationViewMixedPreview",
-      "parameters": [
-        {
-          "name": "station",
-          "type": "Station"
-        }
-      ]
+      "sourceFunction": "StationViewMixedPreview"
     },
     {
       "componentId": "station-view-full",
@@ -220,13 +214,7 @@
       "sourceModule": ":common",
       "bodyLine": 68,
       "sourceDirectory": "common",
-      "sourceFunction": "StationViewFullPreview",
-      "parameters": [
-        {
-          "name": "station",
-          "type": "Station"
-        }
-      ]
+      "sourceFunction": "StationViewFullPreview"
     },
     {
       "componentId": "station-view-empty",
@@ -295,13 +283,7 @@
       "sourceModule": ":common",
       "bodyLine": 77,
       "sourceDirectory": "common",
-      "sourceFunction": "StationViewEmptyPreview",
-      "parameters": [
-        {
-          "name": "station",
-          "type": "Station"
-        }
-      ]
+      "sourceFunction": "StationViewEmptyPreview"
     },
     {
       "componentId": "station-list",
@@ -454,13 +436,7 @@
       "sourceModule": ":common",
       "bodyLine": 88,
       "sourceDirectory": "common",
-      "sourceFunction": "StationListContentPreview",
-      "parameters": [
-        {
-          "name": "stationList",
-          "type": "List<Station>"
-        }
-      ]
+      "sourceFunction": "StationListContentPreview"
     },
     {
       "componentId": "network-view",
@@ -505,17 +481,7 @@
       "sourceModule": ":common",
       "bodyLine": 100,
       "sourceDirectory": "common",
-      "sourceFunction": "NetworkViewPreview",
-      "parameters": [
-        {
-          "name": "network",
-          "type": "Network"
-        },
-        {
-          "name": "networkSelected",
-          "type": "(String) -> Unit"
-        }
-      ]
+      "sourceFunction": "NetworkViewPreview"
     },
     {
       "componentId": "network-list",
@@ -596,22 +562,7 @@
       "sourceModule": ":common",
       "bodyLine": 108,
       "sourceDirectory": "common",
-      "sourceFunction": "NetworkListPreview",
-      "parameters": [
-        {
-          "name": "networkList",
-          "type": "List<Network>"
-        },
-        {
-          "name": "onNetworkSelected",
-          "type": "(String) -> Unit"
-        },
-        {
-          "name": "modifier",
-          "type": "Modifier",
-          "hasDefault": true
-        }
-      ]
+      "sourceFunction": "NetworkListPreview"
     },
     {
       "componentId": "country-view",
@@ -661,17 +612,7 @@
       "sourceModule": ":common",
       "bodyLine": 124,
       "sourceDirectory": "common",
-      "sourceFunction": "CountryViewPreview",
-      "parameters": [
-        {
-          "name": "country",
-          "type": "Country"
-        },
-        {
-          "name": "countrySelected",
-          "type": "(Country) -> Unit"
-        }
-      ]
+      "sourceFunction": "CountryViewPreview"
     },
     {
       "componentId": "country-list",
@@ -769,17 +710,7 @@
       "sourceModule": ":common",
       "bodyLine": 132,
       "sourceDirectory": "common",
-      "sourceFunction": "CountryViewListPreview",
-      "parameters": [
-        {
-          "name": "country",
-          "type": "Country"
-        },
-        {
-          "name": "countrySelected",
-          "type": "(Country) -> Unit"
-        }
-      ]
+      "sourceFunction": "CountryViewListPreview"
     },
     {
       "componentId": "color-scheme",
@@ -1041,8 +972,8 @@
       "sourceFunction": "TypographySpecimenPreview"
     }
   ],
-  "renderer": "compose-preview 2.61.2",
-  "generatedAt": "2026-10-15T12:11:50.781Z",
+  "renderer": "compose-preview 2.74.1",
+  "generatedAt": "2026-10-28T03:28:37.564Z",
   "display": {
     "hero": "station-list"
   },
@@ -1061,7 +992,7 @@
   "componentsFile": "components.json",
   "source": {
     "repo": "joreilly/BikeShare",
-    "ref": "88a84e8bb48c297cba13b21cd10dfbd3948019b6",
+    "ref": "a0184fd68653c7b5394f73bec57c4b70669cc7b9",
     "module": ":common"
   }
 }
