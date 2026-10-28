@@ -7,239 +7,335 @@
 </defs>
 <g transform="translate(0, 0)">
   <g id="Root">
+    <clipPath id="clip-0"><rect x="0" y="0" width="1050" height="2100"/></clipPath>
     <g id="ReusableComposeNode">
         <rect x="0" y="0" width="1050" height="2100" fill="#FFF8F4"/>
-      <g id="ReusableComposeNode">
+      <g clip-path="url(#clip-0)">
         <g id="ReusableComposeNode">
           <g id="ReusableComposeNode">
             <g id="ReusableComposeNode">
-              <clipPath id="clip-0"><rect x="0" y="210" width="1050" height="1680"/></clipPath>
               <g id="ReusableComposeNode">
-                <g clip-path="url(#clip-0)">
-                  <g id="Box">
-                      <rect x="42" y="221" width="966" height="433" rx="42" ry="42" fill="#F0E0CF"/>
-                    <g id="Column">
-                      <g id="Row">
-                        <g id="ImageKt">
-                          <image href="ideal__default.figma-raster/118.png" x="95" y="274" width="105" height="105"/>
-                        </g>
-                        <g id="Column">
-                          <g id="Empty">
-                            <text x="232" y="316.86" font-size="31.5" font-family="Roboto, sans-serif" font-weight="600" letter-spacing="1.31" fill="#4F4539">Google</text>
+                <clipPath id="clip-1"><rect x="0" y="210" width="1050" height="1680"/></clipPath>
+                <g id="ReusableComposeNode">
+                  <g clip-path="url(#clip-1)">
+                    <g id="Box">
+                        <rect x="42" y="221" width="966" height="433" rx="42" ry="42" fill="#F0E0CF"/>
+                      <g id="Column">
+                        <g id="Row">
+                          <g id="ImageKt">
+                            <image href="ideal__default.figma-raster/118.png" x="95" y="274" width="105" height="105"/>
                           </g>
-                          <g id="Empty">
-                            <text x="232" y="353.86" font-size="31.5" font-family="Roboto, sans-serif" font-weight="600" letter-spacing="1.31" fill="#4F4539">20 mins ago</text>
+                          <g id="Column">
+                            <g id="Empty">
+                              <text x="232" y="316.86" font-size="31.5" font-family="Roboto, sans-serif" font-weight="600" letter-spacing="1.31" fill="#4F4539">Google</text>
+                            </g>
+                            <g id="Empty">
+                              <text x="232" y="353.86" font-size="31.5" font-family="Roboto, sans-serif" font-weight="600" letter-spacing="1.31" fill="#4F4539">20 mins ago</text>
+                            </g>
                           </g>
-                        </g>
-                        <g id="Box">
-                          <rect x="829" y="274" width="126" height="126" rx="63" ry="63" fill="#F3E6DA"/>
-                          <g id="BoxKt">
-                            <g transform="translate(861 306) scale(0.06 0.06)">
-                              <path d="M354 673 L480 597 L606 674 L573 530 L684 434 L538 421 L480 285 L422 420 L276 433 L387 530 L354 673 Z M233 840 L298 559 L80 370 L368 345 L480 80 L592 345 L880 370 L662 559 L727 840 L480 691 L233 840 Z M480 490 L480 490 L480 490 L480 490 L480 490 L480 490 L480 490 L480 490 L480 490 Z" fill="#817567"/>
+                          <g id="Box">
+                            <rect x="829" y="274" width="126" height="126" rx="63" ry="63" fill="#F3E6DA"/>
+                            <g id="BoxKt">
+                              <g transform="translate(861 306) scale(0.06 0.06)">
+                                <path d="M354 673 L480 597 L606 674 L573 530 L684 434 L538 421 L480 285 L422 420 L276 433 L387 530 L354 673 Z M233 840 L298 559 L80 370 L368 345 L480 80 L592 345 L880 370 L662 559 L727 840 L480 691 L233 840 Z M480 490 L480 490 L480 490 L480 490 L480 490 L480 490 L480 490 L480 490 L480 490 Z" fill="#817567"/>
+                              </g>
                             </g>
                           </g>
                         </g>
-                      </g>
-                      <g id="Empty">
-                        <text x="95" y="477.99" font-size="42" font-family="Roboto, sans-serif" font-weight="400" letter-spacing="0.39" fill="#4F4539">Package shipped!</text>
-                      </g>
-                      <g id="Empty">
-                        <text font-size="36.75" font-family="Roboto, sans-serif" font-weight="500" letter-spacing="0.66" fill="#4F4539"><tspan x="95" y="536" textLength="605" lengthAdjust="spacing">Cucumber Mask Facial has shipped.</tspan><tspan x="95" y="589" textLength="25" lengthAdjust="spacing">…</tspan></text>
+                        <g id="Empty">
+                          <text x="95" y="477.99" font-size="42" font-family="Roboto, sans-serif" font-weight="400" letter-spacing="0.39" fill="#4F4539">Package shipped!</text>
+                        </g>
+                        <g id="Empty">
+                          <text font-size="36.75" font-family="Roboto, sans-serif" font-weight="500" letter-spacing="0.66" fill="#4F4539"><tspan x="95" y="536" textLength="605" lengthAdjust="spacing">Cucumber Mask Facial has shipped.</tspan><tspan x="95" y="589" textLength="25" lengthAdjust="spacing">…</tspan></text>
+                        </g>
                       </g>
                     </g>
-                  </g>
-                  <g id="Box">
-                      <rect x="42" y="676" width="966" height="433" rx="42" ry="42" fill="#F0E0CF"/>
-                    <g id="Column">
-                      <g id="Row">
-                        <g id="ImageKt">
-                          <image href="ideal__default.figma-raster/133.png" x="95" y="729" width="105" height="105"/>
-                        </g>
-                        <g id="Column">
-                          <g id="Empty">
-                            <text x="232" y="771.86" font-size="31.5" font-family="Roboto, sans-serif" font-weight="600" letter-spacing="1.31" fill="#4F4539">Ali</text>
+                    <g id="Box">
+                        <rect x="42" y="676" width="966" height="433" rx="42" ry="42" fill="#F0E0CF"/>
+                      <g id="Column">
+                        <g id="Row">
+                          <g id="ImageKt">
+                            <image href="ideal__default.figma-raster/133.png" x="95" y="729" width="105" height="105"/>
                           </g>
-                          <g id="Empty">
-                            <text x="232" y="808.86" font-size="31.5" font-family="Roboto, sans-serif" font-weight="600" letter-spacing="1.31" fill="#4F4539">40 mins ago</text>
+                          <g id="Column">
+                            <g id="Empty">
+                              <text x="232" y="771.86" font-size="31.5" font-family="Roboto, sans-serif" font-weight="600" letter-spacing="1.31" fill="#4F4539">Ali</text>
+                            </g>
+                            <g id="Empty">
+                              <text x="232" y="808.86" font-size="31.5" font-family="Roboto, sans-serif" font-weight="600" letter-spacing="1.31" fill="#4F4539">40 mins ago</text>
+                            </g>
                           </g>
-                        </g>
-                        <g id="Box">
-                          <rect x="829" y="729" width="126" height="126" rx="63" ry="63" fill="#F3E6DA"/>
-                          <g id="BoxKt">
-                            <g transform="translate(861 761) scale(0.06 0.06)">
-                              <path d="M354 673 L480 597 L606 674 L573 530 L684 434 L538 421 L480 285 L422 420 L276 433 L387 530 L354 673 Z M233 840 L298 559 L80 370 L368 345 L480 80 L592 345 L880 370 L662 559 L727 840 L480 691 L233 840 Z M480 490 L480 490 L480 490 L480 490 L480 490 L480 490 L480 490 L480 490 L480 490 Z" fill="#817567"/>
+                          <g id="Box">
+                            <rect x="829" y="729" width="126" height="126" rx="63" ry="63" fill="#F3E6DA"/>
+                            <g id="BoxKt">
+                              <g transform="translate(861 761) scale(0.06 0.06)">
+                                <path d="M354 673 L480 597 L606 674 L573 530 L684 434 L538 421 L480 285 L422 420 L276 433 L387 530 L354 673 Z M233 840 L298 559 L80 370 L368 345 L480 80 L592 345 L880 370 L662 559 L727 840 L480 691 L233 840 Z M480 490 L480 490 L480 490 L480 490 L480 490 L480 490 L480 490 L480 490 L480 490 Z" fill="#817567"/>
+                              </g>
                             </g>
                           </g>
                         </g>
-                      </g>
-                      <g id="Empty">
-                        <text x="95" y="932.99" font-size="42" font-family="Roboto, sans-serif" font-weight="400" letter-spacing="0.39" fill="#4F4539">Brunch this weekend?</text>
-                      </g>
-                      <g id="Empty">
-                        <text font-size="36.75" font-family="Roboto, sans-serif" font-weight="500" letter-spacing="0.66" fill="#4F4539"><tspan x="95" y="991" textLength="841" lengthAdjust="spacing">I'll be in your neighborhood doing errands and was</tspan><tspan x="95" y="1044" textLength="844" lengthAdjust="spacing">hoping to catch you for a coffee this Saturday. If …</tspan></text>
+                        <g id="Empty">
+                          <text x="95" y="932.99" font-size="42" font-family="Roboto, sans-serif" font-weight="400" letter-spacing="0.39" fill="#4F4539">Brunch this weekend?</text>
+                        </g>
+                        <g id="Empty">
+                          <text font-size="36.75" font-family="Roboto, sans-serif" font-weight="500" letter-spacing="0.66" fill="#4F4539"><tspan x="95" y="991" textLength="841" lengthAdjust="spacing">I'll be in your neighborhood doing errands and was</tspan><tspan x="95" y="1044" textLength="844" lengthAdjust="spacing">hoping to catch you for a coffee this Saturday. If …</tspan></text>
+                        </g>
                       </g>
                     </g>
-                  </g>
-                  <g id="Box">
-                      <rect x="42" y="1131" width="966" height="377" rx="42" ry="42" fill="#F0E0CF"/>
-                    <g id="Column">
-                      <g id="Row">
-                        <g id="ImageKt">
-                          <image href="ideal__default.figma-raster/148.png" x="95" y="1184" width="105" height="105"/>
-                        </g>
-                        <g id="Column">
-                          <g id="Empty">
-                            <text x="232" y="1226.86" font-size="31.5" font-family="Roboto, sans-serif" font-weight="600" letter-spacing="1.31" fill="#4F4539">Allison</text>
+                    <g id="Box">
+                        <rect x="42" y="1131" width="966" height="377" rx="42" ry="42" fill="#F0E0CF"/>
+                      <g id="Column">
+                        <g id="Row">
+                          <g id="ImageKt">
+                            <image href="ideal__default.figma-raster/148.png" x="95" y="1184" width="105" height="105"/>
                           </g>
-                          <g id="Empty">
-                            <text x="232" y="1263.86" font-size="31.5" font-family="Roboto, sans-serif" font-weight="600" letter-spacing="1.31" fill="#4F4539">1 hour ago</text>
+                          <g id="Column">
+                            <g id="Empty">
+                              <text x="232" y="1226.86" font-size="31.5" font-family="Roboto, sans-serif" font-weight="600" letter-spacing="1.31" fill="#4F4539">Allison</text>
+                            </g>
+                            <g id="Empty">
+                              <text x="232" y="1263.86" font-size="31.5" font-family="Roboto, sans-serif" font-weight="600" letter-spacing="1.31" fill="#4F4539">1 hour ago</text>
+                            </g>
                           </g>
-                        </g>
-                        <g id="Box">
-                          <rect x="829" y="1184" width="126" height="126" rx="63" ry="63" fill="#F3E6DA"/>
-                          <g id="BoxKt">
-                            <g transform="translate(861 1216) scale(0.06 0.06)">
-                              <path d="M354 673 L480 597 L606 674 L573 530 L684 434 L538 421 L480 285 L422 420 L276 433 L387 530 L354 673 Z M233 840 L298 559 L80 370 L368 345 L480 80 L592 345 L880 370 L662 559 L727 840 L480 691 L233 840 Z M480 490 L480 490 L480 490 L480 490 L480 490 L480 490 L480 490 L480 490 L480 490 Z" fill="#817567"/>
+                          <g id="Box">
+                            <rect x="829" y="1184" width="126" height="126" rx="63" ry="63" fill="#F3E6DA"/>
+                            <g id="BoxKt">
+                              <g transform="translate(861 1216) scale(0.06 0.06)">
+                                <path d="M354 673 L480 597 L606 674 L573 530 L684 434 L538 421 L480 285 L422 420 L276 433 L387 530 L354 673 Z M233 840 L298 559 L80 370 L368 345 L480 80 L592 345 L880 370 L662 559 L727 840 L480 691 L233 840 Z M480 490 L480 490 L480 490 L480 490 L480 490 L480 490 L480 490 L480 490 L480 490 Z" fill="#817567"/>
+                              </g>
                             </g>
                           </g>
                         </g>
-                      </g>
-                      <g id="Empty">
-                        <text x="95" y="1387.99" font-size="42" font-family="Roboto, sans-serif" font-weight="400" letter-spacing="0.39" fill="#4F4539">Bonjour from Paris</text>
-                      </g>
-                      <g id="Empty">
-                        <text x="95" y="1450.92" font-size="36.75" font-family="Roboto, sans-serif" font-weight="500" letter-spacing="0.66" fill="#4F4539">Here are some great shots from my trip...</text>
+                        <g id="Empty">
+                          <text x="95" y="1387.99" font-size="42" font-family="Roboto, sans-serif" font-weight="400" letter-spacing="0.39" fill="#4F4539">Bonjour from Paris</text>
+                        </g>
+                        <g id="Empty">
+                          <text x="95" y="1450.92" font-size="36.75" font-family="Roboto, sans-serif" font-weight="500" letter-spacing="0.66" fill="#4F4539">Here are some great shots from my trip...</text>
+                        </g>
                       </g>
                     </g>
-                  </g>
-                  <g id="Box">
-                      <rect x="42" y="1530" width="966" height="433" rx="42" ry="42" fill="#F0E0CF"/>
-                    <g id="Column">
-                      <g id="Row">
-                        <g id="ImageKt">
-                          <image href="ideal__default.figma-raster/163.png" x="95" y="1583" width="105" height="105"/>
-                        </g>
-                        <g id="Column">
-                          <g id="Empty">
-                            <text x="232" y="1625.86" font-size="31.5" font-family="Roboto, sans-serif" font-weight="600" letter-spacing="1.31" fill="#4F4539">Kim</text>
+                    <g id="Box">
+                        <rect x="42" y="1530" width="966" height="433" rx="42" ry="42" fill="#F0E0CF"/>
+                      <g id="Column">
+                        <g id="Row">
+                          <g id="ImageKt">
+                            <image href="ideal__default.figma-raster/163.png" x="95" y="1583" width="105" height="105"/>
                           </g>
-                          <g id="Empty">
-                            <text x="232" y="1662.86" font-size="31.5" font-family="Roboto, sans-serif" font-weight="600" letter-spacing="1.31" fill="#4F4539">2 hours ago</text>
+                          <g id="Column">
+                            <g id="Empty">
+                              <text x="232" y="1625.86" font-size="31.5" font-family="Roboto, sans-serif" font-weight="600" letter-spacing="1.31" fill="#4F4539">Kim</text>
+                            </g>
+                            <g id="Empty">
+                              <text x="232" y="1662.86" font-size="31.5" font-family="Roboto, sans-serif" font-weight="600" letter-spacing="1.31" fill="#4F4539">2 hours ago</text>
+                            </g>
                           </g>
-                        </g>
-                        <g id="Box">
-                          <rect x="829" y="1583" width="126" height="126" rx="63" ry="63" fill="#F3E6DA"/>
-                          <g id="BoxKt">
-                            <g transform="translate(861 1615) scale(0.06 0.06)">
-                              <path d="M354 673 L480 597 L606 674 L573 530 L684 434 L538 421 L480 285 L422 420 L276 433 L387 530 L354 673 Z M233 840 L298 559 L80 370 L368 345 L480 80 L592 345 L880 370 L662 559 L727 840 L480 691 L233 840 Z M480 490 L480 490 L480 490 L480 490 L480 490 L480 490 L480 490 L480 490 L480 490 Z" fill="#817567"/>
+                          <g id="Box">
+                            <rect x="829" y="1583" width="126" height="126" rx="63" ry="63" fill="#F3E6DA"/>
+                            <g id="BoxKt">
+                              <g transform="translate(861 1615) scale(0.06 0.06)">
+                                <path d="M354 673 L480 597 L606 674 L573 530 L684 434 L538 421 L480 285 L422 420 L276 433 L387 530 L354 673 Z M233 840 L298 559 L80 370 L368 345 L480 80 L592 345 L880 370 L662 559 L727 840 L480 691 L233 840 Z M480 490 L480 490 L480 490 L480 490 L480 490 L480 490 L480 490 L480 490 L480 490 Z" fill="#817567"/>
+                              </g>
                             </g>
                           </g>
                         </g>
-                      </g>
-                      <g id="Empty">
-                        <text x="95" y="1786.99" font-size="42" font-family="Roboto, sans-serif" font-weight="400" letter-spacing="0.39" fill="#4F4539">High school reunion?</text>
-                      </g>
-                      <g id="Empty">
-                        <text font-size="36.75" font-family="Roboto, sans-serif" font-weight="500" letter-spacing="0.66" fill="#4F4539"><tspan x="95" y="1845" textLength="171" lengthAdjust="spacing">Hi friends,</tspan><tspan x="95" y="1898" textLength="25" lengthAdjust="spacing">…</tspan></text>
+                        <g id="Empty">
+                          <text x="95" y="1786.99" font-size="42" font-family="Roboto, sans-serif" font-weight="400" letter-spacing="0.39" fill="#4F4539">High school reunion?</text>
+                        </g>
+                        <g id="Empty">
+                          <text font-size="36.75" font-family="Roboto, sans-serif" font-weight="500" letter-spacing="0.66" fill="#4F4539"><tspan x="95" y="1845" textLength="171" lengthAdjust="spacing">Hi friends,</tspan><tspan x="95" y="1898" textLength="25" lengthAdjust="spacing">…</tspan></text>
+                        </g>
                       </g>
                     </g>
                   </g>
                 </g>
+                <clipPath id="clip-2"><rect x="42" y="42" width="966" height="148" rx="84" ry="84"/></clipPath>
+                <g id="ReusableComposeNode">
+                    <rect x="42" y="42" width="966" height="148" rx="84" ry="84" fill="#F3E6DA"/>
+                  <g clip-path="url(#clip-2)">
+                    <g id="ReusableComposeNode">
+                      <image href="ideal__default.figma-raster/48.png" x="42" y="42" width="966" height="148"/>
+                    </g>
+                  </g>
+                </g>
               </g>
-              <clipPath id="clip-1"><rect x="42" y="42" width="966" height="148" rx="84" ry="84"/></clipPath>
-              <g id="ReusableComposeNode">
-                  <rect x="42" y="42" width="966" height="148" rx="84" ry="84" fill="#F3E6DA"/>
-                <g clip-path="url(#clip-1)">
+              <g id="ReusableComposeNode" filter="url(#shadow-16)">
+                <rect x="660" y="1701" width="348" height="147" rx="63" ry="63" fill="#D4EABB"/>
+                <g id="ReusableComposeNode">
                   <g id="ReusableComposeNode">
-                    <image href="ideal__default.figma-raster/48.png" x="42" y="42" width="966" height="148"/>
+                    <g transform="translate(702 1743) scale(0.06 0.06)">
+                      <path d="M200 760 L257 760 L648 369 L591 312 L200 703 L200 760 Z M120 840 L120 670 L648 143 Q 660 132 674.5 126 Q 689 120 705 120 Q 721 120 736 126 Q 751 132 762 144 L817 200 Q 829 211 834.5 226 Q 840 241 840 256 Q 840 272 834.5 286.5 Q 829 301 817 313 L290 840 L120 840 Z M760 256 L760 256 L704 200 L704 200 L760 256 Z M619 341 L591 312 L591 312 L648 369 L648 369 L619 341 Z" fill="#102004"/>
+                    </g>
+                  </g>
+                  <g id="ReusableComposeNode">
+                    <g id="ReusableComposeNode">
+                    </g>
+                    <g id="ReusableComposeNode">
+                      <text x="797" y="1786.92" font-size="36.75" font-family="Roboto, sans-serif" font-weight="600" letter-spacing="0.26" fill="#102004">Compose</text>
+                    </g>
                   </g>
                 </g>
               </g>
             </g>
-            <g id="ReusableComposeNode" filter="url(#shadow-16)">
-              <rect x="660" y="1701" width="348" height="147" rx="63" ry="63" fill="#D4EABB"/>
-              <g id="ReusableComposeNode">
-                <g id="ReusableComposeNode">
-                  <g transform="translate(702 1743) scale(0.06 0.06)">
-                    <path d="M200 760 L257 760 L648 369 L591 312 L200 703 L200 760 Z M120 840 L120 670 L648 143 Q 660 132 674.5 126 Q 689 120 705 120 Q 721 120 736 126 Q 751 132 762 144 L817 200 Q 829 211 834.5 226 Q 840 241 840 256 Q 840 272 834.5 286.5 Q 829 301 817 313 L290 840 L120 840 Z M760 256 L760 256 L704 200 L704 200 L760 256 Z M619 341 L591 312 L591 312 L648 369 L648 369 L619 341 Z" fill="#102004"/>
-                  </g>
-                </g>
-                <g id="ReusableComposeNode">
-                  <g id="ReusableComposeNode">
-                  </g>
-                  <g id="ReusableComposeNode">
-                    <text x="797" y="1786.92" font-size="36.75" font-family="Roboto, sans-serif" font-weight="600" letter-spacing="0.26" fill="#102004">Compose</text>
-                  </g>
-                </g>
-              </g>
-            </g>
-          </g>
-          <g id="ReusableComposeNode">
-              <rect x="0" y="1890" width="1050" height="210" fill="#F9ECDF"/>
             <g id="ReusableComposeNode">
+                <rect x="0" y="1890" width="1050" height="210" fill="#F9ECDF"/>
               <g id="ReusableComposeNode">
-                <g id="ReusableComposeNode" opacity="0.72">
-                  <rect x="69" y="1953" width="108" height="84" rx="42" ry="42" fill="#FBDEBC"/>
-                </g>
                 <g id="ReusableComposeNode">
-                  <g transform="translate(91 1963) scale(0.06 0.06)">
-                    <path d="M200 840 Q 167 840 143.5 816.5 Q 120 793 120 760 L120 200 Q 120 167 143.5 143.5 Q 167 120 200 120 L760 120 Q 793 120 816.5 143.5 Q 840 167 840 200 L840 760 Q 840 793 816.5 816.5 Q 793 840 760 840 L200 840 Z M480 640 Q 518 640 549 618 Q 580 596 592 560 L760 560 L760 200 Q 760 200 760 200 Q 760 200 760 200 L200 200 Q 200 200 200 200 Q 200 200 200 200 L200 560 L368 560 Q 380 596 411 618 Q 442 640 480 640 Z" fill="#322512"/>
+                  <g id="ReusableComposeNode" opacity="0.72">
+                    <rect x="69" y="1953" width="108" height="84" rx="42" ry="42" fill="#FBDEBC"/>
+                  </g>
+                  <g id="ReusableComposeNode">
+                    <g transform="translate(91 1963) scale(0.06 0.06)">
+                      <path d="M200 840 Q 167 840 143.5 816.5 Q 120 793 120 760 L120 200 Q 120 167 143.5 143.5 Q 167 120 200 120 L760 120 Q 793 120 816.5 143.5 Q 840 167 840 200 L840 760 Q 840 793 816.5 816.5 Q 793 840 760 840 L200 840 Z M480 640 Q 518 640 549 618 Q 580 596 592 560 L760 560 L760 200 Q 760 200 760 200 Q 760 200 760 200 L200 200 Q 200 200 200 200 Q 200 200 200 200 L200 560 L368 560 Q 380 596 411 618 Q 442 640 480 640 Z" fill="#322512"/>
+                    </g>
+                  </g>
+                  <g id="ReusableComposeNode">
+                    <image href="ideal__default.figma-raster/12.png" x="49" y="1953" width="147" height="84"/>
                   </g>
                 </g>
                 <g id="ReusableComposeNode">
-                  <image href="ideal__default.figma-raster/12.png" x="49" y="1953" width="147" height="84"/>
+                  <g id="ReusableComposeNode" opacity="0">
+                    <rect x="267" y="1890" width="0" height="84" rx="0" ry="0" fill="#FBDEBC"/>
+                  </g>
+                  <g id="ReusableComposeNode">
+                    <g transform="translate(359 1963) scale(0.06 0.06)">
+                      <path d="M200 840 Q 167 840 143.5 816.5 Q 120 793 120 760 L120 200 Q 120 167 143.5 143.5 Q 167 120 200 120 L760 120 Q 793 120 816.5 143.5 Q 840 167 840 200 L840 760 Q 840 793 816.5 816.5 Q 793 840 760 840 L200 840 Z M280 680 L560 680 L560 600 L280 600 L280 680 Z M280 520 L680 520 L680 440 L280 440 L280 520 Z M280 360 L680 360 L680 280 L280 280 L280 360 Z" fill="#4F4539"/>
+                    </g>
+                  </g>
+                  <g id="ReusableComposeNode">
+                    <image href="ideal__default.figma-raster/19.png" x="317" y="1953" width="147" height="84"/>
+                  </g>
+                </g>
+                <g id="ReusableComposeNode">
+                  <g id="ReusableComposeNode" opacity="0">
+                    <rect x="535" y="1890" width="0" height="84" rx="0" ry="0" fill="#FBDEBC"/>
+                  </g>
+                  <g id="ReusableComposeNode">
+                    <g transform="translate(627 1963) scale(0.06 0.06)">
+                      <path d="M80 880 L80 160 Q 80 127 103.5 103.5 Q 127 80 160 80 L800 80 Q 833 80 856.5 103.5 Q 880 127 880 160 L880 640 Q 880 673 856.5 696.5 Q 833 720 800 720 L240 720 L80 880 Z M206 640 L800 640 Q 800 640 800 640 Q 800 640 800 640 L800 160 Q 800 160 800 160 Q 800 160 800 160 L160 160 Q 160 160 160 160 Q 160 160 160 160 L160 685 L206 640 Z M160 640 L160 640 L160 160 Q 160 160 160 160 Q 160 160 160 160 L160 160 Q 160 160 160 160 Q 160 160 160 160 L160 640 Q 160 640 160 640 Q 160 640 160 640 Z" fill="#4F4539"/>
+                    </g>
+                  </g>
+                  <g id="ReusableComposeNode">
+                    <image href="ideal__default.figma-raster/26.png" x="585" y="1953" width="147" height="84"/>
+                  </g>
+                </g>
+                <g id="ReusableComposeNode">
+                  <g id="ReusableComposeNode" opacity="0">
+                    <rect x="803" y="1890" width="0" height="84" rx="0" ry="0" fill="#FBDEBC"/>
+                  </g>
+                  <g id="ReusableComposeNode">
+                    <g transform="translate(895 1963) scale(0.06 0.06)">
+                      <path d="M40 800 L40 688 Q 40 654 57.5 625.5 Q 75 597 104 582 Q 166 551 230 535.5 Q 294 520 360 520 Q 426 520 490 535.5 Q 554 551 616 582 Q 645 597 662.5 625.5 Q 680 654 680 688 L680 800 L40 800 Z M760 800 L760 680 Q 760 636 735.5 595.5 Q 711 555 666 526 Q 717 532 762 546.5 Q 807 561 846 582 Q 882 602 901 626.5 Q 920 651 920 680 L920 800 L760 800 Z M360 480 Q 294 480 247 433 Q 200 386 200 320 Q 200 254 247 207 Q 294 160 360 160 Q 426 160 473 207 Q 520 254 520 320 Q 520 386 473 433 Q 426 480 360 480 Z M760 320 Q 760 386 713 433 Q 666 480 600 480 Q 589 480 572 477.5 Q 555 475 544 472 Q 571 440 585.5 401 Q 600 362 600 320 Q 600 278 585.5 239 Q 571 200 544 168 Q 558 163 572 161.5 Q 586 160 600 160 Q 666 160 713 207 Q 760 254 760 320 Z M120 720 L600 720 L600 688 Q 600 677 594.5 668 Q 589 659 580 654 Q 526 627 471 613.5 Q 416 600 360 600 Q 304 600 249 613.5 Q 194 627 140 654 Q 131 659 125.5 668 Q 120 677 120 688 L120 720 Z M360 400 Q 393 400 416.5 376.5 Q 440 353 440 320 Q 440 287 416.5 263.5 Q 393 240 360 240 Q 327 240 303.5 263.5 Q 280 287 280 320 Q 280 353 303.5 376.5 Q 327 400 360 400 Z M360 720 L360 720 L360 720 Q 360 720 360 720 Q 360 720 360 720 Q 360 720 360 720 Q 360 720 360 720 Q 360 720 360 720 Q 360 720 360 720 Q 360 720 360 720 Q 360 720 360 720 Z" fill="#4F4539"/>
+                    </g>
+                  </g>
+                  <g id="ReusableComposeNode">
+                    <image href="ideal__default.figma-raster/33.png" x="853" y="1953" width="147" height="84"/>
+                  </g>
                 </g>
               </g>
+            </g>
+            <g id="ReusableComposeNode">
+            </g>
+          </g>
+          <g id="ReusableComposeNode">
+            <g transform="translate(0 0) scale(1 1)">
+              <path d="M0,0 H1050 V2100 H0 Z" fill="none"/>
+            </g>
+          </g>
+          <clipPath id="clip-3"><path d="M-945,0 H-63 A63,63 0 0 1 0,63 V2037 A63,63 0 0 1 -63,2100 H-945 V0 Z"/></clipPath>
+          <g id="ReusableComposeNode">
+            <path d="M-945,0 H-63 A63,63 0 0 1 0,63 V2037 A63,63 0 0 1 -63,2100 H-945 V0 Z" fill="#FFF1E5"/>
+            <g clip-path="url(#clip-3)">
               <g id="ReusableComposeNode">
-                <g id="ReusableComposeNode" opacity="0">
-                  <rect x="267" y="1890" width="0" height="84" rx="0" ry="0" fill="#FBDEBC"/>
-                </g>
+                <rect x="-945" y="0" width="945" height="2100" fill="#FCEFE2"/>
                 <g id="ReusableComposeNode">
-                  <g transform="translate(359 1963) scale(0.06 0.06)">
-                    <path d="M200 840 Q 167 840 143.5 816.5 Q 120 793 120 760 L120 200 Q 120 167 143.5 143.5 Q 167 120 200 120 L760 120 Q 793 120 816.5 143.5 Q 840 167 840 200 L840 760 Q 840 793 816.5 816.5 Q 793 840 760 840 L200 840 Z M280 680 L560 680 L560 600 L280 600 L280 680 Z M280 520 L680 520 L680 440 L280 440 L280 520 Z M280 360 L680 360 L680 280 L280 280 L280 360 Z" fill="#4F4539"/>
+                  <g id="ReusableComposeNode">
+                    <g id="ReusableComposeNode">
+                      <text x="-861" y="168.99" font-size="42" font-family="Roboto, sans-serif" font-weight="600" letter-spacing="0.39" fill="#805610">REPLY</text>
+                    </g>
+                    <g id="ReusableComposeNode">
+                      <g id="ReusableComposeNode">
+                        <g transform="translate(-178 116) scale(0.06 0.06)">
+                          <path d="M120 720 L120 640 L640 640 L640 720 L120 720 Z M784 680 L584 480 L784 280 L840 336 L696 480 L840 624 L784 680 Z M120 520 L120 440 L520 440 L520 520 L120 520 Z M120 320 L120 240 L640 240 L640 320 L120 320 Z" fill="#201B13"/>
+                        </g>
+                      </g>
+                    </g>
+                  </g>
+                  <g id="ReusableComposeNode" filter="url(#shadow-16)">
+                    <rect x="-903" y="284" width="861" height="147" rx="63" ry="63" fill="#D4EABB"/>
+                    <g id="ReusableComposeNode">
+                      <g id="ReusableComposeNode">
+                        <g transform="translate(-850 334) scale(0.04 0.04)">
+                          <path d="M200 760 L257 760 L648 369 L591 312 L200 703 L200 760 Z M120 840 L120 670 L648 143 Q 660 132 674.5 126 Q 689 120 705 120 Q 721 120 736 126 Q 751 132 762 144 L817 200 Q 829 211 834.5 226 Q 840 241 840 256 Q 840 272 834.5 286.5 Q 829 301 817 313 L290 840 L120 840 Z M760 256 L760 256 L704 200 L704 200 L760 256 Z M619 341 L591 312 L591 312 L648 369 L648 369 L619 341 Z" fill="#102004"/>
+                        </g>
+                      </g>
+                      <g id="ReusableComposeNode">
+                        <text x="-449" y="369.92" font-size="36.75" font-family="Roboto, sans-serif" font-weight="600" letter-spacing="0.26" text-anchor="middle" fill="#102004">Compose</text>
+                      </g>
+                    </g>
                   </g>
                 </g>
                 <g id="ReusableComposeNode">
-                  <image href="ideal__default.figma-raster/19.png" x="317" y="1953" width="147" height="84"/>
-                </g>
-              </g>
-              <g id="ReusableComposeNode">
-                <g id="ReusableComposeNode" opacity="0">
-                  <rect x="535" y="1890" width="0" height="84" rx="0" ry="0" fill="#FBDEBC"/>
-                </g>
-                <g id="ReusableComposeNode">
-                  <g transform="translate(627 1963) scale(0.06 0.06)">
-                    <path d="M80 880 L80 160 Q 80 127 103.5 103.5 Q 127 80 160 80 L800 80 Q 833 80 856.5 103.5 Q 880 127 880 160 L880 640 Q 880 673 856.5 696.5 Q 833 720 800 720 L240 720 L80 880 Z M206 640 L800 640 Q 800 640 800 640 Q 800 640 800 640 L800 160 Q 800 160 800 160 Q 800 160 800 160 L160 160 Q 160 160 160 160 Q 160 160 160 160 L160 685 L206 640 Z M160 640 L160 640 L160 160 Q 160 160 160 160 Q 160 160 160 160 L160 160 Q 160 160 160 160 Q 160 160 160 160 L160 640 Q 160 640 160 640 Q 160 640 160 640 Z" fill="#4F4539"/>
+                  <g id="ReusableComposeNode">
+                    <rect x="-903" y="756" width="861" height="147" rx="73.5" ry="73.5" fill="#FBDEBC"/>
+                    <g id="ReusableComposeNode">
+                      <g id="ReusableComposeNode">
+                        <g transform="translate(-861 798) scale(0.06 0.06)">
+                          <path d="M200 840 Q 167 840 143.5 816.5 Q 120 793 120 760 L120 200 Q 120 167 143.5 143.5 Q 167 120 200 120 L760 120 Q 793 120 816.5 143.5 Q 840 167 840 200 L840 760 Q 840 793 816.5 816.5 Q 793 840 760 840 L200 840 Z M480 640 Q 518 640 549 618 Q 580 596 592 560 L760 560 L760 200 Q 760 200 760 200 Q 760 200 760 200 L200 200 Q 200 200 200 200 Q 200 200 200 200 L200 560 L368 560 Q 380 596 411 618 Q 442 640 480 640 Z" fill="#271904"/>
+                        </g>
+                      </g>
+                      <g id="ReusableComposeNode">
+                      </g>
+                      <g id="ReusableComposeNode">
+                        <text x="-724" y="843.99" font-size="42" font-family="Roboto, sans-serif" font-weight="400" letter-spacing="0.39" fill="#271904">Inbox</text>
+                      </g>
+                    </g>
                   </g>
-                </g>
-                <g id="ReusableComposeNode">
-                  <image href="ideal__default.figma-raster/26.png" x="585" y="1953" width="147" height="84"/>
-                </g>
-              </g>
-              <g id="ReusableComposeNode">
-                <g id="ReusableComposeNode" opacity="0">
-                  <rect x="803" y="1890" width="0" height="84" rx="0" ry="0" fill="#FBDEBC"/>
-                </g>
-                <g id="ReusableComposeNode">
-                  <g transform="translate(895 1963) scale(0.06 0.06)">
-                    <path d="M40 800 L40 688 Q 40 654 57.5 625.5 Q 75 597 104 582 Q 166 551 230 535.5 Q 294 520 360 520 Q 426 520 490 535.5 Q 554 551 616 582 Q 645 597 662.5 625.5 Q 680 654 680 688 L680 800 L40 800 Z M760 800 L760 680 Q 760 636 735.5 595.5 Q 711 555 666 526 Q 717 532 762 546.5 Q 807 561 846 582 Q 882 602 901 626.5 Q 920 651 920 680 L920 800 L760 800 Z M360 480 Q 294 480 247 433 Q 200 386 200 320 Q 200 254 247 207 Q 294 160 360 160 Q 426 160 473 207 Q 520 254 520 320 Q 520 386 473 433 Q 426 480 360 480 Z M760 320 Q 760 386 713 433 Q 666 480 600 480 Q 589 480 572 477.5 Q 555 475 544 472 Q 571 440 585.5 401 Q 600 362 600 320 Q 600 278 585.5 239 Q 571 200 544 168 Q 558 163 572 161.5 Q 586 160 600 160 Q 666 160 713 207 Q 760 254 760 320 Z M120 720 L600 720 L600 688 Q 600 677 594.5 668 Q 589 659 580 654 Q 526 627 471 613.5 Q 416 600 360 600 Q 304 600 249 613.5 Q 194 627 140 654 Q 131 659 125.5 668 Q 120 677 120 688 L120 720 Z M360 400 Q 393 400 416.5 376.5 Q 440 353 440 320 Q 440 287 416.5 263.5 Q 393 240 360 240 Q 327 240 303.5 263.5 Q 280 287 280 320 Q 280 353 303.5 376.5 Q 327 400 360 400 Z M360 720 L360 720 L360 720 Q 360 720 360 720 Q 360 720 360 720 Q 360 720 360 720 Q 360 720 360 720 Q 360 720 360 720 Q 360 720 360 720 Q 360 720 360 720 Q 360 720 360 720 Z" fill="#4F4539"/>
+                  <g id="ReusableComposeNode">
+                    <g id="ReusableComposeNode">
+                      <g id="ReusableComposeNode">
+                        <g transform="translate(-861 945) scale(0.06 0.06)">
+                          <path d="M200 840 Q 167 840 143.5 816.5 Q 120 793 120 760 L120 200 Q 120 167 143.5 143.5 Q 167 120 200 120 L760 120 Q 793 120 816.5 143.5 Q 840 167 840 200 L840 760 Q 840 793 816.5 816.5 Q 793 840 760 840 L200 840 Z M280 680 L560 680 L560 600 L280 600 L280 680 Z M280 520 L680 520 L680 440 L280 440 L280 520 Z M280 360 L680 360 L680 280 L280 280 L280 360 Z" fill="#4F4539"/>
+                        </g>
+                      </g>
+                      <g id="ReusableComposeNode">
+                      </g>
+                      <g id="ReusableComposeNode">
+                        <text x="-724" y="990.99" font-size="42" font-family="Roboto, sans-serif" font-weight="400" letter-spacing="0.39" fill="#4F4539">Articles</text>
+                      </g>
+                    </g>
                   </g>
-                </g>
-                <g id="ReusableComposeNode">
-                  <image href="ideal__default.figma-raster/33.png" x="853" y="1953" width="147" height="84"/>
+                  <g id="ReusableComposeNode">
+                    <g id="ReusableComposeNode">
+                      <g id="ReusableComposeNode">
+                        <g transform="translate(-861 1092) scale(0.06 0.06)">
+                          <path d="M80 880 L80 160 Q 80 127 103.5 103.5 Q 127 80 160 80 L800 80 Q 833 80 856.5 103.5 Q 880 127 880 160 L880 640 Q 880 673 856.5 696.5 Q 833 720 800 720 L240 720 L80 880 Z M206 640 L800 640 Q 800 640 800 640 Q 800 640 800 640 L800 160 Q 800 160 800 160 Q 800 160 800 160 L160 160 Q 160 160 160 160 Q 160 160 160 160 L160 685 L206 640 Z M160 640 L160 640 L160 160 Q 160 160 160 160 Q 160 160 160 160 L160 160 Q 160 160 160 160 Q 160 160 160 160 L160 640 Q 160 640 160 640 Q 160 640 160 640 Z" fill="#4F4539"/>
+                        </g>
+                      </g>
+                      <g id="ReusableComposeNode">
+                      </g>
+                      <g id="ReusableComposeNode">
+                        <text x="-724" y="1137.99" font-size="42" font-family="Roboto, sans-serif" font-weight="400" letter-spacing="0.39" fill="#4F4539">Direct Messages</text>
+                      </g>
+                    </g>
+                  </g>
+                  <g id="ReusableComposeNode">
+                    <g id="ReusableComposeNode">
+                      <g id="ReusableComposeNode">
+                        <g transform="translate(-861 1239) scale(0.06 0.06)">
+                          <path d="M40 800 L40 688 Q 40 654 57.5 625.5 Q 75 597 104 582 Q 166 551 230 535.5 Q 294 520 360 520 Q 426 520 490 535.5 Q 554 551 616 582 Q 645 597 662.5 625.5 Q 680 654 680 688 L680 800 L40 800 Z M760 800 L760 680 Q 760 636 735.5 595.5 Q 711 555 666 526 Q 717 532 762 546.5 Q 807 561 846 582 Q 882 602 901 626.5 Q 920 651 920 680 L920 800 L760 800 Z M360 480 Q 294 480 247 433 Q 200 386 200 320 Q 200 254 247 207 Q 294 160 360 160 Q 426 160 473 207 Q 520 254 520 320 Q 520 386 473 433 Q 426 480 360 480 Z M760 320 Q 760 386 713 433 Q 666 480 600 480 Q 589 480 572 477.5 Q 555 475 544 472 Q 571 440 585.5 401 Q 600 362 600 320 Q 600 278 585.5 239 Q 571 200 544 168 Q 558 163 572 161.5 Q 586 160 600 160 Q 666 160 713 207 Q 760 254 760 320 Z M120 720 L600 720 L600 688 Q 600 677 594.5 668 Q 589 659 580 654 Q 526 627 471 613.5 Q 416 600 360 600 Q 304 600 249 613.5 Q 194 627 140 654 Q 131 659 125.5 668 Q 120 677 120 688 L120 720 Z M360 400 Q 393 400 416.5 376.5 Q 440 353 440 320 Q 440 287 416.5 263.5 Q 393 240 360 240 Q 327 240 303.5 263.5 Q 280 287 280 320 Q 280 353 303.5 376.5 Q 327 400 360 400 Z M360 720 L360 720 L360 720 Q 360 720 360 720 Q 360 720 360 720 Q 360 720 360 720 Q 360 720 360 720 Q 360 720 360 720 Q 360 720 360 720 Q 360 720 360 720 Q 360 720 360 720 Z" fill="#4F4539"/>
+                        </g>
+                      </g>
+                      <g id="ReusableComposeNode">
+                      </g>
+                      <g id="ReusableComposeNode">
+                        <text x="-724" y="1284.99" font-size="42" font-family="Roboto, sans-serif" font-weight="400" letter-spacing="0.39" fill="#4F4539">Groups</text>
+                      </g>
+                    </g>
+                  </g>
                 </g>
               </g>
             </g>
           </g>
-          <g id="ReusableComposeNode">
-          </g>
-        </g>
-        <g id="ReusableComposeNode">
-          <g transform="translate(0 0) scale(1 1)">
-            <path d="M0,0 H1050 V2100 H0 Z" fill="none"/>
-          </g>
-        </g>
-        <g id="ReusableComposeNode">
         </g>
       </g>
     </g>

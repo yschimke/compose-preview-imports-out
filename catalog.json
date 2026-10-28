@@ -630,6 +630,20 @@
         },
         {
           "bounds": {
+            "x": 179,
+            "y": 85,
+            "width": 269,
+            "height": 63
+          },
+          "padding": {
+            "start": 4,
+            "top": 0,
+            "end": 4,
+            "bottom": 0
+          }
+        },
+        {
+          "bounds": {
             "x": 882,
             "y": 74,
             "width": 84,
@@ -974,12 +988,28 @@
     "androidx.compose.material3:material3",
     "androidx.compose.material3.adaptive:adaptive"
   ],
-  "renderer": "compose-preview 2.61.2",
-  "generatedAt": "2026-10-15T11:27:41.332Z",
+  "renderer": "compose-preview 2.74.1",
+  "generatedAt": "2026-10-28T02:53:05.118Z",
   "display": {
     "surface": "light",
     "hero": "Adaptive/Phone"
   },
+  "themes": [
+    {
+      "id": "ee.schimke.composeai.imported.themes.ImportedTheme_Dark",
+      "tokensFile": "themes/ee.schimke.composeai.imported.themes.importedtheme_dark.dtcg.json",
+      "name": "Dark",
+      "group": "Reply",
+      "dark": true
+    },
+    {
+      "id": "ee.schimke.composeai.imported.themes.ImportedTheme_Light",
+      "tokensFile": "themes/ee.schimke.composeai.imported.themes.importedtheme_light.dtcg.json",
+      "name": "Light",
+      "group": "Reply",
+      "dark": false
+    }
+  ],
   "liveBundle": {
     "path": "bundle/",
     "file": "bundle.png"
@@ -995,7 +1025,7 @@
   "componentsFile": "components.json",
   "source": {
     "repo": "android/compose-samples",
-    "ref": "0c2267c6c69bd06c8b7a8ec5fed7d7a3c4d7c822",
+    "ref": "25631e8f544a9a1e3f01e296eaf1b4c28428196c",
     "module": ":app"
   }
 }

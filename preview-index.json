@@ -10,6 +10,17 @@
   ],
   "revisions": [
     {
+      "commit": "adc6c68fda76a5cf719155cd889e3ddb9c9e7eeb",
+      "previews": [
+        "adaptive-phone__ideal__default",
+        "adaptive-phone__ideal__desktop-portrait__medium",
+        "adaptive-phone__ideal__desktop__expanded",
+        "adaptive-phone__ideal__tablet-portrait__compact",
+        "adaptive-phone__ideal__tablet__medium",
+        "states-coming-soon__ideal__default"
+      ]
+    },
+    {
       "commit": "1f42b981df7f149ceec532973999ce97b9f43644",
       "previews": [
         "adaptive-phone__ideal__default",
