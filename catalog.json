@@ -73,26 +73,7 @@
       "sourceModule": ":composeApp",
       "bodyLine": 48,
       "sourceDirectory": "composeApp",
-      "sourceFunction": "CountryRowPreview",
-      "parameters": [
-        {
-          "name": "country",
-          "type": "Country"
-        },
-        {
-          "name": "selectedCountry",
-          "type": "Country?"
-        },
-        {
-          "name": "countrySelected",
-          "type": "(Country) -> Unit"
-        },
-        {
-          "name": "rankings",
-          "type": "Map<String, Int>",
-          "hasDefault": true
-        }
-      ]
+      "sourceFunction": "CountryRowPreview"
     },
     {
       "componentId": "country-row-selected",
@@ -141,26 +122,7 @@
       "sourceModule": ":composeApp",
       "bodyLine": 71,
       "sourceDirectory": "composeApp",
-      "sourceFunction": "CountryRowSelectedPreview",
-      "parameters": [
-        {
-          "name": "country",
-          "type": "Country"
-        },
-        {
-          "name": "selectedCountry",
-          "type": "Country?"
-        },
-        {
-          "name": "countrySelected",
-          "type": "(Country) -> Unit"
-        },
-        {
-          "name": "rankings",
-          "type": "Map<String, Int>",
-          "hasDefault": true
-        }
-      ]
+      "sourceFunction": "CountryRowSelectedPreview"
     },
     {
       "componentId": "country-row-unranked",
@@ -209,26 +171,7 @@
       "sourceModule": ":composeApp",
       "bodyLine": 86,
       "sourceDirectory": "composeApp",
-      "sourceFunction": "CountryRowUnrankedPreview",
-      "parameters": [
-        {
-          "name": "country",
-          "type": "Country"
-        },
-        {
-          "name": "selectedCountry",
-          "type": "Country?"
-        },
-        {
-          "name": "countrySelected",
-          "type": "(Country) -> Unit"
-        },
-        {
-          "name": "rankings",
-          "type": "Map<String, Int>",
-          "hasDefault": true
-        }
-      ]
+      "sourceFunction": "CountryRowUnrankedPreview"
     },
     {
       "componentId": "key-figures-row",
@@ -291,33 +234,7 @@
       "sourceModule": ":composeApp",
       "bodyLine": 124,
       "sourceDirectory": "composeApp",
-      "sourceFunction": "KeyFiguresRowPreview",
-      "parameters": [
-        {
-          "name": "co2Value",
-          "type": "String"
-        },
-        {
-          "name": "co2PercentChange",
-          "type": "Double"
-        },
-        {
-          "name": "rank",
-          "type": "Int"
-        },
-        {
-          "name": "share",
-          "type": "String"
-        },
-        {
-          "name": "perCapita",
-          "type": "String"
-        },
-        {
-          "name": "perCapitaRank",
-          "type": "Int?"
-        }
-      ]
+      "sourceFunction": "KeyFiguresRowPreview"
     },
     {
       "componentId": "key-figures-row-rising",
@@ -380,33 +297,7 @@
       "sourceModule": ":composeApp",
       "bodyLine": 141,
       "sourceDirectory": "composeApp",
-      "sourceFunction": "KeyFiguresRowRisingPreview",
-      "parameters": [
-        {
-          "name": "co2Value",
-          "type": "String"
-        },
-        {
-          "name": "co2PercentChange",
-          "type": "Double"
-        },
-        {
-          "name": "rank",
-          "type": "Int"
-        },
-        {
-          "name": "share",
-          "type": "String"
-        },
-        {
-          "name": "perCapita",
-          "type": "String"
-        },
-        {
-          "name": "perCapitaRank",
-          "type": "Int?"
-        }
-      ]
+      "sourceFunction": "KeyFiguresRowRisingPreview"
     },
     {
       "componentId": "co2-trend-sparkline",
@@ -432,27 +323,7 @@
       "sourceModule": ":composeApp",
       "bodyLine": 159,
       "sourceDirectory": "composeApp",
-      "sourceFunction": "CO2TrendSparklinePreview",
-      "parameters": [
-        {
-          "name": "yearlyEmissions",
-          "type": "Map<String, Double>"
-        },
-        {
-          "name": "selectedYear",
-          "type": "String"
-        },
-        {
-          "name": "modifier",
-          "type": "Modifier",
-          "hasDefault": true
-        },
-        {
-          "name": "onYearSelected",
-          "type": "(String) -> Unit",
-          "hasDefault": true
-        }
-      ]
+      "sourceFunction": "CO2TrendSparklinePreview"
     },
     {
       "componentId": "empty-state",
@@ -478,19 +349,7 @@
       "sourceModule": ":composeApp",
       "bodyLine": 101,
       "sourceDirectory": "composeApp",
-      "sourceFunction": "EmptyStatePreview",
-      "parameters": [
-        {
-          "name": "title",
-          "type": "String?",
-          "hasDefault": true
-        },
-        {
-          "name": "message",
-          "type": "String?",
-          "hasDefault": true
-        }
-      ]
+      "sourceFunction": "EmptyStatePreview"
     },
     {
       "componentId": "empty-state-message",
@@ -516,19 +375,7 @@
       "sourceModule": ":composeApp",
       "bodyLine": 111,
       "sourceDirectory": "composeApp",
-      "sourceFunction": "EmptyStateWithMessagePreview",
-      "parameters": [
-        {
-          "name": "title",
-          "type": "String?",
-          "hasDefault": true
-        },
-        {
-          "name": "message",
-          "type": "String?",
-          "hasDefault": true
-        }
-      ]
+      "sourceFunction": "EmptyStateWithMessagePreview"
     },
     {
       "componentId": "color-scheme",
@@ -995,8 +842,8 @@
       "sourceFunction": "TypographySpecimenPreview"
     }
   ],
-  "renderer": "compose-preview 2.61.2",
-  "generatedAt": "2026-10-15T12:21:14.810Z",
+  "renderer": "compose-preview 2.74.1",
+  "generatedAt": "2026-10-28T03:34:31.967Z",
   "liveBundle": {
     "path": "bundle/",
     "file": "bundle.png"
@@ -1012,7 +859,7 @@
   "componentsFile": "components.json",
   "source": {
     "repo": "joreilly/ClimateTraceKMP",
-    "ref": "fd17a939bb8b942a8e755997c6d0a5836c3b7701",
+    "ref": "a4b042d51c2d7c324cd3216764ab501b7ef60fbd",
     "module": ":composeApp"
   }
 }
