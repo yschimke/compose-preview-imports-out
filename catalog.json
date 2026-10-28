@@ -508,12 +508,28 @@
   "library": [
     "custom Canvas drawing + custom layouts"
   ],
-  "renderer": "compose-preview 2.61.2",
-  "generatedAt": "2026-10-15T11:18:57.913Z",
+  "renderer": "compose-preview 2.74.1",
+  "generatedAt": "2026-10-28T02:44:34.806Z",
   "display": {
     "surface": "light",
     "hero": "Cards/Heart rate"
   },
+  "themes": [
+    {
+      "id": "ee.schimke.composeai.imported.themes.ImportedTheme_Dark",
+      "tokensFile": "themes/ee.schimke.composeai.imported.themes.importedtheme_dark.dtcg.json",
+      "name": "Dark",
+      "group": "JetLagged",
+      "dark": true
+    },
+    {
+      "id": "ee.schimke.composeai.imported.themes.ImportedTheme_Light",
+      "tokensFile": "themes/ee.schimke.composeai.imported.themes.importedtheme_light.dtcg.json",
+      "name": "Light",
+      "group": "JetLagged",
+      "dark": false
+    }
+  ],
   "liveBundle": {
     "path": "bundle/",
     "file": "bundle.png"
@@ -529,7 +545,7 @@
   "componentsFile": "components.json",
   "source": {
     "repo": "android/compose-samples",
-    "ref": "0c2267c6c69bd06c8b7a8ec5fed7d7a3c4d7c822",
+    "ref": "25631e8f544a9a1e3f01e296eaf1b4c28428196c",
     "module": ":app"
   }
 }

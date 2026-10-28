@@ -14,6 +14,21 @@
   ],
   "revisions": [
     {
+      "commit": "1c99b20eaf8b7757a79ee4f2138fb643cca24052",
+      "previews": [
+        "cards-heart-rate__ideal__default",
+        "cards-time-asleep__ideal__default",
+        "cards-time-asleep__ideal__default__compact",
+        "cards-time-in-bed__ideal__default",
+        "cards-time-in-bed__ideal__default__compact",
+        "cards-wellness__ideal__default",
+        "charts-detail-legend__ideal__default",
+        "charts-sleep-bar__ideal__default",
+        "chrome-header__ideal__default",
+        "motion-fading-circle__ideal__default"
+      ]
+    },
+    {
       "commit": "9d4c3eba20cd267e2d614cf59d7898632678b2da",
       "previews": [
         "cards-heart-rate__ideal__default",
