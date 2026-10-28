@@ -1524,7 +1524,7 @@
       "wireframe": "wireframes/list-item-leading.svg",
       "sourceFile": "src/main/kotlin/net/mullvad/mullvadvpn/lib/ui/designsystem/ListItem.kt",
       "sourceModule": ":lib:ui:designsystem",
-      "bodyLine": 344,
+      "bodyLine": 350,
       "sourceDirectory": "android/lib/ui/designsystem",
       "sourceFunction": "PreviewLeadingListItem",
       "parameters": [
@@ -1715,7 +1715,7 @@
       "wireframe": "wireframes/list-item-leading-content.svg",
       "sourceFile": "src/main/kotlin/net/mullvad/mullvadvpn/lib/ui/designsystem/ListItem.kt",
       "sourceModule": ":lib:ui:designsystem",
-      "bodyLine": 299,
+      "bodyLine": 305,
       "sourceDirectory": "android/lib/ui/designsystem",
       "sourceFunction": "PreviewLeadingContentListItem",
       "parameters": [
@@ -1891,7 +1891,7 @@
       "wireframe": "wireframes/list-item-trailing.svg",
       "sourceFile": "src/main/kotlin/net/mullvad/mullvadvpn/lib/ui/designsystem/ListItem.kt",
       "sourceModule": ":lib:ui:designsystem",
-      "bodyLine": 379,
+      "bodyLine": 385,
       "sourceDirectory": "android/lib/ui/designsystem",
       "sourceFunction": "PreviewTrailingListItem",
       "parameters": [
@@ -2067,7 +2067,7 @@
       "wireframe": "wireframes/list-item-hierarchy.svg",
       "sourceFile": "src/main/kotlin/net/mullvad/mullvadvpn/lib/ui/designsystem/ListItem.kt",
       "sourceModule": ":lib:ui:designsystem",
-      "bodyLine": 413,
+      "bodyLine": 419,
       "sourceDirectory": "android/lib/ui/designsystem",
       "sourceFunction": "PreviewHierarchyListItem",
       "parameters": [
@@ -2243,7 +2243,7 @@
       "wireframe": "wireframes/list-item-positions.svg",
       "sourceFile": "src/main/kotlin/net/mullvad/mullvadvpn/lib/ui/designsystem/ListItem.kt",
       "sourceModule": ":lib:ui:designsystem",
-      "bodyLine": 448,
+      "bodyLine": 454,
       "sourceDirectory": "android/lib/ui/designsystem",
       "sourceFunction": "PreviewListItemPositions",
       "parameters": [
@@ -2443,8 +2443,8 @@
       "sourceFunction": "PreviewMullvadProgressIndicator"
     }
   ],
-  "renderer": "compose-preview 2.61.2",
-  "generatedAt": "2026-10-15T12:42:19.346Z",
+  "renderer": "compose-preview 2.74.1",
+  "generatedAt": "2026-10-28T03:49:36.983Z",
   "liveBundle": {
     "path": "bundle/",
     "file": "bundle.png"
@@ -2460,7 +2460,7 @@
   "componentsFile": "components.json",
   "source": {
     "repo": "mullvad/mullvadvpn-app",
-    "ref": "d159768cac16ec58ed61a5fb8b388c22b420166f",
+    "ref": "fdba2047769f6ceb8a3f5956f75cbdcb89d3e5b4",
     "module": ":lib:ui:designsystem"
   }
 }
