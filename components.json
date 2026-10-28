@@ -4444,6 +4444,11 @@
                     "group": null
                 },
                 {
+                    "previewId": "com.bitwarden.ui.platform.components.header.BitwardenExpandingListHeaderKt.BitwardenExpandingListHeader_preview",
+                    "componentId": null,
+                    "group": null
+                },
+                {
                     "previewId": "com.bitwarden.ui.platform.components.row.BitwardenExternalLinkRowKt.BitwardenExternalLinkRow_preview",
                     "componentId": null,
                     "group": null
@@ -8692,6 +8697,11 @@
                 },
                 {
                     "previewId": "com.bitwarden.ui.platform.components.field.BitwardenTextFieldKt.BitwardenTextField_preview",
+                    "componentId": null,
+                    "group": null
+                },
+                {
+                    "previewId": "com.bitwarden.ui.platform.components.header.BitwardenExpandingListHeaderKt.BitwardenExpandingListHeader_preview",
                     "componentId": null,
                     "group": null
                 },
@@ -13565,6 +13575,140 @@
                 "call": "BitwardenTextField(label = null, value = \"\", onValueChange = {}, cardStyle = null)",
                 "imports": [
                     "com.bitwarden.ui.platform.components.field.BitwardenTextField"
+                ],
+                "refusedReason": null,
+                "requiredOptIns": [],
+                "androidxOptIns": []
+            },
+            "signatureKnown": true,
+            "callableFromAnotherFile": true,
+            "hasTypeParameters": false,
+            "hasContextReceivers": false,
+            "overloadsCollided": false,
+            "builder": null,
+            "requiredOptIns": [],
+            "androidxOptIns": [],
+            "overloads": []
+        },
+        {
+            "canonicalId": "ui/com.bitwarden.ui.platform.components.header.BitwardenExpandingListHeaderKt.BitwardenExpandingListHeader",
+            "componentIds": [],
+            "symbol": {
+                "jvmOwner": "com.bitwarden.ui.platform.components.header.BitwardenExpandingListHeaderKt",
+                "callable": "com.bitwarden.ui.platform.components.header.BitwardenExpandingListHeader",
+                "name": "BitwardenExpandingListHeader",
+                "origin": "PROJECT",
+                "jvmName": "BitwardenExpandingListHeader",
+                "descriptor": "(Ljava/lang/String;ZLkotlin/jvm/functions/Function0;Landroidx/compose/ui/Modifier;Ljava/lang/String;Landroidx/compose/ui/graphics/Shape;Landroidx/compose/foundation/interaction/MutableInteractionSource;Landroidx/compose/runtime/Composer;II)V",
+                "sourceFile": "src/main/kotlin/com/bitwarden/ui/platform/components/header/BitwardenExpandingListHeader.kt",
+                "docs": "unavailable",
+                "receiver": null
+            },
+            "parameters": [
+                {
+                    "name": "label",
+                    "type": "String",
+                    "typeFqn": "kotlin.String",
+                    "hasDefault": false,
+                    "composableSlot": false,
+                    "composableSlotReceiver": null,
+                    "nullable": false,
+                    "noArgConstructible": false,
+                    "noArgFactory": null,
+                    "scopeDslReceiver": null,
+                    "lambdaReturnTypeFqn": null
+                },
+                {
+                    "name": "isExpanded",
+                    "type": "Boolean",
+                    "typeFqn": "kotlin.Boolean",
+                    "hasDefault": false,
+                    "composableSlot": false,
+                    "composableSlotReceiver": null,
+                    "nullable": false,
+                    "noArgConstructible": false,
+                    "noArgFactory": null,
+                    "scopeDslReceiver": null,
+                    "lambdaReturnTypeFqn": null
+                },
+                {
+                    "name": "onClick",
+                    "type": "() -> Unit",
+                    "typeFqn": "kotlin.Function0",
+                    "hasDefault": false,
+                    "composableSlot": false,
+                    "composableSlotReceiver": null,
+                    "nullable": false,
+                    "noArgConstructible": false,
+                    "noArgFactory": null,
+                    "scopeDslReceiver": null,
+                    "lambdaReturnTypeFqn": "kotlin.Unit"
+                },
+                {
+                    "name": "modifier",
+                    "type": "Modifier",
+                    "typeFqn": "androidx.compose.ui.Modifier",
+                    "hasDefault": true,
+                    "composableSlot": false,
+                    "composableSlotReceiver": null,
+                    "nullable": false,
+                    "noArgConstructible": false,
+                    "noArgFactory": null,
+                    "scopeDslReceiver": null,
+                    "lambdaReturnTypeFqn": null
+                },
+                {
+                    "name": "supportingLabel",
+                    "type": "String?",
+                    "typeFqn": "kotlin.String",
+                    "hasDefault": true,
+                    "composableSlot": false,
+                    "composableSlotReceiver": null,
+                    "nullable": true,
+                    "noArgConstructible": false,
+                    "noArgFactory": null,
+                    "scopeDslReceiver": null,
+                    "lambdaReturnTypeFqn": null
+                },
+                {
+                    "name": "shape",
+                    "type": "Shape",
+                    "typeFqn": "androidx.compose.ui.graphics.Shape",
+                    "hasDefault": true,
+                    "composableSlot": false,
+                    "composableSlotReceiver": null,
+                    "nullable": false,
+                    "noArgConstructible": false,
+                    "noArgFactory": null,
+                    "scopeDslReceiver": null,
+                    "lambdaReturnTypeFqn": null
+                },
+                {
+                    "name": "interactionSource",
+                    "type": "MutableInteractionSource",
+                    "typeFqn": "androidx.compose.foundation.interaction.MutableInteractionSource",
+                    "hasDefault": true,
+                    "composableSlot": false,
+                    "composableSlotReceiver": null,
+                    "nullable": false,
+                    "noArgConstructible": false,
+                    "noArgFactory": null,
+                    "scopeDslReceiver": null,
+                    "lambdaReturnTypeFqn": null
+                }
+            ],
+            "slots": [],
+            "bindings": [
+                {
+                    "previewId": "com.bitwarden.ui.platform.components.header.BitwardenExpandingListHeaderKt.BitwardenExpandingListHeader_preview",
+                    "componentId": null,
+                    "group": null
+                }
+            ],
+            "code": {
+                "call": "BitwardenExpandingListHeader(label = \"\", isExpanded = false, onClick = {})",
+                "imports": [
+                    "com.bitwarden.ui.platform.components.header.BitwardenExpandingListHeader"
                 ],
                 "refusedReason": null,
                 "requiredOptIns": [],

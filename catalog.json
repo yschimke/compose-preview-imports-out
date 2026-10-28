@@ -1922,7 +1922,7 @@
       "wireframe": "wireframes/date-picker-button.svg",
       "sourceFile": "src/main/kotlin/com/bitwarden/ui/platform/components/dropdown/BitwardenDatePickerButton.kt",
       "sourceModule": ":ui",
-      "bodyLine": 123,
+      "bodyLine": 128,
       "sourceDirectory": "ui",
       "sourceFunction": "BitwardenDatePickerButton_preview",
       "parameters": [
@@ -7393,8 +7393,8 @@
       "sourceFunction": "BitwardenTypography_preview"
     }
   ],
-  "renderer": "compose-preview 2.61.2",
-  "generatedAt": "2026-10-15T11:13:07.372Z",
+  "renderer": "compose-preview 2.74.1",
+  "generatedAt": "2026-10-28T02:34:53.316Z",
   "liveBundle": {
     "path": "bundle/",
     "file": "bundle.png"
@@ -7410,7 +7410,7 @@
   "componentsFile": "components.json",
   "source": {
     "repo": "bitwarden/android",
-    "ref": "43d7b8b2dea80b55332044b435f9cc792947a633",
+    "ref": "1e624ad875559ee34a740a7ff60f31ac8593c3fe",
     "module": ":ui"
   }
 }
