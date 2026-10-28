@@ -2275,12 +2275,21 @@
     "androidx.compose.material3:material3 (expressive)",
     "androidx.compose.material3.adaptive:adaptive"
   ],
-  "renderer": "compose-preview 2.57.0",
-  "generatedAt": "2026-10-14T07:56:02.144Z",
+  "renderer": "compose-preview 2.74.1",
+  "generatedAt": "2026-10-28T02:40:07.712Z",
   "display": {
     "surface": "dark",
     "hero": "Home/Screen"
   },
+  "themes": [
+    {
+      "id": "ee.schimke.composeai.imported.themes.ImportedTheme_Jetcaster",
+      "tokensFile": "themes/ee.schimke.composeai.imported.themes.importedtheme_jetcaster.dtcg.json",
+      "name": "Jetcaster",
+      "group": "Jetcaster",
+      "dark": true
+    }
+  ],
   "liveBundle": {
     "path": "bundle/",
     "file": "bundle.png"
@@ -2296,7 +2305,7 @@
   "componentsFile": "components.json",
   "source": {
     "repo": "android/compose-samples",
-    "ref": "5a390e4a9d3c4e5b30e942041bde93582c4d9492",
+    "ref": "25631e8f544a9a1e3f01e296eaf1b4c28428196c",
     "module": ":mobile"
   }
 }
