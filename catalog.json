@@ -3462,10 +3462,10 @@
           "bounds": {
             "x": 42,
             "y": 104,
-            "width": 252,
+            "width": 235,
             "height": 37
           },
-          "label": "Oct 15, 12:56 PM",
+          "label": "Oct 28, 4:04 AM",
           "padding": {
             "start": 0,
             "top": 4,
@@ -3488,10 +3488,10 @@
           "bounds": {
             "x": 147,
             "y": 287,
-            "width": 252,
+            "width": 235,
             "height": 37
           },
-          "label": "Oct 15, 12:56 PM",
+          "label": "Oct 28, 4:04 AM",
           "padding": {
             "start": 0,
             "top": 4,
@@ -3514,10 +3514,10 @@
           "bounds": {
             "x": 147,
             "y": 470,
-            "width": 252,
+            "width": 235,
             "height": 37
           },
-          "label": "Oct 15, 12:56 PM",
+          "label": "Oct 28, 4:04 AM",
           "padding": {
             "start": 0,
             "top": 4,
@@ -4092,7 +4092,7 @@
       "wireframe": "wireframes/feedback-tooltip.svg",
       "sourceFile": "src/main/java/au/com/shiftyjelly/pocketcasts/compose/components/Tooltip.kt",
       "sourceModule": ":modules:services:compose",
-      "bodyLine": 473,
+      "bodyLine": 495,
       "sourceDirectory": "modules/services/compose",
       "sourceFunction": "TooltipThemePreview",
       "parameters": [
@@ -7026,12 +7026,77 @@
   "library": [
     "Compose Material 2 + Pocket Casts theme roles"
   ],
-  "renderer": "compose-preview 2.61.2",
-  "generatedAt": "2026-10-15T12:57:13.718Z",
+  "renderer": "compose-preview 2.74.1",
+  "generatedAt": "2026-10-28T04:05:06.316Z",
   "display": {
     "surface": "light",
     "hero": "Insights/Calendar heat map"
   },
+  "themes": [
+    {
+      "id": "ee.schimke.composeai.imported.themes.ImportedTheme_ClassicLight",
+      "tokensFile": "themes/ee.schimke.composeai.imported.themes.importedtheme_classiclight.dtcg.json",
+      "name": "Classic light",
+      "group": "Pocket Casts",
+      "dark": false
+    },
+    {
+      "id": "ee.schimke.composeai.imported.themes.ImportedTheme_Dark",
+      "tokensFile": "themes/ee.schimke.composeai.imported.themes.importedtheme_dark.dtcg.json",
+      "name": "Dark",
+      "group": "Pocket Casts",
+      "dark": false
+    },
+    {
+      "id": "ee.schimke.composeai.imported.themes.ImportedTheme_DarkContrast",
+      "tokensFile": "themes/ee.schimke.composeai.imported.themes.importedtheme_darkcontrast.dtcg.json",
+      "name": "Dark contrast",
+      "group": "Pocket Casts",
+      "dark": false
+    },
+    {
+      "id": "ee.schimke.composeai.imported.themes.ImportedTheme_Electric",
+      "tokensFile": "themes/ee.schimke.composeai.imported.themes.importedtheme_electric.dtcg.json",
+      "name": "Electric",
+      "group": "Pocket Casts",
+      "dark": false
+    },
+    {
+      "id": "ee.schimke.composeai.imported.themes.ImportedTheme_ExtraDark",
+      "tokensFile": "themes/ee.schimke.composeai.imported.themes.importedtheme_extradark.dtcg.json",
+      "name": "Extra dark",
+      "group": "Pocket Casts",
+      "dark": false
+    },
+    {
+      "id": "ee.schimke.composeai.imported.themes.ImportedTheme_Indigo",
+      "tokensFile": "themes/ee.schimke.composeai.imported.themes.importedtheme_indigo.dtcg.json",
+      "name": "Indigo",
+      "group": "Pocket Casts",
+      "dark": false
+    },
+    {
+      "id": "ee.schimke.composeai.imported.themes.ImportedTheme_Light",
+      "tokensFile": "themes/ee.schimke.composeai.imported.themes.importedtheme_light.dtcg.json",
+      "name": "Light",
+      "group": "Pocket Casts",
+      "dark": false
+    },
+    {
+      "id": "ee.schimke.composeai.imported.themes.ImportedTheme_LightContrast",
+      "tokensFile": "themes/ee.schimke.composeai.imported.themes.importedtheme_lightcontrast.dtcg.json",
+      "name": "Light contrast",
+      "group": "Pocket Casts",
+      "dark": false
+    },
+    {
+      "id": "ee.schimke.composeai.imported.themes.ImportedTheme_Rose",
+      "tokensFile": "themes/ee.schimke.composeai.imported.themes.importedtheme_rose.dtcg.json",
+      "name": "Rose",
+      "group": "Pocket Casts",
+      "dark": false
+    }
+  ],
   "liveBundle": {
     "path": "bundle/",
     "file": "bundle.png"
@@ -7047,7 +7112,7 @@
   "componentsFile": "components.json",
   "source": {
     "repo": "Automattic/pocket-casts-android",
-    "ref": "37e812ca6312725613b0d51c39729f079b05d21d",
+    "ref": "25660d9dc5f1ac545bec7c0bdb8a47dc168a7435",
     "module": ":modules:services:compose"
   }
 }
