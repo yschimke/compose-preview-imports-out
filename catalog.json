@@ -105,14 +105,14 @@
           "detail": {
             "role": "button",
             "bounds": {
-              "x": 222,
+              "x": 194,
               "y": 1943,
               "width": 126,
               "height": 126
             }
           },
           "bounds": {
-            "x": 222,
+            "x": 194,
             "y": 1943,
             "width": 126,
             "height": 126
@@ -125,14 +125,14 @@
           "detail": {
             "role": "button",
             "bounds": {
-              "x": 382,
+              "x": 325,
               "y": 1943,
               "width": 126,
               "height": 126
             }
           },
           "bounds": {
-            "x": 382,
+            "x": 325,
             "y": 1943,
             "width": 126,
             "height": 126
@@ -145,14 +145,14 @@
           "detail": {
             "role": "button",
             "bounds": {
-              "x": 541,
+              "x": 456,
               "y": 1943,
               "width": 126,
               "height": 126
             }
           },
           "bounds": {
-            "x": 541,
+            "x": 456,
             "y": 1943,
             "width": 126,
             "height": 126
@@ -165,14 +165,14 @@
           "detail": {
             "role": "button",
             "bounds": {
-              "x": 701,
+              "x": 587,
               "y": 1943,
               "width": 126,
               "height": 126
             }
           },
           "bounds": {
-            "x": 701,
+            "x": 587,
             "y": 1943,
             "width": 126,
             "height": 126
@@ -185,17 +185,37 @@
           "detail": {
             "role": "button",
             "bounds": {
-              "x": 860,
+              "x": 718,
               "y": 1943,
               "width": 126,
               "height": 126
             }
           },
           "bounds": {
-            "x": 860,
+            "x": 718,
             "y": 1943,
             "width": 126,
             "height": 126
+          }
+        },
+        {
+          "kind": "a11y",
+          "severity": "info",
+          "message": "button",
+          "detail": {
+            "role": "button",
+            "bounds": {
+              "x": 849,
+              "y": 1954,
+              "width": 137,
+              "height": 105
+            }
+          },
+          "bounds": {
+            "x": 849,
+            "y": 1954,
+            "width": 137,
+            "height": 105
           }
         }
       ],
@@ -501,6 +521,21 @@
         },
         {
           "bounds": {
+            "x": 84,
+            "y": 1775,
+            "width": 860,
+            "height": 61
+          },
+          "label": "Text input",
+          "padding": {
+            "start": 0,
+            "top": 0,
+            "end": 0,
+            "bottom": 0
+          }
+        },
+        {
+          "bounds": {
             "x": 63,
             "y": 1943,
             "width": 126,
@@ -511,7 +546,7 @@
         },
         {
           "bounds": {
-            "x": 222,
+            "x": 194,
             "y": 1943,
             "width": 126,
             "height": 126
@@ -521,7 +556,7 @@
         },
         {
           "bounds": {
-            "x": 382,
+            "x": 325,
             "y": 1943,
             "width": 126,
             "height": 126
@@ -531,7 +566,7 @@
         },
         {
           "bounds": {
-            "x": 541,
+            "x": 456,
             "y": 1943,
             "width": 126,
             "height": 126
@@ -541,7 +576,7 @@
         },
         {
           "bounds": {
-            "x": 701,
+            "x": 587,
             "y": 1943,
             "width": 126,
             "height": 126
@@ -551,13 +586,23 @@
         },
         {
           "bounds": {
-            "x": 860,
+            "x": 718,
             "y": 1943,
             "width": 126,
             "height": 126
           },
           "role": "Button",
           "cornerRadius": 24
+        },
+        {
+          "bounds": {
+            "x": 849,
+            "y": 1954,
+            "width": 137,
+            "height": 105
+          },
+          "role": "Button",
+          "cornerRadius": 20
         }
       ],
       "section": "Screens",
@@ -566,7 +611,7 @@
       "wireframe": "wireframes/conversation-screen.svg",
       "sourceFile": "src/main/java/com/example/compose/jetchat/conversation/Conversation.kt",
       "sourceModule": ":app",
-      "bodyLine": 921,
+      "bodyLine": 928,
       "sourceDirectory": "Jetchat/app",
       "sourceFunction": "ConversationPreview",
       "parameters": [
@@ -774,7 +819,7 @@
       "wireframe": "wireframes/conversation-day-header.svg",
       "sourceFile": "src/main/java/com/example/compose/jetchat/conversation/Conversation.kt",
       "sourceModule": ":app",
-      "bodyLine": 940,
+      "bodyLine": 947,
       "sourceDirectory": "Jetchat/app",
       "sourceFunction": "DayHeaderPrev",
       "parameters": [
@@ -900,14 +945,14 @@
           "detail": {
             "role": "button",
             "bounds": {
-              "x": 222,
+              "x": 194,
               "y": 237,
               "width": 126,
               "height": 126
             }
           },
           "bounds": {
-            "x": 222,
+            "x": 194,
             "y": 237,
             "width": 126,
             "height": 126
@@ -920,14 +965,14 @@
           "detail": {
             "role": "button",
             "bounds": {
-              "x": 382,
+              "x": 325,
               "y": 237,
               "width": 126,
               "height": 126
             }
           },
           "bounds": {
-            "x": 382,
+            "x": 325,
             "y": 237,
             "width": 126,
             "height": 126
@@ -940,14 +985,14 @@
           "detail": {
             "role": "button",
             "bounds": {
-              "x": 541,
+              "x": 456,
               "y": 237,
               "width": 126,
               "height": 126
             }
           },
           "bounds": {
-            "x": 541,
+            "x": 456,
             "y": 237,
             "width": 126,
             "height": 126
@@ -960,14 +1005,14 @@
           "detail": {
             "role": "button",
             "bounds": {
-              "x": 701,
+              "x": 587,
               "y": 237,
               "width": 126,
               "height": 126
             }
           },
           "bounds": {
-            "x": 701,
+            "x": 587,
             "y": 237,
             "width": 126,
             "height": 126
@@ -980,17 +1025,37 @@
           "detail": {
             "role": "button",
             "bounds": {
-              "x": 860,
+              "x": 718,
               "y": 237,
               "width": 126,
               "height": 126
             }
           },
           "bounds": {
-            "x": 860,
+            "x": 718,
             "y": 237,
             "width": 126,
             "height": 126
+          }
+        },
+        {
+          "kind": "a11y",
+          "severity": "info",
+          "message": "button",
+          "detail": {
+            "role": "button",
+            "bounds": {
+              "x": 849,
+              "y": 248,
+              "width": 137,
+              "height": 105
+            }
+          },
+          "bounds": {
+            "x": 849,
+            "y": 248,
+            "width": 137,
+            "height": 105
           }
         }
       ],
@@ -1012,6 +1077,21 @@
         },
         {
           "bounds": {
+            "x": 84,
+            "y": 69,
+            "width": 860,
+            "height": 74
+          },
+          "label": "Text input",
+          "padding": {
+            "start": 0,
+            "top": 0,
+            "end": 0,
+            "bottom": 0
+          }
+        },
+        {
+          "bounds": {
             "x": 63,
             "y": 237,
             "width": 126,
@@ -1022,7 +1102,7 @@
         },
         {
           "bounds": {
-            "x": 222,
+            "x": 194,
             "y": 237,
             "width": 126,
             "height": 126
@@ -1032,7 +1112,7 @@
         },
         {
           "bounds": {
-            "x": 382,
+            "x": 325,
             "y": 237,
             "width": 126,
             "height": 126
@@ -1042,7 +1122,7 @@
         },
         {
           "bounds": {
-            "x": 541,
+            "x": 456,
             "y": 237,
             "width": 126,
             "height": 126
@@ -1052,7 +1132,7 @@
         },
         {
           "bounds": {
-            "x": 701,
+            "x": 587,
             "y": 237,
             "width": 126,
             "height": 126
@@ -1062,13 +1142,23 @@
         },
         {
           "bounds": {
-            "x": 860,
+            "x": 718,
             "y": 237,
             "width": 126,
             "height": 126
           },
           "role": "Button",
           "cornerRadius": 24
+        },
+        {
+          "bounds": {
+            "x": 849,
+            "y": 248,
+            "width": 137,
+            "height": 105
+          },
+          "role": "Button",
+          "cornerRadius": 20
         }
       ],
       "section": "Components",
@@ -1077,13 +1167,13 @@
       "wireframe": "wireframes/conversation-input.svg",
       "sourceFile": "src/main/java/com/example/compose/jetchat/conversation/UserInput.kt",
       "sourceModule": ":app",
-      "bodyLine": 125,
+      "bodyLine": 147,
       "sourceDirectory": "Jetchat/app",
       "sourceFunction": "UserInputPreview",
       "parameters": [
         {
           "name": "onMessageSent",
-          "type": "(String) -> Unit"
+          "type": "(AnnotatedString) -> Unit"
         },
         {
           "name": "modifier",
@@ -1097,7 +1187,7 @@
         },
         {
           "name": "onVideoMessageSent",
-          "type": "(String, String) -> Unit",
+          "type": "(String, AnnotatedString) -> Unit",
           "hasDefault": true
         }
       ]
@@ -1318,20 +1408,6 @@
       "redlines": [
         {
           "bounds": {
-            "x": 126,
-            "y": 42,
-            "width": 228,
-            "height": 63
-          },
-          "padding": {
-            "start": 8,
-            "top": 0,
-            "end": 0,
-            "bottom": 0
-          }
-        },
-        {
-          "bounds": {
             "x": 32,
             "y": 287,
             "width": 986,
@@ -1487,22 +1563,17 @@
       "wireframe": "wireframes/chrome-drawer.svg",
       "sourceFile": "src/main/java/com/example/compose/jetchat/components/JetchatDrawer.kt",
       "sourceModule": ":app",
-      "bodyLine": 222,
+      "bodyLine": 219,
       "sourceDirectory": "Jetchat/app",
       "sourceFunction": "DrawerPreview",
       "parameters": [
         {
-          "name": "onProfileClicked",
-          "type": "(String) -> Unit"
+          "name": "selectedKey",
+          "type": "NavKey"
         },
         {
-          "name": "onChatClicked",
-          "type": "(String) -> Unit"
-        },
-        {
-          "name": "selectedMenu",
-          "type": "String",
-          "hasDefault": true
+          "name": "onNavigate",
+          "type": "(NavKey) -> Unit"
         }
       ]
     },
@@ -1647,7 +1718,7 @@
       "wireframe": "wireframes/chrome-channel-bar.svg",
       "sourceFile": "src/main/java/com/example/compose/jetchat/conversation/Conversation.kt",
       "sourceModule": ":app",
-      "bodyLine": 932,
+      "bodyLine": 939,
       "sourceDirectory": "Jetchat/app",
       "sourceFunction": "ChannelBarPrev",
       "parameters": [
@@ -1680,12 +1751,28 @@
   "library": [
     "androidx.compose.material3:material3"
   ],
-  "renderer": "compose-preview 2.61.2",
-  "generatedAt": "2026-10-15T11:19:12.310Z",
+  "renderer": "compose-preview 2.74.1",
+  "generatedAt": "2026-10-28T02:43:02.244Z",
   "display": {
     "surface": "light",
     "hero": "Conversation/Screen"
   },
+  "themes": [
+    {
+      "id": "ee.schimke.composeai.imported.themes.ImportedTheme_JetchatDark",
+      "tokensFile": "themes/ee.schimke.composeai.imported.themes.importedtheme_jetchatdark.dtcg.json",
+      "name": "Jetchat dark",
+      "group": "Jetchat",
+      "dark": true
+    },
+    {
+      "id": "ee.schimke.composeai.imported.themes.ImportedTheme_JetchatLight",
+      "tokensFile": "themes/ee.schimke.composeai.imported.themes.importedtheme_jetchatlight.dtcg.json",
+      "name": "Jetchat light",
+      "group": "Jetchat",
+      "dark": false
+    }
+  ],
   "liveBundle": {
     "path": "bundle/",
     "file": "bundle.png"
@@ -1701,7 +1788,7 @@
   "componentsFile": "components.json",
   "source": {
     "repo": "android/compose-samples",
-    "ref": "0c2267c6c69bd06c8b7a8ec5fed7d7a3c4d7c822",
+    "ref": "25631e8f544a9a1e3f01e296eaf1b4c28428196c",
     "module": ":app"
   }
 }

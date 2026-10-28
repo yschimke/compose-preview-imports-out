@@ -2200,6 +2200,11 @@
                     "previewId": "com.example.compose.jetchat.conversation.ConversationKt.ConversationPreview",
                     "componentId": null,
                     "group": null
+                },
+                {
+                    "previewId": "com.example.compose.jetchat.conversation.UserInputKt.UserInputPreview",
+                    "componentId": null,
+                    "group": null
                 }
             ],
             "code": {
@@ -4561,43 +4566,17 @@
                 "name": "JetchatDrawerContent",
                 "origin": "PROJECT",
                 "jvmName": "JetchatDrawerContent",
-                "descriptor": "(Lkotlin/jvm/functions/Function1;Lkotlin/jvm/functions/Function1;Ljava/lang/String;Landroidx/compose/runtime/Composer;II)V",
+                "descriptor": "(Landroidx/navigation3/runtime/NavKey;Lkotlin/jvm/functions/Function1;Landroidx/compose/runtime/Composer;I)V",
                 "sourceFile": "src/main/java/com/example/compose/jetchat/components/JetchatDrawer.kt",
                 "docs": "unavailable",
                 "receiver": null
             },
             "parameters": [
                 {
-                    "name": "onProfileClicked",
-                    "type": "(String) -> Unit",
-                    "typeFqn": "kotlin.Function1",
+                    "name": "selectedKey",
+                    "type": "NavKey",
+                    "typeFqn": "androidx.navigation3.runtime.NavKey",
                     "hasDefault": false,
-                    "composableSlot": false,
-                    "composableSlotReceiver": null,
-                    "nullable": false,
-                    "noArgConstructible": false,
-                    "noArgFactory": null,
-                    "scopeDslReceiver": null,
-                    "lambdaReturnTypeFqn": "kotlin.Unit"
-                },
-                {
-                    "name": "onChatClicked",
-                    "type": "(String) -> Unit",
-                    "typeFqn": "kotlin.Function1",
-                    "hasDefault": false,
-                    "composableSlot": false,
-                    "composableSlotReceiver": null,
-                    "nullable": false,
-                    "noArgConstructible": false,
-                    "noArgFactory": null,
-                    "scopeDslReceiver": null,
-                    "lambdaReturnTypeFqn": "kotlin.Unit"
-                },
-                {
-                    "name": "selectedMenu",
-                    "type": "String",
-                    "typeFqn": "kotlin.String",
-                    "hasDefault": true,
                     "composableSlot": false,
                     "composableSlotReceiver": null,
                     "nullable": false,
@@ -4605,6 +4584,19 @@
                     "noArgFactory": null,
                     "scopeDslReceiver": null,
                     "lambdaReturnTypeFqn": null
+                },
+                {
+                    "name": "onNavigate",
+                    "type": "(NavKey) -> Unit",
+                    "typeFqn": "kotlin.Function1",
+                    "hasDefault": false,
+                    "composableSlot": false,
+                    "composableSlotReceiver": null,
+                    "nullable": false,
+                    "noArgConstructible": false,
+                    "noArgFactory": null,
+                    "scopeDslReceiver": null,
+                    "lambdaReturnTypeFqn": "kotlin.Unit"
                 }
             ],
             "slots": [],
@@ -4621,11 +4613,9 @@
                 }
             ],
             "code": {
-                "call": "JetchatDrawerContent(onProfileClicked = {}, onChatClicked = {})",
-                "imports": [
-                    "com.example.compose.jetchat.components.JetchatDrawerContent"
-                ],
-                "refusedReason": null,
+                "call": null,
+                "imports": [],
+                "refusedReason": "no placeholder can be written for required parameter `selectedKey: NavKey`",
                 "requiredOptIns": [],
                 "androidxOptIns": []
             },
@@ -5008,7 +4998,7 @@
             "parameters": [
                 {
                     "name": "onMessageSent",
-                    "type": "(String) -> Unit",
+                    "type": "(AnnotatedString) -> Unit",
                     "typeFqn": "kotlin.Function1",
                     "hasDefault": false,
                     "composableSlot": false,
@@ -5047,7 +5037,7 @@
                 },
                 {
                     "name": "onVideoMessageSent",
-                    "type": "(String, String) -> Unit",
+                    "type": "(String, AnnotatedString) -> Unit",
                     "typeFqn": "kotlin.Function2",
                     "hasDefault": true,
                     "composableSlot": false,
