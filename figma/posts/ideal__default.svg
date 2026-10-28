@@ -6,7 +6,7 @@
       <g id="Box">
         <g id="Spacer">
         </g>
-        <g id="Row">
+        <g id="Box">
           <g id="Box">
               <rect x="0" y="0" width="1050" height="2100" fill="#F8F9FF"/>
             <g id="MultiContentMeasurePolicyImpl">
@@ -14,7 +14,11 @@
                 <g id="BoxKt">
                 </g>
                 <g id="Box">
-                  <g id="LayoutNodeSubcompositionsState">
+                  <g id="Box">
+                    <g id="LayoutNodeSubcompositionsState">
+                    </g>
+                    <g id="Spacer">
+                    </g>
                   </g>
                   <clipPath id="clip-0"><rect x="462" y="42" width="126" height="126" rx="63" ry="63"/></clipPath>
                   <g id="Box">
@@ -25,7 +29,7 @@
                           <rect x="462" y="42" width="126" height="126" rx="63" ry="63" fill="#D1E4FF"/>
                         <g clip-path="url(#clip-1)">
                           <g id="Spacer">
-                            <image href="ideal__default.figma-raster/59.png" x="462" y="42" width="126" height="126"/>
+                            <image href="ideal__default.figma-raster/64.png" x="462" y="42" width="126" height="126"/>
                           </g>
                         </g>
                       </g>
@@ -33,26 +37,23 @@
                   </g>
                 </g>
               </g>
-              <g id="Column">
-                <image href="ideal__default.figma-raster/28.png" x="0" y="0" width="1050" height="168"/>
-                <g id="Row">
+              <g id="Row">
+                <g id="Box">
+                  <clipPath id="clip-2"><rect x="21" y="32" width="105" height="105" rx="52.5" ry="52.5"/></clipPath>
                   <g id="Box">
-                    <clipPath id="clip-2"><rect x="21" y="32" width="105" height="105" rx="52.5" ry="52.5"/></clipPath>
-                    <g id="Box">
-                      <g clip-path="url(#clip-2)">
-                        <g id="Spacer">
-                          <image href="ideal__default.figma-raster/60.png" x="21" y="32" width="105" height="105"/>
-                        </g>
+                    <g clip-path="url(#clip-2)">
+                      <g id="Spacer">
+                        <image href="ideal__default.figma-raster/65.png" x="21" y="32" width="105" height="105"/>
                       </g>
                     </g>
-                    <g id="Box">
-                    </g>
                   </g>
-                  <g id="Empty">
-                    <text x="168" y="98.99" font-size="42" font-family="Roboto-Medium.ttf:FontWeight(weight=500):Normal:SettingFloat(ital,0.0),SettingInt(wght,500, sans-serif" font-weight="500" letter-spacing="0.53" style="font-variation-settings:&apos;ital&apos; 0.0,&apos;wght&apos; 500.0" fill="#191C20">Bookmarks</text>
+                  <g id="Box">
                   </g>
-                  <g id="Spacer">
-                  </g>
+                </g>
+                <g id="Empty">
+                  <text x="168" y="98.99" font-size="42" font-family="Roboto-Medium.ttf:FontWeight(weight=500):Normal:SettingFloat(ital,0.0),SettingInt(wght,500, sans-serif" font-weight="500" letter-spacing="0.53" style="font-variation-settings:&apos;ital&apos; 0.0,&apos;wght&apos; 500.0" fill="#191C20">Bookmarks</text>
+                </g>
+                <g id="Spacer">
                 </g>
               </g>
               <g id="Box">

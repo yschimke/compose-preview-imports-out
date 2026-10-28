@@ -7,7 +7,7 @@
       <g id="Box">
         <g id="Spacer">
         </g>
-        <g id="Row">
+        <g id="Box">
           <g id="Box">
               <rect x="0" y="0" width="1050" height="2100" fill="#F8F9FF"/>
             <g id="MultiContentMeasurePolicyImpl">
@@ -36,14 +36,14 @@
                 </g>
               </g>
               <g id="Column">
-                <image href="ideal__default.figma-raster/28.png" x="0" y="0" width="1050" height="168"/>
+                <image href="ideal__default.figma-raster/29.png" x="0" y="0" width="1050" height="168"/>
                 <g id="Row">
                   <g id="Box">
                     <clipPath id="clip-0"><rect x="22" y="32" width="105" height="105" rx="52.5" ry="52.5"/></clipPath>
                     <g id="Box">
                       <g clip-path="url(#clip-0)">
                         <g id="Spacer">
-                          <image href="ideal__default.figma-raster/69.png" x="22" y="32" width="105" height="105"/>
+                          <image href="ideal__default.figma-raster/70.png" x="22" y="32" width="105" height="105"/>
                         </g>
                       </g>
                     </g>
@@ -52,7 +52,7 @@
                   </g>
                   <g id="Box">
                     <g id="OutlinedTextField">
-                      <image href="ideal__default.figma-raster/41.png" x="191" y="11" width="754" height="147"/>
+                      <image href="ideal__default.figma-raster/42.png" x="191" y="11" width="754" height="147"/>
                     </g>
                     <g id="Empty">
                       <text x="233" y="96.92" font-size="36.75" font-family="Roboto-Medium.ttf:FontWeight(weight=500):Normal:SettingFloat(ital,0.0),SettingInt(wght,500, sans-serif" font-weight="500" letter-spacing="0.26" style="font-variation-settings:&apos;ital&apos; 0.0,&apos;wght&apos; 500.0" fill="#73777F">Search for posts, users or feeds</text>

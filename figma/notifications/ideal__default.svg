@@ -14,7 +14,7 @@
       <g id="Box">
         <g id="Spacer">
         </g>
-        <g id="Row">
+        <g id="Box">
           <g id="Box">
               <rect x="0" y="0" width="1050" height="2100" fill="#F8F9FF"/>
             <g id="MultiContentMeasurePolicyImpl">
@@ -33,7 +33,7 @@
                           <rect x="462" y="42" width="126" height="126" rx="63" ry="63" fill="#D1E4FF"/>
                         <g clip-path="url(#clip-1)">
                           <g id="Spacer">
-                            <image href="ideal__default.figma-raster/80.png" x="462" y="42" width="126" height="126"/>
+                            <image href="ideal__default.figma-raster/81.png" x="462" y="42" width="126" height="126"/>
                           </g>
                         </g>
                       </g>
@@ -42,14 +42,14 @@
                 </g>
               </g>
               <g id="Column">
-                <image href="ideal__default.figma-raster/28.png" x="0" y="0" width="1050" height="168"/>
+                <image href="ideal__default.figma-raster/29.png" x="0" y="0" width="1050" height="168"/>
                 <g id="Row">
                   <g id="Box">
                     <clipPath id="clip-2"><rect x="22" y="32" width="105" height="105" rx="52.5" ry="52.5"/></clipPath>
                     <g id="Box">
                       <g clip-path="url(#clip-2)">
                         <g id="Spacer">
-                          <image href="ideal__default.figma-raster/81.png" x="22" y="32" width="105" height="105"/>
+                          <image href="ideal__default.figma-raster/82.png" x="22" y="32" width="105" height="105"/>
                         </g>
                       </g>
                     </g>

@@ -166,7 +166,7 @@
     <rect x="-42" y="1785" width="1050" height="147" fill="none" fill-opacity="0" stroke="#7A7A33" stroke-width="1" stroke-opacity="0.5"/>
   </g>
   <g>
-    <rect x="42" y="1806" width="597" height="126" fill="none" fill-opacity="0" stroke="#5B6470" stroke-width="1" stroke-opacity="0.5"/>
+    <rect x="42" y="1806" width="616" height="126" fill="none" fill-opacity="0" stroke="#5B6470" stroke-width="1" stroke-opacity="0.5"/>
   </g>
   <g>
     <path d="M84.5,1827 H449.5 A42.5,42.5 0 0 1 492,1869.5 V1869.5 A42.5,42.5 0 0 1 449.5,1912 H84.5 A42.5,42.5 0 0 1 42,1869.5 V1869.5 A42.5,42.5 0 0 1 84.5,1827 Z" fill="#F2F3FA" fill-opacity="1" stroke="#2E7D6B" stroke-width="1.5" stroke-opacity="1"/>

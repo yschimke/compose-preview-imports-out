@@ -14,7 +14,7 @@
       <g id="Box">
         <g id="Spacer">
         </g>
-        <g id="Row">
+        <g id="Box">
           <g id="Box">
               <rect x="0" y="0" width="1050" height="2100" fill="#F8F9FF"/>
             <g id="MultiContentMeasurePolicyImpl">
@@ -26,11 +26,11 @@
                     <g id="Row">
                       <g id="Box">
                         <g id="ImageKt">
-                          <image href="ideal__default.figma-raster/99.png" x="42" y="210" width="105" height="105"/>
+                          <image href="ideal__default.figma-raster/104.png" x="42" y="210" width="105" height="105"/>
                         </g>
                       </g>
                       <g id="CoreTextFieldKt">
-                        <image href="ideal__default.figma-raster/103.png" x="189" y="210" width="819" height="63"/>
+                        <image href="ideal__default.figma-raster/108.png" x="189" y="210" width="819" height="63"/>
                       </g>
                     </g>
                     <g id="MultiContentMeasurePolicyImpl">
@@ -41,14 +41,14 @@
                 </g>
               </g>
               <g id="Column">
-                <image href="ideal__default.figma-raster/28.png" x="0" y="0" width="1050" height="168"/>
+                <image href="ideal__default.figma-raster/29.png" x="0" y="0" width="1050" height="168"/>
                 <g id="Row">
                   <g id="Box">
                     <clipPath id="clip-0"><rect x="21" y="32" width="105" height="105" rx="52.5" ry="52.5"/></clipPath>
                     <g id="Box">
                       <g clip-path="url(#clip-0)">
                         <g id="Spacer">
-                          <image href="ideal__default.figma-raster/109.png" x="21" y="32" width="105" height="105"/>
+                          <image href="ideal__default.figma-raster/114.png" x="21" y="32" width="105" height="105"/>
                         </g>
                       </g>
                     </g>
@@ -67,10 +67,14 @@
                       </g>
                     </g>
                   </g>
-                  <g id="Box" filter="url(#shadow-16)">
-                    <rect x="0" y="0" width="0" height="0" rx="0" ry="0" fill="#D1E4FF"/>
-                    <g id="Empty">
-                      <text font-size="36.75" font-family="Roboto-Medium.ttf:FontWeight(weight=500):Normal:SettingFloat(ital,0.0),SettingInt(wght,500, sans-serif" font-weight="500" letter-spacing="0.26" style="font-variation-settings:&apos;ital&apos; 0.0,&apos;wght&apos; 500.0" fill="#001D36"><tspan x="0" y="39" textLength="23" lengthAdjust="spacing">P</tspan><tspan x="0" y="92" textLength="21" lengthAdjust="spacing">o</tspan><tspan x="0" y="145" textLength="19" lengthAdjust="spacing">s</tspan><tspan x="0" y="198" textLength="13" lengthAdjust="spacing">t</tspan></text>
+                  <g id="Box" filter="url(#shadow-3)">
+                    <rect x="0" y="0" width="0" height="0" rx="0" ry="0" fill="#F2F3FA"/>
+                    <g id="Box">
+                      <g id="BoxKt">
+                        <g transform="translate(0 0) scale(0 0)">
+                          <path d="m3.4 20.4 l17.45 -7.48 a 1 1 0 0 0 0 -1.84 L3.4 3.6 a 0.993 0.993 0 0 0 -1.39 0.91 L2 9.12 c 0 0.5 0.37 0.93 0.87 0.99 L17 12 L2.87 13.88 c -0.5 0.07 -0.87 0.5 -0.87 1 l0.01 4.61 c 0 0.71 0.73 1.2 1.39 0.91 Z" fill="#36618E"/>
+                        </g>
+                      </g>
                     </g>
                   </g>
                   <g id="Spacer">
@@ -80,7 +84,7 @@
               <g id="Box">
               </g>
               <g id="Row">
-                <image href="ideal__default.figma-raster/80.png" x="0" y="1974" width="1050" height="126"/>
+                <image href="ideal__default.figma-raster/85.png" x="0" y="1974" width="1050" height="126"/>
                 <rect x="21" y="1974" width="1008" height="126" fill="#F8F9FF"/>
                 <g id="Box">
                   <g id="BoxKt">
@@ -118,7 +122,7 @@
                 </g>
               </g>
               <g id="Row">
-                <g id="Row">
+                <g id="MultiContentMeasurePolicyImpl">
                   <g id="Box" filter="url(#shadow-3)">
                     <rect x="42" y="1827" width="450" height="85" rx="42.5" ry="42.5" fill="#F2F3FA"/>
                     <clipPath id="clip-1"><rect x="63" y="1838" width="408" height="63" rx="31.5" ry="31.5"/></clipPath>
@@ -143,8 +147,6 @@
                       </g>
                     </g>
                   </g>
-                </g>
-                <g id="Spacer">
                 </g>
                 <g id="Box" opacity="0.6">
                   <g id="Box" filter="url(#shadow-16)">

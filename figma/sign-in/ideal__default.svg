@@ -14,7 +14,7 @@
       <g id="Box">
         <g id="Spacer">
         </g>
-        <g id="Row">
+        <g id="Box">
           <g id="Box">
               <rect x="0" y="0" width="1050" height="2100" fill="#F8F9FF"/>
             <g id="MultiContentMeasurePolicyImpl">
