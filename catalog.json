@@ -39258,8 +39258,38 @@
       "sourceFunction": "HorizontalTabPagerSecondaryPreview"
     }
   ],
-  "renderer": "compose-preview 2.57.0",
-  "generatedAt": "2026-10-14T09:51:56.508Z",
+  "renderer": "compose-preview 2.74.1",
+  "generatedAt": "2026-10-28T04:16:55.838Z",
+  "themes": [
+    {
+      "id": "ee.schimke.composeai.imported.themes.ImportedTheme_K9MailDark",
+      "tokensFile": "themes/ee.schimke.composeai.imported.themes.importedtheme_k9maildark.dtcg.json",
+      "name": "K-9 Mail dark",
+      "group": "Bolt",
+      "dark": true
+    },
+    {
+      "id": "ee.schimke.composeai.imported.themes.ImportedTheme_K9MailLight",
+      "tokensFile": "themes/ee.schimke.composeai.imported.themes.importedtheme_k9maillight.dtcg.json",
+      "name": "K-9 Mail light",
+      "group": "Bolt",
+      "dark": false
+    },
+    {
+      "id": "ee.schimke.composeai.imported.themes.ImportedTheme_ThunderbirdDark",
+      "tokensFile": "themes/ee.schimke.composeai.imported.themes.importedtheme_thunderbirddark.dtcg.json",
+      "name": "Thunderbird dark",
+      "group": "Bolt",
+      "dark": true
+    },
+    {
+      "id": "ee.schimke.composeai.imported.themes.ImportedTheme_ThunderbirdLight",
+      "tokensFile": "themes/ee.schimke.composeai.imported.themes.importedtheme_thunderbirdlight.dtcg.json",
+      "name": "Thunderbird light",
+      "group": "Bolt",
+      "dark": false
+    }
+  ],
   "liveBundle": {
     "path": "bundle/",
     "file": "bundle.png"
@@ -39275,7 +39305,7 @@
   "componentsFile": "components.json",
   "source": {
     "repo": "thunderbird/thunderbird-android",
-    "ref": "016c18fd27c2d7a613fe8bec1834edda5dae67ef",
+    "ref": "de8a03268415ce8e0c8b0327d3bbcb6b40a06a91",
     "module": ":ui:bolt"
   }
 }
