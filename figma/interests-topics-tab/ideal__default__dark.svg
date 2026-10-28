@@ -4,247 +4,247 @@
   <g id="Root">
     <clipPath id="clip-0"><rect x="0" y="0" width="1050" height="2100"/></clipPath>
     <g id="ReusableComposeNode">
-        <rect x="0" y="0" width="1050" height="2100" fill="#121318"/>
+        <rect x="0" y="0" width="1050" height="2100" fill="#0D0E12"/>
       <g clip-path="url(#clip-0)">
         <clipPath id="clip-1"><rect x="0" y="0" width="1050" height="2100"/></clipPath>
         <g id="ReusableComposeNode">
           <g clip-path="url(#clip-1)">
             <g id="ReusableComposeNode">
-              <text x="42" y="87.99" font-size="42" font-family="Montserrat" font-weight="500" letter-spacing="0.39" fill="#E2E2E9">Android</text>
+              <text x="42" y="87.99" font-size="42" font-family="Montserrat" font-weight="500" letter-spacing="0.39" fill="#E4E5F0">Android</text>
             </g>
             <g id="ReusableComposeNode">
               <g id="ReusableComposeNode">
                 <g id="ReusableComposeNode">
                   <g id="ReusableComposeNode">
-                    <image href="ideal__default__dark.figma-raster/54.png" x="42" y="147" width="147" height="147"/>
+                    <image href="ideal__default__dark.figma-raster/408.png" x="42" y="147" width="147" height="147"/>
                   </g>
                   <g id="ReusableComposeNode">
-                    <text x="231" y="234.99" font-size="42" font-family="Montserrat" font-weight="500" letter-spacing="0.39" fill="#E2E2E9">Jetpack Compose</text>
+                    <text x="231" y="234.99" font-size="42" font-family="Montserrat" font-weight="500" letter-spacing="0.39" fill="#E4E5F0">Jetpack Compose</text>
                   </g>
                   <g id="ReusableComposeNode">
                   </g>
                   <g id="ReusableComposeNode">
-                    <rect x="914" y="174" width="93" height="93" rx="46.5" ry="46.5" fill="#00143B" stroke="#FCFAFF" stroke-opacity="0.1" stroke-width="2.62"/>
+                    <rect x="914" y="174" width="93" height="93" rx="46.5" ry="46.5" fill="#323F60" stroke="#E4E5F0" stroke-opacity="0.1" stroke-width="2.62"/>
                     <g id="ReusableComposeNode">
                       <g transform="translate(934 194) scale(0.05 0.05)">
-                        <path d="M440 520 L200 520 L200 440 L440 440 L440 200 L520 200 L520 440 L760 440 L760 520 L520 520 L520 760 L440 760 L440 520 Z" fill="#B7CAFF"/>
+                        <path d="M440 520 L200 520 L200 440 L440 440 L440 200 L520 200 L520 440 L760 440 L760 520 L520 520 L520 760 L440 760 L440 520 Z" fill="#B8C6EE"/>
                       </g>
                     </g>
                   </g>
                 </g>
                 <g id="ReusableComposeNode">
                   <g transform="translate(231 315) scale(1 1)">
-                    <path d="M0,1.31 L777,1.31" fill="none" stroke="#FCFAFF" stroke-opacity="0.1" stroke-width="2.62"/>
+                    <path d="M0,1.31 L777,1.31" fill="none" stroke="#E4E5F0" stroke-opacity="0.1" stroke-width="2.62"/>
                   </g>
                 </g>
               </g>
               <g id="ReusableComposeNode">
                 <g id="ReusableComposeNode">
                   <g id="ReusableComposeNode">
-                    <image href="ideal__default__dark.figma-raster/62.png" x="42" y="339" width="147" height="147"/>
+                    <image href="ideal__default__dark.figma-raster/416.png" x="42" y="339" width="147" height="147"/>
                   </g>
                   <g id="ReusableComposeNode">
-                    <text x="231" y="426.99" font-size="42" font-family="Montserrat" font-weight="500" letter-spacing="0.39" fill="#E2E2E9">Kotlin</text>
+                    <text x="231" y="426.99" font-size="42" font-family="Montserrat" font-weight="500" letter-spacing="0.39" fill="#E4E5F0">Kotlin</text>
                   </g>
                   <g id="ReusableComposeNode">
                   </g>
                   <g id="ReusableComposeNode">
-                    <rect x="914" y="366" width="93" height="93" rx="46.5" ry="46.5" fill="#00143B" stroke="#FCFAFF" stroke-opacity="0.1" stroke-width="2.62"/>
+                    <rect x="914" y="366" width="93" height="93" rx="46.5" ry="46.5" fill="#323F60" stroke="#E4E5F0" stroke-opacity="0.1" stroke-width="2.62"/>
                     <g id="ReusableComposeNode">
                       <g transform="translate(934 386) scale(0.05 0.05)">
-                        <path d="M440 520 L200 520 L200 440 L440 440 L440 200 L520 200 L520 440 L760 440 L760 520 L520 520 L520 760 L440 760 L440 520 Z" fill="#B7CAFF"/>
+                        <path d="M440 520 L200 520 L200 440 L440 440 L440 200 L520 200 L520 440 L760 440 L760 520 L520 520 L520 760 L440 760 L440 520 Z" fill="#B8C6EE"/>
                       </g>
                     </g>
                   </g>
                 </g>
                 <g id="ReusableComposeNode">
                   <g transform="translate(231 507) scale(1 1)">
-                    <path d="M0,1.31 L777,1.31" fill="none" stroke="#FCFAFF" stroke-opacity="0.1" stroke-width="2.62"/>
+                    <path d="M0,1.31 L777,1.31" fill="none" stroke="#E4E5F0" stroke-opacity="0.1" stroke-width="2.62"/>
                   </g>
                 </g>
               </g>
               <g id="ReusableComposeNode">
                 <g id="ReusableComposeNode">
                   <g id="ReusableComposeNode">
-                    <image href="ideal__default__dark.figma-raster/70.png" x="42" y="531" width="147" height="147"/>
+                    <image href="ideal__default__dark.figma-raster/424.png" x="42" y="531" width="147" height="147"/>
                   </g>
                   <g id="ReusableComposeNode">
-                    <text x="231" y="618.99" font-size="42" font-family="Montserrat" font-weight="500" letter-spacing="0.39" fill="#E2E2E9">Jetpack</text>
+                    <text x="231" y="618.99" font-size="42" font-family="Montserrat" font-weight="500" letter-spacing="0.39" fill="#E4E5F0">Jetpack</text>
                   </g>
                   <g id="ReusableComposeNode">
                   </g>
                   <g id="ReusableComposeNode">
-                    <rect x="914" y="558" width="93" height="93" rx="46.5" ry="46.5" fill="#00143B" stroke="#FCFAFF" stroke-opacity="0.1" stroke-width="2.62"/>
+                    <rect x="914" y="558" width="93" height="93" rx="46.5" ry="46.5" fill="#323F60" stroke="#E4E5F0" stroke-opacity="0.1" stroke-width="2.62"/>
                     <g id="ReusableComposeNode">
                       <g transform="translate(934 578) scale(0.05 0.05)">
-                        <path d="M440 520 L200 520 L200 440 L440 440 L440 200 L520 200 L520 440 L760 440 L760 520 L520 520 L520 760 L440 760 L440 520 Z" fill="#B7CAFF"/>
+                        <path d="M440 520 L200 520 L200 440 L440 440 L440 200 L520 200 L520 440 L760 440 L760 520 L520 520 L520 760 L440 760 L440 520 Z" fill="#B8C6EE"/>
                       </g>
                     </g>
                   </g>
                 </g>
                 <g id="ReusableComposeNode">
                   <g transform="translate(231 699) scale(1 1)">
-                    <path d="M0,1.31 L777,1.31" fill="none" stroke="#FCFAFF" stroke-opacity="0.1" stroke-width="2.62"/>
+                    <path d="M0,1.31 L777,1.31" fill="none" stroke="#E4E5F0" stroke-opacity="0.1" stroke-width="2.62"/>
                   </g>
                 </g>
               </g>
             </g>
             <g id="ReusableComposeNode">
-              <text x="42" y="810.99" font-size="42" font-family="Montserrat" font-weight="500" letter-spacing="0.39" fill="#E2E2E9">Programming</text>
+              <text x="42" y="810.99" font-size="42" font-family="Montserrat" font-weight="500" letter-spacing="0.39" fill="#E4E5F0">Programming</text>
             </g>
             <g id="ReusableComposeNode">
               <g id="ReusableComposeNode">
                 <g id="ReusableComposeNode">
                   <g id="ReusableComposeNode">
-                    <image href="ideal__default__dark.figma-raster/80.png" x="42" y="870" width="147" height="147"/>
+                    <image href="ideal__default__dark.figma-raster/434.png" x="42" y="870" width="147" height="147"/>
                   </g>
                   <g id="ReusableComposeNode">
-                    <text x="231" y="957.99" font-size="42" font-family="Montserrat" font-weight="500" letter-spacing="0.39" fill="#E2E2E9">Kotlin</text>
+                    <text x="231" y="957.99" font-size="42" font-family="Montserrat" font-weight="500" letter-spacing="0.39" fill="#E4E5F0">Kotlin</text>
                   </g>
                   <g id="ReusableComposeNode">
                   </g>
                   <g id="ReusableComposeNode">
-                    <rect x="914" y="897" width="93" height="93" rx="46.5" ry="46.5" fill="#00143B" stroke="#FCFAFF" stroke-opacity="0.1" stroke-width="2.62"/>
+                    <rect x="914" y="897" width="93" height="93" rx="46.5" ry="46.5" fill="#323F60" stroke="#E4E5F0" stroke-opacity="0.1" stroke-width="2.62"/>
                     <g id="ReusableComposeNode">
                       <g transform="translate(934 917) scale(0.05 0.05)">
-                        <path d="M440 520 L200 520 L200 440 L440 440 L440 200 L520 200 L520 440 L760 440 L760 520 L520 520 L520 760 L440 760 L440 520 Z" fill="#B7CAFF"/>
+                        <path d="M440 520 L200 520 L200 440 L440 440 L440 200 L520 200 L520 440 L760 440 L760 520 L520 520 L520 760 L440 760 L440 520 Z" fill="#B8C6EE"/>
                       </g>
                     </g>
                   </g>
                 </g>
                 <g id="ReusableComposeNode">
                   <g transform="translate(231 1038) scale(1 1)">
-                    <path d="M0,1.31 L777,1.31" fill="none" stroke="#FCFAFF" stroke-opacity="0.1" stroke-width="2.62"/>
+                    <path d="M0,1.31 L777,1.31" fill="none" stroke="#E4E5F0" stroke-opacity="0.1" stroke-width="2.62"/>
                   </g>
                 </g>
               </g>
               <g id="ReusableComposeNode">
                 <g id="ReusableComposeNode">
                   <g id="ReusableComposeNode">
-                    <image href="ideal__default__dark.figma-raster/88.png" x="42" y="1062" width="147" height="147"/>
+                    <image href="ideal__default__dark.figma-raster/442.png" x="42" y="1062" width="147" height="147"/>
                   </g>
                   <g id="ReusableComposeNode">
-                    <text x="231" y="1149.99" font-size="42" font-family="Montserrat" font-weight="500" letter-spacing="0.39" fill="#E2E2E9">Declarative UIs</text>
+                    <text x="231" y="1149.99" font-size="42" font-family="Montserrat" font-weight="500" letter-spacing="0.39" fill="#E4E5F0">Declarative UIs</text>
                   </g>
                   <g id="ReusableComposeNode">
                   </g>
                   <g id="ReusableComposeNode">
-                    <rect x="914" y="1089" width="93" height="93" rx="46.5" ry="46.5" fill="#00143B" stroke="#FCFAFF" stroke-opacity="0.1" stroke-width="2.62"/>
+                    <rect x="914" y="1089" width="93" height="93" rx="46.5" ry="46.5" fill="#323F60" stroke="#E4E5F0" stroke-opacity="0.1" stroke-width="2.62"/>
                     <g id="ReusableComposeNode">
                       <g transform="translate(934 1109) scale(0.05 0.05)">
-                        <path d="M440 520 L200 520 L200 440 L440 440 L440 200 L520 200 L520 440 L760 440 L760 520 L520 520 L520 760 L440 760 L440 520 Z" fill="#B7CAFF"/>
+                        <path d="M440 520 L200 520 L200 440 L440 440 L440 200 L520 200 L520 440 L760 440 L760 520 L520 520 L520 760 L440 760 L440 520 Z" fill="#B8C6EE"/>
                       </g>
                     </g>
                   </g>
                 </g>
                 <g id="ReusableComposeNode">
                   <g transform="translate(231 1230) scale(1 1)">
-                    <path d="M0,1.31 L777,1.31" fill="none" stroke="#FCFAFF" stroke-opacity="0.1" stroke-width="2.62"/>
+                    <path d="M0,1.31 L777,1.31" fill="none" stroke="#E4E5F0" stroke-opacity="0.1" stroke-width="2.62"/>
                   </g>
                 </g>
               </g>
               <g id="ReusableComposeNode">
                 <g id="ReusableComposeNode">
                   <g id="ReusableComposeNode">
-                    <image href="ideal__default__dark.figma-raster/96.png" x="42" y="1254" width="147" height="147"/>
+                    <image href="ideal__default__dark.figma-raster/450.png" x="42" y="1254" width="147" height="147"/>
                   </g>
                   <g id="ReusableComposeNode">
-                    <text x="231" y="1341.99" font-size="42" font-family="Montserrat" font-weight="500" letter-spacing="0.39" fill="#E2E2E9">Java</text>
+                    <text x="231" y="1341.99" font-size="42" font-family="Montserrat" font-weight="500" letter-spacing="0.39" fill="#E4E5F0">Java</text>
                   </g>
                   <g id="ReusableComposeNode">
                   </g>
                   <g id="ReusableComposeNode">
-                    <rect x="914" y="1281" width="93" height="93" rx="46.5" ry="46.5" fill="#00143B" stroke="#FCFAFF" stroke-opacity="0.1" stroke-width="2.62"/>
+                    <rect x="914" y="1281" width="93" height="93" rx="46.5" ry="46.5" fill="#323F60" stroke="#E4E5F0" stroke-opacity="0.1" stroke-width="2.62"/>
                     <g id="ReusableComposeNode">
                       <g transform="translate(934 1301) scale(0.05 0.05)">
-                        <path d="M440 520 L200 520 L200 440 L440 440 L440 200 L520 200 L520 440 L760 440 L760 520 L520 520 L520 760 L440 760 L440 520 Z" fill="#B7CAFF"/>
+                        <path d="M440 520 L200 520 L200 440 L440 440 L440 200 L520 200 L520 440 L760 440 L760 520 L520 520 L520 760 L440 760 L440 520 Z" fill="#B8C6EE"/>
                       </g>
                     </g>
                   </g>
                 </g>
                 <g id="ReusableComposeNode">
                   <g transform="translate(231 1422) scale(1 1)">
-                    <path d="M0,1.31 L777,1.31" fill="none" stroke="#FCFAFF" stroke-opacity="0.1" stroke-width="2.62"/>
+                    <path d="M0,1.31 L777,1.31" fill="none" stroke="#E4E5F0" stroke-opacity="0.1" stroke-width="2.62"/>
                   </g>
                 </g>
               </g>
               <g id="ReusableComposeNode">
                 <g id="ReusableComposeNode">
                   <g id="ReusableComposeNode">
-                    <image href="ideal__default__dark.figma-raster/104.png" x="42" y="1446" width="147" height="147"/>
+                    <image href="ideal__default__dark.figma-raster/458.png" x="42" y="1446" width="147" height="147"/>
                   </g>
                   <g id="ReusableComposeNode">
-                    <text x="231" y="1533.99" font-size="42" font-family="Montserrat" font-weight="500" letter-spacing="0.39" fill="#E2E2E9">Unidirectional Data Flow</text>
+                    <text x="231" y="1533.99" font-size="42" font-family="Montserrat" font-weight="500" letter-spacing="0.39" fill="#E4E5F0">Unidirectional Data Flow</text>
                   </g>
                   <g id="ReusableComposeNode">
                   </g>
                   <g id="ReusableComposeNode">
-                    <rect x="914" y="1473" width="93" height="93" rx="46.5" ry="46.5" fill="#00143B" stroke="#FCFAFF" stroke-opacity="0.1" stroke-width="2.62"/>
+                    <rect x="914" y="1473" width="93" height="93" rx="46.5" ry="46.5" fill="#323F60" stroke="#E4E5F0" stroke-opacity="0.1" stroke-width="2.62"/>
                     <g id="ReusableComposeNode">
                       <g transform="translate(934 1493) scale(0.05 0.05)">
-                        <path d="M440 520 L200 520 L200 440 L440 440 L440 200 L520 200 L520 440 L760 440 L760 520 L520 520 L520 760 L440 760 L440 520 Z" fill="#B7CAFF"/>
+                        <path d="M440 520 L200 520 L200 440 L440 440 L440 200 L520 200 L520 440 L760 440 L760 520 L520 520 L520 760 L440 760 L440 520 Z" fill="#B8C6EE"/>
                       </g>
                     </g>
                   </g>
                 </g>
                 <g id="ReusableComposeNode">
                   <g transform="translate(231 1614) scale(1 1)">
-                    <path d="M0,1.31 L777,1.31" fill="none" stroke="#FCFAFF" stroke-opacity="0.1" stroke-width="2.62"/>
+                    <path d="M0,1.31 L777,1.31" fill="none" stroke="#E4E5F0" stroke-opacity="0.1" stroke-width="2.62"/>
                   </g>
                 </g>
               </g>
               <g id="ReusableComposeNode">
                 <g id="ReusableComposeNode">
                   <g id="ReusableComposeNode">
-                    <image href="ideal__default__dark.figma-raster/112.png" x="42" y="1638" width="147" height="147"/>
+                    <image href="ideal__default__dark.figma-raster/466.png" x="42" y="1638" width="147" height="147"/>
                   </g>
                   <g id="ReusableComposeNode">
-                    <text x="231" y="1725.99" font-size="42" font-family="Montserrat" font-weight="500" letter-spacing="0.39" fill="#E2E2E9">C++</text>
+                    <text x="231" y="1725.99" font-size="42" font-family="Montserrat" font-weight="500" letter-spacing="0.39" fill="#E4E5F0">C++</text>
                   </g>
                   <g id="ReusableComposeNode">
                   </g>
                   <g id="ReusableComposeNode">
-                    <rect x="914" y="1665" width="93" height="93" rx="46.5" ry="46.5" fill="#00143B" stroke="#FCFAFF" stroke-opacity="0.1" stroke-width="2.62"/>
+                    <rect x="914" y="1665" width="93" height="93" rx="46.5" ry="46.5" fill="#323F60" stroke="#E4E5F0" stroke-opacity="0.1" stroke-width="2.62"/>
                     <g id="ReusableComposeNode">
                       <g transform="translate(934 1685) scale(0.05 0.05)">
-                        <path d="M440 520 L200 520 L200 440 L440 440 L440 200 L520 200 L520 440 L760 440 L760 520 L520 520 L520 760 L440 760 L440 520 Z" fill="#B7CAFF"/>
+                        <path d="M440 520 L200 520 L200 440 L440 440 L440 200 L520 200 L520 440 L760 440 L760 520 L520 520 L520 760 L440 760 L440 520 Z" fill="#B8C6EE"/>
                       </g>
                     </g>
                   </g>
                 </g>
                 <g id="ReusableComposeNode">
                   <g transform="translate(231 1806) scale(1 1)">
-                    <path d="M0,1.31 L777,1.31" fill="none" stroke="#FCFAFF" stroke-opacity="0.1" stroke-width="2.62"/>
+                    <path d="M0,1.31 L777,1.31" fill="none" stroke="#E4E5F0" stroke-opacity="0.1" stroke-width="2.62"/>
                   </g>
                 </g>
               </g>
             </g>
             <g id="ReusableComposeNode">
-              <text x="42" y="1917.99" font-size="42" font-family="Montserrat" font-weight="500" letter-spacing="0.39" fill="#E2E2E9">Technology</text>
+              <text x="42" y="1917.99" font-size="42" font-family="Montserrat" font-weight="500" letter-spacing="0.39" fill="#E4E5F0">Technology</text>
             </g>
             <g id="ReusableComposeNode">
               <g id="ReusableComposeNode">
                 <g id="ReusableComposeNode">
                   <g id="ReusableComposeNode">
-                    <image href="ideal__default__dark.figma-raster/122.png" x="42" y="1977" width="147" height="147"/>
+                    <image href="ideal__default__dark.figma-raster/476.png" x="42" y="1977" width="147" height="147"/>
                   </g>
                   <g id="ReusableComposeNode">
-                    <text x="231" y="2064.98" font-size="42" font-family="Montserrat" font-weight="500" letter-spacing="0.39" fill="#E2E2E9">Pixel</text>
+                    <text x="231" y="2064.98" font-size="42" font-family="Montserrat" font-weight="500" letter-spacing="0.39" fill="#E4E5F0">Pixel</text>
                   </g>
                   <g id="ReusableComposeNode">
                   </g>
                   <g id="ReusableComposeNode">
-                    <rect x="914" y="2004" width="93" height="93" rx="46.5" ry="46.5" fill="#00143B" stroke="#FCFAFF" stroke-opacity="0.1" stroke-width="2.62"/>
+                    <rect x="914" y="2004" width="93" height="93" rx="46.5" ry="46.5" fill="#323F60" stroke="#E4E5F0" stroke-opacity="0.1" stroke-width="2.62"/>
                     <g id="ReusableComposeNode">
                       <g transform="translate(934 2024) scale(0.05 0.05)">
-                        <path d="M440 520 L200 520 L200 440 L440 440 L440 200 L520 200 L520 440 L760 440 L760 520 L520 520 L520 760 L440 760 L440 520 Z" fill="#B7CAFF"/>
+                        <path d="M440 520 L200 520 L200 440 L440 440 L440 200 L520 200 L520 440 L760 440 L760 520 L520 520 L520 760 L440 760 L440 520 Z" fill="#B8C6EE"/>
                       </g>
                     </g>
                   </g>
                 </g>
                 <g id="ReusableComposeNode">
                   <g transform="translate(231 2145) scale(1 1)">
-                    <path d="M0,1.31 L777,1.31" fill="none" stroke="#FCFAFF" stroke-opacity="0.1" stroke-width="2.62"/>
+                    <path d="M0,1.31 L777,1.31" fill="none" stroke="#E4E5F0" stroke-opacity="0.1" stroke-width="2.62"/>
                   </g>
                 </g>
               </g>
@@ -253,22 +253,22 @@
                   <g id="ReusableComposeNode">
                   </g>
                   <g id="ReusableComposeNode">
-                    <text x="231" y="2256.98" font-size="42" font-family="Montserrat" font-weight="500" letter-spacing="0.39" fill="#E2E2E9">Google</text>
+                    <text x="231" y="2256.98" font-size="42" font-family="Montserrat" font-weight="500" letter-spacing="0.39" fill="#E4E5F0">Google</text>
                   </g>
                   <g id="ReusableComposeNode">
                   </g>
                   <g id="ReusableComposeNode">
-                    <rect x="914" y="2196" width="93" height="93" rx="46.5" ry="46.5" fill="#00143B" stroke="#FCFAFF" stroke-opacity="0.1" stroke-width="2.62"/>
+                    <rect x="914" y="2196" width="93" height="93" rx="46.5" ry="46.5" fill="#323F60" stroke="#E4E5F0" stroke-opacity="0.1" stroke-width="2.62"/>
                     <g id="ReusableComposeNode">
                       <g transform="translate(934 2216) scale(0.05 0.05)">
-                        <path d="M440 520 L200 520 L200 440 L440 440 L440 200 L520 200 L520 440 L760 440 L760 520 L520 520 L520 760 L440 760 L440 520 Z" fill="#B7CAFF"/>
+                        <path d="M440 520 L200 520 L200 440 L440 440 L440 200 L520 200 L520 440 L760 440 L760 520 L520 520 L520 760 L440 760 L440 520 Z" fill="#B8C6EE"/>
                       </g>
                     </g>
                   </g>
                 </g>
                 <g id="ReusableComposeNode">
                   <g transform="translate(231 2337) scale(1 1)">
-                    <path d="M0,1.31 L777,1.31" fill="none" stroke="#FCFAFF" stroke-opacity="0.1" stroke-width="2.62"/>
+                    <path d="M0,1.31 L777,1.31" fill="none" stroke="#E4E5F0" stroke-opacity="0.1" stroke-width="2.62"/>
                   </g>
                 </g>
               </g>

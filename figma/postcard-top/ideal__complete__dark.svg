@@ -3,21 +3,21 @@
 <g transform="translate(0, 0)">
   <g id="Root">
     <g id="ReusableComposeNode">
-        <rect x="0" y="0" width="1050" height="874" fill="#121318"/>
+        <rect x="0" y="0" width="1050" height="874" fill="#0D0E12"/>
       <g id="ReusableComposeNode">
         <g id="ReusableComposeNode">
-          <image href="ideal__complete__dark.figma-raster/682.png" x="42" y="42" width="966" height="473"/>
+          <image href="ideal__complete__dark.figma-raster/570.png" x="42" y="42" width="966" height="473"/>
         </g>
         <g id="ReusableComposeNode">
         </g>
         <g id="ReusableComposeNode">
-          <text font-size="57.75" font-family="Montserrat" fill="#E2E2E9"><tspan x="42" y="615" textLength="473" lengthAdjust="spacing">Redesigning the</tspan><tspan x="42" y="689" textLength="592" lengthAdjust="spacing">Android Studio Logo</tspan></text>
+          <text font-size="57.75" font-family="Montserrat" fill="#E4E5F0"><tspan x="42" y="615" textLength="473" lengthAdjust="spacing">Redesigning the</tspan><tspan x="42" y="689" textLength="592" lengthAdjust="spacing">Android Studio Logo</tspan></text>
         </g>
         <g id="ReusableComposeNode">
-          <text x="42" y="764.92" font-size="36.75" font-family="Montserrat" font-weight="500" letter-spacing="0.26" fill="#E2E2E9">Android Studio Team</text>
+          <text x="42" y="764.92" font-size="36.75" font-family="Montserrat" font-weight="500" letter-spacing="0.26" fill="#E4E5F0">Android Studio Team</text>
         </g>
         <g id="ReusableComposeNode">
-          <text x="42" y="821.86" font-size="31.5" font-family="Montserrat" letter-spacing="1.05" fill="#E2E2E9">May 10 - 5 min read</text>
+          <text x="42" y="821.86" font-size="31.5" font-family="Montserrat" letter-spacing="1.05" fill="#E4E5F0">May 10 - 5 min read</text>
         </g>
       </g>
     </g>

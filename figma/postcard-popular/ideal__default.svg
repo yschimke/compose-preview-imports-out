@@ -3,26 +3,26 @@
 <g transform="translate(0, 0)">
   <g id="Root">
     <g id="ReusableComposeNode">
-        <rect x="0" y="0" width="735" height="2100" fill="#FAF8FF"/>
+        <rect x="0" y="0" width="735" height="2100" fill="#FAF8FE"/>
       <clipPath id="clip-0"><rect x="0" y="0" width="735" height="2100" rx="10.5" ry="10.5"/></clipPath>
       <g id="ReusableComposeNode">
-          <rect x="0" y="0" width="735" height="2100" rx="10.5" ry="10.5" fill="#E2E2E9"/>
+          <rect x="0" y="0" width="735" height="2100" rx="10.5" ry="10.5" fill="#E1E2ED"/>
         <g clip-path="url(#clip-0)">
           <g id="ReusableComposeNode">
             <g id="ReusableComposeNode">
-              <image href="ideal__default.figma-raster/714.png" x="0" y="0" width="735" height="263"/>
+              <image href="ideal__default.figma-raster/144.png" x="0" y="0" width="735" height="263"/>
             </g>
             <g id="ReusableComposeNode">
               <g id="ReusableComposeNode">
-                <text font-size="63" font-family="Montserrat" fill="#1A1B20"><tspan x="42" y="369" textLength="421" lengthAdjust="spacing">A Little Thing</tspan><tspan x="42" y="453" textLength="617" lengthAdjust="spacing">about Android Mo…</tspan></text>
+                <text font-size="63" font-family="Montserrat" fill="#5D5F68"><tspan x="42" y="369" textLength="421" lengthAdjust="spacing">A Little Thing</tspan><tspan x="42" y="453" textLength="617" lengthAdjust="spacing">about Android Mo…</tspan></text>
               </g>
               <g id="ReusableComposeNode">
               </g>
               <g id="ReusableComposeNode">
-                <text x="42" y="2001.92" font-size="36.75" font-family="Montserrat" letter-spacing="0.66" fill="#1A1B20">Pietro Maggi</text>
+                <text x="42" y="2001.92" font-size="36.75" font-family="Montserrat" letter-spacing="0.66" fill="#5D5F68">Pietro Maggi</text>
               </g>
               <g id="ReusableComposeNode">
-                <text x="42" y="2047.86" font-size="31.5" font-family="Montserrat" letter-spacing="1.05" fill="#1A1B20">August 02 - 1 min read</text>
+                <text x="42" y="2047.86" font-size="31.5" font-family="Montserrat" letter-spacing="1.05" fill="#5D5F68">August 02 - 1 min read</text>
               </g>
             </g>
           </g>

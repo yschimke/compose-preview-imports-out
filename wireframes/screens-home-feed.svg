@@ -8,8 +8,8 @@
     <rect x="0" y="0" width="1050" height="2100" fill="none" fill-opacity="0" stroke="#2E7D6B" stroke-width="1" stroke-opacity="0.5"/>
   </g>
   <g>
-    <rect x="0" y="0" width="1050" height="2100" fill="#FAF8FF" fill-opacity="1" stroke="#8E6BA8" stroke-width="1.5" stroke-opacity="1"/>
-    <text x="3" y="12" font-family="system-ui, sans-serif" font-size="9" fill="#8E6BA8">#FFFAF8FF</text>
+    <rect x="0" y="0" width="1050" height="2100" fill="#FAF8FE" fill-opacity="1" stroke="#8E6BA8" stroke-width="1.5" stroke-opacity="1"/>
+    <text x="3" y="12" font-family="system-ui, sans-serif" font-size="9" fill="#8E6BA8">#FFFAF8FE</text>
   </g>
   <g>
     <rect x="0" y="0" width="1050" height="2100" fill="none" fill-opacity="0" stroke="#B0813B" stroke-width="1" stroke-opacity="0.5"/>
@@ -36,8 +36,8 @@
     <rect x="42" y="0" width="966" height="147" fill="none" fill-opacity="0" stroke="#8E6BA8" stroke-width="1" stroke-opacity="0.5"/>
   </g>
   <g>
-    <path d="M52.5,0 H997.5 A10.5,10.5 0 0 1 1008,10.5 V136.5 A10.5,10.5 0 0 1 997.5,147 H52.5 A10.5,10.5 0 0 1 42,136.5 V10.5 A10.5,10.5 0 0 1 52.5,0 Z" fill="none" fill-opacity="0" stroke="#5D5F67" stroke-width="1.5" stroke-opacity="1"/>
-    <text x="45" y="12" font-family="system-ui, sans-serif" font-size="9" fill="#5D5F67">◻ #FF5D5F67</text>
+    <path d="M52.5,0 H997.5 A10.5,10.5 0 0 1 1008,10.5 V136.5 A10.5,10.5 0 0 1 997.5,147 H52.5 A10.5,10.5 0 0 1 42,136.5 V10.5 A10.5,10.5 0 0 1 52.5,0 Z" fill="none" fill-opacity="0" stroke="#787A84" stroke-width="1.5" stroke-opacity="1"/>
+    <text x="45" y="12" font-family="system-ui, sans-serif" font-size="9" fill="#787A84">◻ #FF787A84</text>
   </g>
   <g>
     <rect x="74" y="43" width="63" height="63" fill="none" fill-opacity="0" stroke="#8E6BA8" stroke-width="1" stroke-opacity="0.5"/>
@@ -299,8 +299,8 @@
     <rect x="37" y="3150" width="976" height="3" fill="none" fill-opacity="0" stroke="#5B6470" stroke-width="1" stroke-opacity="0.5"/>
   </g>
   <g>
-    <path d="M525.5,-105 H525.5 A52.5,52.5 0 0 1 578,-52.5 V-52.5 A52.5,52.5 0 0 1 525.5,0 H525.5 A52.5,52.5 0 0 1 473,-52.5 V-52.5 A52.5,52.5 0 0 1 525.5,-105 Z" fill="#E8E7EF" fill-opacity="1" stroke="#4F8A4A" stroke-width="1.5" stroke-opacity="1"/>
-    <text x="476" y="-93" font-family="system-ui, sans-serif" font-size="9" fill="#4F8A4A">#FFE8E7EF  pad 0.0dp</text>
+    <path d="M525.5,-105 H525.5 A52.5,52.5 0 0 1 578,-52.5 V-52.5 A52.5,52.5 0 0 1 525.5,0 H525.5 A52.5,52.5 0 0 1 473,-52.5 V-52.5 A52.5,52.5 0 0 1 525.5,-105 Z" fill="#E7E7F1" fill-opacity="1" stroke="#4F8A4A" stroke-width="1.5" stroke-opacity="1"/>
+    <text x="476" y="-93" font-family="system-ui, sans-serif" font-size="9" fill="#4F8A4A">#FFE7E7F1  pad 0.0dp</text>
   </g>
   <g>
     <rect x="505" y="-73" width="42" height="42" fill="none" fill-opacity="0" stroke="#7A7A33" stroke-width="1" stroke-opacity="0.5"/>

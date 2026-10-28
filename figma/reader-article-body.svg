@@ -4,48 +4,48 @@
   <g id="Root">
     <clipPath id="clip-0"><rect x="0" y="0" width="1050" height="2100"/></clipPath>
     <g id="ReusableComposeNode">
-        <rect x="0" y="0" width="1050" height="2100" fill="#FAF8FF"/>
+        <rect x="0" y="0" width="1050" height="2100" fill="#FAF8FE"/>
       <g clip-path="url(#clip-0)">
         <clipPath id="clip-1"><rect x="42" y="0" width="966" height="2100"/></clipPath>
         <g id="ReusableComposeNode">
           <g clip-path="url(#clip-1)">
             <g id="ImageKt">
-              <image href="reader-article-body.figma-raster/172.png" x="42" y="0" width="966" height="473"/>
+              <image href="reader-article-body.figma-raster/966.png" x="42" y="0" width="966" height="473"/>
             </g>
             <g id="Spacer">
             </g>
             <g id="Empty">
-              <text font-size="84" font-family="Montserrat" fill="#1A1B20"><tspan x="42" y="597" textLength="435" lengthAdjust="spacing">From Java</tspan><tspan x="42" y="702" textLength="601" lengthAdjust="spacing">Programming</tspan><tspan x="42" y="807" textLength="808" lengthAdjust="spacing">Language to Kotlin</tspan><tspan x="42" y="912" textLength="845" lengthAdjust="spacing">— the idiomatic way</tspan></text>
+              <text font-size="84" font-family="Montserrat" fill="#30323A"><tspan x="42" y="597" textLength="435" lengthAdjust="spacing">From Java</tspan><tspan x="42" y="702" textLength="601" lengthAdjust="spacing">Programming</tspan><tspan x="42" y="807" textLength="808" lengthAdjust="spacing">Language to Kotlin</tspan><tspan x="42" y="912" textLength="845" lengthAdjust="spacing">— the idiomatic way</tspan></text>
             </g>
             <g id="Spacer">
             </g>
             <g id="Empty">
-              <text font-size="36.75" font-family="Montserrat" letter-spacing="0.66" fill="#1A1B20"><tspan x="42" y="996" textLength="762" lengthAdjust="spacing">Learn how to get started converting Java</tspan><tspan x="42" y="1049" textLength="928" lengthAdjust="spacing">Programming Language code to Kotlin, making it</tspan><tspan x="42" y="1102" textLength="875" lengthAdjust="spacing">more idiomatic and avoid common pitfalls, by…</tspan></text>
+              <text font-size="36.75" font-family="Montserrat" letter-spacing="0.66" fill="#30323A"><tspan x="42" y="996" textLength="762" lengthAdjust="spacing">Learn how to get started converting Java</tspan><tspan x="42" y="1049" textLength="928" lengthAdjust="spacing">Programming Language code to Kotlin, making it</tspan><tspan x="42" y="1102" textLength="875" lengthAdjust="spacing">more idiomatic and avoid common pitfalls, by…</tspan></text>
             </g>
             <g id="Spacer">
             </g>
             <g id="Row">
               <g id="ImageKt">
                 <g transform="translate(42 1157) scale(0.1 0.1)">
-                  <path d="M234 684 Q 285 645 348 622.5 Q 411 600 480 600 Q 549 600 612 622.5 Q 675 645 726 684 Q 761 643 780.5 591 Q 800 539 800 480 Q 800 347 706.5 253.5 Q 613 160 480 160 Q 347 160 253.5 253.5 Q 160 347 160 480 Q 160 539 179.5 591 Q 199 643 234 684 Z M480 520 Q 421 520 380.5 479.5 Q 340 439 340 380 Q 340 321 380.5 280.5 Q 421 240 480 240 Q 539 240 579.5 280.5 Q 620 321 620 380 Q 620 439 579.5 479.5 Q 539 520 480 520 Z M480 880 Q 397 880 324 848.5 Q 251 817 197 763 Q 143 709 111.5 636 Q 80 563 80 480 Q 80 397 111.5 324 Q 143 251 197 197 Q 251 143 324 111.5 Q 397 80 480 80 Q 563 80 636 111.5 Q 709 143 763 197 Q 817 251 848.5 324 Q 880 397 880 480 Q 880 563 848.5 636 Q 817 709 763 763 Q 709 817 636 848.5 Q 563 880 480 880 Z" fill="#1A1B20"/>
+                  <path d="M234 684 Q 285 645 348 622.5 Q 411 600 480 600 Q 549 600 612 622.5 Q 675 645 726 684 Q 761 643 780.5 591 Q 800 539 800 480 Q 800 347 706.5 253.5 Q 613 160 480 160 Q 347 160 253.5 253.5 Q 160 347 160 480 Q 160 539 179.5 591 Q 199 643 234 684 Z M480 520 Q 421 520 380.5 479.5 Q 340 439 340 380 Q 340 321 380.5 280.5 Q 421 240 480 240 Q 539 240 579.5 280.5 Q 620 321 620 380 Q 620 439 579.5 479.5 Q 539 520 480 520 Z M480 880 Q 397 880 324 848.5 Q 251 817 197 763 Q 143 709 111.5 636 Q 80 563 80 480 Q 80 397 111.5 324 Q 143 251 197 197 Q 251 143 324 111.5 Q 397 80 480 80 Q 563 80 636 111.5 Q 709 143 763 197 Q 817 251 848.5 324 Q 880 397 880 480 Q 880 563 848.5 636 Q 817 709 763 763 Q 709 817 636 848.5 Q 563 880 480 880 Z" fill="#30323A"/>
                 </g>
               </g>
               <g id="Spacer">
               </g>
               <g id="Column">
                 <g id="Empty">
-                  <text x="168" y="1206.92" font-size="36.75" font-family="Montserrat" font-weight="500" letter-spacing="0.26" fill="#1A1B20">Florina Muntenescu</text>
+                  <text x="168" y="1206.92" font-size="36.75" font-family="Montserrat" font-weight="500" letter-spacing="0.26" fill="#30323A">Florina Muntenescu</text>
                 </g>
                 <g id="Empty">
-                  <text x="168" y="1252.86" font-size="31.5" font-family="Montserrat" letter-spacing="1.05" fill="#1A1B20">July 09 • 1 min read</text>
+                  <text x="168" y="1252.86" font-size="31.5" font-family="Montserrat" letter-spacing="1.05" fill="#30323A">July 09 • 1 min read</text>
                 </g>
               </g>
             </g>
             <g id="Empty">
-              <text font-size="42" font-family="Montserrat" letter-spacing="1.31" fill="#1A1B20"><tspan x="53" y="1389" font-size="42" font-family="Montserrat" fill="#1A1B20">Learn how to get started converting Java</tspan><tspan x="53" y="1463" font-size="42" font-family="Montserrat" fill="#1A1B20">Programming Language code to Kotlin,</tspan><tspan x="53" y="1537" font-size="42" font-family="Montserrat" fill="#1A1B20">making it more idiomatic and avoid</tspan><tspan x="53" y="1611" font-size="42" font-family="Montserrat" fill="#1A1B20">common pitfalls, by following our new</tspan><tspan x="53" y="1685" font-size="42" font-family="Montserrat" fill="#1A1B20">Refactoring to Kotlin</tspan><tspan font-size="42" font-family="Montserrat" fill="#1A1B20"> codelab, available</tspan><tspan x="53" y="1759" font-size="42" font-family="Montserrat" fill="#1A1B20">in English 🇬🇧, </tspan><tspan font-size="42" font-family="Montserrat" fill="#1A1B20">Chinese</tspan><tspan font-size="42" font-family="Montserrat" fill="#1A1B20"> 🇨🇳 and </tspan><tspan font-size="42" font-family="Montserrat" fill="#1A1B20">Brazilian</tspan><tspan x="53" y="1833" font-size="42" font-family="Montserrat" fill="#1A1B20">Portuguese</tspan><tspan font-size="42" font-family="Montserrat" fill="#1A1B20"> 🇧🇷.</tspan></text>
+              <text font-size="42" font-family="Montserrat" letter-spacing="1.31" fill="#30323A"><tspan x="53" y="1389" font-size="42" font-family="Montserrat" fill="#30323A">Learn how to get started converting Java</tspan><tspan x="53" y="1463" font-size="42" font-family="Montserrat" fill="#30323A">Programming Language code to Kotlin,</tspan><tspan x="53" y="1537" font-size="42" font-family="Montserrat" fill="#30323A">making it more idiomatic and avoid</tspan><tspan x="53" y="1611" font-size="42" font-family="Montserrat" fill="#30323A">common pitfalls, by following our new</tspan><tspan x="53" y="1685" font-size="42" font-family="Montserrat" fill="#30323A">Refactoring to Kotlin</tspan><tspan font-size="42" font-family="Montserrat" fill="#30323A"> codelab, available</tspan><tspan x="53" y="1759" font-size="42" font-family="Montserrat" fill="#30323A">in English 🇬🇧, </tspan><tspan font-size="42" font-family="Montserrat" fill="#30323A">Chinese</tspan><tspan font-size="42" font-family="Montserrat" fill="#30323A"> 🇨🇳 and </tspan><tspan font-size="42" font-family="Montserrat" fill="#30323A">Brazilian</tspan><tspan x="53" y="1833" font-size="42" font-family="Montserrat" fill="#30323A">Portuguese</tspan><tspan font-size="42" font-family="Montserrat" fill="#30323A"> 🇧🇷.</tspan></text>
             </g>
             <g id="Empty">
-              <text font-size="42" font-family="Montserrat" letter-spacing="1.31" fill="#1A1B20"><tspan x="53" y="1992" font-size="42" font-family="Montserrat" fill="#1A1B20">When you first get started writing</tspan><tspan x="53" y="2066" font-size="42" font-family="Montserrat" fill="#1A1B20">Kotlin code, you tend to follow Java</tspan><tspan x="53" y="2140" font-size="42" font-family="Montserrat" fill="#1A1B20">Programming Language idioms. The</tspan><tspan x="53" y="2214" font-size="42" font-family="Montserrat" fill="#1A1B20">automatic converter</tspan><tspan font-size="42" font-family="Montserrat" fill="#1A1B20">, part of both Android</tspan><tspan x="53" y="2288" font-size="42" font-family="Montserrat" fill="#1A1B20">Studio and Intellij IDEA, can do a pretty</tspan><tspan x="53" y="2362" font-size="42" font-family="Montserrat" fill="#1A1B20">good job of automatically refactoring</tspan><tspan x="53" y="2436" font-size="42" font-family="Montserrat" fill="#1A1B20">your code, but sometimes, it needs a little</tspan><tspan x="53" y="2510" font-size="42" font-family="Montserrat" fill="#1A1B20">help. This is where our new Refactoring to</tspan><tspan x="53" y="2584" font-size="42" font-family="Montserrat" fill="#1A1B20">Kotlin codelab comes in.</tspan></text>
+              <text font-size="42" font-family="Montserrat" letter-spacing="1.31" fill="#30323A"><tspan x="53" y="1992" font-size="42" font-family="Montserrat" fill="#30323A">When you first get started writing</tspan><tspan x="53" y="2066" font-size="42" font-family="Montserrat" fill="#30323A">Kotlin code, you tend to follow Java</tspan><tspan x="53" y="2140" font-size="42" font-family="Montserrat" fill="#30323A">Programming Language idioms. The</tspan><tspan x="53" y="2214" font-size="42" font-family="Montserrat" fill="#30323A">automatic converter</tspan><tspan font-size="42" font-family="Montserrat" fill="#30323A">, part of both Android</tspan><tspan x="53" y="2288" font-size="42" font-family="Montserrat" fill="#30323A">Studio and Intellij IDEA, can do a pretty</tspan><tspan x="53" y="2362" font-size="42" font-family="Montserrat" fill="#30323A">good job of automatically refactoring</tspan><tspan x="53" y="2436" font-size="42" font-family="Montserrat" fill="#30323A">your code, but sometimes, it needs a little</tspan><tspan x="53" y="2510" font-size="42" font-family="Montserrat" fill="#30323A">help. This is where our new Refactoring to</tspan><tspan x="53" y="2584" font-size="42" font-family="Montserrat" fill="#30323A">Kotlin codelab comes in.</tspan></text>
             </g>
           </g>
         </g>

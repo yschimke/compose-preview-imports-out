@@ -3,23 +3,23 @@
 <g transform="translate(0, 0)">
   <g id="Root">
     <g id="ReusableComposeNode">
-        <rect x="0" y="0" width="1050" height="294" fill="#FAF8FF"/>
+        <rect x="0" y="0" width="1050" height="294" fill="#FAF8FE"/>
       <g id="ReusableComposeNode">
         <g id="ReusableComposeNode">
-          <image href="ideal__default.figma-raster/724.png" x="42" y="42" width="105" height="105"/>
+          <image href="ideal__default.figma-raster/597.png" x="42" y="42" width="105" height="105"/>
         </g>
         <g id="ReusableComposeNode">
           <g id="ReusableComposeNode">
-            <text font-size="42" font-family="Montserrat" font-weight="500" letter-spacing="0.39" fill="#1A1B20"><tspan x="189" y="72" textLength="539" lengthAdjust="spacing">From Java Programming</tspan><tspan x="189" y="135" textLength="414" lengthAdjust="spacing">Language to Kotlin</tspan><tspan x="189" y="198" textLength="434" lengthAdjust="spacing">— the idiomatic way</tspan></text>
+            <text font-size="42" font-family="Montserrat" font-weight="500" letter-spacing="0.39" fill="#30323A"><tspan x="189" y="72" textLength="539" lengthAdjust="spacing">From Java Programming</tspan><tspan x="189" y="135" textLength="414" lengthAdjust="spacing">Language to Kotlin</tspan><tspan x="189" y="198" textLength="434" lengthAdjust="spacing">— the idiomatic way</tspan></text>
           </g>
           <g id="ReusableComposeNode">
-            <text x="189" y="253.92" font-size="36.75" font-family="Montserrat" letter-spacing="0.66" fill="#1A1B20">Florina Muntenescu - 1 min read</text>
+            <text x="189" y="253.92" font-size="36.75" font-family="Montserrat" letter-spacing="0.66" fill="#30323A">Florina Muntenescu - 1 min read</text>
           </g>
         </g>
         <g id="ReusableComposeNode">
           <g id="ReusableComposeNode">
             <g transform="translate(940 37) scale(0.06 0.06)">
-              <path d="M200 840 L200 200 Q 200 167 223.5 143.5 Q 247 120 280 120 L680 120 Q 713 120 736.5 143.5 Q 760 167 760 200 L760 840 L480 720 L200 840 Z M280 718 L480 632 L680 718 L680 200 Q 680 200 680 200 Q 680 200 680 200 L280 200 Q 280 200 280 200 Q 280 200 280 200 L280 718 Z M280 200 L280 200 Q 280 200 280 200 Q 280 200 280 200 L680 200 Q 680 200 680 200 Q 680 200 680 200 L680 200 L480 200 L280 200 Z" fill="#1A1B20"/>
+              <path d="M200 840 L200 200 Q 200 167 223.5 143.5 Q 247 120 280 120 L680 120 Q 713 120 736.5 143.5 Q 760 167 760 200 L760 840 L480 720 L200 840 Z M280 718 L480 632 L680 718 L680 200 Q 680 200 680 200 Q 680 200 680 200 L280 200 Q 280 200 280 200 Q 280 200 280 200 L280 718 Z M280 200 L280 200 Q 280 200 280 200 Q 280 200 280 200 L680 200 Q 680 200 680 200 Q 680 200 680 200 L680 200 L480 200 L280 200 Z" fill="#30323A"/>
             </g>
           </g>
         </g>

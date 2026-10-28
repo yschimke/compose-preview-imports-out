@@ -4294,12 +4294,28 @@
   "library": [
     "androidx.compose.material3:material3"
   ],
-  "renderer": "compose-preview 2.57.0",
-  "generatedAt": "2026-10-14T08:06:51.432Z",
+  "renderer": "compose-preview 2.74.1",
+  "generatedAt": "2026-10-28T02:48:36.415Z",
   "display": {
     "surface": "light",
     "hero": "Screens/Home feed"
   },
+  "themes": [
+    {
+      "id": "ee.schimke.composeai.imported.themes.ImportedTheme_Dark",
+      "tokensFile": "themes/ee.schimke.composeai.imported.themes.importedtheme_dark.dtcg.json",
+      "name": "Dark",
+      "group": "JetNews",
+      "dark": true
+    },
+    {
+      "id": "ee.schimke.composeai.imported.themes.ImportedTheme_Light",
+      "tokensFile": "themes/ee.schimke.composeai.imported.themes.importedtheme_light.dtcg.json",
+      "name": "Light",
+      "group": "JetNews",
+      "dark": false
+    }
+  ],
   "liveBundle": {
     "path": "bundle/",
     "file": "bundle.png"
@@ -4315,7 +4331,7 @@
   "componentsFile": "components.json",
   "source": {
     "repo": "android/compose-samples",
-    "ref": "5a390e4a9d3c4e5b30e942041bde93582c4d9492",
+    "ref": "25631e8f544a9a1e3f01e296eaf1b4c28428196c",
     "module": ":app"
   }
 }

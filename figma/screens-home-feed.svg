@@ -4,7 +4,7 @@
   <g id="Root">
     <clipPath id="clip-0"><rect x="0" y="0" width="1050" height="2100"/></clipPath>
     <g id="ReusableComposeNode">
-        <rect x="0" y="0" width="1050" height="2100" fill="#FAF8FF"/>
+        <rect x="0" y="0" width="1050" height="2100" fill="#FAF8FE"/>
       <g clip-path="url(#clip-0)">
         <g id="ReusableComposeNode">
           <g id="Box">
@@ -12,136 +12,136 @@
             <g id="LayoutNodeSubcompositionsState">
               <g clip-path="url(#clip-1)">
                 <g id="OutlinedTextField">
-                  <image href="screens-home-feed.figma-raster/406.png" x="42" y="0" width="966" height="147"/>
+                  <image href="screens-home-feed.figma-raster/117.png" x="42" y="0" width="966" height="147"/>
                 </g>
                 <g id="Empty">
-                  <text x="42" y="234.99" font-size="42" font-family="Montserrat" font-weight="500" letter-spacing="0.39" fill="#1A1B20">Top stories for you</text>
+                  <text x="42" y="234.99" font-size="42" font-family="Montserrat" font-weight="500" letter-spacing="0.39" fill="#30323A">Top stories for you</text>
                 </g>
                 <g id="Column">
                   <g id="ImageKt">
-                    <image href="screens-home-feed.figma-raster/419.png" x="42" y="294" width="966" height="473"/>
+                    <image href="screens-home-feed.figma-raster/130.png" x="42" y="294" width="966" height="473"/>
                   </g>
                   <g id="Spacer">
                   </g>
                   <g id="Empty">
-                    <text font-size="57.75" font-family="Montserrat" fill="#1A1B20"><tspan x="42" y="867" textLength="473" lengthAdjust="spacing">Redesigning the</tspan><tspan x="42" y="941" textLength="592" lengthAdjust="spacing">Android Studio Logo</tspan></text>
+                    <text font-size="57.75" font-family="Montserrat" fill="#30323A"><tspan x="42" y="867" textLength="473" lengthAdjust="spacing">Redesigning the</tspan><tspan x="42" y="941" textLength="592" lengthAdjust="spacing">Android Studio Logo</tspan></text>
                   </g>
                   <g id="Empty">
-                    <text x="42" y="1016.92" font-size="36.75" font-family="Montserrat" font-weight="500" letter-spacing="0.26" fill="#1A1B20">Android Studio Team</text>
+                    <text x="42" y="1016.92" font-size="36.75" font-family="Montserrat" font-weight="500" letter-spacing="0.26" fill="#30323A">Android Studio Team</text>
                   </g>
                   <g id="Empty">
-                    <text x="42" y="1073.86" font-size="31.5" font-family="Montserrat" letter-spacing="1.05" fill="#1A1B20">May 10 - 5 min read</text>
+                    <text x="42" y="1073.86" font-size="31.5" font-family="Montserrat" letter-spacing="1.05" fill="#30323A">May 10 - 5 min read</text>
                   </g>
                 </g>
                 <g id="Spacer">
                   <g transform="translate(37 1126) scale(1 1)">
-                    <path d="M0,1.31 L976,1.31" fill="none" stroke="#1A1B20" stroke-opacity="0.07" stroke-width="2.62"/>
+                    <path d="M0,1.31 L976,1.31" fill="none" stroke="#30323A" stroke-opacity="0.07" stroke-width="2.62"/>
                   </g>
                 </g>
                 <g id="Column">
                   <g id="Row">
                     <g id="ImageKt">
-                      <image href="screens-home-feed.figma-raster/428.png" x="42" y="1171" width="105" height="105"/>
+                      <image href="screens-home-feed.figma-raster/139.png" x="42" y="1171" width="105" height="105"/>
                     </g>
                     <g id="Column">
                       <g id="Empty">
-                        <text font-size="42" font-family="Montserrat" font-weight="500" letter-spacing="0.39" fill="#1A1B20"><tspan x="189" y="1201" textLength="430" lengthAdjust="spacing">A Little Thing about</tspan><tspan x="189" y="1264" textLength="486" lengthAdjust="spacing">Android Module Paths</tspan></text>
+                        <text font-size="42" font-family="Montserrat" font-weight="500" letter-spacing="0.39" fill="#30323A"><tspan x="189" y="1201" textLength="430" lengthAdjust="spacing">A Little Thing about</tspan><tspan x="189" y="1264" textLength="486" lengthAdjust="spacing">Android Module Paths</tspan></text>
                       </g>
                       <g id="Empty">
-                        <text x="189" y="1319.92" font-size="36.75" font-family="Montserrat" letter-spacing="0.66" fill="#1A1B20">Pietro Maggi - 1 min read</text>
+                        <text x="189" y="1319.92" font-size="36.75" font-family="Montserrat" letter-spacing="0.66" fill="#30323A">Pietro Maggi - 1 min read</text>
                       </g>
                     </g>
                     <g id="Box">
                       <g id="BoxKt">
                         <g transform="translate(940 1166) scale(0.06 0.06)">
-                          <path d="M200 840 L200 200 Q 200 167 223.5 143.5 Q 247 120 280 120 L680 120 Q 713 120 736.5 143.5 Q 760 167 760 200 L760 840 L480 720 L200 840 Z M280 718 L480 632 L680 718 L680 200 Q 680 200 680 200 Q 680 200 680 200 L280 200 Q 280 200 280 200 Q 280 200 280 200 L280 718 Z M280 200 L280 200 Q 280 200 280 200 Q 280 200 280 200 L680 200 Q 680 200 680 200 Q 680 200 680 200 L680 200 L480 200 L280 200 Z" fill="#1A1B20"/>
+                          <path d="M200 840 L200 200 Q 200 167 223.5 143.5 Q 247 120 280 120 L680 120 Q 713 120 736.5 143.5 Q 760 167 760 200 L760 840 L480 720 L200 840 Z M280 718 L480 632 L680 718 L680 200 Q 680 200 680 200 Q 680 200 680 200 L280 200 Q 280 200 280 200 Q 280 200 280 200 L280 718 Z M280 200 L280 200 Q 280 200 280 200 Q 280 200 280 200 L680 200 Q 680 200 680 200 Q 680 200 680 200 L680 200 L480 200 L280 200 Z" fill="#30323A"/>
                         </g>
                       </g>
                     </g>
                   </g>
                   <g id="Spacer">
                     <g transform="translate(37 1360) scale(1 1)">
-                      <path d="M0,1.31 L976,1.31" fill="none" stroke="#1A1B20" stroke-opacity="0.07" stroke-width="2.62"/>
+                      <path d="M0,1.31 L976,1.31" fill="none" stroke="#30323A" stroke-opacity="0.07" stroke-width="2.62"/>
                     </g>
                   </g>
                   <g id="Row">
                     <g id="ImageKt">
-                      <image href="screens-home-feed.figma-raster/437.png" x="42" y="1405" width="105" height="105"/>
+                      <image href="screens-home-feed.figma-raster/148.png" x="42" y="1405" width="105" height="105"/>
                     </g>
                     <g id="Column">
                       <g id="Empty">
-                        <text font-size="42" font-family="Montserrat" font-weight="500" letter-spacing="0.39" fill="#1A1B20"><tspan x="189" y="1435" textLength="555" lengthAdjust="spacing">Dagger in Kotlin: Gotchas</tspan><tspan x="189" y="1498" textLength="402" lengthAdjust="spacing">and Optimizations</tspan></text>
+                        <text font-size="42" font-family="Montserrat" font-weight="500" letter-spacing="0.39" fill="#30323A"><tspan x="189" y="1435" textLength="555" lengthAdjust="spacing">Dagger in Kotlin: Gotchas</tspan><tspan x="189" y="1498" textLength="402" lengthAdjust="spacing">and Optimizations</tspan></text>
                       </g>
                       <g id="Empty">
-                        <text x="189" y="1553.92" font-size="36.75" font-family="Montserrat" letter-spacing="0.66" fill="#1A1B20">Manuel Vivo - 3 min read</text>
+                        <text x="189" y="1553.92" font-size="36.75" font-family="Montserrat" letter-spacing="0.66" fill="#30323A">Manuel Vivo - 3 min read</text>
                       </g>
                     </g>
                     <g id="Box">
                       <g id="BoxKt">
                         <g transform="translate(940 1400) scale(0.06 0.06)">
-                          <path d="M200 840 L200 200 Q 200 167 223.5 143.5 Q 247 120 280 120 L680 120 Q 713 120 736.5 143.5 Q 760 167 760 200 L760 840 L480 720 L200 840 Z M280 718 L480 632 L680 718 L680 200 Q 680 200 680 200 Q 680 200 680 200 L280 200 Q 280 200 280 200 Q 280 200 280 200 L280 718 Z M280 200 L280 200 Q 280 200 280 200 Q 280 200 280 200 L680 200 Q 680 200 680 200 Q 680 200 680 200 L680 200 L480 200 L280 200 Z" fill="#1A1B20"/>
+                          <path d="M200 840 L200 200 Q 200 167 223.5 143.5 Q 247 120 280 120 L680 120 Q 713 120 736.5 143.5 Q 760 167 760 200 L760 840 L480 720 L200 840 Z M280 718 L480 632 L680 718 L680 200 Q 680 200 680 200 Q 680 200 680 200 L280 200 Q 280 200 280 200 Q 280 200 280 200 L280 718 Z M280 200 L280 200 Q 280 200 280 200 Q 280 200 280 200 L680 200 Q 680 200 680 200 Q 680 200 680 200 L680 200 L480 200 L280 200 Z" fill="#30323A"/>
                         </g>
                       </g>
                     </g>
                   </g>
                   <g id="Spacer">
                     <g transform="translate(37 1594) scale(1 1)">
-                      <path d="M0,1.31 L976,1.31" fill="none" stroke="#1A1B20" stroke-opacity="0.07" stroke-width="2.62"/>
+                      <path d="M0,1.31 L976,1.31" fill="none" stroke="#30323A" stroke-opacity="0.07" stroke-width="2.62"/>
                     </g>
                   </g>
                   <g id="Row">
                     <g id="ImageKt">
-                      <image href="screens-home-feed.figma-raster/446.png" x="42" y="1639" width="105" height="105"/>
+                      <image href="screens-home-feed.figma-raster/157.png" x="42" y="1639" width="105" height="105"/>
                     </g>
                     <g id="Column">
                       <g id="Empty">
-                        <text font-size="42" font-family="Montserrat" font-weight="500" letter-spacing="0.39" fill="#1A1B20"><tspan x="189" y="1669" textLength="539" lengthAdjust="spacing">From Java Programming</tspan><tspan x="189" y="1732" textLength="414" lengthAdjust="spacing">Language to Kotlin</tspan><tspan x="189" y="1795" textLength="434" lengthAdjust="spacing">— the idiomatic way</tspan></text>
+                        <text font-size="42" font-family="Montserrat" font-weight="500" letter-spacing="0.39" fill="#30323A"><tspan x="189" y="1669" textLength="539" lengthAdjust="spacing">From Java Programming</tspan><tspan x="189" y="1732" textLength="414" lengthAdjust="spacing">Language to Kotlin</tspan><tspan x="189" y="1795" textLength="434" lengthAdjust="spacing">— the idiomatic way</tspan></text>
                       </g>
                       <g id="Empty">
-                        <text x="189" y="1850.92" font-size="36.75" font-family="Montserrat" letter-spacing="0.66" fill="#1A1B20">Florina Muntenescu - 1 min read</text>
+                        <text x="189" y="1850.92" font-size="36.75" font-family="Montserrat" letter-spacing="0.66" fill="#30323A">Florina Muntenescu - 1 min read</text>
                       </g>
                     </g>
                     <g id="Box">
                       <g id="BoxKt">
                         <g transform="translate(940 1634) scale(0.06 0.06)">
-                          <path d="M200 840 L200 200 Q 200 167 223.5 143.5 Q 247 120 280 120 L680 120 Q 713 120 736.5 143.5 Q 760 167 760 200 L760 840 L480 720 L200 840 Z M280 718 L480 632 L680 718 L680 200 Q 680 200 680 200 Q 680 200 680 200 L280 200 Q 280 200 280 200 Q 280 200 280 200 L280 718 Z M280 200 L280 200 Q 280 200 280 200 Q 280 200 280 200 L680 200 Q 680 200 680 200 Q 680 200 680 200 L680 200 L480 200 L280 200 Z" fill="#1A1B20"/>
+                          <path d="M200 840 L200 200 Q 200 167 223.5 143.5 Q 247 120 280 120 L680 120 Q 713 120 736.5 143.5 Q 760 167 760 200 L760 840 L480 720 L200 840 Z M280 718 L480 632 L680 718 L680 200 Q 680 200 680 200 Q 680 200 680 200 L280 200 Q 280 200 280 200 Q 280 200 280 200 L280 718 Z M280 200 L280 200 Q 280 200 280 200 Q 280 200 280 200 L680 200 Q 680 200 680 200 Q 680 200 680 200 L680 200 L480 200 L280 200 Z" fill="#30323A"/>
                         </g>
                       </g>
                     </g>
                   </g>
                   <g id="Spacer">
                     <g transform="translate(37 1891) scale(1 1)">
-                      <path d="M0,1.31 L976,1.31" fill="none" stroke="#1A1B20" stroke-opacity="0.07" stroke-width="2.62"/>
+                      <path d="M0,1.31 L976,1.31" fill="none" stroke="#30323A" stroke-opacity="0.07" stroke-width="2.62"/>
                     </g>
                   </g>
                 </g>
                 <g id="Column">
                   <g id="Row">
                     <g id="ImageKt">
-                      <image href="screens-home-feed.figma-raster/457.png" x="42" y="1936" width="105" height="105"/>
+                      <image href="screens-home-feed.figma-raster/168.png" x="42" y="1936" width="105" height="105"/>
                     </g>
                     <g id="Column">
                       <g id="Empty">
-                        <text x="189" y="1957.86" font-size="31.5" font-family="Montserrat" font-weight="500" letter-spacing="1.31" fill="#1A1B20">BASED ON YOUR HISTORY</text>
+                        <text x="189" y="1957.86" font-size="31.5" font-family="Montserrat" font-weight="500" letter-spacing="1.31" fill="#30323A">BASED ON YOUR HISTORY</text>
                       </g>
                       <g id="Empty">
-                        <text font-size="42" font-family="Montserrat" font-weight="500" letter-spacing="0.39" fill="#1A1B20"><tspan x="189" y="2014" textLength="362" lengthAdjust="spacing">Redesigning the</tspan><tspan x="189" y="2077" textLength="449" lengthAdjust="spacing">Android Studio Logo</tspan></text>
+                        <text font-size="42" font-family="Montserrat" font-weight="500" letter-spacing="0.39" fill="#30323A"><tspan x="189" y="2014" textLength="362" lengthAdjust="spacing">Redesigning the</tspan><tspan x="189" y="2077" textLength="449" lengthAdjust="spacing">Android Studio Logo</tspan></text>
                       </g>
                       <g id="Empty">
-                        <text x="189" y="2143.92" font-size="36.75" font-family="Montserrat" letter-spacing="0.66" fill="#1A1B20">Android Studio Team - 5 min read</text>
+                        <text x="189" y="2143.92" font-size="36.75" font-family="Montserrat" letter-spacing="0.66" fill="#30323A">Android Studio Team - 5 min read</text>
                       </g>
                     </g>
                     <g id="Box">
                       <g id="BoxKt">
                         <g transform="translate(956 1926) scale(0.06 0.06)">
-                          <path d="M480 800 Q 447 800 423.5 776.5 Q 400 753 400 720 Q 400 687 423.5 663.5 Q 447 640 480 640 Q 513 640 536.5 663.5 Q 560 687 560 720 Q 560 753 536.5 776.5 Q 513 800 480 800 Z M480 560 Q 447 560 423.5 536.5 Q 400 513 400 480 Q 400 447 423.5 423.5 Q 447 400 480 400 Q 513 400 536.5 423.5 Q 560 447 560 480 Q 560 513 536.5 536.5 Q 513 560 480 560 Z M480 320 Q 447 320 423.5 296.5 Q 400 273 400 240 Q 400 207 423.5 183.5 Q 447 160 480 160 Q 513 160 536.5 183.5 Q 560 207 560 240 Q 560 273 536.5 296.5 Q 513 320 480 320 Z" fill="#1A1B20"/>
+                          <path d="M480 800 Q 447 800 423.5 776.5 Q 400 753 400 720 Q 400 687 423.5 663.5 Q 447 640 480 640 Q 513 640 536.5 663.5 Q 560 687 560 720 Q 560 753 536.5 776.5 Q 513 800 480 800 Z M480 560 Q 447 560 423.5 536.5 Q 400 513 400 480 Q 400 447 423.5 423.5 Q 447 400 480 400 Q 513 400 536.5 423.5 Q 560 447 560 480 Q 560 513 536.5 536.5 Q 513 560 480 560 Z M480 320 Q 447 320 423.5 296.5 Q 400 273 400 240 Q 400 207 423.5 183.5 Q 447 160 480 160 Q 513 160 536.5 183.5 Q 560 207 560 240 Q 560 273 536.5 296.5 Q 513 320 480 320 Z" fill="#30323A"/>
                         </g>
                       </g>
                     </g>
                   </g>
                   <g id="Spacer">
                     <g transform="translate(37 2190) scale(1 1)">
-                      <path d="M0,1.31 L976,1.31" fill="none" stroke="#1A1B20" stroke-opacity="0.07" stroke-width="2.62"/>
+                      <path d="M0,1.31 L976,1.31" fill="none" stroke="#30323A" stroke-opacity="0.07" stroke-width="2.62"/>
                     </g>
                   </g>
                   <g id="Row">
@@ -149,26 +149,26 @@
                     </g>
                     <g id="Column">
                       <g id="Empty">
-                        <text x="189" y="2256.86" font-size="31.5" font-family="Montserrat" font-weight="500" letter-spacing="1.31" fill="#1A1B20">BASED ON YOUR HISTORY</text>
+                        <text x="189" y="2256.86" font-size="31.5" font-family="Montserrat" font-weight="500" letter-spacing="1.31" fill="#30323A">BASED ON YOUR HISTORY</text>
                       </g>
                       <g id="Empty">
-                        <text font-size="42" font-family="Montserrat" font-weight="500" letter-spacing="0.39" fill="#1A1B20"><tspan x="189" y="2313" textLength="539" lengthAdjust="spacing">From Java Programming</tspan><tspan x="189" y="2376" textLength="414" lengthAdjust="spacing">Language to Kotlin</tspan><tspan x="189" y="2439" textLength="434" lengthAdjust="spacing">— the idiomatic way</tspan></text>
+                        <text font-size="42" font-family="Montserrat" font-weight="500" letter-spacing="0.39" fill="#30323A"><tspan x="189" y="2313" textLength="539" lengthAdjust="spacing">From Java Programming</tspan><tspan x="189" y="2376" textLength="414" lengthAdjust="spacing">Language to Kotlin</tspan><tspan x="189" y="2439" textLength="434" lengthAdjust="spacing">— the idiomatic way</tspan></text>
                       </g>
                       <g id="Empty">
-                        <text x="189" y="2505.92" font-size="36.75" font-family="Montserrat" letter-spacing="0.66" fill="#1A1B20">Florina Muntenescu - 1 min read</text>
+                        <text x="189" y="2505.92" font-size="36.75" font-family="Montserrat" letter-spacing="0.66" fill="#30323A">Florina Muntenescu - 1 min read</text>
                       </g>
                     </g>
                     <g id="Box">
                       <g id="BoxKt">
                         <g transform="translate(956 2225) scale(0.06 0.06)">
-                          <path d="M480 800 Q 447 800 423.5 776.5 Q 400 753 400 720 Q 400 687 423.5 663.5 Q 447 640 480 640 Q 513 640 536.5 663.5 Q 560 687 560 720 Q 560 753 536.5 776.5 Q 513 800 480 800 Z M480 560 Q 447 560 423.5 536.5 Q 400 513 400 480 Q 400 447 423.5 423.5 Q 447 400 480 400 Q 513 400 536.5 423.5 Q 560 447 560 480 Q 560 513 536.5 536.5 Q 513 560 480 560 Z M480 320 Q 447 320 423.5 296.5 Q 400 273 400 240 Q 400 207 423.5 183.5 Q 447 160 480 160 Q 513 160 536.5 183.5 Q 560 207 560 240 Q 560 273 536.5 296.5 Q 513 320 480 320 Z" fill="#1A1B20"/>
+                          <path d="M480 800 Q 447 800 423.5 776.5 Q 400 753 400 720 Q 400 687 423.5 663.5 Q 447 640 480 640 Q 513 640 536.5 663.5 Q 560 687 560 720 Q 560 753 536.5 776.5 Q 513 800 480 800 Z M480 560 Q 447 560 423.5 536.5 Q 400 513 400 480 Q 400 447 423.5 423.5 Q 447 400 480 400 Q 513 400 536.5 423.5 Q 560 447 560 480 Q 560 513 536.5 536.5 Q 513 560 480 560 Z M480 320 Q 447 320 423.5 296.5 Q 400 273 400 240 Q 400 207 423.5 183.5 Q 447 160 480 160 Q 513 160 536.5 183.5 Q 560 207 560 240 Q 560 273 536.5 296.5 Q 513 320 480 320 Z" fill="#30323A"/>
                         </g>
                       </g>
                     </g>
                   </g>
                   <g id="Spacer">
                     <g transform="translate(37 2552) scale(1 1)">
-                      <path d="M0,1.31 L976,1.31" fill="none" stroke="#1A1B20" stroke-opacity="0.07" stroke-width="2.62"/>
+                      <path d="M0,1.31 L976,1.31" fill="none" stroke="#30323A" stroke-opacity="0.07" stroke-width="2.62"/>
                     </g>
                   </g>
                   <g id="Row">
@@ -176,26 +176,26 @@
                     </g>
                     <g id="Column">
                       <g id="Empty">
-                        <text x="189" y="2618.86" font-size="31.5" font-family="Montserrat" font-weight="500" letter-spacing="1.31" fill="#1A1B20">BASED ON YOUR HISTORY</text>
+                        <text x="189" y="2618.86" font-size="31.5" font-family="Montserrat" font-weight="500" letter-spacing="1.31" fill="#30323A">BASED ON YOUR HISTORY</text>
                       </g>
                       <g id="Empty">
-                        <text font-size="42" font-family="Montserrat" font-weight="500" letter-spacing="0.39" fill="#1A1B20"><tspan x="189" y="2675" textLength="518" lengthAdjust="spacing">Locale changes and the</tspan><tspan x="189" y="2738" textLength="675" lengthAdjust="spacing">AndroidViewModel antipattern</tspan></text>
+                        <text font-size="42" font-family="Montserrat" font-weight="500" letter-spacing="0.39" fill="#30323A"><tspan x="189" y="2675" textLength="518" lengthAdjust="spacing">Locale changes and the</tspan><tspan x="189" y="2738" textLength="675" lengthAdjust="spacing">AndroidViewModel antipattern</tspan></text>
                       </g>
                       <g id="Empty">
-                        <text x="189" y="2804.92" font-size="36.75" font-family="Montserrat" letter-spacing="0.66" fill="#1A1B20">Jose Alcérreca - 1 min read</text>
+                        <text x="189" y="2804.92" font-size="36.75" font-family="Montserrat" letter-spacing="0.66" fill="#30323A">Jose Alcérreca - 1 min read</text>
                       </g>
                     </g>
                     <g id="Box">
                       <g id="BoxKt">
                         <g transform="translate(956 2587) scale(0.06 0.06)">
-                          <path d="M480 800 Q 447 800 423.5 776.5 Q 400 753 400 720 Q 400 687 423.5 663.5 Q 447 640 480 640 Q 513 640 536.5 663.5 Q 560 687 560 720 Q 560 753 536.5 776.5 Q 513 800 480 800 Z M480 560 Q 447 560 423.5 536.5 Q 400 513 400 480 Q 400 447 423.5 423.5 Q 447 400 480 400 Q 513 400 536.5 423.5 Q 560 447 560 480 Q 560 513 536.5 536.5 Q 513 560 480 560 Z M480 320 Q 447 320 423.5 296.5 Q 400 273 400 240 Q 400 207 423.5 183.5 Q 447 160 480 160 Q 513 160 536.5 183.5 Q 560 207 560 240 Q 560 273 536.5 296.5 Q 513 320 480 320 Z" fill="#1A1B20"/>
+                          <path d="M480 800 Q 447 800 423.5 776.5 Q 400 753 400 720 Q 400 687 423.5 663.5 Q 447 640 480 640 Q 513 640 536.5 663.5 Q 560 687 560 720 Q 560 753 536.5 776.5 Q 513 800 480 800 Z M480 560 Q 447 560 423.5 536.5 Q 400 513 400 480 Q 400 447 423.5 423.5 Q 447 400 480 400 Q 513 400 536.5 423.5 Q 560 447 560 480 Q 560 513 536.5 536.5 Q 513 560 480 560 Z M480 320 Q 447 320 423.5 296.5 Q 400 273 400 240 Q 400 207 423.5 183.5 Q 447 160 480 160 Q 513 160 536.5 183.5 Q 560 207 560 240 Q 560 273 536.5 296.5 Q 513 320 480 320 Z" fill="#30323A"/>
                         </g>
                       </g>
                     </g>
                   </g>
                   <g id="Spacer">
                     <g transform="translate(37 2851) scale(1 1)">
-                      <path d="M0,1.31 L976,1.31" fill="none" stroke="#1A1B20" stroke-opacity="0.07" stroke-width="2.62"/>
+                      <path d="M0,1.31 L976,1.31" fill="none" stroke="#30323A" stroke-opacity="0.07" stroke-width="2.62"/>
                     </g>
                   </g>
                   <g id="Row">
@@ -203,33 +203,33 @@
                     </g>
                     <g id="Column">
                       <g id="Empty">
-                        <text x="189" y="2917.86" font-size="31.5" font-family="Montserrat" font-weight="500" letter-spacing="1.31" fill="#1A1B20">BASED ON YOUR HISTORY</text>
+                        <text x="189" y="2917.86" font-size="31.5" font-family="Montserrat" font-weight="500" letter-spacing="1.31" fill="#30323A">BASED ON YOUR HISTORY</text>
                       </g>
                       <g id="Empty">
-                        <text font-size="42" font-family="Montserrat" font-weight="500" letter-spacing="0.39" fill="#1A1B20"><tspan x="189" y="2974" textLength="336" lengthAdjust="spacing">Collections and</tspan><tspan x="189" y="3037" textLength="426" lengthAdjust="spacing">sequences in Kotlin</tspan></text>
+                        <text font-size="42" font-family="Montserrat" font-weight="500" letter-spacing="0.39" fill="#30323A"><tspan x="189" y="2974" textLength="336" lengthAdjust="spacing">Collections and</tspan><tspan x="189" y="3037" textLength="426" lengthAdjust="spacing">sequences in Kotlin</tspan></text>
                       </g>
                       <g id="Empty">
-                        <text x="189" y="3103.92" font-size="36.75" font-family="Montserrat" letter-spacing="0.66" fill="#1A1B20">Florina Muntenescu - 4 min read</text>
+                        <text x="189" y="3103.92" font-size="36.75" font-family="Montserrat" letter-spacing="0.66" fill="#30323A">Florina Muntenescu - 4 min read</text>
                       </g>
                     </g>
                     <g id="Box">
                       <g id="BoxKt">
                         <g transform="translate(956 2886) scale(0.06 0.06)">
-                          <path d="M480 800 Q 447 800 423.5 776.5 Q 400 753 400 720 Q 400 687 423.5 663.5 Q 447 640 480 640 Q 513 640 536.5 663.5 Q 560 687 560 720 Q 560 753 536.5 776.5 Q 513 800 480 800 Z M480 560 Q 447 560 423.5 536.5 Q 400 513 400 480 Q 400 447 423.5 423.5 Q 447 400 480 400 Q 513 400 536.5 423.5 Q 560 447 560 480 Q 560 513 536.5 536.5 Q 513 560 480 560 Z M480 320 Q 447 320 423.5 296.5 Q 400 273 400 240 Q 400 207 423.5 183.5 Q 447 160 480 160 Q 513 160 536.5 183.5 Q 560 207 560 240 Q 560 273 536.5 296.5 Q 513 320 480 320 Z" fill="#1A1B20"/>
+                          <path d="M480 800 Q 447 800 423.5 776.5 Q 400 753 400 720 Q 400 687 423.5 663.5 Q 447 640 480 640 Q 513 640 536.5 663.5 Q 560 687 560 720 Q 560 753 536.5 776.5 Q 513 800 480 800 Z M480 560 Q 447 560 423.5 536.5 Q 400 513 400 480 Q 400 447 423.5 423.5 Q 447 400 480 400 Q 513 400 536.5 423.5 Q 560 447 560 480 Q 560 513 536.5 536.5 Q 513 560 480 560 Z M480 320 Q 447 320 423.5 296.5 Q 400 273 400 240 Q 400 207 423.5 183.5 Q 447 160 480 160 Q 513 160 536.5 183.5 Q 560 207 560 240 Q 560 273 536.5 296.5 Q 513 320 480 320 Z" fill="#30323A"/>
                         </g>
                       </g>
                     </g>
                   </g>
                   <g id="Spacer">
                     <g transform="translate(37 3150) scale(1 1)">
-                      <path d="M0,1.31 L976,1.31" fill="none" stroke="#1A1B20" stroke-opacity="0.07" stroke-width="2.62"/>
+                      <path d="M0,1.31 L976,1.31" fill="none" stroke="#30323A" stroke-opacity="0.07" stroke-width="2.62"/>
                     </g>
                   </g>
                 </g>
               </g>
             </g>
             <g id="Box">
-              <rect x="473" y="-105" width="105" height="105" rx="52.5" ry="52.5" fill="#E8E7EF"/>
+              <rect x="473" y="-105" width="105" height="105" rx="52.5" ry="52.5" fill="#E7E7F1"/>
               <g id="Spacer">
               </g>
             </g>

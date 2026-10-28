@@ -3,26 +3,26 @@
 <g transform="translate(0, 0)">
   <g id="Root">
     <g id="ReusableComposeNode">
-        <rect x="0" y="0" width="1050" height="359" fill="#FAF8FF"/>
+        <rect x="0" y="0" width="1050" height="359" fill="#FAF8FE"/>
       <g id="ReusableComposeNode">
         <g id="ReusableComposeNode">
-          <image href="postcard-history.figma-raster/26.png" x="42" y="42" width="105" height="105"/>
+          <image href="postcard-history.figma-raster/9.png" x="42" y="42" width="105" height="105"/>
         </g>
         <g id="ReusableComposeNode">
           <g id="ReusableComposeNode">
-            <text x="189" y="63.86" font-size="31.5" font-family="Montserrat" font-weight="500" letter-spacing="1.31" fill="#1A1B20">BASED ON YOUR HISTORY</text>
+            <text x="189" y="63.86" font-size="31.5" font-family="Montserrat" font-weight="500" letter-spacing="1.31" fill="#30323A">BASED ON YOUR HISTORY</text>
           </g>
           <g id="ReusableComposeNode">
-            <text font-size="42" font-family="Montserrat" font-weight="500" letter-spacing="0.39" fill="#1A1B20"><tspan x="189" y="120" textLength="539" lengthAdjust="spacing">From Java Programming</tspan><tspan x="189" y="183" textLength="414" lengthAdjust="spacing">Language to Kotlin</tspan><tspan x="189" y="246" textLength="434" lengthAdjust="spacing">— the idiomatic way</tspan></text>
+            <text font-size="42" font-family="Montserrat" font-weight="500" letter-spacing="0.39" fill="#30323A"><tspan x="189" y="120" textLength="539" lengthAdjust="spacing">From Java Programming</tspan><tspan x="189" y="183" textLength="414" lengthAdjust="spacing">Language to Kotlin</tspan><tspan x="189" y="246" textLength="434" lengthAdjust="spacing">— the idiomatic way</tspan></text>
           </g>
           <g id="ReusableComposeNode">
-            <text x="189" y="312.92" font-size="36.75" font-family="Montserrat" letter-spacing="0.66" fill="#1A1B20">Florina Muntenescu - 1 min read</text>
+            <text x="189" y="312.92" font-size="36.75" font-family="Montserrat" letter-spacing="0.66" fill="#30323A">Florina Muntenescu - 1 min read</text>
           </g>
         </g>
         <g id="ReusableComposeNode">
           <g id="ReusableComposeNode">
             <g transform="translate(956 32) scale(0.06 0.06)">
-              <path d="M480 800 Q 447 800 423.5 776.5 Q 400 753 400 720 Q 400 687 423.5 663.5 Q 447 640 480 640 Q 513 640 536.5 663.5 Q 560 687 560 720 Q 560 753 536.5 776.5 Q 513 800 480 800 Z M480 560 Q 447 560 423.5 536.5 Q 400 513 400 480 Q 400 447 423.5 423.5 Q 447 400 480 400 Q 513 400 536.5 423.5 Q 560 447 560 480 Q 560 513 536.5 536.5 Q 513 560 480 560 Z M480 320 Q 447 320 423.5 296.5 Q 400 273 400 240 Q 400 207 423.5 183.5 Q 447 160 480 160 Q 513 160 536.5 183.5 Q 560 207 560 240 Q 560 273 536.5 296.5 Q 513 320 480 320 Z" fill="#1A1B20"/>
+              <path d="M480 800 Q 447 800 423.5 776.5 Q 400 753 400 720 Q 400 687 423.5 663.5 Q 447 640 480 640 Q 513 640 536.5 663.5 Q 560 687 560 720 Q 560 753 536.5 776.5 Q 513 800 480 800 Z M480 560 Q 447 560 423.5 536.5 Q 400 513 400 480 Q 400 447 423.5 423.5 Q 447 400 480 400 Q 513 400 536.5 423.5 Q 560 447 560 480 Q 560 513 536.5 536.5 Q 513 560 480 560 Z M480 320 Q 447 320 423.5 296.5 Q 400 273 400 240 Q 400 207 423.5 183.5 Q 447 160 480 160 Q 513 160 536.5 183.5 Q 560 207 560 240 Q 560 273 536.5 296.5 Q 513 320 480 320 Z" fill="#30323A"/>
             </g>
           </g>
         </g>

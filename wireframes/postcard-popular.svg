@@ -8,12 +8,12 @@
     <rect x="0" y="0" width="735" height="2100" fill="none" fill-opacity="0" stroke="#2E7D6B" stroke-width="1" stroke-opacity="0.5"/>
   </g>
   <g>
-    <rect x="0" y="0" width="735" height="2100" fill="#121318" fill-opacity="1" stroke="#8E6BA8" stroke-width="1.5" stroke-opacity="1"/>
-    <text x="3" y="12" font-family="system-ui, sans-serif" font-size="9" fill="#8E6BA8">#FF121318</text>
+    <rect x="0" y="0" width="735" height="2100" fill="#0D0E12" fill-opacity="1" stroke="#8E6BA8" stroke-width="1.5" stroke-opacity="1"/>
+    <text x="3" y="12" font-family="system-ui, sans-serif" font-size="9" fill="#8E6BA8">#FF0D0E12</text>
   </g>
   <g>
-    <path d="M10.5,0 H724.5 A10.5,10.5 0 0 1 735,10.5 V2089.5 A10.5,10.5 0 0 1 724.5,2100 H10.5 A10.5,10.5 0 0 1 0,2089.5 V10.5 A10.5,10.5 0 0 1 10.5,0 Z" fill="#33343A" fill-opacity="1" stroke="#B0813B" stroke-width="1.5" stroke-opacity="1"/>
-    <text x="3" y="12" font-family="system-ui, sans-serif" font-size="9" fill="#B0813B">#FF33343A</text>
+    <path d="M10.5,0 H724.5 A10.5,10.5 0 0 1 735,10.5 V2089.5 A10.5,10.5 0 0 1 724.5,2100 H10.5 A10.5,10.5 0 0 1 0,2089.5 V10.5 A10.5,10.5 0 0 1 10.5,0 Z" fill="#23262E" fill-opacity="1" stroke="#B0813B" stroke-width="1.5" stroke-opacity="1"/>
+    <text x="3" y="12" font-family="system-ui, sans-serif" font-size="9" fill="#B0813B">#FF23262E</text>
   </g>
   <g>
     <rect x="0" y="0" width="735" height="2100" fill="none" fill-opacity="0" stroke="#3B72A8" stroke-width="1" stroke-opacity="0.5"/>

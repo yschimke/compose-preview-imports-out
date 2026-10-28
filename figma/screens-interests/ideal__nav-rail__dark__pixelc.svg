@@ -3,300 +3,300 @@
 <g transform="translate(0, 0)">
   <g id="Root">
     <g id="ReusableComposeNode">
-        <rect x="0" y="0" width="2560" height="1800" fill="#121318"/>
+        <rect x="0" y="0" width="2560" height="1800" fill="#0D0E12"/>
       <g id="ReusableComposeNode">
         <g id="Column">
           <g id="Box">
-            <rect x="0" y="128" width="2560" height="96" fill="#121318"/>
+            <rect x="0" y="128" width="2560" height="96" fill="#0D0E12"/>
             <g id="Box">
               <g id="Spacer">
                 <g transform="translate(0 222) scale(1 1)">
-                  <path d="M0,1 L2560,1" fill="none" stroke="#81838C" stroke-width="2"/>
+                  <path d="M0,1 L2560,1" fill="none" stroke="#454850" stroke-width="2"/>
                 </g>
               </g>
               <g id="MultiContentMeasurePolicyImpl">
                 <g id="Empty">
-                  <text x="38" y="190.04" font-size="32" font-family="Montserrat" font-weight="500" letter-spacing="0.3" fill="#B7CAFF">Topics</text>
+                  <text x="38" y="190.04" font-size="32" font-family="Montserrat" font-weight="500" letter-spacing="0.3" fill="#B8C6EE">Topics</text>
                 </g>
                 <g id="Empty">
-                  <text x="212" y="190.04" font-size="32" font-family="Montserrat" font-weight="500" letter-spacing="0.3" fill="#FCFAFF" fill-opacity="0.8">People</text>
+                  <text x="212" y="190.04" font-size="32" font-family="Montserrat" font-weight="500" letter-spacing="0.3" fill="#E4E5F0" fill-opacity="0.8">People</text>
                 </g>
                 <g id="Empty">
-                  <text x="376" y="190.04" font-size="32" font-family="Montserrat" font-weight="500" letter-spacing="0.3" fill="#FCFAFF" fill-opacity="0.8">Publications</text>
+                  <text x="376" y="190.04" font-size="32" font-family="Montserrat" font-weight="500" letter-spacing="0.3" fill="#E4E5F0" fill-opacity="0.8">Publications</text>
                 </g>
                 <g id="Spacer">
-                  <rect x="53" y="218" width="73" height="6" rx="6" ry="6" fill="#B7CAFF"/>
+                  <rect x="53" y="218" width="73" height="6" rx="6" ry="6" fill="#B8C6EE"/>
                 </g>
               </g>
             </g>
           </g>
           <g id="Spacer">
             <g transform="translate(0 224) scale(1 1)">
-              <path d="M0,1 L2560,1" fill="none" stroke="#FCFAFF" stroke-opacity="0.1" stroke-width="2"/>
+              <path d="M0,1 L2560,1" fill="none" stroke="#E4E5F0" stroke-opacity="0.1" stroke-width="2"/>
             </g>
           </g>
           <g id="Column">
             <g id="Empty">
-              <text x="408" y="293.04" font-size="32" font-family="Montserrat" font-weight="500" letter-spacing="0.3" fill="#E2E2E9">Android</text>
+              <text x="408" y="293.04" font-size="32" font-family="Montserrat" font-weight="500" letter-spacing="0.3" fill="#E4E5F0">Android</text>
             </g>
             <g id="InterestsScreenKt">
               <g id="Column">
                 <g id="Row">
                   <g id="ImageKt">
-                    <image href="ideal__nav-rail__dark__pixelc.figma-raster/1045.png" x="408" y="338" width="112" height="112"/>
+                    <image href="ideal__nav-rail__dark__pixelc.figma-raster/789.png" x="408" y="338" width="112" height="112"/>
                   </g>
                   <g id="Empty">
-                    <text x="552" y="405.04" font-size="32" font-family="Montserrat" font-weight="500" letter-spacing="0.3" fill="#E2E2E9">Jetpack Compose</text>
+                    <text x="552" y="405.04" font-size="32" font-family="Montserrat" font-weight="500" letter-spacing="0.3" fill="#E4E5F0">Jetpack Compose</text>
                   </g>
                   <g id="Spacer">
                   </g>
                   <g id="Box">
-                    <rect x="1173" y="359" width="70" height="70" rx="35" ry="35" fill="#00143B" stroke="#FCFAFF" stroke-opacity="0.1" stroke-width="2"/>
+                    <rect x="1173" y="359" width="70" height="70" rx="35" ry="35" fill="#323F60" stroke="#E4E5F0" stroke-opacity="0.1" stroke-width="2"/>
                     <g id="ImageKt">
                       <g transform="translate(1188 374) scale(0.04 0.04)">
-                        <path d="M440 520 L200 520 L200 440 L440 440 L440 200 L520 200 L520 440 L760 440 L760 520 L520 520 L520 760 L440 760 L440 520 Z" fill="#B7CAFF"/>
+                        <path d="M440 520 L200 520 L200 440 L440 440 L440 200 L520 200 L520 440 L760 440 L760 520 L520 520 L520 760 L440 760 L440 520 Z" fill="#B8C6EE"/>
                       </g>
                     </g>
                   </g>
                 </g>
                 <g id="Spacer">
                   <g transform="translate(552 466) scale(1 1)">
-                    <path d="M0,1 L692,1" fill="none" stroke="#FCFAFF" stroke-opacity="0.1" stroke-width="2"/>
+                    <path d="M0,1 L692,1" fill="none" stroke="#E4E5F0" stroke-opacity="0.1" stroke-width="2"/>
                   </g>
                 </g>
               </g>
               <g id="Column">
                 <g id="Row">
                   <g id="ImageKt">
-                    <image href="ideal__nav-rail__dark__pixelc.figma-raster/1053.png" x="1316" y="338" width="112" height="112"/>
+                    <image href="ideal__nav-rail__dark__pixelc.figma-raster/797.png" x="1316" y="338" width="112" height="112"/>
                   </g>
                   <g id="Empty">
-                    <text x="1460" y="405.04" font-size="32" font-family="Montserrat" font-weight="500" letter-spacing="0.3" fill="#E2E2E9">Kotlin</text>
+                    <text x="1460" y="405.04" font-size="32" font-family="Montserrat" font-weight="500" letter-spacing="0.3" fill="#E4E5F0">Kotlin</text>
                   </g>
                   <g id="Spacer">
                   </g>
                   <g id="Box">
-                    <rect x="2081" y="359" width="70" height="70" rx="35" ry="35" fill="#00143B" stroke="#FCFAFF" stroke-opacity="0.1" stroke-width="2"/>
+                    <rect x="2081" y="359" width="70" height="70" rx="35" ry="35" fill="#323F60" stroke="#E4E5F0" stroke-opacity="0.1" stroke-width="2"/>
                     <g id="ImageKt">
                       <g transform="translate(2096 374) scale(0.04 0.04)">
-                        <path d="M440 520 L200 520 L200 440 L440 440 L440 200 L520 200 L520 440 L760 440 L760 520 L520 520 L520 760 L440 760 L440 520 Z" fill="#B7CAFF"/>
+                        <path d="M440 520 L200 520 L200 440 L440 440 L440 200 L520 200 L520 440 L760 440 L760 520 L520 520 L520 760 L440 760 L440 520 Z" fill="#B8C6EE"/>
                       </g>
                     </g>
                   </g>
                 </g>
                 <g id="Spacer">
                   <g transform="translate(1460 466) scale(1 1)">
-                    <path d="M0,1 L692,1" fill="none" stroke="#FCFAFF" stroke-opacity="0.1" stroke-width="2"/>
+                    <path d="M0,1 L692,1" fill="none" stroke="#E4E5F0" stroke-opacity="0.1" stroke-width="2"/>
                   </g>
                 </g>
               </g>
               <g id="Column">
                 <g id="Row">
                   <g id="ImageKt">
-                    <image href="ideal__nav-rail__dark__pixelc.figma-raster/1061.png" x="408" y="484" width="112" height="112"/>
+                    <image href="ideal__nav-rail__dark__pixelc.figma-raster/805.png" x="408" y="484" width="112" height="112"/>
                   </g>
                   <g id="Empty">
-                    <text x="552" y="551.04" font-size="32" font-family="Montserrat" font-weight="500" letter-spacing="0.3" fill="#E2E2E9">Jetpack</text>
+                    <text x="552" y="551.04" font-size="32" font-family="Montserrat" font-weight="500" letter-spacing="0.3" fill="#E4E5F0">Jetpack</text>
                   </g>
                   <g id="Spacer">
                   </g>
                   <g id="Box">
-                    <rect x="1173" y="505" width="70" height="70" rx="35" ry="35" fill="#00143B" stroke="#FCFAFF" stroke-opacity="0.1" stroke-width="2"/>
+                    <rect x="1173" y="505" width="70" height="70" rx="35" ry="35" fill="#323F60" stroke="#E4E5F0" stroke-opacity="0.1" stroke-width="2"/>
                     <g id="ImageKt">
                       <g transform="translate(1188 520) scale(0.04 0.04)">
-                        <path d="M440 520 L200 520 L200 440 L440 440 L440 200 L520 200 L520 440 L760 440 L760 520 L520 520 L520 760 L440 760 L440 520 Z" fill="#B7CAFF"/>
+                        <path d="M440 520 L200 520 L200 440 L440 440 L440 200 L520 200 L520 440 L760 440 L760 520 L520 520 L520 760 L440 760 L440 520 Z" fill="#B8C6EE"/>
                       </g>
                     </g>
                   </g>
                 </g>
                 <g id="Spacer">
                   <g transform="translate(552 612) scale(1 1)">
-                    <path d="M0,1 L692,1" fill="none" stroke="#FCFAFF" stroke-opacity="0.1" stroke-width="2"/>
+                    <path d="M0,1 L692,1" fill="none" stroke="#E4E5F0" stroke-opacity="0.1" stroke-width="2"/>
                   </g>
                 </g>
               </g>
             </g>
             <g id="Empty">
-              <text x="408" y="697.04" font-size="32" font-family="Montserrat" font-weight="500" letter-spacing="0.3" fill="#E2E2E9">Programming</text>
+              <text x="408" y="697.04" font-size="32" font-family="Montserrat" font-weight="500" letter-spacing="0.3" fill="#E4E5F0">Programming</text>
             </g>
             <g id="InterestsScreenKt">
               <g id="Column">
                 <g id="Row">
                   <g id="ImageKt">
-                    <image href="ideal__nav-rail__dark__pixelc.figma-raster/1071.png" x="408" y="742" width="112" height="112"/>
+                    <image href="ideal__nav-rail__dark__pixelc.figma-raster/815.png" x="408" y="742" width="112" height="112"/>
                   </g>
                   <g id="Empty">
-                    <text x="552" y="809.04" font-size="32" font-family="Montserrat" font-weight="500" letter-spacing="0.3" fill="#E2E2E9">Kotlin</text>
+                    <text x="552" y="809.04" font-size="32" font-family="Montserrat" font-weight="500" letter-spacing="0.3" fill="#E4E5F0">Kotlin</text>
                   </g>
                   <g id="Spacer">
                   </g>
                   <g id="Box">
-                    <rect x="1173" y="763" width="70" height="70" rx="35" ry="35" fill="#00143B" stroke="#FCFAFF" stroke-opacity="0.1" stroke-width="2"/>
+                    <rect x="1173" y="763" width="70" height="70" rx="35" ry="35" fill="#323F60" stroke="#E4E5F0" stroke-opacity="0.1" stroke-width="2"/>
                     <g id="ImageKt">
                       <g transform="translate(1188 778) scale(0.04 0.04)">
-                        <path d="M440 520 L200 520 L200 440 L440 440 L440 200 L520 200 L520 440 L760 440 L760 520 L520 520 L520 760 L440 760 L440 520 Z" fill="#B7CAFF"/>
+                        <path d="M440 520 L200 520 L200 440 L440 440 L440 200 L520 200 L520 440 L760 440 L760 520 L520 520 L520 760 L440 760 L440 520 Z" fill="#B8C6EE"/>
                       </g>
                     </g>
                   </g>
                 </g>
                 <g id="Spacer">
                   <g transform="translate(552 870) scale(1 1)">
-                    <path d="M0,1 L692,1" fill="none" stroke="#FCFAFF" stroke-opacity="0.1" stroke-width="2"/>
+                    <path d="M0,1 L692,1" fill="none" stroke="#E4E5F0" stroke-opacity="0.1" stroke-width="2"/>
                   </g>
                 </g>
               </g>
               <g id="Column">
                 <g id="Row">
                   <g id="ImageKt">
-                    <image href="ideal__nav-rail__dark__pixelc.figma-raster/1079.png" x="1316" y="742" width="112" height="112"/>
+                    <image href="ideal__nav-rail__dark__pixelc.figma-raster/823.png" x="1316" y="742" width="112" height="112"/>
                   </g>
                   <g id="Empty">
-                    <text x="1460" y="809.04" font-size="32" font-family="Montserrat" font-weight="500" letter-spacing="0.3" fill="#E2E2E9">Declarative UIs</text>
+                    <text x="1460" y="809.04" font-size="32" font-family="Montserrat" font-weight="500" letter-spacing="0.3" fill="#E4E5F0">Declarative UIs</text>
                   </g>
                   <g id="Spacer">
                   </g>
                   <g id="Box">
-                    <rect x="2081" y="763" width="70" height="70" rx="35" ry="35" fill="#00143B" stroke="#FCFAFF" stroke-opacity="0.1" stroke-width="2"/>
+                    <rect x="2081" y="763" width="70" height="70" rx="35" ry="35" fill="#323F60" stroke="#E4E5F0" stroke-opacity="0.1" stroke-width="2"/>
                     <g id="ImageKt">
                       <g transform="translate(2096 778) scale(0.04 0.04)">
-                        <path d="M440 520 L200 520 L200 440 L440 440 L440 200 L520 200 L520 440 L760 440 L760 520 L520 520 L520 760 L440 760 L440 520 Z" fill="#B7CAFF"/>
+                        <path d="M440 520 L200 520 L200 440 L440 440 L440 200 L520 200 L520 440 L760 440 L760 520 L520 520 L520 760 L440 760 L440 520 Z" fill="#B8C6EE"/>
                       </g>
                     </g>
                   </g>
                 </g>
                 <g id="Spacer">
                   <g transform="translate(1460 870) scale(1 1)">
-                    <path d="M0,1 L692,1" fill="none" stroke="#FCFAFF" stroke-opacity="0.1" stroke-width="2"/>
+                    <path d="M0,1 L692,1" fill="none" stroke="#E4E5F0" stroke-opacity="0.1" stroke-width="2"/>
                   </g>
                 </g>
               </g>
               <g id="Column">
                 <g id="Row">
                   <g id="ImageKt">
-                    <image href="ideal__nav-rail__dark__pixelc.figma-raster/1087.png" x="408" y="888" width="112" height="112"/>
+                    <image href="ideal__nav-rail__dark__pixelc.figma-raster/831.png" x="408" y="888" width="112" height="112"/>
                   </g>
                   <g id="Empty">
-                    <text x="552" y="955.04" font-size="32" font-family="Montserrat" font-weight="500" letter-spacing="0.3" fill="#E2E2E9">Java</text>
+                    <text x="552" y="955.04" font-size="32" font-family="Montserrat" font-weight="500" letter-spacing="0.3" fill="#E4E5F0">Java</text>
                   </g>
                   <g id="Spacer">
                   </g>
                   <g id="Box">
-                    <rect x="1173" y="909" width="70" height="70" rx="35" ry="35" fill="#00143B" stroke="#FCFAFF" stroke-opacity="0.1" stroke-width="2"/>
+                    <rect x="1173" y="909" width="70" height="70" rx="35" ry="35" fill="#323F60" stroke="#E4E5F0" stroke-opacity="0.1" stroke-width="2"/>
                     <g id="ImageKt">
                       <g transform="translate(1188 924) scale(0.04 0.04)">
-                        <path d="M440 520 L200 520 L200 440 L440 440 L440 200 L520 200 L520 440 L760 440 L760 520 L520 520 L520 760 L440 760 L440 520 Z" fill="#B7CAFF"/>
+                        <path d="M440 520 L200 520 L200 440 L440 440 L440 200 L520 200 L520 440 L760 440 L760 520 L520 520 L520 760 L440 760 L440 520 Z" fill="#B8C6EE"/>
                       </g>
                     </g>
                   </g>
                 </g>
                 <g id="Spacer">
                   <g transform="translate(552 1016) scale(1 1)">
-                    <path d="M0,1 L692,1" fill="none" stroke="#FCFAFF" stroke-opacity="0.1" stroke-width="2"/>
+                    <path d="M0,1 L692,1" fill="none" stroke="#E4E5F0" stroke-opacity="0.1" stroke-width="2"/>
                   </g>
                 </g>
               </g>
               <g id="Column">
                 <g id="Row">
                   <g id="ImageKt">
-                    <image href="ideal__nav-rail__dark__pixelc.figma-raster/1095.png" x="1316" y="888" width="112" height="112"/>
+                    <image href="ideal__nav-rail__dark__pixelc.figma-raster/839.png" x="1316" y="888" width="112" height="112"/>
                   </g>
                   <g id="Empty">
-                    <text x="1460" y="955.04" font-size="32" font-family="Montserrat" font-weight="500" letter-spacing="0.3" fill="#E2E2E9">Unidirectional Data Flow</text>
+                    <text x="1460" y="955.04" font-size="32" font-family="Montserrat" font-weight="500" letter-spacing="0.3" fill="#E4E5F0">Unidirectional Data Flow</text>
                   </g>
                   <g id="Spacer">
                   </g>
                   <g id="Box">
-                    <rect x="2081" y="909" width="70" height="70" rx="35" ry="35" fill="#00143B" stroke="#FCFAFF" stroke-opacity="0.1" stroke-width="2"/>
+                    <rect x="2081" y="909" width="70" height="70" rx="35" ry="35" fill="#323F60" stroke="#E4E5F0" stroke-opacity="0.1" stroke-width="2"/>
                     <g id="ImageKt">
                       <g transform="translate(2096 924) scale(0.04 0.04)">
-                        <path d="M440 520 L200 520 L200 440 L440 440 L440 200 L520 200 L520 440 L760 440 L760 520 L520 520 L520 760 L440 760 L440 520 Z" fill="#B7CAFF"/>
+                        <path d="M440 520 L200 520 L200 440 L440 440 L440 200 L520 200 L520 440 L760 440 L760 520 L520 520 L520 760 L440 760 L440 520 Z" fill="#B8C6EE"/>
                       </g>
                     </g>
                   </g>
                 </g>
                 <g id="Spacer">
                   <g transform="translate(1460 1016) scale(1 1)">
-                    <path d="M0,1 L692,1" fill="none" stroke="#FCFAFF" stroke-opacity="0.1" stroke-width="2"/>
+                    <path d="M0,1 L692,1" fill="none" stroke="#E4E5F0" stroke-opacity="0.1" stroke-width="2"/>
                   </g>
                 </g>
               </g>
               <g id="Column">
                 <g id="Row">
                   <g id="ImageKt">
-                    <image href="ideal__nav-rail__dark__pixelc.figma-raster/1103.png" x="408" y="1034" width="112" height="112"/>
+                    <image href="ideal__nav-rail__dark__pixelc.figma-raster/847.png" x="408" y="1034" width="112" height="112"/>
                   </g>
                   <g id="Empty">
-                    <text x="552" y="1101.04" font-size="32" font-family="Montserrat" font-weight="500" letter-spacing="0.3" fill="#E2E2E9">C++</text>
+                    <text x="552" y="1101.04" font-size="32" font-family="Montserrat" font-weight="500" letter-spacing="0.3" fill="#E4E5F0">C++</text>
                   </g>
                   <g id="Spacer">
                   </g>
                   <g id="Box">
-                    <rect x="1173" y="1055" width="70" height="70" rx="35" ry="35" fill="#00143B" stroke="#FCFAFF" stroke-opacity="0.1" stroke-width="2"/>
+                    <rect x="1173" y="1055" width="70" height="70" rx="35" ry="35" fill="#323F60" stroke="#E4E5F0" stroke-opacity="0.1" stroke-width="2"/>
                     <g id="ImageKt">
                       <g transform="translate(1188 1070) scale(0.04 0.04)">
-                        <path d="M440 520 L200 520 L200 440 L440 440 L440 200 L520 200 L520 440 L760 440 L760 520 L520 520 L520 760 L440 760 L440 520 Z" fill="#B7CAFF"/>
+                        <path d="M440 520 L200 520 L200 440 L440 440 L440 200 L520 200 L520 440 L760 440 L760 520 L520 520 L520 760 L440 760 L440 520 Z" fill="#B8C6EE"/>
                       </g>
                     </g>
                   </g>
                 </g>
                 <g id="Spacer">
                   <g transform="translate(552 1162) scale(1 1)">
-                    <path d="M0,1 L692,1" fill="none" stroke="#FCFAFF" stroke-opacity="0.1" stroke-width="2"/>
+                    <path d="M0,1 L692,1" fill="none" stroke="#E4E5F0" stroke-opacity="0.1" stroke-width="2"/>
                   </g>
                 </g>
               </g>
             </g>
             <g id="Empty">
-              <text x="408" y="1247.04" font-size="32" font-family="Montserrat" font-weight="500" letter-spacing="0.3" fill="#E2E2E9">Technology</text>
+              <text x="408" y="1247.04" font-size="32" font-family="Montserrat" font-weight="500" letter-spacing="0.3" fill="#E4E5F0">Technology</text>
             </g>
             <g id="InterestsScreenKt">
               <g id="Column">
                 <g id="Row">
                   <g id="ImageKt">
-                    <image href="ideal__nav-rail__dark__pixelc.figma-raster/1113.png" x="408" y="1292" width="112" height="112"/>
+                    <image href="ideal__nav-rail__dark__pixelc.figma-raster/857.png" x="408" y="1292" width="112" height="112"/>
                   </g>
                   <g id="Empty">
-                    <text x="552" y="1359.04" font-size="32" font-family="Montserrat" font-weight="500" letter-spacing="0.3" fill="#E2E2E9">Pixel</text>
+                    <text x="552" y="1359.04" font-size="32" font-family="Montserrat" font-weight="500" letter-spacing="0.3" fill="#E4E5F0">Pixel</text>
                   </g>
                   <g id="Spacer">
                   </g>
                   <g id="Box">
-                    <rect x="1173" y="1313" width="70" height="70" rx="35" ry="35" fill="#00143B" stroke="#FCFAFF" stroke-opacity="0.1" stroke-width="2"/>
+                    <rect x="1173" y="1313" width="70" height="70" rx="35" ry="35" fill="#323F60" stroke="#E4E5F0" stroke-opacity="0.1" stroke-width="2"/>
                     <g id="ImageKt">
                       <g transform="translate(1188 1328) scale(0.04 0.04)">
-                        <path d="M440 520 L200 520 L200 440 L440 440 L440 200 L520 200 L520 440 L760 440 L760 520 L520 520 L520 760 L440 760 L440 520 Z" fill="#B7CAFF"/>
+                        <path d="M440 520 L200 520 L200 440 L440 440 L440 200 L520 200 L520 440 L760 440 L760 520 L520 520 L520 760 L440 760 L440 520 Z" fill="#B8C6EE"/>
                       </g>
                     </g>
                   </g>
                 </g>
                 <g id="Spacer">
                   <g transform="translate(552 1420) scale(1 1)">
-                    <path d="M0,1 L692,1" fill="none" stroke="#FCFAFF" stroke-opacity="0.1" stroke-width="2"/>
+                    <path d="M0,1 L692,1" fill="none" stroke="#E4E5F0" stroke-opacity="0.1" stroke-width="2"/>
                   </g>
                 </g>
               </g>
               <g id="Column">
                 <g id="Row">
                   <g id="ImageKt">
-                    <image href="ideal__nav-rail__dark__pixelc.figma-raster/1121.png" x="1316" y="1292" width="112" height="112"/>
+                    <image href="ideal__nav-rail__dark__pixelc.figma-raster/865.png" x="1316" y="1292" width="112" height="112"/>
                   </g>
                   <g id="Empty">
-                    <text x="1460" y="1359.04" font-size="32" font-family="Montserrat" font-weight="500" letter-spacing="0.3" fill="#E2E2E9">Google</text>
+                    <text x="1460" y="1359.04" font-size="32" font-family="Montserrat" font-weight="500" letter-spacing="0.3" fill="#E4E5F0">Google</text>
                   </g>
                   <g id="Spacer">
                   </g>
                   <g id="Box">
-                    <rect x="2081" y="1313" width="70" height="70" rx="35" ry="35" fill="#00143B" stroke="#FCFAFF" stroke-opacity="0.1" stroke-width="2"/>
+                    <rect x="2081" y="1313" width="70" height="70" rx="35" ry="35" fill="#323F60" stroke="#E4E5F0" stroke-opacity="0.1" stroke-width="2"/>
                     <g id="ImageKt">
                       <g transform="translate(2096 1328) scale(0.04 0.04)">
-                        <path d="M440 520 L200 520 L200 440 L440 440 L440 200 L520 200 L520 440 L760 440 L760 520 L520 520 L520 760 L440 760 L440 520 Z" fill="#B7CAFF"/>
+                        <path d="M440 520 L200 520 L200 440 L440 440 L440 200 L520 200 L520 440 L760 440 L760 520 L520 520 L520 760 L440 760 L440 520 Z" fill="#B8C6EE"/>
                       </g>
                     </g>
                   </g>
                 </g>
                 <g id="Spacer">
                   <g transform="translate(1460 1420) scale(1 1)">
-                    <path d="M0,1 L692,1" fill="none" stroke="#FCFAFF" stroke-opacity="0.1" stroke-width="2"/>
+                    <path d="M0,1 L692,1" fill="none" stroke="#E4E5F0" stroke-opacity="0.1" stroke-width="2"/>
                   </g>
                 </g>
               </g>
@@ -304,17 +304,17 @@
           </g>
         </g>
         <g id="Box">
-          <image href="ideal__nav-rail__dark__pixelc.figma-raster/1006.png" x="0" y="0" width="2560" height="128"/>
+          <image href="ideal__nav-rail__dark__pixelc.figma-raster/750.png" x="0" y="0" width="2560" height="128"/>
           <g id="TopAppBar">
             <g id="Box">
             </g>
             <g id="Empty">
-              <text x="1183" y="79.18" font-size="44" font-family="Montserrat" fill="#B7CAFF">Interests</text>
+              <text x="1183" y="79.18" font-size="44" font-family="Montserrat" fill="#B8C6EE">Interests</text>
             </g>
             <g id="Box">
               <g id="BoxKt">
                 <g transform="translate(2480 40) scale(0.05 0.05)">
-                  <path d="M784 840 L532 588 Q 502 612 463 626 Q 424 640 380 640 Q 271 640 195.5 564.5 Q 120 489 120 380 Q 120 271 195.5 195.5 Q 271 120 380 120 Q 489 120 564.5 195.5 Q 640 271 640 380 Q 640 424 626 463 Q 612 502 588 532 L840 784 L784 840 Z M380 560 Q 455 560 507.5 507.5 Q 560 455 560 380 Q 560 305 507.5 252.5 Q 455 200 380 200 Q 305 200 252.5 252.5 Q 200 305 200 380 Q 200 455 252.5 507.5 Q 305 560 380 560 Z" fill="#C9CAD4"/>
+                  <path d="M784 840 L532 588 Q 502 612 463 626 Q 424 640 380 640 Q 271 640 195.5 564.5 Q 120 489 120 380 Q 120 271 195.5 195.5 Q 271 120 380 120 Q 489 120 564.5 195.5 Q 640 271 640 380 Q 640 424 626 463 Q 612 502 588 532 L840 784 L784 840 Z M380 560 Q 455 560 507.5 507.5 Q 560 455 560 380 Q 560 305 507.5 252.5 Q 455 200 380 200 Q 305 200 252.5 252.5 Q 200 305 200 380 Q 200 455 252.5 507.5 Q 305 560 380 560 Z" fill="#A9AAB5"/>
                 </g>
               </g>
             </g>
