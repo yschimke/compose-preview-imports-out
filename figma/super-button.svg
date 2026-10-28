@@ -7,7 +7,7 @@
       <g id="ReusableComposeNode">
         <clipPath id="clip-0"><rect x="331" y="26" width="388" height="126" rx="63" ry="63"/></clipPath>
         <g id="ReusableComposeNode">
-          <image href="super-button.figma-raster/366.png" x="331" y="26" width="388" height="126" clip-path="url(#clip-0)"/>
+          <image href="super-button.figma-raster/414.png" x="331" y="26" width="388" height="126" clip-path="url(#clip-0)"/>
           <g clip-path="url(#clip-0)">
             <g id="ReusableComposeNode">
               <text x="394" y="103.36" font-size="42" font-family="Roboto, sans-serif" font-weight="500" letter-spacing="0.66" fill="#1B1D22">Super button!</text>
@@ -16,7 +16,7 @@
         </g>
         <clipPath id="clip-1"><rect x="276" y="204" width="498" height="126" rx="63" ry="63"/></clipPath>
         <g id="ReusableComposeNode">
-          <image href="super-button.figma-raster/368.png" x="276" y="204" width="498" height="126" clip-path="url(#clip-1)"/>
+          <image href="super-button.figma-raster/416.png" x="276" y="204" width="498" height="126" clip-path="url(#clip-1)"/>
           <g clip-path="url(#clip-1)">
             <g id="ReusableComposeNode">
               <text x="287" y="281.36" font-size="42" font-family="Roboto, sans-serif" font-weight="500" letter-spacing="0.66" fill="#1B1D22">Super LargeLowPadding</text>
@@ -25,7 +25,7 @@
         </g>
         <clipPath id="clip-2"><rect x="341" y="392" width="368" height="106" rx="53" ry="53"/></clipPath>
         <g id="ReusableComposeNode">
-          <image href="super-button.figma-raster/370.png" x="341" y="392" width="368" height="106" clip-path="url(#clip-2)"/>
+          <image href="super-button.figma-raster/418.png" x="341" y="392" width="368" height="106" clip-path="url(#clip-2)"/>
           <g clip-path="url(#clip-2)">
             <g id="ReusableComposeNode">
               <text x="394" y="459.36" font-size="42" font-family="Roboto, sans-serif" font-weight="500" letter-spacing="0.66" fill="#1B1D22">Super button!</text>
@@ -34,7 +34,7 @@
         </g>
         <clipPath id="clip-3"><rect x="252" y="570" width="546" height="106" rx="53" ry="53"/></clipPath>
         <g id="ReusableComposeNode">
-          <image href="super-button.figma-raster/372.png" x="252" y="570" width="546" height="106" clip-path="url(#clip-3)"/>
+          <image href="super-button.figma-raster/420.png" x="252" y="570" width="546" height="106" clip-path="url(#clip-3)"/>
           <g clip-path="url(#clip-3)">
             <g id="ReusableComposeNode">
               <text x="263" y="637.36" font-size="42" font-family="Roboto, sans-serif" font-weight="500" letter-spacing="0.66" fill="#1B1D22">Super MediumLowPadding</text>
@@ -43,7 +43,7 @@
         </g>
         <clipPath id="clip-4"><rect x="352" y="759" width="346" height="84" rx="42" ry="42"/></clipPath>
         <g id="ReusableComposeNode">
-          <image href="super-button.figma-raster/374.png" x="352" y="759" width="346" height="84" clip-path="url(#clip-4)"/>
+          <image href="super-button.figma-raster/422.png" x="352" y="759" width="346" height="84" clip-path="url(#clip-4)"/>
           <g clip-path="url(#clip-4)">
             <g id="ReusableComposeNode">
               <text x="394" y="815.36" font-size="42" font-family="Roboto, sans-serif" font-weight="500" letter-spacing="0.66" fill="#1B1D22">Super button!</text>
@@ -58,7 +58,7 @@
         <clipPath id="clip-5"><rect x="331" y="919" width="388" height="126" rx="63" ry="63"/></clipPath>
         <g id="ReusableComposeNode">
           <rect x="332" y="920" width="386" height="124" rx="62" ry="62" fill="none" stroke="#CDD3DA" stroke-width="2.62"/>
-          <image href="super-button.figma-raster/377.png" x="331" y="919" width="388" height="126" clip-path="url(#clip-5)"/>
+          <image href="super-button.figma-raster/425.png" x="331" y="919" width="388" height="126" clip-path="url(#clip-5)"/>
           <g clip-path="url(#clip-5)">
             <g id="ReusableComposeNode">
               <text x="394" y="996.36" font-size="42" font-family="Roboto, sans-serif" font-weight="500" letter-spacing="0.66" fill="#818A95">Super button!</text>
@@ -68,7 +68,7 @@
         <clipPath id="clip-6"><rect x="341" y="1107" width="368" height="106" rx="53" ry="53"/></clipPath>
         <g id="ReusableComposeNode">
           <rect x="342" y="1108" width="366" height="104" rx="52" ry="52" fill="none" stroke="#CDD3DA" stroke-width="2.62"/>
-          <image href="super-button.figma-raster/379.png" x="341" y="1107" width="368" height="106" clip-path="url(#clip-6)"/>
+          <image href="super-button.figma-raster/427.png" x="341" y="1107" width="368" height="106" clip-path="url(#clip-6)"/>
           <g clip-path="url(#clip-6)">
             <g id="ReusableComposeNode">
               <text x="394" y="1174.36" font-size="42" font-family="Roboto, sans-serif" font-weight="500" letter-spacing="0.66" fill="#818A95">Super button!</text>
@@ -78,7 +78,7 @@
         <clipPath id="clip-7"><rect x="352" y="1296" width="346" height="84" rx="42" ry="42"/></clipPath>
         <g id="ReusableComposeNode">
           <rect x="353" y="1297" width="344" height="82" rx="41" ry="41" fill="none" stroke="#CDD3DA" stroke-width="2.62"/>
-          <image href="super-button.figma-raster/381.png" x="352" y="1296" width="346" height="84" clip-path="url(#clip-7)"/>
+          <image href="super-button.figma-raster/429.png" x="352" y="1296" width="346" height="84" clip-path="url(#clip-7)"/>
           <g clip-path="url(#clip-7)">
             <g id="ReusableComposeNode">
               <text x="394" y="1352.36" font-size="42" font-family="Roboto, sans-serif" font-weight="500" letter-spacing="0.66" fill="#818A95">Super button!</text>

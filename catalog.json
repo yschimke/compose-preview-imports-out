@@ -41103,7 +41103,7 @@
       "wireframe": "wireframes/waveform-playback-view.svg",
       "sourceFile": "src/main/kotlin/io/element/android/libraries/designsystem/components/media/WaveformPlaybackView.kt",
       "sourceModule": ":libraries:designsystem",
-      "bodyLine": 302,
+      "bodyLine": 187,
       "sourceDirectory": "libraries/designsystem",
       "sourceFunction": "WaveformPlaybackViewPreview",
       "parameters": [
@@ -41146,6 +41146,11 @@
         {
           "name": "seekEnabled",
           "type": "Boolean",
+          "hasDefault": true
+        },
+        {
+          "name": "onSeekProgressChange",
+          "type": "(Float?) -> Unit",
           "hasDefault": true
         },
         {
@@ -44987,8 +44992,8 @@
       ]
     }
   ],
-  "renderer": "compose-preview 2.61.2",
-  "generatedAt": "2026-10-15T11:42:54.014Z",
+  "renderer": "compose-preview 2.74.1",
+  "generatedAt": "2026-10-28T03:09:14.895Z",
   "liveBundle": {
     "path": "bundle/",
     "file": "bundle.png"
@@ -45004,7 +45009,7 @@
   "componentsFile": "components.json",
   "source": {
     "repo": "element-hq/element-x-android",
-    "ref": "e1b9ba21dc022e398144e30b45d86115db00f454",
+    "ref": "3dc5590f06604860217b796b3362f0daeeb1c0ff",
     "module": ":libraries:designsystem"
   }
 }
