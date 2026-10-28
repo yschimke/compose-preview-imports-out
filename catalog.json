@@ -105,14 +105,14 @@
           "detail": {
             "role": "button",
             "bounds": {
-              "x": 913,
+              "x": 934,
               "y": 32,
               "width": 105,
               "height": 105
             }
           },
           "bounds": {
-            "x": 913,
+            "x": 934,
             "y": 32,
             "width": 105,
             "height": 105
@@ -790,7 +790,7 @@
           "bounds": {
             "x": 43,
             "y": 21,
-            "width": 985,
+            "width": 1006,
             "height": 126
           },
           "padding": {
@@ -802,7 +802,7 @@
         },
         {
           "bounds": {
-            "x": 913,
+            "x": 934,
             "y": 32,
             "width": 105,
             "height": 105
@@ -3943,14 +3943,14 @@
           "detail": {
             "role": "button",
             "bounds": {
-              "x": 913,
+              "x": 934,
               "y": 32,
               "width": 105,
               "height": 105
             }
           },
           "bounds": {
-            "x": 913,
+            "x": 934,
             "y": 32,
             "width": 105,
             "height": 105
@@ -3962,7 +3962,7 @@
           "bounds": {
             "x": 43,
             "y": 21,
-            "width": 985,
+            "width": 1006,
             "height": 126
           },
           "padding": {
@@ -3974,7 +3974,7 @@
         },
         {
           "bounds": {
-            "x": 913,
+            "x": 934,
             "y": 32,
             "width": 105,
             "height": 105
@@ -4031,12 +4031,28 @@
     "custom design system (JetsnackTheme)",
     "androidx.glance:glance-appwidget"
   ],
-  "renderer": "compose-preview 2.61.2",
-  "generatedAt": "2026-10-15T11:24:19.726Z",
+  "renderer": "compose-preview 2.74.1",
+  "generatedAt": "2026-10-28T02:49:15.751Z",
   "display": {
     "surface": "light",
     "hero": "Screens/App shell"
   },
+  "themes": [
+    {
+      "id": "ee.schimke.composeai.imported.themes.ImportedTheme_Dark",
+      "tokensFile": "themes/ee.schimke.composeai.imported.themes.importedtheme_dark.dtcg.json",
+      "name": "Dark",
+      "group": "Jetsnack",
+      "dark": true
+    },
+    {
+      "id": "ee.schimke.composeai.imported.themes.ImportedTheme_Light",
+      "tokensFile": "themes/ee.schimke.composeai.imported.themes.importedtheme_light.dtcg.json",
+      "name": "Light",
+      "group": "Jetsnack",
+      "dark": true
+    }
+  ],
   "liveBundle": {
     "path": "bundle/",
     "file": "bundle.png"
@@ -4052,7 +4068,7 @@
   "componentsFile": "components.json",
   "source": {
     "repo": "android/compose-samples",
-    "ref": "0c2267c6c69bd06c8b7a8ec5fed7d7a3c4d7c822",
+    "ref": "25631e8f544a9a1e3f01e296eaf1b4c28428196c",
     "module": ":app"
   }
 }

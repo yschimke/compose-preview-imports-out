@@ -10,11 +10,11 @@
           </g>
           <g id="ReusableComposeNode">
             <g id="ReusableComposeNode">
-              <text x="472" y="103.99" font-size="42" font-family="Montserrat" font-weight="600" letter-spacing="0.39" text-anchor="middle" fill="#000000" fill-opacity="0.87">Delivery to 1600 Amphitheater Way</text>
+              <text x="483" y="103.99" font-size="42" font-family="Montserrat" font-weight="600" letter-spacing="0.39" text-anchor="middle" fill="#000000" fill-opacity="0.87">Delivery to 1600 Amphitheater Way</text>
             </g>
             <g id="ReusableComposeNode">
               <g id="ReusableComposeNode">
-                <g transform="translate(934 53) scale(0.06 0.06)">
+                <g transform="translate(955 53) scale(0.06 0.06)">
                   <path d="M480 616 L240 376 L296 320 L480 504 L664 320 L720 376 L480 616 Z" fill="#4B30ED"/>
                 </g>
               </g>
