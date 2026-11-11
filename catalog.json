@@ -23966,7 +23966,7 @@
       "wireframe": "wireframes/modal-bottom-sheet-dark.svg",
       "sourceFile": "src/main/kotlin/io/element/android/libraries/designsystem/theme/components/ModalBottomSheet.kt",
       "sourceModule": ":libraries:designsystem",
-      "bodyLine": 124,
+      "bodyLine": 241,
       "sourceDirectory": "libraries/designsystem",
       "sourceFunction": "ModalBottomSheetDarkPreview",
       "parameters": [
@@ -24009,7 +24009,7 @@
       "wireframe": "wireframes/modal-bottom-sheet-light.svg",
       "sourceFile": "src/main/kotlin/io/element/android/libraries/designsystem/theme/components/ModalBottomSheet.kt",
       "sourceModule": ":libraries:designsystem",
-      "bodyLine": 119,
+      "bodyLine": 236,
       "sourceDirectory": "libraries/designsystem",
       "sourceFunction": "ModalBottomSheetLightPreview",
       "parameters": [
@@ -34150,7 +34150,7 @@
       "wireframe": "wireframes/save-changes-dialog.svg",
       "sourceFile": "src/main/kotlin/io/element/android/libraries/designsystem/components/dialogs/SaveChangesDialog.kt",
       "sourceModule": ":libraries:designsystem",
-      "bodyLine": 41,
+      "bodyLine": 42,
       "sourceDirectory": "libraries/designsystem",
       "sourceFunction": "SaveChangesDialogPreview",
       "parameters": [
@@ -42623,7 +42623,7 @@
       "wireframe": "wireframes/playback-speed-button.svg",
       "sourceFile": "src/main/kotlin/io/element/android/libraries/designsystem/atomic/atoms/PlaybackSpeedButton.kt",
       "sourceModule": ":libraries:designsystem",
-      "bodyLine": 61,
+      "bodyLine": 67,
       "sourceDirectory": "libraries/designsystem",
       "sourceFunction": "PlaybackSpeedButtonPreview",
       "parameters": [
@@ -44992,8 +44992,8 @@
       ]
     }
   ],
-  "renderer": "compose-preview 2.74.1",
-  "generatedAt": "2026-10-28T03:09:14.895Z",
+  "renderer": "compose-preview 2.89.0",
+  "generatedAt": "2026-11-11T03:02:19.781Z",
   "liveBundle": {
     "path": "bundle/",
     "file": "bundle.png"
@@ -45009,7 +45009,7 @@
   "componentsFile": "components.json",
   "source": {
     "repo": "element-hq/element-x-android",
-    "ref": "3dc5590f06604860217b796b3362f0daeeb1c0ff",
+    "ref": "eac9e6aba4473b35fc4f3c147c15e407f81d2a9a",
     "module": ":libraries:designsystem"
   }
 }
