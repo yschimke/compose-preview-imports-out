@@ -14,22 +14,22 @@
                 <g id="BoxKt">
                 </g>
                 <g id="Box">
+                  <g id="LayoutNodeSubcompositionsState">
+                  </g>
                   <g id="Box">
-                    <g id="LayoutNodeSubcompositionsState">
-                    </g>
                     <g id="Spacer">
                     </g>
-                  </g>
-                  <clipPath id="clip-0"><rect x="462" y="42" width="126" height="126" rx="63" ry="63"/></clipPath>
-                  <g id="Box">
-                      <rect x="462" y="42" width="126" height="126" rx="63" ry="63" fill="#D1E4FF"/>
-                    <g clip-path="url(#clip-0)">
-                      <clipPath id="clip-1"><rect x="462" y="42" width="126" height="126" rx="63" ry="63"/></clipPath>
-                      <g id="Box">
-                          <rect x="462" y="42" width="126" height="126" rx="63" ry="63" fill="#D1E4FF"/>
-                        <g clip-path="url(#clip-1)">
-                          <g id="Spacer">
-                            <image href="posts.figma-raster/64.png" x="462" y="42" width="126" height="126"/>
+                    <clipPath id="clip-0"><rect x="462" y="42" width="126" height="126" rx="63" ry="63"/></clipPath>
+                    <g id="Box">
+                        <rect x="462" y="42" width="126" height="126" rx="63" ry="63" fill="#D1E4FF"/>
+                      <g clip-path="url(#clip-0)">
+                        <clipPath id="clip-1"><rect x="462" y="42" width="126" height="126" rx="63" ry="63"/></clipPath>
+                        <g id="Box">
+                            <rect x="462" y="42" width="126" height="126" rx="63" ry="63" fill="#D1E4FF"/>
+                          <g clip-path="url(#clip-1)">
+                            <g id="Spacer">
+                              <image href="posts.figma-raster/65.png" x="462" y="42" width="126" height="126"/>
+                            </g>
                           </g>
                         </g>
                       </g>
@@ -43,7 +43,7 @@
                   <g id="Box">
                     <g clip-path="url(#clip-2)">
                       <g id="Spacer">
-                        <image href="posts.figma-raster/65.png" x="21" y="32" width="105" height="105"/>
+                        <image href="posts.figma-raster/68.png" x="21" y="32" width="105" height="105"/>
                       </g>
                     </g>
                   </g>

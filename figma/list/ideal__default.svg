@@ -19,9 +19,9 @@
                 <g id="BoxKt">
                 </g>
                 <g id="Box">
+                  <g id="LayoutNodeSubcompositionsState">
+                  </g>
                   <g id="Box">
-                    <g id="LayoutNodeSubcompositionsState">
-                    </g>
                     <g id="Column">
                       <g id="Spacer">
                       </g>
@@ -58,17 +58,17 @@
                         </g>
                       </g>
                     </g>
-                  </g>
-                  <clipPath id="clip-1"><rect x="462" y="168" width="126" height="126" rx="63" ry="63"/></clipPath>
-                  <g id="Box">
-                      <rect x="462" y="168" width="126" height="126" rx="63" ry="63" fill="#D1E4FF"/>
-                    <g clip-path="url(#clip-1)">
-                      <clipPath id="clip-2"><rect x="462" y="168" width="126" height="126" rx="63" ry="63"/></clipPath>
-                      <g id="Box">
-                          <rect x="462" y="168" width="126" height="126" rx="63" ry="63" fill="#D1E4FF"/>
-                        <g clip-path="url(#clip-2)">
-                          <g id="Spacer">
-                            <image href="ideal__default.figma-raster/72.png" x="462" y="168" width="126" height="126"/>
+                    <clipPath id="clip-1"><rect x="462" y="168" width="126" height="126" rx="63" ry="63"/></clipPath>
+                    <g id="Box">
+                        <rect x="462" y="168" width="126" height="126" rx="63" ry="63" fill="#D1E4FF"/>
+                      <g clip-path="url(#clip-1)">
+                        <clipPath id="clip-2"><rect x="462" y="168" width="126" height="126" rx="63" ry="63"/></clipPath>
+                        <g id="Box">
+                            <rect x="462" y="168" width="126" height="126" rx="63" ry="63" fill="#D1E4FF"/>
+                          <g clip-path="url(#clip-2)">
+                            <g id="Spacer">
+                              <image href="ideal__default.figma-raster/73.png" x="462" y="168" width="126" height="126"/>
+                            </g>
                           </g>
                         </g>
                       </g>
@@ -76,35 +76,32 @@
                   </g>
                 </g>
               </g>
-              <g id="Column">
-                <image href="ideal__default.figma-raster/29.png" x="0" y="0" width="1050" height="168"/>
-                <g id="Row">
+              <g id="Row">
+                <g id="Box">
+                  <clipPath id="clip-3"><rect x="21" y="32" width="105" height="105" rx="52.5" ry="52.5"/></clipPath>
                   <g id="Box">
-                    <clipPath id="clip-3"><rect x="21" y="32" width="105" height="105" rx="52.5" ry="52.5"/></clipPath>
-                    <g id="Box">
-                      <g clip-path="url(#clip-3)">
-                        <g id="Spacer">
-                          <image href="ideal__default.figma-raster/73.png" x="21" y="32" width="105" height="105"/>
-                        </g>
+                    <g clip-path="url(#clip-3)">
+                      <g id="Spacer">
+                        <image href="ideal__default.figma-raster/76.png" x="21" y="32" width="105" height="105"/>
                       </g>
-                    </g>
-                    <g id="Box">
                     </g>
                   </g>
                   <g id="Box">
                   </g>
-                  <g id="Box" filter="url(#shadow-3)">
-                    <rect x="903" y="32" width="105" height="105" rx="52.5" ry="52.5" fill="#F2F3FA"/>
-                    <g id="Box">
-                      <g id="BoxKt">
-                        <g transform="translate(925 54) scale(2.62 2.62)">
-                          <path d="M12 20 c -4.41 0 -8 -3.59 -8 -8 s 3.59 -8 8 -8 s 8 3.59 8 8 s -3.59 8 -8 8 m0 2 c 5.52 0 10 -4.48 10 -10 S 17.52 2 12 2 S 2 6.48 2 12 s 4.48 10 10 10 Z M11 12 v3 c 0 0.55 0.45 1 1 1 s 1 -0.45 1 -1 v-3 h1.79 c 0.45 0 0.67 -0.54 0.35 -0.85 l-2.79 -2.79 c -0.2 -0.2 -0.51 -0.2 -0.71 0 l-2.79 2.79 a 0.5 0.5 0 0 0 0.36 0.85 L11 12 Z" fill="#36618E"/>
-                        </g>
+                </g>
+                <g id="Box">
+                </g>
+                <g id="Box" filter="url(#shadow-3)">
+                  <rect x="903" y="32" width="105" height="105" rx="52.5" ry="52.5" fill="#F2F3FA"/>
+                  <g id="Box">
+                    <g id="BoxKt">
+                      <g transform="translate(925 54) scale(2.62 2.62)">
+                        <path d="M12 20 c -4.41 0 -8 -3.59 -8 -8 s 3.59 -8 8 -8 s 8 3.59 8 8 s -3.59 8 -8 8 m0 2 c 5.52 0 10 -4.48 10 -10 S 17.52 2 12 2 S 2 6.48 2 12 s 4.48 10 10 10 Z M11 12 v3 c 0 0.55 0.45 1 1 1 s 1 -0.45 1 -1 v-3 h1.79 c 0.45 0 0.67 -0.54 0.35 -0.85 l-2.79 -2.79 c -0.2 -0.2 -0.51 -0.2 -0.71 0 l-2.79 2.79 a 0.5 0.5 0 0 0 0.36 0.85 L11 12 Z" fill="#36618E"/>
                       </g>
                     </g>
                   </g>
-                  <g id="Spacer">
-                  </g>
+                </g>
+                <g id="Spacer">
                 </g>
               </g>
               <g id="Box">

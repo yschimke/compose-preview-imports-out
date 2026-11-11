@@ -398,10 +398,10 @@
         },
         {
           "bounds": {
-            "x": 0,
-            "y": 0,
-            "width": 0,
-            "height": 0
+            "x": 42,
+            "y": 189,
+            "width": 245,
+            "height": 84
           },
           "cornerRadius": 16
         },
@@ -3068,18 +3068,6 @@
         },
         {
           "variant": "ideal",
-          "path": "images/message-list/ideal__default__medium.png",
-          "state": "default",
-          "width": 1260,
-          "height": 722,
-          "size": "medium",
-          "livePreview": "https://preview.coo.ee/tunjid-heron/p/message-list__ideal__default__medium",
-          "previewId": "module_3a666561747572653a6d65737361676573__module_666561747572653a6d65737361676573__com.tunjid.heron.messages.MessagesScreenPreviewKt.MessageListMinHeightPreview_Expanded_width_480dp",
-          "density": 2.625,
-          "figmaSvg": "https://preview.coo.ee/tunjid-heron/render/message-list__ideal__default__medium.svg"
-        },
-        {
-          "variant": "ideal",
           "path": "images/message-list/ideal__default__compact.png",
           "state": "default",
           "width": 945,
@@ -3089,6 +3077,18 @@
           "previewId": "module_3a666561747572653a6d65737361676573__module_666561747572653a6d65737361676573__com.tunjid.heron.messages.MessagesScreenPreviewKt.MessageListMinHeightPreview_Phone_width_360dp",
           "density": 2.625,
           "figmaSvg": "https://preview.coo.ee/tunjid-heron/render/message-list__ideal__default__compact.svg"
+        },
+        {
+          "variant": "ideal",
+          "path": "images/message-list/ideal__default__medium.png",
+          "state": "default",
+          "width": 1260,
+          "height": 722,
+          "size": "medium",
+          "livePreview": "https://preview.coo.ee/tunjid-heron/p/message-list__ideal__default__medium",
+          "previewId": "module_3a666561747572653a6d65737361676573__module_666561747572653a6d65737361676573__com.tunjid.heron.messages.MessagesScreenPreviewKt.MessageListMinHeightPreview_Expanded_width_480dp",
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/tunjid-heron/render/message-list__ideal__default__medium.svg"
         }
       ],
       "greenlines": [],
@@ -3809,16 +3809,16 @@
           "detail": {
             "role": "switch",
             "bounds": {
-              "x": 829,
+              "x": 819,
               "y": 253,
-              "width": 137,
+              "width": 147,
               "height": 84
             }
           },
           "bounds": {
-            "x": 829,
+            "x": 819,
             "y": 253,
-            "width": 137,
+            "width": 147,
             "height": 84
           }
         },
@@ -3932,25 +3932,6 @@
             "height": 327
           },
           "cornerRadius": 12
-        },
-        {
-          "bounds": {
-            "x": 829,
-            "y": 253,
-            "width": 137,
-            "height": 84
-          },
-          "role": "Switch",
-          "cornerRadius": 16
-        },
-        {
-          "bounds": {
-            "x": 850,
-            "y": 274,
-            "width": 42,
-            "height": 42
-          },
-          "cornerRadius": 8
         },
         {
           "bounds": {
@@ -5058,16 +5039,16 @@
           "detail": {
             "role": "switch",
             "bounds": {
-              "x": 829,
+              "x": 819,
               "y": 1033,
-              "width": 137,
+              "width": 147,
               "height": 84
             }
           },
           "bounds": {
-            "x": 829,
+            "x": 819,
             "y": 1033,
-            "width": 137,
+            "width": 147,
             "height": 84
           }
         },
@@ -5149,25 +5130,6 @@
             "height": 126
           },
           "cornerRadius": 16
-        },
-        {
-          "bounds": {
-            "x": 829,
-            "y": 1033,
-            "width": 137,
-            "height": 84
-          },
-          "role": "Switch",
-          "cornerRadius": 16
-        },
-        {
-          "bounds": {
-            "x": 850,
-            "y": 1054,
-            "width": 42,
-            "height": 42
-          },
-          "cornerRadius": 8
         },
         {
           "bounds": {
@@ -5833,18 +5795,6 @@
         },
         {
           "variant": "ideal",
-          "path": "images/feature-messages-messagelistfixedheightpreview/ideal__default__medium.png",
-          "state": "default",
-          "width": 1260,
-          "height": 707,
-          "size": "medium",
-          "livePreview": "https://preview.coo.ee/tunjid-heron/p/feature-messages-messagelistfixedheightpreview__ideal__default__medium",
-          "previewId": "module_3a666561747572653a6d65737361676573__module_666561747572653a6d65737361676573__com.tunjid.heron.messages.MessagesScreenPreviewKt.MessageListFixedHeightPreview_Expanded_width_480dp",
-          "density": 2.625,
-          "figmaSvg": "https://preview.coo.ee/tunjid-heron/render/feature-messages-messagelistfixedheightpreview__ideal__default__medium.svg"
-        },
-        {
-          "variant": "ideal",
           "path": "images/feature-messages-messagelistfixedheightpreview/ideal__default__compact.png",
           "state": "default",
           "width": 945,
@@ -5854,6 +5804,18 @@
           "previewId": "module_3a666561747572653a6d65737361676573__module_666561747572653a6d65737361676573__com.tunjid.heron.messages.MessagesScreenPreviewKt.MessageListFixedHeightPreview_Phone_width_360dp",
           "density": 2.625,
           "figmaSvg": "https://preview.coo.ee/tunjid-heron/render/feature-messages-messagelistfixedheightpreview__ideal__default__compact.svg"
+        },
+        {
+          "variant": "ideal",
+          "path": "images/feature-messages-messagelistfixedheightpreview/ideal__default__medium.png",
+          "state": "default",
+          "width": 1260,
+          "height": 707,
+          "size": "medium",
+          "livePreview": "https://preview.coo.ee/tunjid-heron/p/feature-messages-messagelistfixedheightpreview__ideal__default__medium",
+          "previewId": "module_3a666561747572653a6d65737361676573__module_666561747572653a6d65737361676573__com.tunjid.heron.messages.MessagesScreenPreviewKt.MessageListFixedHeightPreview_Expanded_width_480dp",
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/tunjid-heron/render/feature-messages-messagelistfixedheightpreview__ideal__default__medium.svg"
         }
       ],
       "greenlines": [],
@@ -5949,10 +5911,304 @@
           "type": "Dp?"
         }
       ]
+    },
+    {
+      "componentId": "ui/core/MatteControlsLightPreview",
+      "images": [
+        {
+          "variant": "ideal",
+          "path": "images/ui-core-mattecontrolslightpreview/ideal__default__compact.png",
+          "state": "default",
+          "width": 945,
+          "height": 3570,
+          "size": "compact",
+          "livePreview": "https://preview.coo.ee/tunjid-heron/p/ui-core-mattecontrolslightpreview__ideal__default__compact",
+          "previewId": "module_3a75693a636f7265__module_75693a636f7265__com.tunjid.heron.ui.ControlsPreviewKt.MatteControlsLightPreview",
+          "density": 2.625
+        }
+      ],
+      "greenlines": [
+        {
+          "kind": "a11y",
+          "severity": "info",
+          "message": "switch",
+          "detail": {
+            "role": "switch",
+            "bounds": {
+              "x": 735,
+              "y": 896,
+              "width": 147,
+              "height": 84
+            }
+          },
+          "bounds": {
+            "x": 735,
+            "y": 896,
+            "width": 147,
+            "height": 84
+          }
+        },
+        {
+          "kind": "a11y",
+          "severity": "info",
+          "message": "switch",
+          "detail": {
+            "role": "switch",
+            "bounds": {
+              "x": 735,
+              "y": 1064,
+              "width": 147,
+              "height": 84
+            }
+          },
+          "bounds": {
+            "x": 735,
+            "y": 1064,
+            "width": 147,
+            "height": 84
+          }
+        },
+        {
+          "kind": "a11y",
+          "severity": "info",
+          "message": "switch",
+          "detail": {
+            "role": "switch",
+            "bounds": {
+              "x": 735,
+              "y": 1232,
+              "width": 147,
+              "height": 84
+            }
+          },
+          "bounds": {
+            "x": 735,
+            "y": 1232,
+            "width": 147,
+            "height": 84
+          }
+        },
+        {
+          "kind": "a11y",
+          "severity": "info",
+          "message": "checkbox",
+          "detail": {
+            "role": "checkbox",
+            "bounds": {
+              "x": 782,
+              "y": 1668,
+              "width": 74,
+              "height": 74
+            }
+          },
+          "bounds": {
+            "x": 782,
+            "y": 1668,
+            "width": 74,
+            "height": 74
+          }
+        },
+        {
+          "kind": "a11y",
+          "severity": "info",
+          "message": "checkbox",
+          "detail": {
+            "role": "checkbox",
+            "bounds": {
+              "x": 782,
+              "y": 1836,
+              "width": 74,
+              "height": 74
+            }
+          },
+          "bounds": {
+            "x": 782,
+            "y": 1836,
+            "width": 74,
+            "height": 74
+          }
+        },
+        {
+          "kind": "a11y",
+          "severity": "info",
+          "message": "checkbox",
+          "detail": {
+            "role": "checkbox",
+            "bounds": {
+              "x": 782,
+              "y": 2004,
+              "width": 74,
+              "height": 74
+            }
+          },
+          "bounds": {
+            "x": 782,
+            "y": 2004,
+            "width": 74,
+            "height": 74
+          }
+        }
+      ],
+      "redlines": [],
+      "section": ":ui:core",
+      "group": "Previews",
+      "wireframe": "wireframes/ui-core-mattecontrolslightpreview.svg",
+      "sourceFile": "src/commonMain/kotlin/com/tunjid/heron/ui/ControlsPreview.kt",
+      "sourceModule": ":ui:core",
+      "bodyLine": 49,
+      "sourceDirectory": "ui/core",
+      "sourceFunction": "MatteControlsLightPreview"
+    },
+    {
+      "componentId": "ui/core/MatteControlsDarkPreview",
+      "images": [
+        {
+          "variant": "ideal",
+          "path": "images/ui-core-mattecontrolsdarkpreview/ideal__default__compact.png",
+          "state": "default",
+          "width": 945,
+          "height": 3570,
+          "size": "compact",
+          "livePreview": "https://preview.coo.ee/tunjid-heron/p/ui-core-mattecontrolsdarkpreview__ideal__default__compact",
+          "previewId": "module_3a75693a636f7265__module_75693a636f7265__com.tunjid.heron.ui.ControlsPreviewKt.MatteControlsDarkPreview",
+          "density": 2.625
+        }
+      ],
+      "greenlines": [
+        {
+          "kind": "a11y",
+          "severity": "info",
+          "message": "switch",
+          "detail": {
+            "role": "switch",
+            "bounds": {
+              "x": 735,
+              "y": 896,
+              "width": 147,
+              "height": 84
+            }
+          },
+          "bounds": {
+            "x": 735,
+            "y": 896,
+            "width": 147,
+            "height": 84
+          }
+        },
+        {
+          "kind": "a11y",
+          "severity": "info",
+          "message": "switch",
+          "detail": {
+            "role": "switch",
+            "bounds": {
+              "x": 735,
+              "y": 1064,
+              "width": 147,
+              "height": 84
+            }
+          },
+          "bounds": {
+            "x": 735,
+            "y": 1064,
+            "width": 147,
+            "height": 84
+          }
+        },
+        {
+          "kind": "a11y",
+          "severity": "info",
+          "message": "switch",
+          "detail": {
+            "role": "switch",
+            "bounds": {
+              "x": 735,
+              "y": 1232,
+              "width": 147,
+              "height": 84
+            }
+          },
+          "bounds": {
+            "x": 735,
+            "y": 1232,
+            "width": 147,
+            "height": 84
+          }
+        },
+        {
+          "kind": "a11y",
+          "severity": "info",
+          "message": "checkbox",
+          "detail": {
+            "role": "checkbox",
+            "bounds": {
+              "x": 782,
+              "y": 1668,
+              "width": 74,
+              "height": 74
+            }
+          },
+          "bounds": {
+            "x": 782,
+            "y": 1668,
+            "width": 74,
+            "height": 74
+          }
+        },
+        {
+          "kind": "a11y",
+          "severity": "info",
+          "message": "checkbox",
+          "detail": {
+            "role": "checkbox",
+            "bounds": {
+              "x": 782,
+              "y": 1836,
+              "width": 74,
+              "height": 74
+            }
+          },
+          "bounds": {
+            "x": 782,
+            "y": 1836,
+            "width": 74,
+            "height": 74
+          }
+        },
+        {
+          "kind": "a11y",
+          "severity": "info",
+          "message": "checkbox",
+          "detail": {
+            "role": "checkbox",
+            "bounds": {
+              "x": 782,
+              "y": 2004,
+              "width": 74,
+              "height": 74
+            }
+          },
+          "bounds": {
+            "x": 782,
+            "y": 2004,
+            "width": 74,
+            "height": 74
+          }
+        }
+      ],
+      "redlines": [],
+      "section": ":ui:core",
+      "group": "Previews",
+      "wireframe": "wireframes/ui-core-mattecontrolsdarkpreview.svg",
+      "sourceFile": "src/commonMain/kotlin/com/tunjid/heron/ui/ControlsPreview.kt",
+      "sourceModule": ":ui:core",
+      "bodyLine": 59,
+      "sourceDirectory": "ui/core",
+      "sourceFunction": "MatteControlsDarkPreview"
     }
   ],
-  "renderer": "compose-preview 2.74.1",
-  "generatedAt": "2026-10-28T04:45:26.935Z",
+  "renderer": "compose-preview 2.89.0",
+  "generatedAt": "2026-11-11T04:24:39.674Z",
   "display": {
     "hero": "home"
   },
@@ -6127,7 +6383,7 @@
   "componentsFile": "components.json",
   "source": {
     "repo": "tunjid/heron",
-    "ref": "6e6fc09c89077cc911695f134739c2f0b230029f",
+    "ref": "097a68215eb26f5eeed71c4e744897890f5afbf1",
     "module": ""
   }
 }

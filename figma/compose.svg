@@ -26,11 +26,11 @@
                     <g id="Row">
                       <g id="Box">
                         <g id="ImageKt">
-                          <image href="compose.figma-raster/104.png" x="42" y="210" width="105" height="105"/>
+                          <image href="compose.figma-raster/108.png" x="42" y="210" width="105" height="105"/>
                         </g>
                       </g>
                       <g id="CoreTextFieldKt">
-                        <image href="compose.figma-raster/108.png" x="189" y="210" width="819" height="63"/>
+                        <image href="compose.figma-raster/112.png" x="189" y="210" width="819" height="63"/>
                       </g>
                     </g>
                     <g id="MultiContentMeasurePolicyImpl">
@@ -41,14 +41,14 @@
                 </g>
               </g>
               <g id="Column">
-                <image href="compose.figma-raster/29.png" x="0" y="0" width="1050" height="168"/>
+                <image href="compose.figma-raster/30.png" x="0" y="0" width="1050" height="168"/>
                 <g id="Row">
                   <g id="Box">
                     <clipPath id="clip-0"><rect x="21" y="32" width="105" height="105" rx="52.5" ry="52.5"/></clipPath>
                     <g id="Box">
                       <g clip-path="url(#clip-0)">
                         <g id="Spacer">
-                          <image href="compose.figma-raster/114.png" x="21" y="32" width="105" height="105"/>
+                          <image href="compose.figma-raster/118.png" x="21" y="32" width="105" height="105"/>
                         </g>
                       </g>
                     </g>
@@ -84,7 +84,7 @@
               <g id="Box">
               </g>
               <g id="Row">
-                <image href="compose.figma-raster/85.png" x="0" y="1974" width="1050" height="126"/>
+                <image href="compose.figma-raster/89.png" x="0" y="1974" width="1050" height="126"/>
                 <rect x="21" y="1974" width="1008" height="126" fill="#F8F9FF"/>
                 <g id="Box">
                   <g id="BoxKt">

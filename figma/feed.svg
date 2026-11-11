@@ -22,14 +22,14 @@
                 </g>
               </g>
               <g id="Column">
-                <image href="feed.figma-raster/29.png" x="0" y="0" width="1050" height="168"/>
+                <image href="feed.figma-raster/30.png" x="0" y="0" width="1050" height="168"/>
                 <g id="Row">
                   <g id="Box">
                     <clipPath id="clip-0"><rect x="21" y="32" width="105" height="105" rx="52.5" ry="52.5"/></clipPath>
                     <g id="Box">
                       <g clip-path="url(#clip-0)">
                         <g id="Spacer">
-                          <image href="feed.figma-raster/63.png" x="21" y="32" width="105" height="105"/>
+                          <image href="feed.figma-raster/67.png" x="21" y="32" width="105" height="105"/>
                         </g>
                       </g>
                     </g>

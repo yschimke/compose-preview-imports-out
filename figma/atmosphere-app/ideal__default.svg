@@ -14,9 +14,9 @@
                 <g id="BoxKt">
                 </g>
                 <g id="Box">
+                  <g id="LayoutNodeSubcompositionsState">
+                  </g>
                   <g id="Box">
-                    <g id="LayoutNodeSubcompositionsState">
-                    </g>
                     <g id="Column">
                       <g id="Spacer">
                       </g>
@@ -26,7 +26,7 @@
                           <g clip-path="url(#clip-0)">
                             <g id="Box">
                               <g id="ImageKt">
-                                <image href="ideal__default.figma-raster/61.png" x="42" y="168" width="116" height="116"/>
+                                <image href="ideal__default.figma-raster/64.png" x="42" y="168" width="116" height="116"/>
                               </g>
                             </g>
                           </g>
@@ -46,17 +46,17 @@
                         </g>
                       </g>
                     </g>
-                  </g>
-                  <clipPath id="clip-2"><rect x="462" y="299" width="126" height="126" rx="63" ry="63"/></clipPath>
-                  <g id="Box">
-                      <rect x="462" y="299" width="126" height="126" rx="63" ry="63" fill="#D1E4FF"/>
-                    <g clip-path="url(#clip-2)">
-                      <clipPath id="clip-3"><rect x="462" y="299" width="126" height="126" rx="63" ry="63"/></clipPath>
-                      <g id="Box">
-                          <rect x="462" y="299" width="126" height="126" rx="63" ry="63" fill="#D1E4FF"/>
-                        <g clip-path="url(#clip-3)">
-                          <g id="Spacer">
-                            <image href="ideal__default.figma-raster/72.png" x="462" y="299" width="126" height="126"/>
+                    <clipPath id="clip-2"><rect x="462" y="299" width="126" height="126" rx="63" ry="63"/></clipPath>
+                    <g id="Box">
+                        <rect x="462" y="299" width="126" height="126" rx="63" ry="63" fill="#D1E4FF"/>
+                      <g clip-path="url(#clip-2)">
+                        <clipPath id="clip-3"><rect x="462" y="299" width="126" height="126" rx="63" ry="63"/></clipPath>
+                        <g id="Box">
+                            <rect x="462" y="299" width="126" height="126" rx="63" ry="63" fill="#D1E4FF"/>
+                          <g clip-path="url(#clip-3)">
+                            <g id="Spacer">
+                              <image href="ideal__default.figma-raster/73.png" x="462" y="299" width="126" height="126"/>
+                            </g>
                           </g>
                         </g>
                       </g>
@@ -70,7 +70,7 @@
                   <g id="Box">
                     <g clip-path="url(#clip-4)">
                       <g id="Spacer">
-                        <image href="ideal__default.figma-raster/73.png" x="21" y="32" width="105" height="105"/>
+                        <image href="ideal__default.figma-raster/76.png" x="21" y="32" width="105" height="105"/>
                       </g>
                     </g>
                   </g>

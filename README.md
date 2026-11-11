@@ -38,15 +38,15 @@ customising the live render are two ends of one workflow.
 
 | | |
 | --- | --- |
-| Components | **33** |
-| Rendered images (PNG) | **39** |
-| Editable wireframes (SVG) | **33** |
-| Editable design vectors (figma-svg) | **33** |
-| Components with a11y greenlines | **22** |
+| Components | **35** |
+| Rendered images (PNG) | **41** |
+| Editable wireframes (SVG) | **35** |
+| Editable design vectors (figma-svg) | **35** |
+| Components with a11y greenlines | **24** |
 | Library | — |
-| Renderer | compose-preview 2.74.1 |
+| Renderer | compose-preview 2.89.0 |
 | Schema | `design-parity-catalog/v1` |
-| Generated | 2026-10-28 |
+| Generated | 2026-11-11 |
 
 ## Components by group
 
@@ -55,10 +55,10 @@ customising the live render are two ends of one workflow.
 | Timelines | 7 |
 | Account and settings | 6 |
 | Writing and messages | 5 |
+| Previews | 5 |
 | People | 4 |
 | On-device inference | 3 |
 | Components | 3 |
-| Previews | 3 |
 | Notifications | 2 |
 
 ## What's in this branch

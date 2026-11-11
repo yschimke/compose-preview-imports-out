@@ -23,10 +23,10 @@
                 </g>
                 <g id="Column">
                   <g id="OutlinedTextField">
-                    <image href="ideal__default.figma-raster/64.png" x="147" y="189" width="756" height="150"/>
+                    <image href="ideal__default.figma-raster/68.png" x="147" y="189" width="756" height="150"/>
                   </g>
                   <g id="OutlinedTextField">
-                    <image href="ideal__default.figma-raster/78.png" x="147" y="381" width="756" height="150"/>
+                    <image href="ideal__default.figma-raster/82.png" x="147" y="381" width="756" height="150"/>
                   </g>
                   <g id="Column">
                     <g id="Box" filter="url(#shadow-3)">
@@ -41,7 +41,7 @@
                         </g>
                         <g id="Box">
                           <g id="BoxKt">
-                            <image href="ideal__default.figma-raster/99.png" x="355" y="662" width="79" height="79"/>
+                            <image href="ideal__default.figma-raster/103.png" x="355" y="662" width="79" height="79"/>
                           </g>
                         </g>
                         <g id="Box" opacity="0">
@@ -94,10 +94,10 @@
                 </g>
               </g>
               <g id="Box">
-                <image href="ideal__default.figma-raster/28.png" x="0" y="0" width="1050" height="168"/>
+                <image href="ideal__default.figma-raster/29.png" x="0" y="0" width="1050" height="168"/>
                 <g id="TopAppBar">
                   <g id="Spacer">
-                    <image href="ideal__default.figma-raster/114.png" x="32" y="36" width="95" height="95"/>
+                    <image href="ideal__default.figma-raster/118.png" x="32" y="36" width="95" height="95"/>
                   </g>
                   <g id="Empty">
                     <text x="159" y="97.99" font-size="42" font-family="Roboto-Medium.ttf:FontWeight(weight=500):Normal:SettingFloat(ital,0.0),SettingInt(wght,500, sans-serif" font-weight="500" letter-spacing="0.53" style="font-variation-settings:&apos;ital&apos; 0.0,&apos;wght&apos; 500.0" fill="#191C20">Sign In</text>
