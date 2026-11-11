@@ -7,9 +7,9 @@
 </defs>
 <defs>
   <linearGradient id="gf-0" x1="0" y1="0" x2="1.0" y2="0">
-    <stop offset="0" stop-color="#C30060"/>
-    <stop offset="0.5" stop-color="#5500D7"/>
-    <stop offset="1" stop-color="#7F0054"/>
+    <stop offset="0" stop-color="#FDBBCF"/>
+    <stop offset="0.5" stop-color="#C186FA"/>
+    <stop offset="1" stop-color="#F4568B"/>
   </linearGradient>
 </defs>
 <g transform="translate(0, 0)">
@@ -19,14 +19,14 @@
         <rect x="0" y="0" width="1050" height="724" rx="26.25" ry="26.25" fill="url(#gf-0)"/>
       <g clip-path="url(#clip-0)">
         <g id="ReusableComposeNode">
-          <text x="32" y="381.99" font-size="42" font-family="Montserrat" font-weight="600" letter-spacing="0.39" fill="#FFFFFF">Desserts</text>
+          <text x="32" y="381.99" font-size="42" font-family="Montserrat" font-weight="600" letter-spacing="0.39" fill="#000000" fill-opacity="0.87">Desserts</text>
         </g>
         <clipPath id="clip-1"><rect x="577" y="0" width="724" height="724" rx="362" ry="362"/></clipPath>
         <g id="ReusableComposeNode">
-            <rect x="577" y="0" width="724" height="724" rx="362" ry="362" fill="#121212"/>
+            <rect x="577" y="0" width="724" height="724" rx="362" ry="362" fill="#FFFFFF"/>
           <g clip-path="url(#clip-1)">
             <g id="ReusableComposeNode">
-              <image href="search-category.figma-raster/109.png" x="577" y="0" width="724" height="724"/>
+              <image href="search-category.figma-raster/101.png" x="577" y="0" width="724" height="724"/>
             </g>
           </g>
         </g>

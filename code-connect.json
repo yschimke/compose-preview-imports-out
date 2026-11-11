@@ -7,7 +7,7 @@
     "ref": "25631e8f544a9a1e3f01e296eaf1b4c28428196c",
     "module": ":app"
   },
-  "generatedAt": "2026-10-28T02:49:17.128Z",
+  "generatedAt": "2026-11-11T02:46:54.480Z",
   "mappings": [
     {
       "componentId": "Screens/App shell",
@@ -153,7 +153,7 @@
           "lambdaReturnTypeFqn": null
         }
       ],
-      "figmaSvg": "https://preview.coo.ee/compose-samples-jetsnack/render/screens-profile__ideal__default__dark.svg"
+      "figmaSvg": "https://preview.coo.ee/compose-samples-jetsnack/render/screens-profile__ideal__default.svg"
     },
     {
       "componentId": "Screens/Snack detail",
@@ -435,7 +435,7 @@
           "lambdaReturnTypeFqn": "kotlin.Unit"
         }
       ],
-      "figmaSvg": "https://preview.coo.ee/compose-samples-jetsnack/render/foundations-button__ideal__default__dark.svg"
+      "figmaSvg": "https://preview.coo.ee/compose-samples-jetsnack/render/foundations-button__ideal__default.svg"
     },
     {
       "componentId": "Foundations/Card",
@@ -542,7 +542,7 @@
           "lambdaReturnTypeFqn": "kotlin.Unit"
         }
       ],
-      "figmaSvg": "https://preview.coo.ee/compose-samples-jetsnack/render/foundations-card__ideal__default__dark.svg"
+      "figmaSvg": "https://preview.coo.ee/compose-samples-jetsnack/render/foundations-card__ideal__default.svg"
     },
     {
       "componentId": "Foundations/Divider",
@@ -597,7 +597,7 @@
           "lambdaReturnTypeFqn": null
         }
       ],
-      "figmaSvg": "https://preview.coo.ee/compose-samples-jetsnack/render/foundations-divider__ideal__default__dark.svg"
+      "figmaSvg": "https://preview.coo.ee/compose-samples-jetsnack/render/foundations-divider__ideal__default.svg"
     },
     {
       "componentId": "Foundations/Icon button",
@@ -747,7 +747,7 @@
           "lambdaReturnTypeFqn": null
         }
       ],
-      "figmaSvg": "https://preview.coo.ee/compose-samples-jetsnack/render/catalog-filter__ideal__default__dark.svg"
+      "figmaSvg": "https://preview.coo.ee/compose-samples-jetsnack/render/catalog-filter__ideal__default.svg"
     },
     {
       "componentId": "Search/Category",

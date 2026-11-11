@@ -4,18 +4,18 @@
   <g id="Root">
     <g id="ReusableComposeNode">
       <g id="ReusableComposeNode">
-        <image href="chrome-destination-bar.figma-raster/310.png" x="0" y="0" width="1050" height="168"/>
+        <image href="chrome-destination-bar.figma-raster/297.png" x="0" y="0" width="1050" height="168"/>
         <g id="ReusableComposeNode">
           <g id="ReusableComposeNode">
           </g>
           <g id="ReusableComposeNode">
             <g id="ReusableComposeNode">
-              <text x="483" y="103.99" font-size="42" font-family="Montserrat" font-weight="600" letter-spacing="0.39" text-anchor="middle" fill="#FFFFFF">Delivery to 1600 Amphitheater Way</text>
+              <text x="483" y="103.99" font-size="42" font-family="Montserrat" font-weight="600" letter-spacing="0.39" text-anchor="middle" fill="#000000" fill-opacity="0.87">Delivery to 1600 Amphitheater Way</text>
             </g>
             <g id="ReusableComposeNode">
               <g id="ReusableComposeNode">
                 <g transform="translate(955 53) scale(0.06 0.06)">
-                  <path d="M480 616 L240 376 L296 320 L480 504 L664 320 L720 376 L480 616 Z" fill="#DED6FE"/>
+                  <path d="M480 616 L240 376 L296 320 L480 504 L664 320 L720 376 L480 616 Z" fill="#4B30ED"/>
                 </g>
               </g>
             </g>
@@ -26,7 +26,7 @@
       </g>
       <g id="ReusableComposeNode">
         <g transform="translate(0 168) scale(1 1)">
-          <path d="M0,1.31 L1050,1.31" fill="none" stroke="#FFFFFF" stroke-opacity="0.12" stroke-width="2.62"/>
+          <path d="M0,1.31 L1050,1.31" fill="none" stroke="#000000" stroke-opacity="0.12" stroke-width="2.62"/>
         </g>
       </g>
     </g>

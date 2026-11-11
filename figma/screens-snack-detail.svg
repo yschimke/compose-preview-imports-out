@@ -7,23 +7,23 @@
 </defs>
 <defs>
   <linearGradient id="gs-0" x1="0" y1="0" x2="1" y2="1">
-    <stop offset="0" stop-color="#57EFF5"/>
-    <stop offset="1" stop-color="#C8BBFD"/>
-  </linearGradient>
-  <linearGradient id="gs-1" x1="0" y1="0" x2="1" y2="1">
-    <stop offset="0" stop-color="#57EFF5"/>
-    <stop offset="1" stop-color="#C8BBFD"/>
-  </linearGradient>
-  <linearGradient id="gf-2" x1="0" y1="0" x2="1" y2="0">
     <stop offset="0" stop-color="#86F7FA"/>
     <stop offset="1" stop-color="#9B86FA"/>
+  </linearGradient>
+  <linearGradient id="gs-1" x1="0" y1="0" x2="1" y2="1">
+    <stop offset="0" stop-color="#86F7FA"/>
+    <stop offset="1" stop-color="#9B86FA"/>
+  </linearGradient>
+  <linearGradient id="gf-2" x1="0" y1="0" x2="1" y2="0">
+    <stop offset="0" stop-color="#7057F5"/>
+    <stop offset="1" stop-color="#001787"/>
   </linearGradient>
 </defs>
 <g transform="translate(0, 0)">
   <g id="Root">
     <clipPath id="clip-0"><rect x="0" y="0" width="1050" height="2100"/></clipPath>
     <g id="ReusableComposeNode">
-        <rect x="0" y="0" width="1050" height="2100" fill="#121212"/>
+        <rect x="0" y="0" width="1050" height="2100" fill="#FFFFFF"/>
       <g clip-path="url(#clip-0)">
         <g id="ReusableComposeNode">
           <image href="screens-snack-detail.figma-raster/131.png" x="0" y="0" width="1050" height="735"/>
@@ -40,48 +40,48 @@
               </g>
               <clipPath id="clip-2"><rect x="0" y="964" width="1050" height="2533"/></clipPath>
               <g id="ReusableComposeNode">
-                <rect x="0" y="964" width="1050" height="2533" fill="#121212"/>
+                <rect x="0" y="964" width="1050" height="2533" fill="#FFFFFF"/>
                 <g clip-path="url(#clip-2)">
                   <g id="ReusableComposeNode">
                     <g id="ReusableComposeNode">
                     </g>
                     <g id="ReusableComposeNode">
-                      <text x="63" y="1331.86" font-size="31.5" font-family="Montserrat" font-weight="600" letter-spacing="2.63" fill="#FFFFFF" fill-opacity="0.74">Details</text>
+                      <text x="63" y="1331.86" font-size="31.5" font-family="Montserrat" font-weight="600" letter-spacing="2.63" fill="#000000" fill-opacity="0.6">Details</text>
                     </g>
                     <g id="ReusableComposeNode">
                     </g>
                     <g id="ReusableComposeNode">
-                      <text font-size="42" font-family="Karla" font-weight="400" letter-spacing="0.39" fill="#FFFFFF" fill-opacity="0.74"><tspan x="63" y="1419" textLength="800" lengthAdjust="spacing">Lorem ipsum dolor sit amet, consectetur</tspan><tspan x="63" y="1493" textLength="909" lengthAdjust="spacing">adipiscing elit. Ut tempus, sem vitae convallis</tspan><tspan x="63" y="1567" textLength="805" lengthAdjust="spacing">imperdiet, lectus nunc pharetra diam, ac</tspan><tspan x="63" y="1641" textLength="846" lengthAdjust="spacing">rhoncus quam eros eu risus. Nulla pulvinar</tspan><tspan x="63" y="1715" textLength="920" lengthAdjust="spacing">condimentum erat, pulvinar tempus turpis bl…</tspan></text>
+                      <text font-size="42" font-family="Karla" font-weight="400" letter-spacing="0.39" fill="#000000" fill-opacity="0.6"><tspan x="63" y="1419" textLength="800" lengthAdjust="spacing">Lorem ipsum dolor sit amet, consectetur</tspan><tspan x="63" y="1493" textLength="909" lengthAdjust="spacing">adipiscing elit. Ut tempus, sem vitae convallis</tspan><tspan x="63" y="1567" textLength="805" lengthAdjust="spacing">imperdiet, lectus nunc pharetra diam, ac</tspan><tspan x="63" y="1641" textLength="846" lengthAdjust="spacing">rhoncus quam eros eu risus. Nulla pulvinar</tspan><tspan x="63" y="1715" textLength="920" lengthAdjust="spacing">condimentum erat, pulvinar tempus turpis bl…</tspan></text>
                     </g>
                     <g id="ReusableComposeNode">
-                      <text x="525" y="1799.17" font-size="36.75" font-family="Montserrat" font-weight="600" letter-spacing="3.28" text-anchor="middle" fill="#BBFDFD">SEE MORE</text>
-                    </g>
-                    <g id="ReusableComposeNode">
-                    </g>
-                    <g id="ReusableComposeNode">
-                      <text x="63" y="1946.86" font-size="31.5" font-family="Montserrat" font-weight="600" letter-spacing="2.63" fill="#FFFFFF" fill-opacity="0.74">Ingredients</text>
+                      <text x="525" y="1799.17" font-size="36.75" font-family="Montserrat" font-weight="600" letter-spacing="3.28" text-anchor="middle" fill="#005687">SEE MORE</text>
                     </g>
                     <g id="ReusableComposeNode">
                     </g>
                     <g id="ReusableComposeNode">
-                      <text font-size="42" font-family="Karla" font-weight="400" letter-spacing="0.39" fill="#FFFFFF" fill-opacity="0.74"><tspan x="63" y="2003" textLength="832" lengthAdjust="spacing">Vanilla, Almond Flour, Eggs, Butter, Cream,</tspan><tspan x="63" y="2077" textLength="116" lengthAdjust="spacing">Sugar</tspan></text>
+                      <text x="63" y="1946.86" font-size="31.5" font-family="Montserrat" font-weight="600" letter-spacing="2.63" fill="#000000" fill-opacity="0.6">Ingredients</text>
+                    </g>
+                    <g id="ReusableComposeNode">
+                    </g>
+                    <g id="ReusableComposeNode">
+                      <text font-size="42" font-family="Karla" font-weight="400" letter-spacing="0.39" fill="#000000" fill-opacity="0.6"><tspan x="63" y="2003" textLength="832" lengthAdjust="spacing">Vanilla, Almond Flour, Eggs, Butter, Cream,</tspan><tspan x="63" y="2077" textLength="116" lengthAdjust="spacing">Sugar</tspan></text>
                     </g>
                     <g id="ReusableComposeNode">
                     </g>
                     <g id="ReusableComposeNode">
                       <g transform="translate(0 2130) scale(1 1)">
-                        <path d="M0,1.31 L1050,1.31" fill="none" stroke="#FFFFFF" stroke-opacity="0.12" stroke-width="2.62"/>
+                        <path d="M0,1.31 L1050,1.31" fill="none" stroke="#000000" stroke-opacity="0.12" stroke-width="2.62"/>
                       </g>
                     </g>
                     <g id="ReusableComposeNode">
                       <g id="ReusableComposeNode">
                         <g id="ReusableComposeNode">
-                          <text x="63" y="2224.61" font-size="52.5" font-family="Montserrat" font-weight="600" fill="#DED6FE">Customers also bought</text>
+                          <text x="63" y="2224.61" font-size="52.5" font-family="Montserrat" font-weight="600" fill="#4B30ED">Customers also bought</text>
                         </g>
                         <g id="ReusableComposeNode">
                           <g id="ReusableComposeNode">
                             <g transform="translate(956 2176) scale(2.62 2.62)">
-                              <path d="M20 11 H7.83 l5.59 -5.59 L12 4 l-8 8 l8 8 l1.41 -1.41 L7.83 13 H20 v-2 Z" fill="#DED6FE"/>
+                              <path d="M20 11 H7.83 l5.59 -5.59 L12 4 l-8 8 l8 8 l1.41 -1.41 L7.83 13 H20 v-2 Z" fill="#4B30ED"/>
                             </g>
                           </g>
                         </g>
@@ -90,39 +90,39 @@
                       <g id="ReusableComposeNode">
                         <g clip-path="url(#clip-3)">
                           <g id="Box">
-                            <rect x="43" y="2280" width="357" height="430" rx="52.5" ry="52.5" fill="#121212"/>
+                            <rect x="43" y="2280" width="357" height="430" rx="52.5" ry="52.5" fill="#FFFFFF"/>
                             <g id="Column">
                               <g id="Empty">
-                                <text x="125" y="2682.99" font-size="42" font-family="Montserrat" font-weight="600" letter-spacing="0.39" fill="#FFFFFF">Cupcake</text>
+                                <text x="125" y="2682.99" font-size="42" font-family="Montserrat" font-weight="600" letter-spacing="0.39" fill="#000000" fill-opacity="0.87">Cupcake</text>
                               </g>
                               <g id="Box" filter="url(#shadow-3)">
-                                <rect x="64" y="2301" width="315" height="315" rx="157.5" ry="157.5" fill="#1E1E1E"/>
+                                <rect x="64" y="2301" width="315" height="315" rx="157.5" ry="157.5" fill="#FFFFFF"/>
                                 <g id="AsyncImageKt">
                                 </g>
                               </g>
                             </g>
                           </g>
                           <g id="Box">
-                            <rect x="422" y="2280" width="357" height="430" rx="52.5" ry="52.5" fill="#121212"/>
+                            <rect x="422" y="2280" width="357" height="430" rx="52.5" ry="52.5" fill="#FFFFFF"/>
                             <g id="Column">
                               <g id="Empty">
-                                <text x="530" y="2682.99" font-size="42" font-family="Montserrat" font-weight="600" letter-spacing="0.39" fill="#FFFFFF">Donut</text>
+                                <text x="530" y="2682.99" font-size="42" font-family="Montserrat" font-weight="600" letter-spacing="0.39" fill="#000000" fill-opacity="0.87">Donut</text>
                               </g>
                               <g id="Box" filter="url(#shadow-3)">
-                                <rect x="443" y="2301" width="315" height="315" rx="157.5" ry="157.5" fill="#1E1E1E"/>
+                                <rect x="443" y="2301" width="315" height="315" rx="157.5" ry="157.5" fill="#FFFFFF"/>
                                 <g id="AsyncImageKt">
                                 </g>
                               </g>
                             </g>
                           </g>
                           <g id="Box">
-                            <rect x="801" y="2280" width="357" height="430" rx="52.5" ry="52.5" fill="#121212"/>
+                            <rect x="801" y="2280" width="357" height="430" rx="52.5" ry="52.5" fill="#FFFFFF"/>
                             <g id="Column">
                               <g id="Empty">
-                                <text x="918" y="2682.99" font-size="42" font-family="Montserrat" font-weight="600" letter-spacing="0.39" fill="#FFFFFF">Eclair</text>
+                                <text x="918" y="2682.99" font-size="42" font-family="Montserrat" font-weight="600" letter-spacing="0.39" fill="#000000" fill-opacity="0.87">Eclair</text>
                               </g>
                               <g id="Box" filter="url(#shadow-3)">
-                                <rect x="822" y="2301" width="315" height="315" rx="157.5" ry="157.5" fill="#1E1E1E"/>
+                                <rect x="822" y="2301" width="315" height="315" rx="157.5" ry="157.5" fill="#FFFFFF"/>
                                 <g id="AsyncImageKt">
                                 </g>
                               </g>
@@ -134,12 +134,12 @@
                     <g id="ReusableComposeNode">
                       <g id="ReusableComposeNode">
                         <g id="ReusableComposeNode">
-                          <text x="63" y="2822.61" font-size="52.5" font-family="Montserrat" font-weight="600" fill="#DED6FE">Popular on Jetsnack</text>
+                          <text x="63" y="2822.61" font-size="52.5" font-family="Montserrat" font-weight="600" fill="#4B30ED">Popular on Jetsnack</text>
                         </g>
                         <g id="ReusableComposeNode">
                           <g id="ReusableComposeNode">
                             <g transform="translate(956 2774) scale(2.62 2.62)">
-                              <path d="M20 11 H7.83 l5.59 -5.59 L12 4 l-8 8 l8 8 l1.41 -1.41 L7.83 13 H20 v-2 Z" fill="#DED6FE"/>
+                              <path d="M20 11 H7.83 l5.59 -5.59 L12 4 l-8 8 l8 8 l1.41 -1.41 L7.83 13 H20 v-2 Z" fill="#4B30ED"/>
                             </g>
                           </g>
                         </g>
@@ -148,39 +148,39 @@
                       <g id="ReusableComposeNode">
                         <g clip-path="url(#clip-4)">
                           <g id="Box">
-                            <rect x="43" y="2878" width="357" height="430" rx="52.5" ry="52.5" fill="#121212"/>
+                            <rect x="43" y="2878" width="357" height="430" rx="52.5" ry="52.5" fill="#FFFFFF"/>
                             <g id="Column">
                               <g id="Empty">
-                                <text x="159" y="3280.99" font-size="42" font-family="Montserrat" font-weight="600" letter-spacing="0.39" fill="#FFFFFF">Chips</text>
+                                <text x="159" y="3280.99" font-size="42" font-family="Montserrat" font-weight="600" letter-spacing="0.39" fill="#000000" fill-opacity="0.87">Chips</text>
                               </g>
                               <g id="Box" filter="url(#shadow-3)">
-                                <rect x="64" y="2899" width="315" height="315" rx="157.5" ry="157.5" fill="#1E1E1E"/>
+                                <rect x="64" y="2899" width="315" height="315" rx="157.5" ry="157.5" fill="#FFFFFF"/>
                                 <g id="AsyncImageKt">
                                 </g>
                               </g>
                             </g>
                           </g>
                           <g id="Box">
-                            <rect x="422" y="2878" width="357" height="430" rx="52.5" ry="52.5" fill="#121212"/>
+                            <rect x="422" y="2878" width="357" height="430" rx="52.5" ry="52.5" fill="#FFFFFF"/>
                             <g id="Column">
                               <g id="Empty">
-                                <text x="512" y="3280.99" font-size="42" font-family="Montserrat" font-weight="600" letter-spacing="0.39" fill="#FFFFFF">Pretzels</text>
+                                <text x="512" y="3280.99" font-size="42" font-family="Montserrat" font-weight="600" letter-spacing="0.39" fill="#000000" fill-opacity="0.87">Pretzels</text>
                               </g>
                               <g id="Box" filter="url(#shadow-3)">
-                                <rect x="443" y="2899" width="315" height="315" rx="157.5" ry="157.5" fill="#1E1E1E"/>
+                                <rect x="443" y="2899" width="315" height="315" rx="157.5" ry="157.5" fill="#FFFFFF"/>
                                 <g id="AsyncImageKt">
                                 </g>
                               </g>
                             </g>
                           </g>
                           <g id="Box">
-                            <rect x="801" y="2878" width="357" height="430" rx="52.5" ry="52.5" fill="#121212"/>
+                            <rect x="801" y="2878" width="357" height="430" rx="52.5" ry="52.5" fill="#FFFFFF"/>
                             <g id="Column">
                               <g id="Empty">
-                                <text x="862" y="3280.99" font-size="42" font-family="Montserrat" font-weight="600" letter-spacing="0.39" fill="#FFFFFF">Smoothies</text>
+                                <text x="862" y="3280.99" font-size="42" font-family="Montserrat" font-weight="600" letter-spacing="0.39" fill="#000000" fill-opacity="0.87">Smoothies</text>
                               </g>
                               <g id="Box" filter="url(#shadow-3)">
-                                <rect x="822" y="2899" width="315" height="315" rx="157.5" ry="157.5" fill="#1E1E1E"/>
+                                <rect x="822" y="2899" width="315" height="315" rx="157.5" ry="157.5" fill="#FFFFFF"/>
                                 <g id="AsyncImageKt">
                                 </g>
                               </g>
@@ -198,31 +198,31 @@
           </g>
         </g>
         <g id="ReusableComposeNode">
-          <rect x="0" y="921" width="1050" height="336" fill="#121212"/>
+          <rect x="0" y="921" width="1050" height="336" fill="#FFFFFF"/>
           <g id="ReusableComposeNode">
           </g>
           <g id="ReusableComposeNode">
-            <text x="63" y="1076.73" font-size="78.75" font-family="Montserrat" font-weight="600" font-style="italic" fill="#FFFFFF">Cupcake</text>
+            <text x="63" y="1076.73" font-size="78.75" font-family="Montserrat" font-weight="600" font-style="italic" fill="#000000" fill-opacity="0.87">Cupcake</text>
           </g>
           <g id="ReusableComposeNode">
-            <text x="63" y="1146.61" font-size="52.5" font-family="Karla" font-weight="700" font-style="italic" letter-spacing="0.26" fill="#FFFFFF" fill-opacity="0.74">A tag line</text>
+            <text x="63" y="1146.61" font-size="52.5" font-family="Karla" font-weight="700" font-style="italic" letter-spacing="0.26" fill="#000000" fill-opacity="0.6">A tag line</text>
           </g>
           <g id="ReusableComposeNode">
           </g>
           <g id="ReusableComposeNode">
-            <text x="63" y="1218.61" font-size="52.5" font-family="Montserrat" font-weight="600" fill="#DED6FE">$2.99</text>
+            <text x="63" y="1218.61" font-size="52.5" font-family="Montserrat" font-weight="600" fill="#4B30ED">$2.99</text>
           </g>
           <g id="ReusableComposeNode">
           </g>
           <g id="ReusableComposeNode">
             <g transform="translate(0 1254) scale(1 1)">
-              <path d="M0,1.31 L1050,1.31" fill="none" stroke="#FFFFFF" stroke-opacity="0.12" stroke-width="2.62"/>
+              <path d="M0,1.31 L1050,1.31" fill="none" stroke="#000000" stroke-opacity="0.12" stroke-width="2.62"/>
             </g>
           </g>
         </g>
         <clipPath id="clip-5"><rect x="131" y="147" width="788" height="788" rx="394" ry="394"/></clipPath>
         <g id="ReusableComposeNode">
-            <rect x="131" y="147" width="788" height="788" rx="394" ry="394" fill="#121212"/>
+            <rect x="131" y="147" width="788" height="788" rx="394" ry="394" fill="#FFFFFF"/>
           <g clip-path="url(#clip-5)">
             <g id="ReusableComposeNode">
               <image href="screens-snack-detail.figma-raster/173.png" x="131" y="147" width="788" height="788"/>
@@ -233,26 +233,26 @@
           <rect x="27" y="11" width="126" height="126" rx="63" ry="63" fill="#121212" fill-opacity="0.32"/>
           <g id="ReusableComposeNode">
             <g transform="translate(59 43) scale(2.62 2.62)">
-              <path d="M20 11 H7.83 l5.59 -5.59 L12 4 l-8 8 l8 8 l1.41 -1.41 L7.83 13 H20 v-2 Z" fill="#000000" fill-opacity="0.87"/>
+              <path d="M20 11 H7.83 l5.59 -5.59 L12 4 l-8 8 l8 8 l1.41 -1.41 L7.83 13 H20 v-2 Z" fill="#FFFFFF"/>
             </g>
           </g>
         </g>
         <g id="ReusableComposeNode">
-            <rect x="0" y="1950" width="1050" height="150" fill="#121212"/>
+            <rect x="0" y="1950" width="1050" height="150" fill="#FFFFFF"/>
           <g id="ReusableComposeNode">
             <g id="ReusableComposeNode">
               <g transform="translate(0 1950) scale(1 1)">
-                <path d="M0,1.31 L1050,1.31" fill="none" stroke="#FFFFFF" stroke-opacity="0.12" stroke-width="2.62"/>
+                <path d="M0,1.31 L1050,1.31" fill="none" stroke="#000000" stroke-opacity="0.12" stroke-width="2.62"/>
               </g>
             </g>
             <g id="ReusableComposeNode">
               <g id="ReusableComposeNode">
                 <g id="ReusableComposeNode">
-                  <text x="63" y="2046.99" font-size="42" font-family="Montserrat" font-weight="400" letter-spacing="0.39" fill="#FFFFFF">Qty</text>
+                  <text x="63" y="2046.99" font-size="42" font-family="Montserrat" font-weight="400" letter-spacing="0.39" fill="#000000" fill-opacity="0.87">Qty</text>
                 </g>
                 <clipPath id="clip-6"><rect x="187" y="1995" width="63" height="63" rx="31.5" ry="31.5"/></clipPath>
                 <g id="ReusableComposeNode">
-                    <rect x="190" y="1998" width="57" height="57" rx="28.5" ry="28.5" fill="#121212" stroke="url(#gs-0)" stroke-width="5.25"/>
+                    <rect x="190" y="1998" width="57" height="57" rx="28.5" ry="28.5" fill="#FFFFFF" stroke="url(#gs-0)" stroke-width="5.25"/>
                   <g clip-path="url(#clip-6)">
                     <g id="ReusableComposeNode">
                       <image href="screens-snack-detail.figma-raster/183.png" x="187" y="1995" width="63" height="63"/>
@@ -260,11 +260,11 @@
                   </g>
                 </g>
                 <g id="ReusableComposeNode">
-                  <text x="281" y="2046.8" font-size="47.25" font-family="Karla" font-weight="700" letter-spacing="0.26" text-anchor="middle" fill="#DED6FE">1</text>
+                  <text x="281" y="2046.8" font-size="47.25" font-family="Karla" font-weight="700" letter-spacing="0.26" text-anchor="middle" fill="#4B30ED">1</text>
                 </g>
                 <clipPath id="clip-7"><rect x="313" y="1995" width="63" height="63" rx="31.5" ry="31.5"/></clipPath>
                 <g id="ReusableComposeNode">
-                    <rect x="316" y="1998" width="57" height="57" rx="28.5" ry="28.5" fill="#121212" stroke="url(#gs-1)" stroke-width="5.25"/>
+                    <rect x="316" y="1998" width="57" height="57" rx="28.5" ry="28.5" fill="#FFFFFF" stroke="url(#gs-1)" stroke-width="5.25"/>
                   <g clip-path="url(#clip-7)">
                     <g id="ReusableComposeNode">
                       <image href="screens-snack-detail.figma-raster/188.png" x="313" y="1995" width="63" height="63"/>
@@ -277,7 +277,7 @@
               <g id="ReusableComposeNode">
                 <rect x="418" y="1974" width="569" height="105" rx="52.5" ry="52.5" fill="url(#gf-2)"/>
                 <g id="ReusableComposeNode">
-                  <text x="702" y="2038.17" font-size="36.75" font-family="Montserrat" font-weight="600" letter-spacing="3.28" text-anchor="middle" fill="#000000" fill-opacity="0.87">ADD TO CART</text>
+                  <text x="702" y="2038.17" font-size="36.75" font-family="Montserrat" font-weight="600" letter-spacing="3.28" text-anchor="middle" fill="#FFFFFF">ADD TO CART</text>
                 </g>
               </g>
             </g>
