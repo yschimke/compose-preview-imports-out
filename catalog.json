@@ -1427,6 +1427,17 @@
         },
         {
           "variant": "ideal",
+          "path": "images/list-item-leading/ideal__default__fontscale-0.85.png",
+          "state": "default",
+          "width": 1050,
+          "height": 147,
+          "props": {
+            "fontScale": "0.85"
+          },
+          "livePreview": "https://preview.coo.ee/mullvad-mullvadvpn-app/p/list-item-leading__ideal__default__fontscale-0.85"
+        },
+        {
+          "variant": "ideal",
           "path": "images/list-item-leading/ideal__default__fontscale-1.15.png",
           "state": "default",
           "width": 1050,
@@ -1479,17 +1490,6 @@
             "fontScale": "2.0"
           },
           "livePreview": "https://preview.coo.ee/mullvad-mullvadvpn-app/p/list-item-leading__ideal__default__fontscale-2.0"
-        },
-        {
-          "variant": "ideal",
-          "path": "images/list-item-leading/ideal__default__fontscale-0.85.png",
-          "state": "default",
-          "width": 1050,
-          "height": 147,
-          "props": {
-            "fontScale": "0.85"
-          },
-          "livePreview": "https://preview.coo.ee/mullvad-mullvadvpn-app/p/list-item-leading__ideal__default__fontscale-0.85"
         }
       ],
       "greenlines": [],
@@ -1618,6 +1618,17 @@
         },
         {
           "variant": "ideal",
+          "path": "images/list-item-leading-content/ideal__default__fontscale-0.85.png",
+          "state": "default",
+          "width": 1050,
+          "height": 147,
+          "props": {
+            "fontScale": "0.85"
+          },
+          "livePreview": "https://preview.coo.ee/mullvad-mullvadvpn-app/p/list-item-leading-content__ideal__default__fontscale-0.85"
+        },
+        {
+          "variant": "ideal",
           "path": "images/list-item-leading-content/ideal__default__fontscale-1.15.png",
           "state": "default",
           "width": 1050,
@@ -1670,17 +1681,6 @@
             "fontScale": "2.0"
           },
           "livePreview": "https://preview.coo.ee/mullvad-mullvadvpn-app/p/list-item-leading-content__ideal__default__fontscale-2.0"
-        },
-        {
-          "variant": "ideal",
-          "path": "images/list-item-leading-content/ideal__default__fontscale-0.85.png",
-          "state": "default",
-          "width": 1050,
-          "height": 147,
-          "props": {
-            "fontScale": "0.85"
-          },
-          "livePreview": "https://preview.coo.ee/mullvad-mullvadvpn-app/p/list-item-leading-content__ideal__default__fontscale-0.85"
         }
       ],
       "greenlines": [],
@@ -1809,6 +1809,17 @@
         },
         {
           "variant": "ideal",
+          "path": "images/list-item-trailing/ideal__default__fontscale-0.85.png",
+          "state": "default",
+          "width": 1050,
+          "height": 147,
+          "props": {
+            "fontScale": "0.85"
+          },
+          "livePreview": "https://preview.coo.ee/mullvad-mullvadvpn-app/p/list-item-trailing__ideal__default__fontscale-0.85"
+        },
+        {
+          "variant": "ideal",
           "path": "images/list-item-trailing/ideal__default__fontscale-1.15.png",
           "state": "default",
           "width": 1050,
@@ -1861,17 +1872,6 @@
             "fontScale": "2.0"
           },
           "livePreview": "https://preview.coo.ee/mullvad-mullvadvpn-app/p/list-item-trailing__ideal__default__fontscale-2.0"
-        },
-        {
-          "variant": "ideal",
-          "path": "images/list-item-trailing/ideal__default__fontscale-0.85.png",
-          "state": "default",
-          "width": 1050,
-          "height": 147,
-          "props": {
-            "fontScale": "0.85"
-          },
-          "livePreview": "https://preview.coo.ee/mullvad-mullvadvpn-app/p/list-item-trailing__ideal__default__fontscale-0.85"
         }
       ],
       "greenlines": [],
@@ -1985,6 +1985,17 @@
         },
         {
           "variant": "ideal",
+          "path": "images/list-item-hierarchy/ideal__default__fontscale-0.85.png",
+          "state": "default",
+          "width": 1050,
+          "height": 147,
+          "props": {
+            "fontScale": "0.85"
+          },
+          "livePreview": "https://preview.coo.ee/mullvad-mullvadvpn-app/p/list-item-hierarchy__ideal__default__fontscale-0.85"
+        },
+        {
+          "variant": "ideal",
           "path": "images/list-item-hierarchy/ideal__default__fontscale-1.15.png",
           "state": "default",
           "width": 1050,
@@ -2037,17 +2048,6 @@
             "fontScale": "2.0"
           },
           "livePreview": "https://preview.coo.ee/mullvad-mullvadvpn-app/p/list-item-hierarchy__ideal__default__fontscale-2.0"
-        },
-        {
-          "variant": "ideal",
-          "path": "images/list-item-hierarchy/ideal__default__fontscale-0.85.png",
-          "state": "default",
-          "width": 1050,
-          "height": 147,
-          "props": {
-            "fontScale": "0.85"
-          },
-          "livePreview": "https://preview.coo.ee/mullvad-mullvadvpn-app/p/list-item-hierarchy__ideal__default__fontscale-0.85"
         }
       ],
       "greenlines": [],
@@ -2161,6 +2161,17 @@
         },
         {
           "variant": "ideal",
+          "path": "images/list-item-positions/ideal__default__fontscale-0.85.png",
+          "state": "default",
+          "width": 1050,
+          "height": 147,
+          "props": {
+            "fontScale": "0.85"
+          },
+          "livePreview": "https://preview.coo.ee/mullvad-mullvadvpn-app/p/list-item-positions__ideal__default__fontscale-0.85"
+        },
+        {
+          "variant": "ideal",
           "path": "images/list-item-positions/ideal__default__fontscale-1.15.png",
           "state": "default",
           "width": 1050,
@@ -2213,17 +2224,6 @@
             "fontScale": "2.0"
           },
           "livePreview": "https://preview.coo.ee/mullvad-mullvadvpn-app/p/list-item-positions__ideal__default__fontscale-2.0"
-        },
-        {
-          "variant": "ideal",
-          "path": "images/list-item-positions/ideal__default__fontscale-0.85.png",
-          "state": "default",
-          "width": 1050,
-          "height": 147,
-          "props": {
-            "fontScale": "0.85"
-          },
-          "livePreview": "https://preview.coo.ee/mullvad-mullvadvpn-app/p/list-item-positions__ideal__default__fontscale-0.85"
         }
       ],
       "greenlines": [],
@@ -2443,8 +2443,8 @@
       "sourceFunction": "PreviewMullvadProgressIndicator"
     }
   ],
-  "renderer": "compose-preview 2.74.1",
-  "generatedAt": "2026-10-28T03:49:36.983Z",
+  "renderer": "compose-preview 2.89.0",
+  "generatedAt": "2026-11-11T03:41:29.543Z",
   "liveBundle": {
     "path": "bundle/",
     "file": "bundle.png"
@@ -2460,7 +2460,7 @@
   "componentsFile": "components.json",
   "source": {
     "repo": "mullvad/mullvadvpn-app",
-    "ref": "fdba2047769f6ceb8a3f5956f75cbdcb89d3e5b4",
+    "ref": "e3ed45faf2362cf67b4c91353083736390bc02ce",
     "module": ":lib:ui:designsystem"
   }
 }
