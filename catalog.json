@@ -18,17 +18,6 @@
         },
         {
           "variant": "ideal",
-          "path": "images/screens-home-feed/ideal__default__fontscale-1.5.png",
-          "state": "default",
-          "width": 1050,
-          "height": 2100,
-          "props": {
-            "fontScale": "1.5"
-          },
-          "livePreview": "https://preview.coo.ee/compose-samples-jetnews/p/screens-home-feed__ideal__default__fontscale-1.5"
-        },
-        {
-          "variant": "ideal",
           "path": "images/screens-home-feed/ideal__default__dark.png",
           "state": "default",
           "width": 1050,
@@ -40,6 +29,17 @@
             "uiMode": 32
           },
           "density": 2.625
+        },
+        {
+          "variant": "ideal",
+          "path": "images/screens-home-feed/ideal__default__fontscale-1.5.png",
+          "state": "default",
+          "width": 1050,
+          "height": 2100,
+          "props": {
+            "fontScale": "1.5"
+          },
+          "livePreview": "https://preview.coo.ee/compose-samples-jetnews/p/screens-home-feed__ideal__default__fontscale-1.5"
         },
         {
           "variant": "ideal",
@@ -59,18 +59,6 @@
         },
         {
           "variant": "ideal",
-          "path": "images/screens-home-feed/ideal__nav-rail__nexus7__fontscale-1.5.png",
-          "state": "nav rail",
-          "width": 1050,
-          "height": 2100,
-          "size": "nexus7",
-          "props": {
-            "fontScale": "1.5"
-          },
-          "livePreview": "https://preview.coo.ee/compose-samples-jetnews/p/screens-home-feed__ideal__nav-rail__nexus7__fontscale-1.5"
-        },
-        {
-          "variant": "ideal",
           "path": "images/screens-home-feed/ideal__nav-rail__dark__nexus7.png",
           "state": "nav rail",
           "width": 1050,
@@ -86,6 +74,18 @@
             "heightDp": 800
           },
           "density": 2.625
+        },
+        {
+          "variant": "ideal",
+          "path": "images/screens-home-feed/ideal__nav-rail__nexus7__fontscale-1.5.png",
+          "state": "nav rail",
+          "width": 1050,
+          "height": 2100,
+          "size": "nexus7",
+          "props": {
+            "fontScale": "1.5"
+          },
+          "livePreview": "https://preview.coo.ee/compose-samples-jetnews/p/screens-home-feed__ideal__nav-rail__nexus7__fontscale-1.5"
         }
       ],
       "greenlines": [
@@ -559,17 +559,6 @@
         },
         {
           "variant": "ideal",
-          "path": "images/screens-article/ideal__default__fontscale-1.5.png",
-          "state": "default",
-          "width": 1050,
-          "height": 2100,
-          "props": {
-            "fontScale": "1.5"
-          },
-          "livePreview": "https://preview.coo.ee/compose-samples-jetnews/p/screens-article__ideal__default__fontscale-1.5"
-        },
-        {
-          "variant": "ideal",
           "path": "images/screens-article/ideal__default__dark.png",
           "state": "default",
           "width": 1050,
@@ -581,6 +570,17 @@
             "uiMode": 32
           },
           "density": 2.625
+        },
+        {
+          "variant": "ideal",
+          "path": "images/screens-article/ideal__default__fontscale-1.5.png",
+          "state": "default",
+          "width": 1050,
+          "height": 2100,
+          "props": {
+            "fontScale": "1.5"
+          },
+          "livePreview": "https://preview.coo.ee/compose-samples-jetnews/p/screens-article__ideal__default__fontscale-1.5"
         },
         {
           "variant": "ideal",
@@ -600,18 +600,6 @@
         },
         {
           "variant": "ideal",
-          "path": "images/screens-article/ideal__nav-rail__pixelc__fontscale-1.5.png",
-          "state": "nav rail",
-          "width": 2560,
-          "height": 1800,
-          "size": "pixelC",
-          "props": {
-            "fontScale": "1.5"
-          },
-          "livePreview": "https://preview.coo.ee/compose-samples-jetnews/p/screens-article__ideal__nav-rail__pixelc__fontscale-1.5"
-        },
-        {
-          "variant": "ideal",
           "path": "images/screens-article/ideal__nav-rail__dark__pixelc.png",
           "state": "nav rail",
           "width": 2560,
@@ -627,6 +615,18 @@
             "heightDp": 900
           },
           "density": 2
+        },
+        {
+          "variant": "ideal",
+          "path": "images/screens-article/ideal__nav-rail__pixelc__fontscale-1.5.png",
+          "state": "nav rail",
+          "width": 2560,
+          "height": 1800,
+          "size": "pixelC",
+          "props": {
+            "fontScale": "1.5"
+          },
+          "livePreview": "https://preview.coo.ee/compose-samples-jetnews/p/screens-article__ideal__nav-rail__pixelc__fontscale-1.5"
         }
       ],
       "greenlines": [
@@ -960,17 +960,6 @@
         },
         {
           "variant": "ideal",
-          "path": "images/screens-interests/ideal__default__fontscale-1.5.png",
-          "state": "default",
-          "width": 1050,
-          "height": 2100,
-          "props": {
-            "fontScale": "1.5"
-          },
-          "livePreview": "https://preview.coo.ee/compose-samples-jetnews/p/screens-interests__ideal__default__fontscale-1.5"
-        },
-        {
-          "variant": "ideal",
           "path": "images/screens-interests/ideal__default__dark.png",
           "state": "default",
           "width": 1050,
@@ -982,6 +971,17 @@
             "uiMode": 32
           },
           "density": 2.625
+        },
+        {
+          "variant": "ideal",
+          "path": "images/screens-interests/ideal__default__fontscale-1.5.png",
+          "state": "default",
+          "width": 1050,
+          "height": 2100,
+          "props": {
+            "fontScale": "1.5"
+          },
+          "livePreview": "https://preview.coo.ee/compose-samples-jetnews/p/screens-interests__ideal__default__fontscale-1.5"
         },
         {
           "variant": "ideal",
@@ -1001,18 +1001,6 @@
         },
         {
           "variant": "ideal",
-          "path": "images/screens-interests/ideal__nav-rail__pixelc__fontscale-1.5.png",
-          "state": "nav rail",
-          "width": 2560,
-          "height": 1800,
-          "size": "pixelC",
-          "props": {
-            "fontScale": "1.5"
-          },
-          "livePreview": "https://preview.coo.ee/compose-samples-jetnews/p/screens-interests__ideal__nav-rail__pixelc__fontscale-1.5"
-        },
-        {
-          "variant": "ideal",
           "path": "images/screens-interests/ideal__nav-rail__dark__pixelc.png",
           "state": "nav rail",
           "width": 2560,
@@ -1028,6 +1016,18 @@
             "heightDp": 900
           },
           "density": 2
+        },
+        {
+          "variant": "ideal",
+          "path": "images/screens-interests/ideal__nav-rail__pixelc__fontscale-1.5.png",
+          "state": "nav rail",
+          "width": 2560,
+          "height": 1800,
+          "size": "pixelC",
+          "props": {
+            "fontScale": "1.5"
+          },
+          "livePreview": "https://preview.coo.ee/compose-samples-jetnews/p/screens-interests__ideal__nav-rail__pixelc__fontscale-1.5"
         }
       ],
       "greenlines": [
@@ -2182,33 +2182,14 @@
         },
         {
           "variant": "ideal",
-          "path": "images/postcard-top/ideal__complete__dark.png",
+          "path": "images/postcard-top/ideal__complete__fontscale-0.5.png",
           "state": "complete",
           "width": 1050,
-          "height": 874,
-          "theme": "dark",
-          "livePreview": "https://preview.coo.ee/compose-samples-jetnews/p/postcard-top__ideal__complete__dark",
-          "previewId": "com.example.jetnews.ui.home.PostCardTopKt.PostCardTopPreviews_dark_theme",
-          "previewParams": {
-            "uiMode": 32
+          "height": 716,
+          "props": {
+            "fontScale": "0.5"
           },
-          "density": 2.625
-        },
-        {
-          "variant": "ideal",
-          "path": "images/postcard-top/ideal__complete__foldable.png",
-          "state": "complete",
-          "width": 2019,
-          "height": 2523,
-          "size": "foldable",
-          "livePreview": "https://preview.coo.ee/compose-samples-jetnews/p/postcard-top__ideal__complete__foldable",
-          "previewId": "com.example.jetnews.ui.home.PostCardTopKt.PostCardTopPreviews_foldable",
-          "previewParams": {
-            "device": "spec:width=673dp,height=841dp,dpi=480",
-            "widthDp": 673,
-            "heightDp": 841
-          },
-          "density": 3
+          "livePreview": "https://preview.coo.ee/compose-samples-jetnews/p/postcard-top__ideal__complete__fontscale-0.5"
         },
         {
           "variant": "ideal",
@@ -2239,14 +2220,19 @@
         },
         {
           "variant": "ideal",
-          "path": "images/postcard-top/ideal__complete__fontscale-0.5.png",
+          "path": "images/postcard-top/ideal__complete__foldable.png",
           "state": "complete",
-          "width": 1050,
-          "height": 716,
-          "props": {
-            "fontScale": "0.5"
+          "width": 2019,
+          "height": 2523,
+          "size": "foldable",
+          "livePreview": "https://preview.coo.ee/compose-samples-jetnews/p/postcard-top__ideal__complete__foldable",
+          "previewId": "com.example.jetnews.ui.home.PostCardTopKt.PostCardTopPreviews_foldable",
+          "previewParams": {
+            "device": "spec:width=673dp,height=841dp,dpi=480",
+            "widthDp": 673,
+            "heightDp": 841
           },
-          "livePreview": "https://preview.coo.ee/compose-samples-jetnews/p/postcard-top__ideal__complete__fontscale-0.5"
+          "density": 3
         },
         {
           "variant": "ideal",
@@ -2263,6 +2249,20 @@
             "heightDp": 800
           },
           "density": 3
+        },
+        {
+          "variant": "ideal",
+          "path": "images/postcard-top/ideal__complete__dark.png",
+          "state": "complete",
+          "width": 1050,
+          "height": 874,
+          "theme": "dark",
+          "livePreview": "https://preview.coo.ee/compose-samples-jetnews/p/postcard-top__ideal__complete__dark",
+          "previewId": "com.example.jetnews.ui.home.PostCardTopKt.PostCardTopPreviews_dark_theme",
+          "previewParams": {
+            "uiMode": 32
+          },
+          "density": 2.625
         }
       ],
       "greenlines": [],
@@ -2505,6 +2505,16 @@
       "images": [
         {
           "variant": "ideal",
+          "path": "images/postcard-popular/ideal__default.png",
+          "state": "default",
+          "width": 735,
+          "height": 2100,
+          "livePreview": "https://preview.coo.ee/compose-samples-jetnews/p/postcard-popular__ideal__default",
+          "previewId": "com.example.jetnews.ui.home.PostCardYourNetworkKt.PreviewPostCardPopular_Regular_colors",
+          "density": 2.625
+        },
+        {
+          "variant": "ideal",
           "path": "images/postcard-popular/ideal__default__dark.png",
           "state": "default",
           "width": 735,
@@ -2515,16 +2525,6 @@
           "previewParams": {
             "uiMode": 32
           },
-          "density": 2.625
-        },
-        {
-          "variant": "ideal",
-          "path": "images/postcard-popular/ideal__default.png",
-          "state": "default",
-          "width": 735,
-          "height": 2100,
-          "livePreview": "https://preview.coo.ee/compose-samples-jetnews/p/postcard-popular__ideal__default",
-          "previewId": "com.example.jetnews.ui.home.PostCardYourNetworkKt.PreviewPostCardPopular_Regular_colors",
           "density": 2.625
         },
         {
@@ -4294,8 +4294,8 @@
   "library": [
     "androidx.compose.material3:material3"
   ],
-  "renderer": "compose-preview 2.74.1",
-  "generatedAt": "2026-10-28T02:48:36.415Z",
+  "renderer": "compose-preview 2.89.0",
+  "generatedAt": "2026-11-11T02:44:00.513Z",
   "display": {
     "surface": "light",
     "hero": "Screens/Home feed"
