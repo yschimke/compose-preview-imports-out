@@ -181,7 +181,7 @@
           "path": "images/key-figures-row/ideal__default.png",
           "state": "default",
           "width": 1050,
-          "height": 204,
+          "height": 429,
           "livePreview": "https://preview.coo.ee/joreilly-climatetracekmp/p/key-figures-row__ideal__default",
           "previewId": "dev.johnoreilly.climatetrace.ui.ClimateTracePreviewsKt.KeyFiguresRowPreview",
           "density": 2.625,
@@ -194,16 +194,7 @@
           "bounds": {
             "x": 0,
             "y": 0,
-            "width": 246,
-            "height": 204
-          },
-          "cornerRadius": 12
-        },
-        {
-          "bounds": {
-            "x": 267,
-            "y": 0,
-            "width": 247,
+            "width": 514,
             "height": 204
           },
           "cornerRadius": 12
@@ -212,16 +203,25 @@
           "bounds": {
             "x": 535,
             "y": 0,
-            "width": 247,
+            "width": 515,
             "height": 204
           },
           "cornerRadius": 12
         },
         {
           "bounds": {
-            "x": 803,
-            "y": 0,
-            "width": 247,
+            "x": 0,
+            "y": 225,
+            "width": 514,
+            "height": 204
+          },
+          "cornerRadius": 12
+        },
+        {
+          "bounds": {
+            "x": 535,
+            "y": 225,
+            "width": 515,
             "height": 204
           },
           "cornerRadius": 12
@@ -244,7 +244,7 @@
           "path": "images/key-figures-row-rising/ideal__default.png",
           "state": "default",
           "width": 1050,
-          "height": 204,
+          "height": 429,
           "livePreview": "https://preview.coo.ee/joreilly-climatetracekmp/p/key-figures-row-rising__ideal__default",
           "previewId": "dev.johnoreilly.climatetrace.ui.ClimateTracePreviewsKt.KeyFiguresRowRisingPreview",
           "density": 2.625,
@@ -257,16 +257,7 @@
           "bounds": {
             "x": 0,
             "y": 0,
-            "width": 246,
-            "height": 204
-          },
-          "cornerRadius": 12
-        },
-        {
-          "bounds": {
-            "x": 267,
-            "y": 0,
-            "width": 247,
+            "width": 514,
             "height": 204
           },
           "cornerRadius": 12
@@ -275,16 +266,25 @@
           "bounds": {
             "x": 535,
             "y": 0,
-            "width": 247,
+            "width": 515,
             "height": 204
           },
           "cornerRadius": 12
         },
         {
           "bounds": {
-            "x": 803,
-            "y": 0,
-            "width": 247,
+            "x": 0,
+            "y": 225,
+            "width": 514,
+            "height": 204
+          },
+          "cornerRadius": 12
+        },
+        {
+          "bounds": {
+            "x": 535,
+            "y": 225,
+            "width": 515,
             "height": 204
           },
           "cornerRadius": 12
@@ -842,8 +842,8 @@
       "sourceFunction": "TypographySpecimenPreview"
     }
   ],
-  "renderer": "compose-preview 2.74.1",
-  "generatedAt": "2026-10-28T03:34:31.967Z",
+  "renderer": "compose-preview 2.89.0",
+  "generatedAt": "2026-11-11T03:27:00.129Z",
   "liveBundle": {
     "path": "bundle/",
     "file": "bundle.png"
@@ -859,7 +859,7 @@
   "componentsFile": "components.json",
   "source": {
     "repo": "joreilly/ClimateTraceKMP",
-    "ref": "a4b042d51c2d7c324cd3216764ab501b7ef60fbd",
+    "ref": "b13df35c503bfa0ea39bb90883b1f9377b1aa7b3",
     "module": ":composeApp"
   }
 }
