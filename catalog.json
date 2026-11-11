@@ -10,7 +10,7 @@
           "variant": "ideal",
           "path": "images/filled-button/ideal__default.png",
           "state": "default",
-          "width": 283,
+          "width": 282,
           "height": 504,
           "livePreview": "https://preview.coo.ee/bitwarden-android/p/filled-button__ideal__default",
           "previewId": "com.bitwarden.ui.platform.components.button.BitwardenFilledButtonKt.BitwardenFilledButton_preview",
@@ -29,14 +29,14 @@
             "bounds": {
               "x": 0,
               "y": 0,
-              "width": 220,
+              "width": 219,
               "height": 126
             }
           },
           "bounds": {
             "x": 0,
             "y": 0,
-            "width": 220,
+            "width": 219,
             "height": 126
           }
         },
@@ -50,14 +50,14 @@
             "bounds": {
               "x": 0,
               "y": 126,
-              "width": 283,
+              "width": 282,
               "height": 126
             }
           },
           "bounds": {
             "x": 0,
             "y": 126,
-            "width": 283,
+            "width": 282,
             "height": 126
           }
         },
@@ -71,14 +71,14 @@
             "bounds": {
               "x": 0,
               "y": 252,
-              "width": 220,
+              "width": 219,
               "height": 126
             }
           },
           "bounds": {
             "x": 0,
             "y": 252,
-            "width": 220,
+            "width": 219,
             "height": 126
           }
         },
@@ -92,14 +92,14 @@
             "bounds": {
               "x": 0,
               "y": 378,
-              "width": 283,
+              "width": 282,
               "height": 126
             }
           },
           "bounds": {
             "x": 0,
             "y": 378,
-            "width": 283,
+            "width": 282,
             "height": 126
           }
         }
@@ -109,7 +109,7 @@
           "bounds": {
             "x": 0,
             "y": 0,
-            "width": 220,
+            "width": 219,
             "height": 126
           },
           "role": "Button",
@@ -120,7 +120,7 @@
           "bounds": {
             "x": 0,
             "y": 126,
-            "width": 283,
+            "width": 282,
             "height": 126
           },
           "role": "Button",
@@ -131,7 +131,7 @@
           "bounds": {
             "x": 0,
             "y": 252,
-            "width": 220,
+            "width": 219,
             "height": 126
           },
           "role": "Button",
@@ -142,7 +142,7 @@
           "bounds": {
             "x": 0,
             "y": 378,
-            "width": 283,
+            "width": 282,
             "height": 126
           },
           "role": "Button",
@@ -216,7 +216,7 @@
           "variant": "ideal",
           "path": "images/outlined-button/ideal__default.png",
           "state": "default",
-          "width": 283,
+          "width": 282,
           "height": 504,
           "livePreview": "https://preview.coo.ee/bitwarden-android/p/outlined-button__ideal__default",
           "previewId": "com.bitwarden.ui.platform.components.button.BitwardenOutlinedButtonKt.BitwardenOutlinedButton_preview",
@@ -235,14 +235,14 @@
             "bounds": {
               "x": 0,
               "y": 0,
-              "width": 220,
+              "width": 219,
               "height": 126
             }
           },
           "bounds": {
             "x": 0,
             "y": 0,
-            "width": 220,
+            "width": 219,
             "height": 126
           }
         },
@@ -256,14 +256,14 @@
             "bounds": {
               "x": 0,
               "y": 126,
-              "width": 283,
+              "width": 282,
               "height": 126
             }
           },
           "bounds": {
             "x": 0,
             "y": 126,
-            "width": 283,
+            "width": 282,
             "height": 126
           }
         },
@@ -277,14 +277,14 @@
             "bounds": {
               "x": 0,
               "y": 252,
-              "width": 220,
+              "width": 219,
               "height": 126
             }
           },
           "bounds": {
             "x": 0,
             "y": 252,
-            "width": 220,
+            "width": 219,
             "height": 126
           }
         },
@@ -298,14 +298,14 @@
             "bounds": {
               "x": 0,
               "y": 378,
-              "width": 283,
+              "width": 282,
               "height": 126
             }
           },
           "bounds": {
             "x": 0,
             "y": 378,
-            "width": 283,
+            "width": 282,
             "height": 126
           }
         }
@@ -315,7 +315,7 @@
           "bounds": {
             "x": 0,
             "y": 0,
-            "width": 220,
+            "width": 219,
             "height": 126
           },
           "role": "Button",
@@ -326,7 +326,7 @@
           "bounds": {
             "x": 0,
             "y": 126,
-            "width": 283,
+            "width": 282,
             "height": 126
           },
           "role": "Button",
@@ -337,7 +337,7 @@
           "bounds": {
             "x": 0,
             "y": 252,
-            "width": 220,
+            "width": 219,
             "height": 126
           },
           "role": "Button",
@@ -348,7 +348,7 @@
           "bounds": {
             "x": 0,
             "y": 378,
-            "width": 283,
+            "width": 282,
             "height": 126
           },
           "role": "Button",
@@ -422,7 +422,7 @@
           "variant": "ideal",
           "path": "images/filled-error-button/ideal__default.png",
           "state": "default",
-          "width": 283,
+          "width": 282,
           "height": 504,
           "livePreview": "https://preview.coo.ee/bitwarden-android/p/filled-error-button__ideal__default",
           "previewId": "com.bitwarden.ui.platform.components.button.BitwardenFilledErrorButtonKt.BitwardenErrorButton_preview",
@@ -441,14 +441,14 @@
             "bounds": {
               "x": 0,
               "y": 0,
-              "width": 220,
+              "width": 219,
               "height": 126
             }
           },
           "bounds": {
             "x": 0,
             "y": 0,
-            "width": 220,
+            "width": 219,
             "height": 126
           }
         },
@@ -462,14 +462,14 @@
             "bounds": {
               "x": 0,
               "y": 126,
-              "width": 283,
+              "width": 282,
               "height": 126
             }
           },
           "bounds": {
             "x": 0,
             "y": 126,
-            "width": 283,
+            "width": 282,
             "height": 126
           }
         },
@@ -483,14 +483,14 @@
             "bounds": {
               "x": 0,
               "y": 252,
-              "width": 220,
+              "width": 219,
               "height": 126
             }
           },
           "bounds": {
             "x": 0,
             "y": 252,
-            "width": 220,
+            "width": 219,
             "height": 126
           }
         },
@@ -504,14 +504,14 @@
             "bounds": {
               "x": 0,
               "y": 378,
-              "width": 283,
+              "width": 282,
               "height": 126
             }
           },
           "bounds": {
             "x": 0,
             "y": 378,
-            "width": 283,
+            "width": 282,
             "height": 126
           }
         }
@@ -521,7 +521,7 @@
           "bounds": {
             "x": 0,
             "y": 0,
-            "width": 220,
+            "width": 219,
             "height": 126
           },
           "role": "Button",
@@ -532,7 +532,7 @@
           "bounds": {
             "x": 0,
             "y": 126,
-            "width": 283,
+            "width": 282,
             "height": 126
           },
           "role": "Button",
@@ -543,7 +543,7 @@
           "bounds": {
             "x": 0,
             "y": 252,
-            "width": 220,
+            "width": 219,
             "height": 126
           },
           "role": "Button",
@@ -554,7 +554,7 @@
           "bounds": {
             "x": 0,
             "y": 378,
-            "width": 283,
+            "width": 282,
             "height": 126
           },
           "role": "Button",
@@ -584,7 +584,7 @@
           "variant": "ideal",
           "path": "images/outlined-error-button/ideal__default.png",
           "state": "default",
-          "width": 283,
+          "width": 282,
           "height": 504,
           "livePreview": "https://preview.coo.ee/bitwarden-android/p/outlined-error-button__ideal__default",
           "previewId": "com.bitwarden.ui.platform.components.button.BitwardenOutlinedErrorButtonKt.BBitwardenOutlinedErrorButton_preview",
@@ -603,14 +603,14 @@
             "bounds": {
               "x": 0,
               "y": 0,
-              "width": 220,
+              "width": 219,
               "height": 126
             }
           },
           "bounds": {
             "x": 0,
             "y": 0,
-            "width": 220,
+            "width": 219,
             "height": 126
           }
         },
@@ -624,14 +624,14 @@
             "bounds": {
               "x": 0,
               "y": 126,
-              "width": 283,
+              "width": 282,
               "height": 126
             }
           },
           "bounds": {
             "x": 0,
             "y": 126,
-            "width": 283,
+            "width": 282,
             "height": 126
           }
         },
@@ -645,14 +645,14 @@
             "bounds": {
               "x": 0,
               "y": 252,
-              "width": 220,
+              "width": 219,
               "height": 126
             }
           },
           "bounds": {
             "x": 0,
             "y": 252,
-            "width": 220,
+            "width": 219,
             "height": 126
           }
         },
@@ -666,14 +666,14 @@
             "bounds": {
               "x": 0,
               "y": 378,
-              "width": 283,
+              "width": 282,
               "height": 126
             }
           },
           "bounds": {
             "x": 0,
             "y": 378,
-            "width": 283,
+            "width": 282,
             "height": 126
           }
         }
@@ -683,7 +683,7 @@
           "bounds": {
             "x": 0,
             "y": 0,
-            "width": 220,
+            "width": 219,
             "height": 126
           },
           "role": "Button",
@@ -694,7 +694,7 @@
           "bounds": {
             "x": 0,
             "y": 126,
-            "width": 283,
+            "width": 282,
             "height": 126
           },
           "role": "Button",
@@ -705,7 +705,7 @@
           "bounds": {
             "x": 0,
             "y": 252,
-            "width": 220,
+            "width": 219,
             "height": 126
           },
           "role": "Button",
@@ -716,7 +716,7 @@
           "bounds": {
             "x": 0,
             "y": 378,
-            "width": 283,
+            "width": 282,
             "height": 126
           },
           "role": "Button",
@@ -2027,9 +2027,9 @@
         },
         {
           "bounds": {
-            "x": 157,
+            "x": 159,
             "y": 80,
-            "width": 877,
+            "width": 875,
             "height": 53
           },
           "padding": {
@@ -2041,7 +2041,7 @@
         },
         {
           "bounds": {
-            "x": 645,
+            "x": 646,
             "y": 80,
             "width": 53,
             "height": 53
@@ -2054,7 +2054,7 @@
       "wireframe": "wireframes/slider.svg",
       "sourceFile": "src/main/kotlin/com/bitwarden/ui/platform/components/slider/BitwardenSlider.kt",
       "sourceModule": ":ui",
-      "bodyLine": 165,
+      "bodyLine": 178,
       "sourceDirectory": "ui",
       "sourceFunction": "BitwardenSlider_preview",
       "parameters": [
@@ -2183,14 +2183,14 @@
             "role": "button",
             "label": "content description",
             "bounds": {
-              "x": 160,
+              "x": 163,
               "y": 475,
               "width": 126,
               "height": 126
             }
           },
           "bounds": {
-            "x": 160,
+            "x": 163,
             "y": 475,
             "width": 126,
             "height": 126
@@ -2246,14 +2246,14 @@
             "role": "button",
             "label": "content description, External link",
             "bounds": {
-              "x": 160,
+              "x": 163,
               "y": 776,
               "width": 126,
               "height": 126
             }
           },
           "bounds": {
-            "x": 160,
+            "x": 163,
             "y": 776,
             "width": 126,
             "height": 126
@@ -2391,7 +2391,7 @@
         },
         {
           "bounds": {
-            "x": 160,
+            "x": 163,
             "y": 475,
             "width": 126,
             "height": 126
@@ -2449,7 +2449,7 @@
         },
         {
           "bounds": {
-            "x": 160,
+            "x": 163,
             "y": 776,
             "width": 126,
             "height": 126
@@ -2760,7 +2760,7 @@
           "path": "images/action-card-subtitle/ideal__default.png",
           "state": "default",
           "width": 1050,
-          "height": 492,
+          "height": 490,
           "livePreview": "https://preview.coo.ee/bitwarden-android/p/action-card-subtitle__ideal__default",
           "previewId": "com.bitwarden.ui.platform.components.card.BitwardenActionCardKt.BitwardenActionCardWithSubtitle_preview",
           "density": 2.625,
@@ -2771,7 +2771,7 @@
           "path": "images/action-card-subtitle/ideal__default__dark.png",
           "state": "default",
           "width": 1050,
-          "height": 492,
+          "height": 490,
           "theme": "dark",
           "livePreview": "https://preview.coo.ee/bitwarden-android/p/action-card-subtitle__ideal__default__dark",
           "previewId": "com.bitwarden.ui.platform.components.card.BitwardenActionCardKt.BitwardenActionCardWithSubtitle_preview_ui32",
@@ -2813,14 +2813,14 @@
             "label": "Action",
             "bounds": {
               "x": 42,
-              "y": 198,
+              "y": 196,
               "width": 966,
               "height": 126
             }
           },
           "bounds": {
             "x": 42,
-            "y": 198,
+            "y": 196,
             "width": 966,
             "height": 126
           }
@@ -2834,14 +2834,14 @@
             "label": "Learn More",
             "bounds": {
               "x": 42,
-              "y": 324,
+              "y": 322,
               "width": 966,
               "height": 126
             }
           },
           "bounds": {
             "x": 42,
-            "y": 324,
+            "y": 322,
             "width": 966,
             "height": 126
           }
@@ -2853,7 +2853,7 @@
             "x": 0,
             "y": 0,
             "width": 1050,
-            "height": 492
+            "height": 490
           },
           "cornerRadius": 12
         },
@@ -2861,7 +2861,7 @@
           "bounds": {
             "x": 53,
             "y": 42,
-            "width": 36,
+            "width": 39,
             "height": 52
           },
           "padding": {
@@ -2870,13 +2870,13 @@
             "end": 4,
             "bottom": 0
           },
-          "cornerRadius": 6.86
+          "cornerRadius": 7.43
         },
         {
           "bounds": {
             "x": 53,
             "y": 42,
-            "width": 36,
+            "width": 39,
             "height": 52
           },
           "label": "1 notification",
@@ -2901,7 +2901,7 @@
         {
           "bounds": {
             "x": 42,
-            "y": 198,
+            "y": 196,
             "width": 966,
             "height": 126
           },
@@ -2918,7 +2918,7 @@
         {
           "bounds": {
             "x": 42,
-            "y": 324,
+            "y": 322,
             "width": 966,
             "height": 126
           },
@@ -2987,7 +2987,7 @@
           "path": "images/action-card-subtitle-no-dismiss/ideal__default.png",
           "state": "default",
           "width": 1050,
-          "height": 265,
+          "height": 263,
           "livePreview": "https://preview.coo.ee/bitwarden-android/p/action-card-subtitle-no-dismiss__ideal__default",
           "previewId": "com.bitwarden.ui.platform.components.card.BitwardenActionCardKt.BitwardenActionCardWithSubtitleNoDismiss_preview",
           "density": 2.625,
@@ -2998,7 +2998,7 @@
           "path": "images/action-card-subtitle-no-dismiss/ideal__default__dark.png",
           "state": "default",
           "width": 1050,
-          "height": 265,
+          "height": 263,
           "theme": "dark",
           "livePreview": "https://preview.coo.ee/bitwarden-android/p/action-card-subtitle-no-dismiss__ideal__default__dark",
           "previewId": "com.bitwarden.ui.platform.components.card.BitwardenActionCardKt.BitwardenActionCardWithSubtitleNoDismiss_preview_ui32",
@@ -3019,14 +3019,14 @@
             "label": "Action",
             "bounds": {
               "x": 42,
-              "y": 97,
+              "y": 95,
               "width": 966,
               "height": 126
             }
           },
           "bounds": {
             "x": 42,
-            "y": 97,
+            "y": 95,
             "width": 966,
             "height": 126
           }
@@ -3038,14 +3038,14 @@
             "x": 0,
             "y": 0,
             "width": 1050,
-            "height": 265
+            "height": 263
           },
           "cornerRadius": 12
         },
         {
           "bounds": {
             "x": 42,
-            "y": 97,
+            "y": 95,
             "width": 966,
             "height": 126
           },
@@ -3194,7 +3194,7 @@
           "bounds": {
             "x": 53,
             "y": 42,
-            "width": 36,
+            "width": 39,
             "height": 52
           },
           "padding": {
@@ -3203,13 +3203,13 @@
             "end": 4,
             "bottom": 0
           },
-          "cornerRadius": 6.86
+          "cornerRadius": 7.43
         },
         {
           "bounds": {
             "x": 53,
             "y": 42,
-            "width": 36,
+            "width": 39,
             "height": 52
           },
           "label": "1 notification",
@@ -3303,7 +3303,7 @@
           "path": "images/action-card-small/ideal__default.png",
           "state": "default",
           "width": 1050,
-          "height": 208,
+          "height": 206,
           "livePreview": "https://preview.coo.ee/bitwarden-android/p/action-card-small__ideal__default",
           "previewId": "com.bitwarden.ui.platform.components.card.BitwardenActionCardSmallKt.ActionCardSmall_preview",
           "density": 2.625,
@@ -3321,14 +3321,14 @@
               "x": 0,
               "y": 0,
               "width": 1050,
-              "height": 208
+              "height": 206
             }
           },
           "bounds": {
             "x": 0,
             "y": 0,
             "width": 1050,
-            "height": 208
+            "height": 206
           }
         }
       ],
@@ -3338,7 +3338,7 @@
             "x": 0,
             "y": 0,
             "width": 1050,
-            "height": 208
+            "height": 206
           },
           "role": "Button",
           "cornerRadius": 12
@@ -3367,7 +3367,7 @@
           "path": "images/action-card-small-trailing/ideal__default.png",
           "state": "default",
           "width": 1050,
-          "height": 208,
+          "height": 206,
           "livePreview": "https://preview.coo.ee/bitwarden-android/p/action-card-small-trailing__ideal__default",
           "previewId": "com.bitwarden.ui.platform.components.card.BitwardenActionCardSmallKt.ActionCardSmallWithTrailingIcon_preview",
           "density": 2.625,
@@ -3385,14 +3385,14 @@
               "x": 0,
               "y": 0,
               "width": 1050,
-              "height": 208
+              "height": 206
             }
           },
           "bounds": {
             "x": 0,
             "y": 0,
             "width": 1050,
-            "height": 208
+            "height": 206
           }
         }
       ],
@@ -3402,7 +3402,7 @@
             "x": 0,
             "y": 0,
             "width": 1050,
-            "height": 208
+            "height": 206
           },
           "role": "Button",
           "cornerRadius": 12
@@ -3565,14 +3565,14 @@
             "label": "Primary button",
             "bounds": {
               "x": 84,
-              "y": 1186,
+              "y": 1185,
               "width": 882,
               "height": 126
             }
           },
           "bounds": {
             "x": 84,
-            "y": 1186,
+            "y": 1185,
             "width": 882,
             "height": 126
           }
@@ -3586,14 +3586,14 @@
             "label": "Secondary button",
             "bounds": {
               "x": 84,
-              "y": 1333,
+              "y": 1332,
               "width": 882,
               "height": 126
             }
           },
           "bounds": {
             "x": 84,
-            "y": 1333,
+            "y": 1332,
             "width": 882,
             "height": 126
           }
@@ -3603,7 +3603,7 @@
         {
           "bounds": {
             "x": 84,
-            "y": 1186,
+            "y": 1185,
             "width": 882,
             "height": 126
           },
@@ -3615,7 +3615,7 @@
         {
           "bounds": {
             "x": 84,
-            "y": 1333,
+            "y": 1332,
             "width": 882,
             "height": 126
           },
@@ -3778,14 +3778,14 @@
             "role": "button",
             "label": "Tooltip Description",
             "bounds": {
-              "x": 281,
+              "x": 290,
               "y": 32,
               "width": 126,
               "height": 126
             }
           },
           "bounds": {
-            "x": 281,
+            "x": 290,
             "y": 32,
             "width": 126,
             "height": 126
@@ -3810,7 +3810,7 @@
         },
         {
           "bounds": {
-            "x": 281,
+            "x": 290,
             "y": 32,
             "width": 126,
             "height": 126
@@ -4138,9 +4138,9 @@
         },
         {
           "bounds": {
-            "x": 868,
+            "x": 867,
             "y": 369,
-            "width": 44,
+            "width": 45,
             "height": 52
           },
           "padding": {
@@ -4149,13 +4149,13 @@
             "end": 4,
             "bottom": 0
           },
-          "cornerRadius": 8.38
+          "cornerRadius": 8.57
         },
         {
           "bounds": {
-            "x": 868,
+            "x": 867,
             "y": 369,
-            "width": 44,
+            "width": 45,
             "height": 52
           },
           "label": "3 notifications",
@@ -4362,7 +4362,7 @@
           "variant": "ideal",
           "path": "images/list-header/ideal__default.png",
           "state": "default",
-          "width": 300,
+          "width": 311,
           "height": 96,
           "livePreview": "https://preview.coo.ee/bitwarden-android/p/list-header__ideal__default",
           "previewId": "com.bitwarden.ui.platform.components.header.BitwardenListHeaderTextKt.BitwardenListHeaderText_preview",
@@ -4454,7 +4454,7 @@
           "bounds": {
             "x": 148,
             "y": 26,
-            "width": 104,
+            "width": 105,
             "height": 74
           },
           "padding": {
@@ -4568,7 +4568,7 @@
           "bounds": {
             "x": 148,
             "y": 26,
-            "width": 833,
+            "width": 819,
             "height": 74
           },
           "padding": {
@@ -4731,9 +4731,9 @@
         {
           "bounds": {
             "x": 43,
-            "y": 25,
-            "width": 447,
-            "height": 96
+            "y": 26,
+            "width": 455,
+            "height": 95
           },
           "padding": {
             "start": 4,
@@ -5030,7 +5030,7 @@
       "wireframe": "wireframes/account-action-item.svg",
       "sourceFile": "src/main/kotlin/com/bitwarden/ui/platform/components/account/BitwardenAccountActionItem.kt",
       "sourceModule": ":ui",
-      "bodyLine": 81,
+      "bodyLine": 79,
       "sourceDirectory": "ui",
       "sourceFunction": "BitwardenAccountActionItem_preview",
       "parameters": [
@@ -5452,14 +5452,14 @@
             "bounds": {
               "x": 32,
               "y": 337,
-              "width": 319,
+              "width": 323,
               "height": 105
             }
           },
           "bounds": {
             "x": 32,
             "y": 337,
-            "width": 319,
+            "width": 323,
             "height": 105
           }
         },
@@ -6162,16 +6162,16 @@
             "role": "button",
             "label": "Cancel",
             "bounds": {
-              "x": 566,
+              "x": 563,
               "y": 1344,
-              "width": 184,
+              "width": 185,
               "height": 126
             }
           },
           "bounds": {
-            "x": 566,
+            "x": 563,
             "y": 1344,
-            "width": 184,
+            "width": 185,
             "height": 126
           }
         },
@@ -6183,16 +6183,16 @@
             "role": "button",
             "label": "Okay",
             "bounds": {
-              "x": 750,
+              "x": 748,
               "y": 1344,
-              "width": 153,
+              "width": 155,
               "height": 126
             }
           },
           "bounds": {
-            "x": 750,
+            "x": 748,
             "y": 1344,
-            "width": 153,
+            "width": 155,
             "height": 126
           }
         }
@@ -6211,7 +6211,7 @@
           "bounds": {
             "x": 63,
             "y": 42,
-            "width": 196,
+            "width": 194,
             "height": 53
           },
           "label": "Select date",
@@ -6225,9 +6225,9 @@
         {
           "bounds": {
             "x": 63,
-            "y": 163,
-            "width": 486,
-            "height": 109
+            "y": 165,
+            "width": 507,
+            "height": 105
           },
           "label": "Current selection: Saturday, May 2, 2026",
           "padding": {
@@ -6257,7 +6257,7 @@
           "bounds": {
             "x": 32,
             "y": 337,
-            "width": 319,
+            "width": 323,
             "height": 105
           },
           "role": "Button",
@@ -6626,9 +6626,9 @@
         },
         {
           "bounds": {
-            "x": 566,
+            "x": 563,
             "y": 1344,
-            "width": 184,
+            "width": 185,
             "height": 126
           },
           "role": "Button",
@@ -6638,9 +6638,9 @@
         },
         {
           "bounds": {
-            "x": 750,
+            "x": 748,
             "y": 1344,
-            "width": 153,
+            "width": 155,
             "height": 126
           },
           "role": "Button",
@@ -6718,14 +6718,14 @@
             "bounds": {
               "x": 74,
               "y": 213,
-              "width": 240,
+              "width": 239,
               "height": 126
             }
           },
           "bounds": {
             "x": 74,
             "y": 213,
-            "width": 240,
+            "width": 239,
             "height": 126
           }
         },
@@ -6765,7 +6765,7 @@
           "bounds": {
             "x": 74,
             "y": 213,
-            "width": 240,
+            "width": 239,
             "height": 126
           },
           "role": "Button",
@@ -6826,7 +6826,7 @@
           "variant": "ideal",
           "path": "images/status-badge/ideal__default.png",
           "state": "default",
-          "width": 294,
+          "width": 289,
           "height": 231,
           "livePreview": "https://preview.coo.ee/bitwarden-android/p/status-badge__ideal__default",
           "previewId": "com.bitwarden.ui.platform.components.badge.BitwardenStatusBadgeKt.BitwardenStatusBadge_Preview",
@@ -6864,7 +6864,7 @@
           "bounds": {
             "x": 0,
             "y": 84,
-            "width": 184,
+            "width": 183,
             "height": 63
           },
           "cornerRadius": 12
@@ -6873,7 +6873,7 @@
           "bounds": {
             "x": 21,
             "y": 95,
-            "width": 142,
+            "width": 141,
             "height": 41
           },
           "label": "Canceled",
@@ -6888,7 +6888,7 @@
           "bounds": {
             "x": 0,
             "y": 168,
-            "width": 294,
+            "width": 289,
             "height": 63
           },
           "cornerRadius": 12
@@ -6897,7 +6897,7 @@
           "bounds": {
             "x": 21,
             "y": 179,
-            "width": 252,
+            "width": 247,
             "height": 41
           },
           "label": "Update payment",
@@ -6940,7 +6940,7 @@
           "variant": "ideal",
           "path": "images/status-badge-dark/ideal__default.png",
           "state": "default",
-          "width": 294,
+          "width": 289,
           "height": 231,
           "livePreview": "https://preview.coo.ee/bitwarden-android/p/status-badge-dark__ideal__default",
           "previewId": "com.bitwarden.ui.platform.components.badge.BitwardenStatusBadgeKt.BitwardenStatusBadge_PreviewDark",
@@ -6978,7 +6978,7 @@
           "bounds": {
             "x": 0,
             "y": 84,
-            "width": 184,
+            "width": 183,
             "height": 63
           },
           "cornerRadius": 12
@@ -6987,7 +6987,7 @@
           "bounds": {
             "x": 21,
             "y": 95,
-            "width": 142,
+            "width": 141,
             "height": 41
           },
           "label": "Canceled",
@@ -7002,7 +7002,7 @@
           "bounds": {
             "x": 0,
             "y": 168,
-            "width": 294,
+            "width": 289,
             "height": 63
           },
           "cornerRadius": 12
@@ -7011,7 +7011,7 @@
           "bounds": {
             "x": 21,
             "y": 179,
-            "width": 252,
+            "width": 247,
             "height": 41
           },
           "label": "Update payment",
@@ -7083,7 +7083,7 @@
           "bounds": {
             "x": 53,
             "y": 42,
-            "width": 47,
+            "width": 46,
             "height": 52
           },
           "padding": {
@@ -7092,13 +7092,13 @@
             "end": 4,
             "bottom": 0
           },
-          "cornerRadius": 8.95
+          "cornerRadius": 8.76
         },
         {
           "bounds": {
             "x": 53,
             "y": 42,
-            "width": 47,
+            "width": 46,
             "height": 52
           },
           "label": "0 notifications",
@@ -7113,7 +7113,7 @@
           "bounds": {
             "x": 53,
             "y": 115,
-            "width": 45,
+            "width": 46,
             "height": 52
           },
           "padding": {
@@ -7122,13 +7122,13 @@
             "end": 4,
             "bottom": 0
           },
-          "cornerRadius": 8.57
+          "cornerRadius": 8.76
         },
         {
           "bounds": {
             "x": 53,
             "y": 115,
-            "width": 45,
+            "width": 46,
             "height": 52
           },
           "label": "4 notifications",
@@ -7143,7 +7143,7 @@
           "bounds": {
             "x": 53,
             "y": 188,
-            "width": 76,
+            "width": 77,
             "height": 52
           },
           "padding": {
@@ -7158,7 +7158,7 @@
           "bounds": {
             "x": 53,
             "y": 188,
-            "width": 76,
+            "width": 77,
             "height": 52
           },
           "label": "199 notifications",
@@ -7259,16 +7259,16 @@
             "role": "button",
             "label": "Start Coach Mark Flow",
             "bounds": {
-              "x": 288,
+              "x": 285,
               "y": 263,
-              "width": 475,
+              "width": 481,
               "height": 126
             }
           },
           "bounds": {
-            "x": 288,
+            "x": 285,
             "y": 263,
-            "width": 475,
+            "width": 481,
             "height": 126
           }
         },
@@ -7311,9 +7311,9 @@
         },
         {
           "bounds": {
-            "x": 288,
+            "x": 285,
             "y": 263,
-            "width": 475,
+            "width": 481,
             "height": 126
           },
           "role": "Button",
@@ -7354,8 +7354,8 @@
           "variant": "ideal",
           "path": "images/typography/ideal__default.png",
           "state": "default",
-          "width": 945,
-          "height": 1928,
+          "width": 958,
+          "height": 1879,
           "livePreview": "https://preview.coo.ee/bitwarden-android/p/typography__ideal__default",
           "previewId": "com.bitwarden.ui.platform.theme.type.TypographyKt.BitwardenTypography_preview",
           "previewParams": {
@@ -7371,8 +7371,8 @@
           "bounds": {
             "x": 21,
             "y": 21,
-            "width": 903,
-            "height": 1886
+            "width": 916,
+            "height": 1837
           },
           "padding": {
             "start": 8,
@@ -7388,13 +7388,13 @@
       "wireframe": "wireframes/typography.svg",
       "sourceFile": "src/main/kotlin/com/bitwarden/ui/platform/theme/type/Typography.kt",
       "sourceModule": ":ui",
-      "bodyLine": 329,
+      "bodyLine": 342,
       "sourceDirectory": "ui",
       "sourceFunction": "BitwardenTypography_preview"
     }
   ],
-  "renderer": "compose-preview 2.74.1",
-  "generatedAt": "2026-10-28T02:34:53.316Z",
+  "renderer": "compose-preview 2.89.0",
+  "generatedAt": "2026-11-11T02:29:51.033Z",
   "liveBundle": {
     "path": "bundle/",
     "file": "bundle.png"
@@ -7410,7 +7410,7 @@
   "componentsFile": "components.json",
   "source": {
     "repo": "bitwarden/android",
-    "ref": "1e624ad875559ee34a740a7ff60f31ac8593c3fe",
+    "ref": "b6a3ca273d413ab489a0aba7585877f0c47ce243",
     "module": ":ui"
   }
 }

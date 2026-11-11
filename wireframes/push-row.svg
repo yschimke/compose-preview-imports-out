@@ -56,26 +56,26 @@
     <text x="45" y="344" font-family="system-ui, sans-serif" font-size="9" fill="#B0813B">#FFFFFFFF  pad ·</text>
   </g>
   <g>
-    <rect x="42" y="332" width="815" height="126" fill="none" fill-opacity="0" stroke="#3B72A8" stroke-width="1" stroke-opacity="0.5"/>
+    <rect x="42" y="332" width="814" height="126" fill="none" fill-opacity="0" stroke="#3B72A8" stroke-width="1" stroke-opacity="0.5"/>
   </g>
   <g>
-    <rect x="42" y="369" width="815" height="53" fill="none" fill-opacity="0" stroke="#A85B6B" stroke-width="1" stroke-opacity="0.5"/>
+    <rect x="42" y="369" width="814" height="53" fill="none" fill-opacity="0" stroke="#A85B6B" stroke-width="1" stroke-opacity="0.5"/>
   </g>
   <g>
-    <rect x="42" y="369" width="815" height="53" fill="none" fill-opacity="0" stroke="#4F8A4A" stroke-width="1" stroke-opacity="0.5"/>
+    <rect x="42" y="369" width="814" height="53" fill="none" fill-opacity="0" stroke="#4F8A4A" stroke-width="1" stroke-opacity="0.5"/>
   </g>
   <g>
-    <rect x="857" y="332" width="140" height="126" fill="none" fill-opacity="0" stroke="#3B72A8" stroke-width="1" stroke-opacity="0.5"/>
+    <rect x="856" y="332" width="141" height="126" fill="none" fill-opacity="0" stroke="#3B72A8" stroke-width="1" stroke-opacity="0.5"/>
   </g>
   <g>
-    <rect x="857" y="369" width="66" height="52" fill="none" fill-opacity="0" stroke="#A85B6B" stroke-width="1" stroke-opacity="0.5"/>
+    <rect x="856" y="369" width="67" height="52" fill="none" fill-opacity="0" stroke="#A85B6B" stroke-width="1" stroke-opacity="0.5"/>
   </g>
   <g>
-    <path d="M890,369 H890 A22,22 0 0 1 912,391 V399 A22,22 0 0 1 890,421 H890 A22,22 0 0 1 868,399 V391 A22,22 0 0 1 890,369 Z" fill="#C01176" fill-opacity="1" stroke="#4F8A4A" stroke-width="1.5" stroke-opacity="1"/>
-    <text x="871" y="381" font-family="system-ui, sans-serif" font-size="9" fill="#4F8A4A">#FFC01176  pad ·</text>
+    <path d="M889.5,369 H889.5 A22.5,22.5 0 0 1 912,391.5 V398.5 A22.5,22.5 0 0 1 889.5,421 H889.5 A22.5,22.5 0 0 1 867,398.5 V391.5 A22.5,22.5 0 0 1 889.5,369 Z" fill="#C01176" fill-opacity="1" stroke="#4F8A4A" stroke-width="1.5" stroke-opacity="1"/>
+    <text x="870" y="381" font-family="system-ui, sans-serif" font-size="9" fill="#4F8A4A">#FFC01176  pad ·</text>
   </g>
   <g>
-    <rect x="881" y="374" width="18" height="42" fill="none" fill-opacity="0" stroke="#7A7A33" stroke-width="1" stroke-opacity="0.5"/>
+    <rect x="880" y="374" width="19" height="42" fill="none" fill-opacity="0" stroke="#7A7A33" stroke-width="1" stroke-opacity="0.5"/>
   </g>
   <g>
     <rect x="955" y="374" width="42" height="42" fill="none" fill-opacity="0" stroke="#A85B6B" stroke-width="1" stroke-opacity="0.5"/>

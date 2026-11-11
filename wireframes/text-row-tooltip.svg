@@ -18,18 +18,18 @@
     <rect x="42" y="32" width="924" height="174" fill="none" fill-opacity="0" stroke="#3B72A8" stroke-width="1" stroke-opacity="0.5"/>
   </g>
   <g>
-    <rect x="42" y="32" width="365" height="126" fill="none" fill-opacity="0" stroke="#A85B6B" stroke-width="1" stroke-opacity="0.5"/>
+    <rect x="42" y="32" width="374" height="126" fill="none" fill-opacity="0" stroke="#A85B6B" stroke-width="1" stroke-opacity="0.5"/>
   </g>
   <g>
-    <rect x="42" y="69" width="218" height="53" fill="none" fill-opacity="0" stroke="#4F8A4A" stroke-width="1" stroke-opacity="0.5"/>
+    <rect x="42" y="69" width="227" height="53" fill="none" fill-opacity="0" stroke="#4F8A4A" stroke-width="1" stroke-opacity="0.5"/>
   </g>
   <g>
-    <path d="M344.5,43 H344.5 A52.5,52.5 0 0 1 397,95.5 V95.5 A52.5,52.5 0 0 1 344.5,148 H344.5 A52.5,52.5 0 0 1 292,95.5 V95.5 A52.5,52.5 0 0 1 344.5,43 Z" fill="none" fill-opacity="0" stroke="#4F8A4A" stroke-width="1.5" stroke-opacity="1"/>
+    <path d="M353.5,43 H353.5 A52.5,52.5 0 0 1 406,95.5 V95.5 A52.5,52.5 0 0 1 353.5,148 H353.5 A52.5,52.5 0 0 1 301,95.5 V95.5 A52.5,52.5 0 0 1 353.5,43 Z" fill="none" fill-opacity="0" stroke="#4F8A4A" stroke-width="1.5" stroke-opacity="1"/>
   </g>
   <g>
-    <rect x="324" y="73" width="42" height="45" fill="none" fill-opacity="0" stroke="#7A7A33" stroke-width="1" stroke-opacity="0.5"/>
+    <rect x="333" y="73" width="42" height="45" fill="none" fill-opacity="0" stroke="#7A7A33" stroke-width="1" stroke-opacity="0.5"/>
   </g>
   <g>
-    <rect x="42" y="158" width="444" height="48" fill="none" fill-opacity="0" stroke="#A85B6B" stroke-width="1" stroke-opacity="0.5"/>
+    <rect x="42" y="158" width="459" height="48" fill="none" fill-opacity="0" stroke="#A85B6B" stroke-width="1" stroke-opacity="0.5"/>
   </g>
 </svg>

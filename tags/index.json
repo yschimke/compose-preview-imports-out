@@ -7,7 +7,7 @@
         "bounds": {
           "x": 42,
           "y": 53,
-          "width": 97,
+          "width": 100,
           "height": 53
         },
         "space": "render-pixels"
@@ -25,7 +25,7 @@
       "SwitchTooltip": {
         "count": 2,
         "bounds": {
-          "x": 160,
+          "x": 163,
           "y": 475,
           "width": 126,
           "height": 126
@@ -38,9 +38,9 @@
         "count": 1,
         "bounds": {
           "x": 84,
-          "y": 1030,
+          "y": 1031,
           "width": 882,
-          "height": 55
+          "height": 53
         },
         "space": "render-pixels"
       },
@@ -48,7 +48,7 @@
         "count": 1,
         "bounds": {
           "x": 84,
-          "y": 1106,
+          "y": 1105,
           "width": 882,
           "height": 48
         },
@@ -58,7 +58,7 @@
         "count": 1,
         "bounds": {
           "x": 84,
-          "y": 1186,
+          "y": 1185,
           "width": 882,
           "height": 126
         },
@@ -68,7 +68,7 @@
         "count": 1,
         "bounds": {
           "x": 84,
-          "y": 1333,
+          "y": 1332,
           "width": 882,
           "height": 126
         },
@@ -79,10 +79,10 @@
       "AlertTitleText": {
         "count": 1,
         "bounds": {
-          "x": 430,
-          "y": 939,
-          "width": 190,
-          "height": 55
+          "x": 424,
+          "y": 940,
+          "width": 203,
+          "height": 53
         },
         "space": "render-pixels"
       },
@@ -90,7 +90,7 @@
         "count": 1,
         "bounds": {
           "x": 462,
-          "y": 1036,
+          "y": 1035,
           "width": 126,
           "height": 126
         },
@@ -103,7 +103,7 @@
         "bounds": {
           "x": 42,
           "y": 69,
-          "width": 218,
+          "width": 227,
           "height": 53
         },
         "space": "render-pixels"
@@ -111,7 +111,7 @@
       "TextRowTooltip": {
         "count": 1,
         "bounds": {
-          "x": 281,
+          "x": 290,
           "y": 32,
           "width": 126,
           "height": 126
@@ -125,7 +125,7 @@
         "bounds": {
           "x": 42,
           "y": 32,
-          "width": 384,
+          "width": 398,
           "height": 53
         },
         "space": "render-pixels"
@@ -157,7 +157,7 @@
         "bounds": {
           "x": 148,
           "y": 26,
-          "width": 104,
+          "width": 105,
           "height": 74
         },
         "space": "render-pixels"
@@ -189,7 +189,7 @@
         "bounds": {
           "x": 148,
           "y": 26,
-          "width": 833,
+          "width": 819,
           "height": 74
         },
         "space": "render-pixels"
@@ -242,9 +242,9 @@
         "count": 1,
         "bounds": {
           "x": 43,
-          "y": 25,
-          "width": 447,
-          "height": 96
+          "y": 26,
+          "width": 455,
+          "height": 95
         },
         "space": "render-pixels"
       }
@@ -321,7 +321,7 @@
         "bounds": {
           "x": 147,
           "y": 82,
-          "width": 75,
+          "width": 76,
           "height": 48
         },
         "space": "render-pixels"
@@ -385,10 +385,10 @@
       "AlertTitleText": {
         "count": 1,
         "bounds": {
-          "x": 430,
-          "y": 939,
-          "width": 190,
-          "height": 55
+          "x": 424,
+          "y": 940,
+          "width": 203,
+          "height": 53
         },
         "space": "render-pixels"
       },
@@ -396,7 +396,7 @@
         "count": 1,
         "bounds": {
           "x": 462,
-          "y": 1036,
+          "y": 1035,
           "width": 126,
           "height": 126
         },
@@ -417,9 +417,9 @@
       "DismissAlertButton": {
         "count": 1,
         "bounds": {
-          "x": 566,
+          "x": 563,
           "y": 1344,
-          "width": 184,
+          "width": 185,
           "height": 126
         },
         "space": "render-pixels"
@@ -427,9 +427,9 @@
       "AcceptAlertButton": {
         "count": 1,
         "bounds": {
-          "x": 750,
+          "x": 748,
           "y": 1344,
-          "width": 153,
+          "width": 155,
           "height": 126
         },
         "space": "render-pixels"
