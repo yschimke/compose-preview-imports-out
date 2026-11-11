@@ -44,6 +44,30 @@
         },
         {
           "variant": "ideal",
+          "path": "images/episode-latest/ideal__default__smallround__fontscale-0.94.png",
+          "state": "default",
+          "width": 384,
+          "height": 384,
+          "size": "smallRound",
+          "props": {
+            "fontScale": "0.94"
+          },
+          "livePreview": "https://preview.coo.ee/compose-samples-jetcaster-wear/p/episode-latest__ideal__default__smallround__fontscale-0.94"
+        },
+        {
+          "variant": "ideal",
+          "path": "images/episode-latest/ideal__default__smallround__fontscale-1.06.png",
+          "state": "default",
+          "width": 384,
+          "height": 384,
+          "size": "smallRound",
+          "props": {
+            "fontScale": "1.06"
+          },
+          "livePreview": "https://preview.coo.ee/compose-samples-jetcaster-wear/p/episode-latest__ideal__default__smallround__fontscale-1.06"
+        },
+        {
+          "variant": "ideal",
           "path": "images/episode-latest/ideal__default__smallround__fontscale-1.12.png",
           "state": "default",
           "width": 384,
@@ -77,30 +101,6 @@
             "fontScale": "1.24"
           },
           "livePreview": "https://preview.coo.ee/compose-samples-jetcaster-wear/p/episode-latest__ideal__default__smallround__fontscale-1.24"
-        },
-        {
-          "variant": "ideal",
-          "path": "images/episode-latest/ideal__default__smallround__fontscale-1.06.png",
-          "state": "default",
-          "width": 384,
-          "height": 384,
-          "size": "smallRound",
-          "props": {
-            "fontScale": "1.06"
-          },
-          "livePreview": "https://preview.coo.ee/compose-samples-jetcaster-wear/p/episode-latest__ideal__default__smallround__fontscale-1.06"
-        },
-        {
-          "variant": "ideal",
-          "path": "images/episode-latest/ideal__default__smallround__fontscale-0.94.png",
-          "state": "default",
-          "width": 384,
-          "height": 384,
-          "size": "smallRound",
-          "props": {
-            "fontScale": "0.94"
-          },
-          "livePreview": "https://preview.coo.ee/compose-samples-jetcaster-wear/p/episode-latest__ideal__default__smallround__fontscale-0.94"
         }
       ],
       "greenlines": [
@@ -290,6 +290,30 @@
         },
         {
           "variant": "ideal",
+          "path": "images/library-screen/ideal__default__smallround__fontscale-0.94.png",
+          "state": "default",
+          "width": 384,
+          "height": 384,
+          "size": "smallRound",
+          "props": {
+            "fontScale": "0.94"
+          },
+          "livePreview": "https://preview.coo.ee/compose-samples-jetcaster-wear/p/library-screen__ideal__default__smallround__fontscale-0.94"
+        },
+        {
+          "variant": "ideal",
+          "path": "images/library-screen/ideal__default__smallround__fontscale-1.06.png",
+          "state": "default",
+          "width": 384,
+          "height": 384,
+          "size": "smallRound",
+          "props": {
+            "fontScale": "1.06"
+          },
+          "livePreview": "https://preview.coo.ee/compose-samples-jetcaster-wear/p/library-screen__ideal__default__smallround__fontscale-1.06"
+        },
+        {
+          "variant": "ideal",
           "path": "images/library-screen/ideal__default__smallround__fontscale-1.12.png",
           "state": "default",
           "width": 384,
@@ -323,30 +347,6 @@
             "fontScale": "1.24"
           },
           "livePreview": "https://preview.coo.ee/compose-samples-jetcaster-wear/p/library-screen__ideal__default__smallround__fontscale-1.24"
-        },
-        {
-          "variant": "ideal",
-          "path": "images/library-screen/ideal__default__smallround__fontscale-1.06.png",
-          "state": "default",
-          "width": 384,
-          "height": 384,
-          "size": "smallRound",
-          "props": {
-            "fontScale": "1.06"
-          },
-          "livePreview": "https://preview.coo.ee/compose-samples-jetcaster-wear/p/library-screen__ideal__default__smallround__fontscale-1.06"
-        },
-        {
-          "variant": "ideal",
-          "path": "images/library-screen/ideal__default__smallround__fontscale-0.94.png",
-          "state": "default",
-          "width": 384,
-          "height": 384,
-          "size": "smallRound",
-          "props": {
-            "fontScale": "0.94"
-          },
-          "livePreview": "https://preview.coo.ee/compose-samples-jetcaster-wear/p/library-screen__ideal__default__smallround__fontscale-0.94"
         }
       ],
       "greenlines": [
@@ -557,6 +557,30 @@
         },
         {
           "variant": "ideal",
+          "path": "images/podcast-screen/ideal__default__smallround__fontscale-0.94.png",
+          "state": "default",
+          "width": 384,
+          "height": 384,
+          "size": "smallRound",
+          "props": {
+            "fontScale": "0.94"
+          },
+          "livePreview": "https://preview.coo.ee/compose-samples-jetcaster-wear/p/podcast-screen__ideal__default__smallround__fontscale-0.94"
+        },
+        {
+          "variant": "ideal",
+          "path": "images/podcast-screen/ideal__default__smallround__fontscale-1.06.png",
+          "state": "default",
+          "width": 384,
+          "height": 384,
+          "size": "smallRound",
+          "props": {
+            "fontScale": "1.06"
+          },
+          "livePreview": "https://preview.coo.ee/compose-samples-jetcaster-wear/p/podcast-screen__ideal__default__smallround__fontscale-1.06"
+        },
+        {
+          "variant": "ideal",
           "path": "images/podcast-screen/ideal__default__smallround__fontscale-1.12.png",
           "state": "default",
           "width": 384,
@@ -590,30 +614,6 @@
             "fontScale": "1.24"
           },
           "livePreview": "https://preview.coo.ee/compose-samples-jetcaster-wear/p/podcast-screen__ideal__default__smallround__fontscale-1.24"
-        },
-        {
-          "variant": "ideal",
-          "path": "images/podcast-screen/ideal__default__smallround__fontscale-1.06.png",
-          "state": "default",
-          "width": 384,
-          "height": 384,
-          "size": "smallRound",
-          "props": {
-            "fontScale": "1.06"
-          },
-          "livePreview": "https://preview.coo.ee/compose-samples-jetcaster-wear/p/podcast-screen__ideal__default__smallround__fontscale-1.06"
-        },
-        {
-          "variant": "ideal",
-          "path": "images/podcast-screen/ideal__default__smallround__fontscale-0.94.png",
-          "state": "default",
-          "width": 384,
-          "height": 384,
-          "size": "smallRound",
-          "props": {
-            "fontScale": "0.94"
-          },
-          "livePreview": "https://preview.coo.ee/compose-samples-jetcaster-wear/p/podcast-screen__ideal__default__smallround__fontscale-0.94"
         },
         {
           "variant": "ideal",
@@ -655,6 +655,30 @@
         },
         {
           "variant": "ideal",
+          "path": "images/podcast-screen/ideal__empty__smallround__fontscale-0.94.png",
+          "state": "empty",
+          "width": 384,
+          "height": 384,
+          "size": "smallRound",
+          "props": {
+            "fontScale": "0.94"
+          },
+          "livePreview": "https://preview.coo.ee/compose-samples-jetcaster-wear/p/podcast-screen__ideal__empty__smallround__fontscale-0.94"
+        },
+        {
+          "variant": "ideal",
+          "path": "images/podcast-screen/ideal__empty__smallround__fontscale-1.06.png",
+          "state": "empty",
+          "width": 384,
+          "height": 384,
+          "size": "smallRound",
+          "props": {
+            "fontScale": "1.06"
+          },
+          "livePreview": "https://preview.coo.ee/compose-samples-jetcaster-wear/p/podcast-screen__ideal__empty__smallround__fontscale-1.06"
+        },
+        {
+          "variant": "ideal",
           "path": "images/podcast-screen/ideal__empty__smallround__fontscale-1.12.png",
           "state": "empty",
           "width": 384,
@@ -688,30 +712,6 @@
             "fontScale": "1.24"
           },
           "livePreview": "https://preview.coo.ee/compose-samples-jetcaster-wear/p/podcast-screen__ideal__empty__smallround__fontscale-1.24"
-        },
-        {
-          "variant": "ideal",
-          "path": "images/podcast-screen/ideal__empty__smallround__fontscale-1.06.png",
-          "state": "empty",
-          "width": 384,
-          "height": 384,
-          "size": "smallRound",
-          "props": {
-            "fontScale": "1.06"
-          },
-          "livePreview": "https://preview.coo.ee/compose-samples-jetcaster-wear/p/podcast-screen__ideal__empty__smallround__fontscale-1.06"
-        },
-        {
-          "variant": "ideal",
-          "path": "images/podcast-screen/ideal__empty__smallround__fontscale-0.94.png",
-          "state": "empty",
-          "width": 384,
-          "height": 384,
-          "size": "smallRound",
-          "props": {
-            "fontScale": "0.94"
-          },
-          "livePreview": "https://preview.coo.ee/compose-samples-jetcaster-wear/p/podcast-screen__ideal__empty__smallround__fontscale-0.94"
         }
       ],
       "greenlines": [
@@ -857,6 +857,30 @@
         },
         {
           "variant": "ideal",
+          "path": "images/podcast-details/ideal__default__smallround__fontscale-0.94.png",
+          "state": "default",
+          "width": 384,
+          "height": 384,
+          "size": "smallRound",
+          "props": {
+            "fontScale": "0.94"
+          },
+          "livePreview": "https://preview.coo.ee/compose-samples-jetcaster-wear/p/podcast-details__ideal__default__smallround__fontscale-0.94"
+        },
+        {
+          "variant": "ideal",
+          "path": "images/podcast-details/ideal__default__smallround__fontscale-1.06.png",
+          "state": "default",
+          "width": 384,
+          "height": 384,
+          "size": "smallRound",
+          "props": {
+            "fontScale": "1.06"
+          },
+          "livePreview": "https://preview.coo.ee/compose-samples-jetcaster-wear/p/podcast-details__ideal__default__smallround__fontscale-1.06"
+        },
+        {
+          "variant": "ideal",
           "path": "images/podcast-details/ideal__default__smallround__fontscale-1.12.png",
           "state": "default",
           "width": 384,
@@ -890,30 +914,6 @@
             "fontScale": "1.24"
           },
           "livePreview": "https://preview.coo.ee/compose-samples-jetcaster-wear/p/podcast-details__ideal__default__smallround__fontscale-1.24"
-        },
-        {
-          "variant": "ideal",
-          "path": "images/podcast-details/ideal__default__smallround__fontscale-1.06.png",
-          "state": "default",
-          "width": 384,
-          "height": 384,
-          "size": "smallRound",
-          "props": {
-            "fontScale": "1.06"
-          },
-          "livePreview": "https://preview.coo.ee/compose-samples-jetcaster-wear/p/podcast-details__ideal__default__smallround__fontscale-1.06"
-        },
-        {
-          "variant": "ideal",
-          "path": "images/podcast-details/ideal__default__smallround__fontscale-0.94.png",
-          "state": "default",
-          "width": 384,
-          "height": 384,
-          "size": "smallRound",
-          "props": {
-            "fontScale": "0.94"
-          },
-          "livePreview": "https://preview.coo.ee/compose-samples-jetcaster-wear/p/podcast-details__ideal__default__smallround__fontscale-0.94"
         }
       ],
       "greenlines": [
@@ -1099,6 +1099,30 @@
         },
         {
           "variant": "ideal",
+          "path": "images/episode-screen/ideal__default__smallround__fontscale-0.94.png",
+          "state": "default",
+          "width": 384,
+          "height": 384,
+          "size": "smallRound",
+          "props": {
+            "fontScale": "0.94"
+          },
+          "livePreview": "https://preview.coo.ee/compose-samples-jetcaster-wear/p/episode-screen__ideal__default__smallround__fontscale-0.94"
+        },
+        {
+          "variant": "ideal",
+          "path": "images/episode-screen/ideal__default__smallround__fontscale-1.06.png",
+          "state": "default",
+          "width": 384,
+          "height": 384,
+          "size": "smallRound",
+          "props": {
+            "fontScale": "1.06"
+          },
+          "livePreview": "https://preview.coo.ee/compose-samples-jetcaster-wear/p/episode-screen__ideal__default__smallround__fontscale-1.06"
+        },
+        {
+          "variant": "ideal",
           "path": "images/episode-screen/ideal__default__smallround__fontscale-1.12.png",
           "state": "default",
           "width": 384,
@@ -1132,30 +1156,6 @@
             "fontScale": "1.24"
           },
           "livePreview": "https://preview.coo.ee/compose-samples-jetcaster-wear/p/episode-screen__ideal__default__smallround__fontscale-1.24"
-        },
-        {
-          "variant": "ideal",
-          "path": "images/episode-screen/ideal__default__smallround__fontscale-1.06.png",
-          "state": "default",
-          "width": 384,
-          "height": 384,
-          "size": "smallRound",
-          "props": {
-            "fontScale": "1.06"
-          },
-          "livePreview": "https://preview.coo.ee/compose-samples-jetcaster-wear/p/episode-screen__ideal__default__smallround__fontscale-1.06"
-        },
-        {
-          "variant": "ideal",
-          "path": "images/episode-screen/ideal__default__smallround__fontscale-0.94.png",
-          "state": "default",
-          "width": 384,
-          "height": 384,
-          "size": "smallRound",
-          "props": {
-            "fontScale": "0.94"
-          },
-          "livePreview": "https://preview.coo.ee/compose-samples-jetcaster-wear/p/episode-screen__ideal__default__smallround__fontscale-0.94"
         },
         {
           "variant": "ideal",
@@ -1195,6 +1195,30 @@
         },
         {
           "variant": "ideal",
+          "path": "images/episode-screen/ideal__loading__smallround__fontscale-0.94.png",
+          "state": "loading",
+          "width": 384,
+          "height": 384,
+          "size": "smallRound",
+          "props": {
+            "fontScale": "0.94"
+          },
+          "livePreview": "https://preview.coo.ee/compose-samples-jetcaster-wear/p/episode-screen__ideal__loading__smallround__fontscale-0.94"
+        },
+        {
+          "variant": "ideal",
+          "path": "images/episode-screen/ideal__loading__smallround__fontscale-1.06.png",
+          "state": "loading",
+          "width": 384,
+          "height": 384,
+          "size": "smallRound",
+          "props": {
+            "fontScale": "1.06"
+          },
+          "livePreview": "https://preview.coo.ee/compose-samples-jetcaster-wear/p/episode-screen__ideal__loading__smallround__fontscale-1.06"
+        },
+        {
+          "variant": "ideal",
           "path": "images/episode-screen/ideal__loading__smallround__fontscale-1.12.png",
           "state": "loading",
           "width": 384,
@@ -1228,30 +1252,6 @@
             "fontScale": "1.24"
           },
           "livePreview": "https://preview.coo.ee/compose-samples-jetcaster-wear/p/episode-screen__ideal__loading__smallround__fontscale-1.24"
-        },
-        {
-          "variant": "ideal",
-          "path": "images/episode-screen/ideal__loading__smallround__fontscale-1.06.png",
-          "state": "loading",
-          "width": 384,
-          "height": 384,
-          "size": "smallRound",
-          "props": {
-            "fontScale": "1.06"
-          },
-          "livePreview": "https://preview.coo.ee/compose-samples-jetcaster-wear/p/episode-screen__ideal__loading__smallround__fontscale-1.06"
-        },
-        {
-          "variant": "ideal",
-          "path": "images/episode-screen/ideal__loading__smallround__fontscale-0.94.png",
-          "state": "loading",
-          "width": 384,
-          "height": 384,
-          "size": "smallRound",
-          "props": {
-            "fontScale": "0.94"
-          },
-          "livePreview": "https://preview.coo.ee/compose-samples-jetcaster-wear/p/episode-screen__ideal__loading__smallround__fontscale-0.94"
         },
         {
           "variant": "ideal",
@@ -1293,6 +1293,30 @@
         },
         {
           "variant": "ideal",
+          "path": "images/episode-screen/ideal__empty__smallround__fontscale-0.94.png",
+          "state": "empty",
+          "width": 384,
+          "height": 384,
+          "size": "smallRound",
+          "props": {
+            "fontScale": "0.94"
+          },
+          "livePreview": "https://preview.coo.ee/compose-samples-jetcaster-wear/p/episode-screen__ideal__empty__smallround__fontscale-0.94"
+        },
+        {
+          "variant": "ideal",
+          "path": "images/episode-screen/ideal__empty__smallround__fontscale-1.06.png",
+          "state": "empty",
+          "width": 384,
+          "height": 384,
+          "size": "smallRound",
+          "props": {
+            "fontScale": "1.06"
+          },
+          "livePreview": "https://preview.coo.ee/compose-samples-jetcaster-wear/p/episode-screen__ideal__empty__smallround__fontscale-1.06"
+        },
+        {
+          "variant": "ideal",
           "path": "images/episode-screen/ideal__empty__smallround__fontscale-1.12.png",
           "state": "empty",
           "width": 384,
@@ -1326,30 +1350,6 @@
             "fontScale": "1.24"
           },
           "livePreview": "https://preview.coo.ee/compose-samples-jetcaster-wear/p/episode-screen__ideal__empty__smallround__fontscale-1.24"
-        },
-        {
-          "variant": "ideal",
-          "path": "images/episode-screen/ideal__empty__smallround__fontscale-1.06.png",
-          "state": "empty",
-          "width": 384,
-          "height": 384,
-          "size": "smallRound",
-          "props": {
-            "fontScale": "1.06"
-          },
-          "livePreview": "https://preview.coo.ee/compose-samples-jetcaster-wear/p/episode-screen__ideal__empty__smallround__fontscale-1.06"
-        },
-        {
-          "variant": "ideal",
-          "path": "images/episode-screen/ideal__empty__smallround__fontscale-0.94.png",
-          "state": "empty",
-          "width": 384,
-          "height": 384,
-          "size": "smallRound",
-          "props": {
-            "fontScale": "0.94"
-          },
-          "livePreview": "https://preview.coo.ee/compose-samples-jetcaster-wear/p/episode-screen__ideal__empty__smallround__fontscale-0.94"
         }
       ],
       "greenlines": [
@@ -1564,6 +1564,30 @@
         },
         {
           "variant": "ideal",
+          "path": "images/queue-screen/ideal__default__smallround__fontscale-0.94.png",
+          "state": "default",
+          "width": 384,
+          "height": 384,
+          "size": "smallRound",
+          "props": {
+            "fontScale": "0.94"
+          },
+          "livePreview": "https://preview.coo.ee/compose-samples-jetcaster-wear/p/queue-screen__ideal__default__smallround__fontscale-0.94"
+        },
+        {
+          "variant": "ideal",
+          "path": "images/queue-screen/ideal__default__smallround__fontscale-1.06.png",
+          "state": "default",
+          "width": 384,
+          "height": 384,
+          "size": "smallRound",
+          "props": {
+            "fontScale": "1.06"
+          },
+          "livePreview": "https://preview.coo.ee/compose-samples-jetcaster-wear/p/queue-screen__ideal__default__smallround__fontscale-1.06"
+        },
+        {
+          "variant": "ideal",
           "path": "images/queue-screen/ideal__default__smallround__fontscale-1.12.png",
           "state": "default",
           "width": 384,
@@ -1597,30 +1621,6 @@
             "fontScale": "1.24"
           },
           "livePreview": "https://preview.coo.ee/compose-samples-jetcaster-wear/p/queue-screen__ideal__default__smallround__fontscale-1.24"
-        },
-        {
-          "variant": "ideal",
-          "path": "images/queue-screen/ideal__default__smallround__fontscale-1.06.png",
-          "state": "default",
-          "width": 384,
-          "height": 384,
-          "size": "smallRound",
-          "props": {
-            "fontScale": "1.06"
-          },
-          "livePreview": "https://preview.coo.ee/compose-samples-jetcaster-wear/p/queue-screen__ideal__default__smallround__fontscale-1.06"
-        },
-        {
-          "variant": "ideal",
-          "path": "images/queue-screen/ideal__default__smallround__fontscale-0.94.png",
-          "state": "default",
-          "width": 384,
-          "height": 384,
-          "size": "smallRound",
-          "props": {
-            "fontScale": "0.94"
-          },
-          "livePreview": "https://preview.coo.ee/compose-samples-jetcaster-wear/p/queue-screen__ideal__default__smallround__fontscale-0.94"
         },
         {
           "variant": "ideal",
@@ -1662,6 +1662,30 @@
         },
         {
           "variant": "ideal",
+          "path": "images/queue-screen/ideal__empty__smallround__fontscale-0.94.png",
+          "state": "empty",
+          "width": 384,
+          "height": 384,
+          "size": "smallRound",
+          "props": {
+            "fontScale": "0.94"
+          },
+          "livePreview": "https://preview.coo.ee/compose-samples-jetcaster-wear/p/queue-screen__ideal__empty__smallround__fontscale-0.94"
+        },
+        {
+          "variant": "ideal",
+          "path": "images/queue-screen/ideal__empty__smallround__fontscale-1.06.png",
+          "state": "empty",
+          "width": 384,
+          "height": 384,
+          "size": "smallRound",
+          "props": {
+            "fontScale": "1.06"
+          },
+          "livePreview": "https://preview.coo.ee/compose-samples-jetcaster-wear/p/queue-screen__ideal__empty__smallround__fontscale-1.06"
+        },
+        {
+          "variant": "ideal",
           "path": "images/queue-screen/ideal__empty__smallround__fontscale-1.12.png",
           "state": "empty",
           "width": 384,
@@ -1695,30 +1719,6 @@
             "fontScale": "1.24"
           },
           "livePreview": "https://preview.coo.ee/compose-samples-jetcaster-wear/p/queue-screen__ideal__empty__smallround__fontscale-1.24"
-        },
-        {
-          "variant": "ideal",
-          "path": "images/queue-screen/ideal__empty__smallround__fontscale-1.06.png",
-          "state": "empty",
-          "width": 384,
-          "height": 384,
-          "size": "smallRound",
-          "props": {
-            "fontScale": "1.06"
-          },
-          "livePreview": "https://preview.coo.ee/compose-samples-jetcaster-wear/p/queue-screen__ideal__empty__smallround__fontscale-1.06"
-        },
-        {
-          "variant": "ideal",
-          "path": "images/queue-screen/ideal__empty__smallround__fontscale-0.94.png",
-          "state": "empty",
-          "width": 384,
-          "height": 384,
-          "size": "smallRound",
-          "props": {
-            "fontScale": "0.94"
-          },
-          "livePreview": "https://preview.coo.ee/compose-samples-jetcaster-wear/p/queue-screen__ideal__empty__smallround__fontscale-0.94"
         }
       ],
       "greenlines": [
@@ -1914,8 +1914,8 @@
     "androidx.wear.compose:compose-material3",
     "androidx.wear.compose:compose-foundation"
   ],
-  "renderer": "compose-preview 2.74.1",
-  "generatedAt": "2026-10-28T02:36:27.316Z",
+  "renderer": "compose-preview 2.89.0",
+  "generatedAt": "2026-11-11T02:29:55.051Z",
   "display": {
     "surface": "dark",
     "hero": "Episode/Latest"
