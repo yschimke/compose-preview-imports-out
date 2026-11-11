@@ -8,17 +8,33 @@
       "images": [
         {
           "variant": "ideal",
-          "path": "images/home-screen/ideal__default__foldable.png",
+          "path": "images/home-screen/ideal__default__smallphone.png",
           "state": "default",
-          "width": 1766,
-          "height": 2207,
-          "size": "foldable",
-          "livePreview": "https://preview.coo.ee/compose-samples-jetcaster/p/home-screen__ideal__default__foldable",
-          "previewId": "com.example.jetcaster.ui.home.HomeKt.PreviewHome_foldable",
+          "width": 1080,
+          "height": 2340,
+          "size": "smallPhone",
+          "livePreview": "https://preview.coo.ee/compose-samples-jetcaster/p/home-screen__ideal__default__smallphone",
+          "previewId": "com.example.jetcaster.ui.home.HomeKt.PreviewHome_small-phone",
           "previewParams": {
-            "device": "spec:width=673dp,height=841dp",
-            "widthDp": 673,
-            "heightDp": 841
+            "device": "id:pixel_4a",
+            "widthDp": 393,
+            "heightDp": 851
+          },
+          "density": 2.75
+        },
+        {
+          "variant": "ideal",
+          "path": "images/home-screen/ideal__default__phone.png",
+          "state": "default",
+          "width": 1078,
+          "height": 2338,
+          "size": "phone",
+          "livePreview": "https://preview.coo.ee/compose-samples-jetcaster/p/home-screen__ideal__default__phone",
+          "previewId": "com.example.jetcaster.ui.home.HomeKt.PreviewHome_phone",
+          "previewParams": {
+            "device": "spec:width=411dp,height=891dp",
+            "widthDp": 411,
+            "heightDp": 891
           },
           "density": 2.625
         },
@@ -40,35 +56,19 @@
         },
         {
           "variant": "ideal",
-          "path": "images/home-screen/ideal__default__phone.png",
+          "path": "images/home-screen/ideal__default__foldable.png",
           "state": "default",
-          "width": 1078,
-          "height": 2338,
-          "size": "phone",
-          "livePreview": "https://preview.coo.ee/compose-samples-jetcaster/p/home-screen__ideal__default__phone",
-          "previewId": "com.example.jetcaster.ui.home.HomeKt.PreviewHome_phone",
+          "width": 1766,
+          "height": 2207,
+          "size": "foldable",
+          "livePreview": "https://preview.coo.ee/compose-samples-jetcaster/p/home-screen__ideal__default__foldable",
+          "previewId": "com.example.jetcaster.ui.home.HomeKt.PreviewHome_foldable",
           "previewParams": {
-            "device": "spec:width=411dp,height=891dp",
-            "widthDp": 411,
-            "heightDp": 891
+            "device": "spec:width=673dp,height=841dp",
+            "widthDp": 673,
+            "heightDp": 841
           },
           "density": 2.625
-        },
-        {
-          "variant": "ideal",
-          "path": "images/home-screen/ideal__default__smallphone.png",
-          "state": "default",
-          "width": 1080,
-          "height": 2340,
-          "size": "smallPhone",
-          "livePreview": "https://preview.coo.ee/compose-samples-jetcaster/p/home-screen__ideal__default__smallphone",
-          "previewId": "com.example.jetcaster.ui.home.HomeKt.PreviewHome_small-phone",
-          "previewParams": {
-            "device": "id:pixel_4a",
-            "widthDp": 393,
-            "heightDp": 851
-          },
-          "density": 2.75
         },
         {
           "variant": "ideal",
@@ -95,17 +95,17 @@
           "detail": {
             "role": "checkbox",
             "bounds": {
-              "x": 53,
-              "y": 284,
-              "width": 246,
-              "height": 84
+              "x": 55,
+              "y": 297,
+              "width": 259,
+              "height": 88
             }
           },
           "bounds": {
-            "x": 53,
-            "y": 284,
-            "width": 246,
-            "height": 84
+            "x": 55,
+            "y": 297,
+            "width": 259,
+            "height": 88
           }
         },
         {
@@ -115,17 +115,17 @@
           "detail": {
             "role": "checkbox",
             "bounds": {
-              "x": 321,
-              "y": 284,
-              "width": 188,
-              "height": 84
+              "x": 336,
+              "y": 297,
+              "width": 198,
+              "height": 88
             }
           },
           "bounds": {
-            "x": 321,
-            "y": 284,
-            "width": 188,
-            "height": 84
+            "x": 336,
+            "y": 297,
+            "width": 198,
+            "height": 88
           }
         },
         {
@@ -135,17 +135,17 @@
           "detail": {
             "role": "checkbox",
             "bounds": {
-              "x": 531,
-              "y": 284,
-              "width": 242,
-              "height": 84
+              "x": 556,
+              "y": 297,
+              "width": 253,
+              "height": 88
             }
           },
           "bounds": {
-            "x": 531,
-            "y": 284,
-            "width": 242,
-            "height": 84
+            "x": 556,
+            "y": 297,
+            "width": 253,
+            "height": 88
           }
         },
         {
@@ -155,17 +155,17 @@
           "detail": {
             "role": "checkbox",
             "bounds": {
-              "x": 32,
-              "y": 442,
-              "width": 105,
-              "height": 105
+              "x": 33,
+              "y": 462,
+              "width": 110,
+              "height": 110
             }
           },
           "bounds": {
-            "x": 32,
-            "y": 442,
-            "width": 105,
-            "height": 105
+            "x": 33,
+            "y": 462,
+            "width": 110,
+            "height": 110
           }
         },
         {
@@ -175,17 +175,17 @@
           "detail": {
             "role": "checkbox",
             "bounds": {
-              "x": 390,
-              "y": 442,
-              "width": 105,
-              "height": 105
+              "x": 407,
+              "y": 462,
+              "width": 110,
+              "height": 110
             }
           },
           "bounds": {
-            "x": 390,
-            "y": 442,
-            "width": 105,
-            "height": 105
+            "x": 407,
+            "y": 462,
+            "width": 110,
+            "height": 110
           }
         },
         {
@@ -196,17 +196,17 @@
             "role": "button",
             "label": "Play",
             "bounds": {
-              "x": 84,
-              "y": 977,
-              "width": 126,
-              "height": 126
+              "x": 88,
+              "y": 1048,
+              "width": 132,
+              "height": 132
             }
           },
           "bounds": {
-            "x": 84,
-            "y": 977,
-            "width": 126,
-            "height": 126
+            "x": 88,
+            "y": 1048,
+            "width": 132,
+            "height": 132
           }
         },
         {
@@ -216,17 +216,17 @@
           "detail": {
             "role": "button",
             "bounds": {
-              "x": 1439,
-              "y": 988,
-              "width": 105,
-              "height": 105
+              "x": 737,
+              "y": 1059,
+              "width": 110,
+              "height": 110
             }
           },
           "bounds": {
-            "x": 1439,
-            "y": 988,
-            "width": 105,
-            "height": 105
+            "x": 737,
+            "y": 1059,
+            "width": 110,
+            "height": 110
           }
         },
         {
@@ -236,17 +236,17 @@
           "detail": {
             "role": "button",
             "bounds": {
-              "x": 1565,
-              "y": 988,
-              "width": 105,
-              "height": 105
+              "x": 869,
+              "y": 1059,
+              "width": 110,
+              "height": 110
             }
           },
           "bounds": {
-            "x": 1565,
-            "y": 988,
-            "width": 105,
-            "height": 105
+            "x": 869,
+            "y": 1059,
+            "width": 110,
+            "height": 110
           }
         },
         {
@@ -256,17 +256,17 @@
           "detail": {
             "role": "button",
             "bounds": {
-              "x": 32,
-              "y": 32,
-              "width": 341,
-              "height": 105
+              "x": 33,
+              "y": 33,
+              "width": 359,
+              "height": 110
             }
           },
           "bounds": {
-            "x": 32,
-            "y": 32,
-            "width": 341,
-            "height": 105
+            "x": 33,
+            "y": 33,
+            "width": 359,
+            "height": 110
           }
         },
         {
@@ -276,27 +276,27 @@
           "detail": {
             "role": "button",
             "bounds": {
-              "x": 373,
-              "y": 32,
-              "width": 371,
-              "height": 105
+              "x": 392,
+              "y": 33,
+              "width": 389,
+              "height": 110
             }
           },
           "bounds": {
-            "x": 373,
-            "y": 32,
-            "width": 371,
-            "height": 105
+            "x": 392,
+            "y": 33,
+            "width": 389,
+            "height": 110
           }
         }
       ],
       "redlines": [
         {
           "bounds": {
-            "x": 53,
-            "y": 284,
-            "width": 246,
-            "height": 84
+            "x": 55,
+            "y": 297,
+            "width": 259,
+            "height": 88
           },
           "role": "Checkbox",
           "padding": {
@@ -309,10 +309,10 @@
         },
         {
           "bounds": {
-            "x": 321,
-            "y": 284,
-            "width": 188,
-            "height": 84
+            "x": 336,
+            "y": 297,
+            "width": 198,
+            "height": 88
           },
           "role": "Checkbox",
           "padding": {
@@ -325,10 +325,10 @@
         },
         {
           "bounds": {
-            "x": 531,
-            "y": 284,
-            "width": 242,
-            "height": 84
+            "x": 556,
+            "y": 297,
+            "width": 253,
+            "height": 88
           },
           "role": "Checkbox",
           "padding": {
@@ -341,10 +341,10 @@
         },
         {
           "bounds": {
-            "x": 21,
-            "y": 431,
-            "width": 1743,
-            "height": 336
+            "x": 22,
+            "y": 451,
+            "width": 1056,
+            "height": 352
           },
           "role": "Carousel",
           "padding": {
@@ -356,29 +356,29 @@
         },
         {
           "bounds": {
-            "x": 21,
-            "y": 431,
-            "width": 336,
-            "height": 336
+            "x": 22,
+            "y": 451,
+            "width": 352,
+            "height": 352
           },
           "cornerRadius": 8
         },
         {
           "bounds": {
-            "x": 32,
-            "y": 442,
-            "width": 105,
-            "height": 105
+            "x": 33,
+            "y": 462,
+            "width": 110,
+            "height": 110
           },
           "role": "Checkbox",
           "cornerRadius": 20
         },
         {
           "bounds": {
-            "x": 63,
-            "y": 627,
-            "width": 294,
-            "height": 98
+            "x": 66,
+            "y": 657,
+            "width": 308,
+            "height": 102
           },
           "label": "Android Developers Backstage",
           "padding": {
@@ -390,29 +390,29 @@
         },
         {
           "bounds": {
-            "x": 379,
-            "y": 431,
-            "width": 336,
-            "height": 336
+            "x": 396,
+            "y": 451,
+            "width": 352,
+            "height": 352
           },
           "cornerRadius": 8
         },
         {
           "bounds": {
-            "x": 390,
-            "y": 442,
-            "width": 105,
-            "height": 105
+            "x": 407,
+            "y": 462,
+            "width": 110,
+            "height": 110
           },
           "role": "Checkbox",
           "cornerRadius": 10
         },
         {
           "bounds": {
-            "x": 421,
-            "y": 627,
-            "width": 294,
-            "height": 98
+            "x": 440,
+            "y": 657,
+            "width": 308,
+            "height": 102
           },
           "label": "Google Developers podcast",
           "padding": {
@@ -424,19 +424,19 @@
         },
         {
           "bounds": {
-            "x": 42,
-            "y": 788,
-            "width": 1680,
-            "height": 336
+            "x": 44,
+            "y": 825,
+            "width": 990,
+            "height": 377
           },
           "cornerRadius": 16
         },
         {
           "bounds": {
-            "x": 84,
-            "y": 814,
-            "width": 695,
-            "height": 52
+            "x": 88,
+            "y": 853,
+            "width": 704,
+            "height": 120
           },
           "label": "Episode 140: Lorem ipsum dolor",
           "padding": {
@@ -448,19 +448,19 @@
         },
         {
           "bounds": {
-            "x": 1533,
-            "y": 809,
-            "width": 147,
-            "height": 147
+            "x": 836,
+            "y": 847,
+            "width": 154,
+            "height": 154
           },
           "cornerRadius": 8
         },
         {
           "bounds": {
-            "x": 84,
-            "y": 977,
-            "width": 126,
-            "height": 126
+            "x": 88,
+            "y": 1048,
+            "width": 132,
+            "height": 132
           },
           "role": "Button",
           "label": "Play",
@@ -473,10 +473,10 @@
         },
         {
           "bounds": {
-            "x": 231,
-            "y": 1021,
-            "width": 1176,
-            "height": 38
+            "x": 242,
+            "y": 1094,
+            "width": 462,
+            "height": 40
           },
           "label": "Jun 2, 2020",
           "padding": {
@@ -488,30 +488,30 @@
         },
         {
           "bounds": {
-            "x": 1439,
-            "y": 988,
-            "width": 105,
-            "height": 105
+            "x": 737,
+            "y": 1059,
+            "width": 110,
+            "height": 110
           },
           "role": "Button",
           "cornerRadius": 20
         },
         {
           "bounds": {
-            "x": 1565,
-            "y": 988,
-            "width": 105,
-            "height": 105
+            "x": 869,
+            "y": 1059,
+            "width": 110,
+            "height": 110
           },
           "role": "Button",
           "cornerRadius": 20
         },
         {
           "bounds": {
-            "x": 21,
-            "y": 21,
-            "width": 734,
-            "height": 126
+            "x": 22,
+            "y": 22,
+            "width": 770,
+            "height": 132
           },
           "padding": {
             "start": 8,
@@ -523,20 +523,20 @@
         },
         {
           "bounds": {
-            "x": 32,
-            "y": 32,
-            "width": 341,
-            "height": 105
+            "x": 33,
+            "y": 33,
+            "width": 359,
+            "height": 110
           },
           "role": "Button",
           "cornerRadius": 20
         },
         {
           "bounds": {
-            "x": 95,
-            "y": 53,
-            "width": 63,
-            "height": 63
+            "x": 99,
+            "y": 55,
+            "width": 66,
+            "height": 66
           },
           "role": "Image",
           "label": "Library Tab Icon",
@@ -549,20 +549,20 @@
         },
         {
           "bounds": {
-            "x": 373,
-            "y": 32,
-            "width": 371,
-            "height": 105
+            "x": 392,
+            "y": 33,
+            "width": 389,
+            "height": 110
           },
           "role": "Button",
           "cornerRadius": 20
         },
         {
           "bounds": {
-            "x": 436,
-            "y": 53,
-            "width": 63,
-            "height": 63
+            "x": 458,
+            "y": 55,
+            "width": 66,
+            "height": 66
           },
           "role": "Image",
           "label": "Discover Tab Icon",
@@ -575,10 +575,10 @@
         },
         {
           "bounds": {
-            "x": 42,
-            "y": 21,
-            "width": 1680,
-            "height": 168
+            "x": 44,
+            "y": 22,
+            "width": 990,
+            "height": 176
           },
           "padding": {
             "start": 16,
@@ -589,10 +589,10 @@
         },
         {
           "bounds": {
-            "x": 42,
-            "y": 184,
-            "width": 1680,
-            "height": 63
+            "x": 44,
+            "y": 192,
+            "width": 990,
+            "height": 67
           },
           "padding": {
             "start": 16,
@@ -617,17 +617,33 @@
       "images": [
         {
           "variant": "ideal",
-          "path": "images/podcastdetails-screen/ideal__default__foldable.png",
+          "path": "images/podcastdetails-screen/ideal__default__smallphone.png",
           "state": "default",
-          "width": 1766,
-          "height": 2207,
-          "size": "foldable",
-          "livePreview": "https://preview.coo.ee/compose-samples-jetcaster/p/podcastdetails-screen__ideal__default__foldable",
-          "previewId": "com.example.jetcaster.ui.podcast.PodcastDetailsScreenKt.PodcastDetailsScreenPreview_foldable",
+          "width": 1080,
+          "height": 2340,
+          "size": "smallPhone",
+          "livePreview": "https://preview.coo.ee/compose-samples-jetcaster/p/podcastdetails-screen__ideal__default__smallphone",
+          "previewId": "com.example.jetcaster.ui.podcast.PodcastDetailsScreenKt.PodcastDetailsScreenPreview_small-phone",
           "previewParams": {
-            "device": "spec:width=673dp,height=841dp",
-            "widthDp": 673,
-            "heightDp": 841
+            "device": "id:pixel_4a",
+            "widthDp": 393,
+            "heightDp": 851
+          },
+          "density": 2.75
+        },
+        {
+          "variant": "ideal",
+          "path": "images/podcastdetails-screen/ideal__default__phone.png",
+          "state": "default",
+          "width": 1078,
+          "height": 2338,
+          "size": "phone",
+          "livePreview": "https://preview.coo.ee/compose-samples-jetcaster/p/podcastdetails-screen__ideal__default__phone",
+          "previewId": "com.example.jetcaster.ui.podcast.PodcastDetailsScreenKt.PodcastDetailsScreenPreview_phone",
+          "previewParams": {
+            "device": "spec:width=411dp,height=891dp",
+            "widthDp": 411,
+            "heightDp": 891
           },
           "density": 2.625
         },
@@ -649,35 +665,19 @@
         },
         {
           "variant": "ideal",
-          "path": "images/podcastdetails-screen/ideal__default__phone.png",
+          "path": "images/podcastdetails-screen/ideal__default__foldable.png",
           "state": "default",
-          "width": 1078,
-          "height": 2338,
-          "size": "phone",
-          "livePreview": "https://preview.coo.ee/compose-samples-jetcaster/p/podcastdetails-screen__ideal__default__phone",
-          "previewId": "com.example.jetcaster.ui.podcast.PodcastDetailsScreenKt.PodcastDetailsScreenPreview_phone",
+          "width": 1766,
+          "height": 2207,
+          "size": "foldable",
+          "livePreview": "https://preview.coo.ee/compose-samples-jetcaster/p/podcastdetails-screen__ideal__default__foldable",
+          "previewId": "com.example.jetcaster.ui.podcast.PodcastDetailsScreenKt.PodcastDetailsScreenPreview_foldable",
           "previewParams": {
-            "device": "spec:width=411dp,height=891dp",
-            "widthDp": 411,
-            "heightDp": 891
+            "device": "spec:width=673dp,height=841dp",
+            "widthDp": 673,
+            "heightDp": 841
           },
           "density": 2.625
-        },
-        {
-          "variant": "ideal",
-          "path": "images/podcastdetails-screen/ideal__default__smallphone.png",
-          "state": "default",
-          "width": 1080,
-          "height": 2340,
-          "size": "smallPhone",
-          "livePreview": "https://preview.coo.ee/compose-samples-jetcaster/p/podcastdetails-screen__ideal__default__smallphone",
-          "previewId": "com.example.jetcaster.ui.podcast.PodcastDetailsScreenKt.PodcastDetailsScreenPreview_small-phone",
-          "previewParams": {
-            "device": "id:pixel_4a",
-            "widthDp": 393,
-            "heightDp": 851
-          },
-          "density": 2.75
         },
         {
           "variant": "ideal",
@@ -704,17 +704,17 @@
           "detail": {
             "role": "checkbox",
             "bounds": {
-              "x": 42,
-              "y": 1263,
-              "width": 200,
-              "height": 147
+              "x": 44,
+              "y": 1465,
+              "width": 209,
+              "height": 154
             }
           },
           "bounds": {
-            "x": 42,
-            "y": 1263,
-            "width": 200,
-            "height": 147
+            "x": 44,
+            "y": 1465,
+            "width": 209,
+            "height": 154
           }
         },
         {
@@ -724,17 +724,17 @@
           "detail": {
             "role": "checkbox",
             "bounds": {
-              "x": 274,
-              "y": 1263,
-              "width": 147,
-              "height": 147
+              "x": 286,
+              "y": 1465,
+              "width": 154,
+              "height": 154
             }
           },
           "bounds": {
-            "x": 274,
-            "y": 1263,
-            "width": 147,
-            "height": 147
+            "x": 286,
+            "y": 1465,
+            "width": 154,
+            "height": 154
           }
         },
         {
@@ -745,17 +745,17 @@
             "role": "button",
             "label": "Play",
             "bounds": {
-              "x": 84,
-              "y": 1694,
-              "width": 126,
-              "height": 126
+              "x": 88,
+              "y": 1917,
+              "width": 132,
+              "height": 132
             }
           },
           "bounds": {
-            "x": 84,
-            "y": 1694,
-            "width": 126,
-            "height": 126
+            "x": 88,
+            "y": 1917,
+            "width": 132,
+            "height": 132
           }
         },
         {
@@ -765,17 +765,17 @@
           "detail": {
             "role": "button",
             "bounds": {
-              "x": 1439,
-              "y": 1705,
-              "width": 105,
-              "height": 105
+              "x": 737,
+              "y": 1928,
+              "width": 110,
+              "height": 110
             }
           },
           "bounds": {
-            "x": 1439,
-            "y": 1705,
-            "width": 105,
-            "height": 105
+            "x": 737,
+            "y": 1928,
+            "width": 110,
+            "height": 110
           }
         },
         {
@@ -785,17 +785,17 @@
           "detail": {
             "role": "button",
             "bounds": {
-              "x": 1565,
-              "y": 1705,
-              "width": 105,
-              "height": 105
+              "x": 869,
+              "y": 1928,
+              "width": 110,
+              "height": 110
             }
           },
           "bounds": {
-            "x": 1565,
-            "y": 1705,
-            "width": 105,
-            "height": 105
+            "x": 869,
+            "y": 1928,
+            "width": 110,
+            "height": 110
           }
         },
         {
@@ -806,35 +806,35 @@
             "role": "button",
             "bounds": {
               "x": 22,
-              "y": 32,
-              "width": 105,
-              "height": 105
+              "y": 33,
+              "width": 110,
+              "height": 110
             }
           },
           "bounds": {
             "x": 22,
-            "y": 32,
-            "width": 105,
-            "height": 105
+            "y": 33,
+            "width": 110,
+            "height": 110
           }
         }
       ],
       "redlines": [
         {
           "bounds": {
-            "x": 515,
-            "y": 210,
-            "width": 735,
-            "height": 735
+            "x": 154,
+            "y": 220,
+            "width": 770,
+            "height": 770
           },
           "cornerRadius": 16
         },
         {
           "bounds": {
-            "x": 42,
-            "y": 987,
-            "width": 1607,
-            "height": 139
+            "x": 44,
+            "y": 1034,
+            "width": 990,
+            "height": 288
           },
           "label": "Android Developers Backstage",
           "padding": {
@@ -846,10 +846,10 @@
         },
         {
           "bounds": {
-            "x": 42,
-            "y": 1168,
-            "width": 1680,
-            "height": 53
+            "x": 44,
+            "y": 1366,
+            "width": 990,
+            "height": 55
           },
           "padding": {
             "start": 0,
@@ -860,39 +860,39 @@
         },
         {
           "bounds": {
-            "x": 42,
-            "y": 1263,
-            "width": 200,
-            "height": 147
+            "x": 44,
+            "y": 1465,
+            "width": 209,
+            "height": 154
           },
           "role": "Checkbox",
           "cornerRadius": 60
         },
         {
           "bounds": {
-            "x": 274,
-            "y": 1263,
-            "width": 147,
-            "height": 147
+            "x": 286,
+            "y": 1465,
+            "width": 154,
+            "height": 154
           },
           "role": "Checkbox",
           "cornerRadius": 100
         },
         {
           "bounds": {
-            "x": 42,
-            "y": 1473,
-            "width": 1680,
-            "height": 368
+            "x": 44,
+            "y": 1685,
+            "width": 990,
+            "height": 386
           },
           "cornerRadius": 16
         },
         {
           "bounds": {
-            "x": 84,
-            "y": 1499,
-            "width": 628,
-            "height": 63
+            "x": 88,
+            "y": 1713,
+            "width": 654,
+            "height": 66
           },
           "label": "Episode 140: Lorem ipsum dolor",
           "padding": {
@@ -904,10 +904,10 @@
         },
         {
           "bounds": {
-            "x": 84,
-            "y": 1694,
-            "width": 126,
-            "height": 126
+            "x": 88,
+            "y": 1917,
+            "width": 132,
+            "height": 132
           },
           "role": "Button",
           "label": "Play",
@@ -920,10 +920,10 @@
         },
         {
           "bounds": {
-            "x": 231,
-            "y": 1736,
-            "width": 1176,
-            "height": 42
+            "x": 242,
+            "y": 1961,
+            "width": 462,
+            "height": 44
           },
           "label": "Jun 2, 2020",
           "padding": {
@@ -935,20 +935,20 @@
         },
         {
           "bounds": {
-            "x": 1439,
-            "y": 1705,
-            "width": 105,
-            "height": 105
+            "x": 737,
+            "y": 1928,
+            "width": 110,
+            "height": 110
           },
           "role": "Button",
           "cornerRadius": 20
         },
         {
           "bounds": {
-            "x": 1565,
-            "y": 1705,
-            "width": 105,
-            "height": 105
+            "x": 869,
+            "y": 1928,
+            "width": 110,
+            "height": 110
           },
           "role": "Button",
           "cornerRadius": 20
@@ -956,9 +956,9 @@
         {
           "bounds": {
             "x": 22,
-            "y": 32,
-            "width": 105,
-            "height": 105
+            "y": 33,
+            "width": 110,
+            "height": 110
           },
           "role": "Button",
           "cornerRadius": 20
@@ -1033,17 +1033,33 @@
       "images": [
         {
           "variant": "ideal",
-          "path": "images/player-screen/ideal__default__foldable.png",
+          "path": "images/player-screen/ideal__default__smallphone.png",
           "state": "default",
-          "width": 1766,
-          "height": 2207,
-          "size": "foldable",
-          "livePreview": "https://preview.coo.ee/compose-samples-jetcaster/p/player-screen__ideal__default__foldable",
-          "previewId": "com.example.jetcaster.ui.player.PlayerScreenKt.PlayerScreenPreview_foldable",
+          "width": 1080,
+          "height": 2340,
+          "size": "smallPhone",
+          "livePreview": "https://preview.coo.ee/compose-samples-jetcaster/p/player-screen__ideal__default__smallphone",
+          "previewId": "com.example.jetcaster.ui.player.PlayerScreenKt.PlayerScreenPreview_small-phone",
           "previewParams": {
-            "device": "spec:width=673dp,height=841dp",
-            "widthDp": 673,
-            "heightDp": 841
+            "device": "id:pixel_4a",
+            "widthDp": 393,
+            "heightDp": 851
+          },
+          "density": 2.75
+        },
+        {
+          "variant": "ideal",
+          "path": "images/player-screen/ideal__default__phone.png",
+          "state": "default",
+          "width": 1078,
+          "height": 2338,
+          "size": "phone",
+          "livePreview": "https://preview.coo.ee/compose-samples-jetcaster/p/player-screen__ideal__default__phone",
+          "previewId": "com.example.jetcaster.ui.player.PlayerScreenKt.PlayerScreenPreview_phone",
+          "previewParams": {
+            "device": "spec:width=411dp,height=891dp",
+            "widthDp": 411,
+            "heightDp": 891
           },
           "density": 2.625
         },
@@ -1065,35 +1081,19 @@
         },
         {
           "variant": "ideal",
-          "path": "images/player-screen/ideal__default__phone.png",
+          "path": "images/player-screen/ideal__default__foldable.png",
           "state": "default",
-          "width": 1078,
-          "height": 2338,
-          "size": "phone",
-          "livePreview": "https://preview.coo.ee/compose-samples-jetcaster/p/player-screen__ideal__default__phone",
-          "previewId": "com.example.jetcaster.ui.player.PlayerScreenKt.PlayerScreenPreview_phone",
+          "width": 1766,
+          "height": 2207,
+          "size": "foldable",
+          "livePreview": "https://preview.coo.ee/compose-samples-jetcaster/p/player-screen__ideal__default__foldable",
+          "previewId": "com.example.jetcaster.ui.player.PlayerScreenKt.PlayerScreenPreview_foldable",
           "previewParams": {
-            "device": "spec:width=411dp,height=891dp",
-            "widthDp": 411,
-            "heightDp": 891
+            "device": "spec:width=673dp,height=841dp",
+            "widthDp": 673,
+            "heightDp": 841
           },
           "density": 2.625
-        },
-        {
-          "variant": "ideal",
-          "path": "images/player-screen/ideal__default__smallphone.png",
-          "state": "default",
-          "width": 1080,
-          "height": 2340,
-          "size": "smallPhone",
-          "livePreview": "https://preview.coo.ee/compose-samples-jetcaster/p/player-screen__ideal__default__smallphone",
-          "previewId": "com.example.jetcaster.ui.player.PlayerScreenKt.PlayerScreenPreview_small-phone",
-          "previewParams": {
-            "device": "id:pixel_4a",
-            "widthDp": 393,
-            "heightDp": 851
-          },
-          "density": 2.75
         },
         {
           "variant": "ideal",
@@ -1120,17 +1120,17 @@
           "detail": {
             "role": "button",
             "bounds": {
-              "x": 32,
+              "x": 33,
               "y": 11,
-              "width": 105,
-              "height": 105
+              "width": 110,
+              "height": 110
             }
           },
           "bounds": {
-            "x": 32,
+            "x": 33,
             "y": 11,
-            "width": 105,
-            "height": 105
+            "width": 110,
+            "height": 110
           }
         },
         {
@@ -1140,17 +1140,17 @@
           "detail": {
             "role": "button",
             "bounds": {
-              "x": 1502,
+              "x": 803,
               "y": 11,
-              "width": 105,
-              "height": 105
+              "width": 110,
+              "height": 110
             }
           },
           "bounds": {
-            "x": 1502,
+            "x": 803,
             "y": 11,
-            "width": 105,
-            "height": 105
+            "width": 110,
+            "height": 110
           }
         },
         {
@@ -1160,17 +1160,17 @@
           "detail": {
             "role": "button",
             "bounds": {
-              "x": 1628,
+              "x": 935,
               "y": 11,
-              "width": 105,
-              "height": 105
+              "width": 110,
+              "height": 110
             }
           },
           "bounds": {
-            "x": 1628,
+            "x": 935,
             "y": 11,
-            "width": 105,
-            "height": 105
+            "width": 110,
+            "height": 110
           }
         },
         {
@@ -1180,17 +1180,17 @@
           "detail": {
             "role": "checkbox",
             "bounds": {
-              "x": 639,
-              "y": 1566,
-              "width": 488,
-              "height": 357
+              "x": 283,
+              "y": 1654,
+              "width": 512,
+              "height": 374
             }
           },
           "bounds": {
-            "x": 639,
-            "y": 1566,
-            "width": 488,
-            "height": 357
+            "x": 283,
+            "y": 1654,
+            "width": 512,
+            "height": 374
           }
         },
         {
@@ -1200,17 +1200,17 @@
           "detail": {
             "role": "button",
             "bounds": {
-              "x": 525,
-              "y": 1966,
-              "width": 147,
-              "height": 101
+              "x": 165,
+              "y": 2073,
+              "width": 154,
+              "height": 119
             }
           },
           "bounds": {
-            "x": 525,
-            "y": 1966,
-            "width": 147,
-            "height": 101
+            "x": 165,
+            "y": 2073,
+            "width": 154,
+            "height": 119
           }
         },
         {
@@ -1220,17 +1220,17 @@
           "detail": {
             "role": "button",
             "bounds": {
-              "x": 693,
-              "y": 1966,
-              "width": 179,
-              "height": 101
+              "x": 341,
+              "y": 2073,
+              "width": 187,
+              "height": 119
             }
           },
           "bounds": {
-            "x": 693,
-            "y": 1966,
-            "width": 179,
-            "height": 101
+            "x": 341,
+            "y": 2073,
+            "width": 187,
+            "height": 119
           }
         },
         {
@@ -1240,17 +1240,17 @@
           "detail": {
             "role": "button",
             "bounds": {
-              "x": 893,
-              "y": 1966,
-              "width": 179,
-              "height": 101
+              "x": 550,
+              "y": 2073,
+              "width": 187,
+              "height": 119
             }
           },
           "bounds": {
-            "x": 893,
-            "y": 1966,
-            "width": 179,
-            "height": 101
+            "x": 550,
+            "y": 2073,
+            "width": 187,
+            "height": 119
           }
         },
         {
@@ -1260,66 +1260,66 @@
           "detail": {
             "role": "button",
             "bounds": {
-              "x": 1093,
-              "y": 1966,
-              "width": 147,
-              "height": 101
+              "x": 759,
+              "y": 2073,
+              "width": 154,
+              "height": 119
             }
           },
           "bounds": {
-            "x": 1093,
-            "y": 1966,
-            "width": 147,
-            "height": 101
+            "x": 759,
+            "y": 2073,
+            "width": 154,
+            "height": 119
           }
         }
       ],
       "redlines": [
         {
           "bounds": {
-            "x": 32,
+            "x": 33,
             "y": 11,
-            "width": 105,
-            "height": 105
+            "width": 110,
+            "height": 110
           },
           "role": "Button",
           "cornerRadius": 20
         },
         {
           "bounds": {
-            "x": 1502,
+            "x": 803,
             "y": 11,
-            "width": 105,
-            "height": 105
+            "width": 110,
+            "height": 110
           },
           "role": "Button",
           "cornerRadius": 20
         },
         {
           "bounds": {
-            "x": 1628,
+            "x": 935,
             "y": 11,
-            "width": 105,
-            "height": 105
+            "width": 110,
+            "height": 110
           },
           "role": "Button",
           "cornerRadius": 20
         },
         {
           "bounds": {
-            "x": 505,
-            "y": 202,
-            "width": 755,
-            "height": 755
+            "x": 137,
+            "y": 213,
+            "width": 804,
+            "height": 804
           },
           "cornerRadius": 8
         },
         {
           "bounds": {
-            "x": 58,
-            "y": 1424,
-            "width": 1648,
-            "height": 116
+            "x": 60,
+            "y": 1506,
+            "width": 958,
+            "height": 121
           },
           "padding": {
             "start": 10,
@@ -1330,59 +1330,59 @@
         },
         {
           "bounds": {
-            "x": 84,
-            "y": 1424,
+            "x": 88,
+            "y": 1506,
             "width": 11,
-            "height": 116
+            "height": 121
           },
-          "cornerRadius": 2.1
+          "cornerRadius": 2
         },
         {
           "bounds": {
-            "x": 639,
-            "y": 1566,
-            "width": 488,
-            "height": 357
+            "x": 283,
+            "y": 1654,
+            "width": 512,
+            "height": 374
           },
           "role": "Checkbox",
           "cornerRadius": 60
         },
         {
           "bounds": {
-            "x": 525,
-            "y": 1966,
-            "width": 147,
-            "height": 101
+            "x": 165,
+            "y": 2073,
+            "width": 154,
+            "height": 119
           },
           "role": "Button",
           "cornerRadius": 50
         },
         {
           "bounds": {
-            "x": 693,
-            "y": 1966,
-            "width": 179,
-            "height": 101
+            "x": 341,
+            "y": 2073,
+            "width": 187,
+            "height": 119
           },
           "role": "Button",
           "cornerRadius": 15
         },
         {
           "bounds": {
-            "x": 893,
-            "y": 1966,
-            "width": 179,
-            "height": 101
+            "x": 550,
+            "y": 2073,
+            "width": 187,
+            "height": 119
           },
           "role": "Button",
           "cornerRadius": 15
         },
         {
           "bounds": {
-            "x": 1093,
-            "y": 1966,
-            "width": 147,
-            "height": 101
+            "x": 759,
+            "y": 2073,
+            "width": 154,
+            "height": 119
           },
           "role": "Button",
           "cornerRadius": 50
@@ -1613,22 +1613,6 @@
       "images": [
         {
           "variant": "ideal",
-          "path": "images/episode-list-item/ideal__default__dark.png",
-          "state": "default",
-          "width": 1050,
-          "height": 454,
-          "theme": "dark",
-          "livePreview": "https://preview.coo.ee/compose-samples-jetcaster/p/episode-list-item__ideal__default__dark",
-          "previewId": "com.example.jetcaster.ui.shared.EpisodeListItemKt.EpisodeListItemPreview_Dark_Mode",
-          "previewParams": {
-            "uiMode": 32,
-            "showBackground": true
-          },
-          "density": 2.625,
-          "figmaSvg": "https://preview.coo.ee/compose-samples-jetcaster/render/episode-list-item__ideal__default__dark.svg"
-        },
-        {
-          "variant": "ideal",
           "path": "images/episode-list-item/ideal__default__light.png",
           "state": "default",
           "width": 1050,
@@ -1642,6 +1626,22 @@
           },
           "density": 2.625,
           "figmaSvg": "https://preview.coo.ee/compose-samples-jetcaster/render/episode-list-item__ideal__default__light.svg"
+        },
+        {
+          "variant": "ideal",
+          "path": "images/episode-list-item/ideal__default__dark.png",
+          "state": "default",
+          "width": 1050,
+          "height": 454,
+          "theme": "dark",
+          "livePreview": "https://preview.coo.ee/compose-samples-jetcaster/p/episode-list-item__ideal__default__dark",
+          "previewId": "com.example.jetcaster.ui.shared.EpisodeListItemKt.EpisodeListItemPreview_Dark_Mode",
+          "previewParams": {
+            "uiMode": 32,
+            "showBackground": true
+          },
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/compose-samples-jetcaster/render/episode-list-item__ideal__default__dark.svg"
         },
         {
           "variant": "ideal",
@@ -2275,8 +2275,8 @@
     "androidx.compose.material3:material3 (expressive)",
     "androidx.compose.material3.adaptive:adaptive"
   ],
-  "renderer": "compose-preview 2.74.1",
-  "generatedAt": "2026-10-28T02:40:07.712Z",
+  "renderer": "compose-preview 2.89.0",
+  "generatedAt": "2026-11-11T02:37:23.999Z",
   "display": {
     "surface": "dark",
     "hero": "Home/Screen"

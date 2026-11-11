@@ -7,7 +7,7 @@
     "ref": "25631e8f544a9a1e3f01e296eaf1b4c28428196c",
     "module": ":mobile"
   },
-  "generatedAt": "2026-10-28T02:40:08.667Z",
+  "generatedAt": "2026-11-11T02:37:25.116Z",
   "mappings": [
     {
       "componentId": "Home/Screen",
@@ -358,7 +358,7 @@
           "lambdaReturnTypeFqn": null
         }
       ],
-      "figmaSvg": "https://preview.coo.ee/compose-samples-jetcaster/render/episode-list-item__ideal__default__dark.svg"
+      "figmaSvg": "https://preview.coo.ee/compose-samples-jetcaster/render/episode-list-item__ideal__default__light.svg"
     },
     {
       "componentId": "Player/Transport",
