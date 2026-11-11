@@ -93,18 +93,6 @@
         "space": "render-pixels"
       }
     },
-    "banner-inline-notification-card-annotated-string__ideal__default__dark": {
-      "banner_inline_card_action_row": {
-        "count": 2,
-        "bounds": {
-          "x": 116,
-          "y": 397,
-          "width": 818,
-          "height": 126
-        },
-        "space": "render-pixels"
-      }
-    },
     "banner-inline-notification-card-annotated-string__ideal__default__light": {
       "banner_inline_card_action_row": {
         "count": 2,
@@ -117,12 +105,12 @@
         "space": "render-pixels"
       }
     },
-    "banner-inline-notification-card-custom-title-and-description__ideal__default__dark": {
+    "banner-inline-notification-card-annotated-string__ideal__default__dark": {
       "banner_inline_card_action_row": {
         "count": 2,
         "bounds": {
           "x": 116,
-          "y": 350,
+          "y": 397,
           "width": 818,
           "height": 126
         },
@@ -141,12 +129,12 @@
         "space": "render-pixels"
       }
     },
-    "banner-inline-notification-card-text__ideal__default__dark": {
+    "banner-inline-notification-card-custom-title-and-description__ideal__default__dark": {
       "banner_inline_card_action_row": {
         "count": 2,
         "bounds": {
           "x": 116,
-          "y": 397,
+          "y": 350,
           "width": 818,
           "height": 126
         },
@@ -165,7 +153,7 @@
         "space": "render-pixels"
       }
     },
-    "banner-inline-notification-clipped-card-text__ideal__default__dark": {
+    "banner-inline-notification-card-text__ideal__default__dark": {
       "banner_inline_card_action_row": {
         "count": 2,
         "bounds": {
@@ -189,12 +177,12 @@
         "space": "render-pixels"
       }
     },
-    "banner-inline-notification-expanded-card-text__ideal__default__dark": {
+    "banner-inline-notification-clipped-card-text__ideal__default__dark": {
       "banner_inline_card_action_row": {
         "count": 2,
         "bounds": {
           "x": 116,
-          "y": 609,
+          "y": 397,
           "width": 818,
           "height": 126
         },
@@ -213,13 +201,13 @@
         "space": "render-pixels"
       }
     },
-    "error-banner-inline-notification-card-long-text-clipped-preview__ideal__default__dark": {
+    "banner-inline-notification-expanded-card-text__ideal__default__dark": {
       "banner_inline_card_action_row": {
         "count": 2,
         "bounds": {
-          "x": 32,
-          "y": 250,
-          "width": 986,
+          "x": 116,
+          "y": 609,
+          "width": 818,
           "height": 126
         },
         "space": "render-pixels"
@@ -237,12 +225,12 @@
         "space": "render-pixels"
       }
     },
-    "error-banner-inline-notification-card-long-text-expanded-preview__ideal__default__dark": {
+    "error-banner-inline-notification-card-long-text-clipped-preview__ideal__default__dark": {
       "banner_inline_card_action_row": {
         "count": 2,
         "bounds": {
           "x": 32,
-          "y": 621,
+          "y": 250,
           "width": 986,
           "height": 126
         },
@@ -261,12 +249,12 @@
         "space": "render-pixels"
       }
     },
-    "error-banner-inline-notification-card-preview__ideal__default__dark": {
+    "error-banner-inline-notification-card-long-text-expanded-preview__ideal__default__dark": {
       "banner_inline_card_action_row": {
         "count": 2,
         "bounds": {
           "x": 32,
-          "y": 144,
+          "y": 621,
           "width": 986,
           "height": 126
         },
@@ -285,12 +273,12 @@
         "space": "render-pixels"
       }
     },
-    "info-banner-inline-notification-card-long-text-clipped-preview__ideal__default__dark": {
+    "error-banner-inline-notification-card-preview__ideal__default__dark": {
       "banner_inline_card_action_row": {
         "count": 2,
         "bounds": {
           "x": 32,
-          "y": 250,
+          "y": 144,
           "width": 986,
           "height": 126
         },
@@ -309,12 +297,12 @@
         "space": "render-pixels"
       }
     },
-    "info-banner-inline-notification-card-long-text-expanded-preview__ideal__default__dark": {
+    "info-banner-inline-notification-card-long-text-clipped-preview__ideal__default__dark": {
       "banner_inline_card_action_row": {
         "count": 2,
         "bounds": {
           "x": 32,
-          "y": 621,
+          "y": 250,
           "width": 986,
           "height": 126
         },
@@ -333,12 +321,12 @@
         "space": "render-pixels"
       }
     },
-    "info-banner-inline-notification-card-preview__ideal__default__dark": {
+    "info-banner-inline-notification-card-long-text-expanded-preview__ideal__default__dark": {
       "banner_inline_card_action_row": {
         "count": 2,
         "bounds": {
           "x": 32,
-          "y": 144,
+          "y": 621,
           "width": 986,
           "height": 126
         },
@@ -357,12 +345,12 @@
         "space": "render-pixels"
       }
     },
-    "success-banner-inline-notification-card-long-text-clipped-preview__ideal__default__dark": {
+    "info-banner-inline-notification-card-preview__ideal__default__dark": {
       "banner_inline_card_action_row": {
         "count": 2,
         "bounds": {
           "x": 32,
-          "y": 250,
+          "y": 144,
           "width": 986,
           "height": 126
         },
@@ -381,12 +369,12 @@
         "space": "render-pixels"
       }
     },
-    "success-banner-inline-notification-card-long-text-expanded-preview__ideal__default__dark": {
+    "success-banner-inline-notification-card-long-text-clipped-preview__ideal__default__dark": {
       "banner_inline_card_action_row": {
         "count": 2,
         "bounds": {
           "x": 32,
-          "y": 621,
+          "y": 250,
           "width": 986,
           "height": 126
         },
@@ -405,12 +393,12 @@
         "space": "render-pixels"
       }
     },
-    "success-banner-inline-notification-card-preview__ideal__default__dark": {
+    "success-banner-inline-notification-card-long-text-expanded-preview__ideal__default__dark": {
       "banner_inline_card_action_row": {
         "count": 2,
         "bounds": {
           "x": 32,
-          "y": 144,
+          "y": 621,
           "width": 986,
           "height": 126
         },
@@ -429,12 +417,12 @@
         "space": "render-pixels"
       }
     },
-    "warning-banner-inline-notification-card-long-text-clipped-preview__ideal__default__dark": {
+    "success-banner-inline-notification-card-preview__ideal__default__dark": {
       "banner_inline_card_action_row": {
         "count": 2,
         "bounds": {
           "x": 32,
-          "y": 250,
+          "y": 144,
           "width": 986,
           "height": 126
         },
@@ -453,12 +441,12 @@
         "space": "render-pixels"
       }
     },
-    "warning-banner-inline-notification-card-long-text-expanded-preview__ideal__default__dark": {
+    "warning-banner-inline-notification-card-long-text-clipped-preview__ideal__default__dark": {
       "banner_inline_card_action_row": {
         "count": 2,
         "bounds": {
           "x": 32,
-          "y": 621,
+          "y": 250,
           "width": 986,
           "height": 126
         },
@@ -477,7 +465,19 @@
         "space": "render-pixels"
       }
     },
-    "warning-banner-inline-notification-card-preview__ideal__default__dark": {
+    "warning-banner-inline-notification-card-long-text-expanded-preview__ideal__default__dark": {
+      "banner_inline_card_action_row": {
+        "count": 2,
+        "bounds": {
+          "x": 32,
+          "y": 621,
+          "width": 986,
+          "height": 126
+        },
+        "space": "render-pixels"
+      }
+    },
+    "warning-banner-inline-notification-card-preview__ideal__default__light": {
       "banner_inline_card_action_row": {
         "count": 2,
         "bounds": {
@@ -489,7 +489,7 @@
         "space": "render-pixels"
       }
     },
-    "warning-banner-inline-notification-card-preview__ideal__default__light": {
+    "warning-banner-inline-notification-card-preview__ideal__default__dark": {
       "banner_inline_card_action_row": {
         "count": 2,
         "bounds": {
