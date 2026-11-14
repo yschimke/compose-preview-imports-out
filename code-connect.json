@@ -1,0 +1,22 @@
+{
+  "system": "wear-os-samples-wff-simple-analog",
+  "title": "Wear OS Watch Face: Simple Analog",
+  "label": "Compose",
+  "source": {
+    "repo": "android/wear-os-samples",
+    "ref": "665d6a48466d472a4d928661dd865364d5073799",
+    "module": ":watchface"
+  },
+  "generatedAt": "2026-11-14T13:39:09.919Z",
+  "mappings": [
+    {
+      "componentId": "WatchFace/Default",
+      "figmaLayerName": "WatchFace/Default",
+      "componentName": "watchface",
+      "source": "https://github.com/android/wear-os-samples/blob/665d6a48466d472a4d928661dd865364d5073799/watchface/src/main/res/raw/watchface.xml",
+      "label": "Compose",
+      "confidence": "preview-fallback",
+      "previewName": "watchface"
+    }
+  ]
+}
