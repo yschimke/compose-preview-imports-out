@@ -1,0 +1,7 @@
+{
+    "schemaVersion": 2,
+    "module": "river",
+    "variant": "debug",
+    "components": [],
+    "builderOrphans": []
+}
