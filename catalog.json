@@ -1,0 +1,63 @@
+{
+  "schema": "design-parity-catalog/v1",
+  "system": "wear-os-samples-wfp-firefly",
+  "title": "Wear OS Watch Face Push: Firefly",
+  "components": [
+    {
+      "componentId": "WatchFace/Default",
+      "images": [
+        {
+          "variant": "ideal",
+          "path": "images/watchface-default/ideal__default__compact.png",
+          "state": "default",
+          "width": 450,
+          "height": 450,
+          "size": "compact",
+          "livePreview": "https://preview.coo.ee/wear-os-samples-wfp-firefly/p/watchface-default__ideal__default__compact",
+          "previewId": "dwf__raw_watchface",
+          "previewParams": {
+            "capturePlayer": "cmp-jvm",
+            "device": "id:wearos_large_round",
+            "widthDp": 450,
+            "heightDp": 450
+          },
+          "density": 1
+        }
+      ],
+      "greenlines": [],
+      "redlines": [],
+      "section": "Watch Faces",
+      "group": "Watch Face",
+      "caption": "Firefly sample watch face from Watch Face Push with animated/glowing dial artwork and digital readouts.",
+      "wireframe": "wireframes/watchface-default.svg",
+      "sourceFile": "src/main/res/raw/watchface.xml",
+      "sourceDirectory": "WatchFacePush/samples/firefly",
+      "sourceFunction": "watchface",
+      "sourceModule": ":samples:firefly"
+    }
+  ],
+  "renderer": "compose-preview 2.92.0",
+  "generatedAt": "2026-11-14T13:53:58.589Z",
+  "display": {
+    "surface": "dark",
+    "hero": "WatchFace/Default"
+  },
+  "liveBundle": {
+    "path": "bundle/",
+    "file": "bundle.png"
+  },
+  "liveBundles": [
+    {
+      "path": "bundle/",
+      "file": "bundle.png",
+      "module": ":samples:firefly",
+      "previewIdPrefix": ""
+    }
+  ],
+  "componentsFile": "components.json",
+  "source": {
+    "repo": "android/wear-os-samples",
+    "ref": "665d6a48466d472a4d928661dd865364d5073799",
+    "module": ":samples:firefly"
+  }
+}
