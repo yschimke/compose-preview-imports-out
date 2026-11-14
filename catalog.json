@@ -1,0 +1,646 @@
+{
+  "schema": "design-parity-catalog/v1",
+  "system": "wear-os-samples-wff-complications",
+  "title": "Wear OS Watch Face: Complications",
+  "components": [
+    {
+      "componentId": "WatchFace/Default",
+      "images": [
+        {
+          "variant": "ideal",
+          "path": "images/watchface-default/ideal__default__compact.png",
+          "state": "default",
+          "width": 450,
+          "height": 450,
+          "size": "compact",
+          "livePreview": "https://preview.coo.ee/wear-os-samples-wff-complications/p/watchface-default__ideal__default__compact",
+          "previewId": "dwf__raw_watchface",
+          "remoteComposeKnobs": [
+            {
+              "name": "dwf.complication.1.title",
+              "default": {
+                "kind": "string",
+                "value": "STEPS"
+              }
+            },
+            {
+              "name": "dwf.complication.1.text",
+              "default": {
+                "kind": "string",
+                "value": "4200"
+              }
+            },
+            {
+              "name": "dwf.complication.1.has_monochromatic_image",
+              "default": {
+                "kind": "bool",
+                "value": false
+              }
+            },
+            {
+              "name": "dwf.complication.1.color_count",
+              "default": {
+                "kind": "int",
+                "value": 0
+              }
+            },
+            {
+              "name": "dwf.complication.2.title",
+              "default": {
+                "kind": "string",
+                "value": "BATT"
+              }
+            },
+            {
+              "name": "dwf.complication.2.text",
+              "default": {
+                "kind": "string",
+                "value": "85%"
+              }
+            },
+            {
+              "name": "dwf.complication.2.has_monochromatic_image",
+              "default": {
+                "kind": "bool",
+                "value": false
+              }
+            },
+            {
+              "name": "dwf.complication.2.color_count",
+              "default": {
+                "kind": "int",
+                "value": 0
+              }
+            },
+            {
+              "name": "dwf.complication.3.title",
+              "default": {
+                "kind": "string",
+                "value": "BPM"
+              }
+            },
+            {
+              "name": "dwf.complication.3.text",
+              "default": {
+                "kind": "string",
+                "value": "72"
+              }
+            },
+            {
+              "name": "dwf.complication.3.has_monochromatic_image",
+              "default": {
+                "kind": "bool",
+                "value": false
+              }
+            },
+            {
+              "name": "dwf.complication.3.color_count",
+              "default": {
+                "kind": "int",
+                "value": 0
+              }
+            },
+            {
+              "name": "dwf.complication.4.title",
+              "default": {
+                "kind": "string",
+                "value": "Calendar"
+              }
+            },
+            {
+              "name": "dwf.complication.4.text",
+              "default": {
+                "kind": "string",
+                "value": "Design Sync 10:30"
+              }
+            },
+            {
+              "name": "dwf.complication.4.has_monochromatic_image",
+              "default": {
+                "kind": "bool",
+                "value": false
+              }
+            },
+            {
+              "name": "dwf.complication.4.has_small_image",
+              "default": {
+                "kind": "bool",
+                "value": false
+              }
+            },
+            {
+              "name": "dwf.complication.0.type",
+              "default": {
+                "kind": "int",
+                "value": 0
+              }
+            },
+            {
+              "name": "dwf.complication.1.type",
+              "default": {
+                "kind": "int",
+                "value": 1
+              }
+            },
+            {
+              "name": "dwf.complication.2.type",
+              "default": {
+                "kind": "int",
+                "value": 1
+              }
+            },
+            {
+              "name": "dwf.complication.3.type",
+              "default": {
+                "kind": "int",
+                "value": 1
+              }
+            },
+            {
+              "name": "dwf.complication.4.type",
+              "default": {
+                "kind": "int",
+                "value": 2
+              }
+            },
+            {
+              "name": "dwf.complication.0.has_photo_image",
+              "default": {
+                "kind": "bool",
+                "value": false
+              }
+            },
+            {
+              "name": "dwf.complication.0.accent_color",
+              "default": {
+                "kind": "color",
+                "argb": "#FF1976D2"
+              }
+            },
+            {
+              "name": "dwf.complication.0.image_color",
+              "default": {
+                "kind": "color",
+                "argb": "#FFFFFFFF"
+              }
+            },
+            {
+              "name": "dwf.color.themeColor.0",
+              "default": {
+                "kind": "color",
+                "argb": "#FFDBBBF5"
+              }
+            },
+            {
+              "name": "dwf.color.themeColor.1",
+              "default": {
+                "kind": "color",
+                "argb": "#FFDB324D"
+              }
+            },
+            {
+              "name": "dwf.complication.1.has_small_image",
+              "default": {
+                "kind": "bool",
+                "value": false
+              }
+            },
+            {
+              "name": "dwf.complication.1.accent_color",
+              "default": {
+                "kind": "color",
+                "argb": "#FF1976D2"
+              }
+            },
+            {
+              "name": "dwf.complication.1.image_color",
+              "default": {
+                "kind": "color",
+                "argb": "#FFFFFFFF"
+              }
+            },
+            {
+              "name": "dwf.complication.1.min",
+              "default": {
+                "kind": "float",
+                "value": 0
+              }
+            },
+            {
+              "name": "dwf.complication.1.max",
+              "default": {
+                "kind": "float",
+                "value": 10000
+              }
+            },
+            {
+              "name": "dwf.complication.1.value",
+              "default": {
+                "kind": "float",
+                "value": 4200
+              }
+            },
+            {
+              "name": "dwf.complication.1.has_ranged_value_colors",
+              "default": {
+                "kind": "bool",
+                "value": false
+              }
+            },
+            {
+              "name": "dwf.complication.1.ranged_value_colors_interpolate",
+              "default": {
+                "kind": "bool",
+                "value": false
+              }
+            },
+            {
+              "name": "dwf.complication.1.color.0",
+              "default": {
+                "kind": "color",
+                "argb": "#FF4285F4"
+              }
+            },
+            {
+              "name": "dwf.complication.1.color.1",
+              "default": {
+                "kind": "color",
+                "argb": "#FF34A853"
+              }
+            },
+            {
+              "name": "dwf.complication.1.color.2",
+              "default": {
+                "kind": "color",
+                "argb": "#FFFBBC05"
+              }
+            },
+            {
+              "name": "dwf.complication.1.color.3",
+              "default": {
+                "kind": "color",
+                "argb": "#FFEA4335"
+              }
+            },
+            {
+              "name": "dwf.color.themeColor.2",
+              "default": {
+                "kind": "color",
+                "argb": "#FF333333"
+              }
+            },
+            {
+              "name": "dwf.complication.1.has_goal_progress_colors",
+              "default": {
+                "kind": "bool",
+                "value": false
+              }
+            },
+            {
+              "name": "dwf.complication.1.goal_progress_colors_interpolate",
+              "default": {
+                "kind": "bool",
+                "value": false
+              }
+            },
+            {
+              "name": "dwf.complication.1.weight.0",
+              "default": {
+                "kind": "float",
+                "value": 45
+              }
+            },
+            {
+              "name": "dwf.complication.1.weight.1",
+              "default": {
+                "kind": "float",
+                "value": 35
+              }
+            },
+            {
+              "name": "dwf.complication.1.weight.2",
+              "default": {
+                "kind": "float",
+                "value": 20
+              }
+            },
+            {
+              "name": "dwf.complication.1.weight.3",
+              "default": {
+                "kind": "float",
+                "value": 0
+              }
+            },
+            {
+              "name": "dwf.complication.2.has_small_image",
+              "default": {
+                "kind": "bool",
+                "value": false
+              }
+            },
+            {
+              "name": "dwf.complication.2.accent_color",
+              "default": {
+                "kind": "color",
+                "argb": "#FF1976D2"
+              }
+            },
+            {
+              "name": "dwf.complication.2.image_color",
+              "default": {
+                "kind": "color",
+                "argb": "#FFFFFFFF"
+              }
+            },
+            {
+              "name": "dwf.complication.2.min",
+              "default": {
+                "kind": "float",
+                "value": 0
+              }
+            },
+            {
+              "name": "dwf.complication.2.max",
+              "default": {
+                "kind": "float",
+                "value": 100
+              }
+            },
+            {
+              "name": "dwf.complication.2.value",
+              "default": {
+                "kind": "float",
+                "value": 85
+              }
+            },
+            {
+              "name": "dwf.complication.2.has_ranged_value_colors",
+              "default": {
+                "kind": "bool",
+                "value": false
+              }
+            },
+            {
+              "name": "dwf.complication.2.ranged_value_colors_interpolate",
+              "default": {
+                "kind": "bool",
+                "value": false
+              }
+            },
+            {
+              "name": "dwf.complication.2.color.0",
+              "default": {
+                "kind": "color",
+                "argb": "#FF4285F4"
+              }
+            },
+            {
+              "name": "dwf.complication.2.color.1",
+              "default": {
+                "kind": "color",
+                "argb": "#FF34A853"
+              }
+            },
+            {
+              "name": "dwf.complication.2.color.2",
+              "default": {
+                "kind": "color",
+                "argb": "#FFFBBC05"
+              }
+            },
+            {
+              "name": "dwf.complication.2.color.3",
+              "default": {
+                "kind": "color",
+                "argb": "#FFEA4335"
+              }
+            },
+            {
+              "name": "dwf.complication.2.has_goal_progress_colors",
+              "default": {
+                "kind": "bool",
+                "value": false
+              }
+            },
+            {
+              "name": "dwf.complication.2.goal_progress_colors_interpolate",
+              "default": {
+                "kind": "bool",
+                "value": false
+              }
+            },
+            {
+              "name": "dwf.complication.2.weight.0",
+              "default": {
+                "kind": "float",
+                "value": 45
+              }
+            },
+            {
+              "name": "dwf.complication.2.weight.1",
+              "default": {
+                "kind": "float",
+                "value": 35
+              }
+            },
+            {
+              "name": "dwf.complication.2.weight.2",
+              "default": {
+                "kind": "float",
+                "value": 20
+              }
+            },
+            {
+              "name": "dwf.complication.2.weight.3",
+              "default": {
+                "kind": "float",
+                "value": 0
+              }
+            },
+            {
+              "name": "dwf.complication.3.has_small_image",
+              "default": {
+                "kind": "bool",
+                "value": false
+              }
+            },
+            {
+              "name": "dwf.complication.3.accent_color",
+              "default": {
+                "kind": "color",
+                "argb": "#FF1976D2"
+              }
+            },
+            {
+              "name": "dwf.complication.3.image_color",
+              "default": {
+                "kind": "color",
+                "argb": "#FFFFFFFF"
+              }
+            },
+            {
+              "name": "dwf.complication.3.min",
+              "default": {
+                "kind": "float",
+                "value": 0
+              }
+            },
+            {
+              "name": "dwf.complication.3.max",
+              "default": {
+                "kind": "float",
+                "value": 200
+              }
+            },
+            {
+              "name": "dwf.complication.3.value",
+              "default": {
+                "kind": "float",
+                "value": 72
+              }
+            },
+            {
+              "name": "dwf.complication.3.has_ranged_value_colors",
+              "default": {
+                "kind": "bool",
+                "value": false
+              }
+            },
+            {
+              "name": "dwf.complication.3.ranged_value_colors_interpolate",
+              "default": {
+                "kind": "bool",
+                "value": false
+              }
+            },
+            {
+              "name": "dwf.complication.3.color.0",
+              "default": {
+                "kind": "color",
+                "argb": "#FF4285F4"
+              }
+            },
+            {
+              "name": "dwf.complication.3.color.1",
+              "default": {
+                "kind": "color",
+                "argb": "#FF34A853"
+              }
+            },
+            {
+              "name": "dwf.complication.3.color.2",
+              "default": {
+                "kind": "color",
+                "argb": "#FFFBBC05"
+              }
+            },
+            {
+              "name": "dwf.complication.3.color.3",
+              "default": {
+                "kind": "color",
+                "argb": "#FFEA4335"
+              }
+            },
+            {
+              "name": "dwf.complication.3.has_goal_progress_colors",
+              "default": {
+                "kind": "bool",
+                "value": false
+              }
+            },
+            {
+              "name": "dwf.complication.3.goal_progress_colors_interpolate",
+              "default": {
+                "kind": "bool",
+                "value": false
+              }
+            },
+            {
+              "name": "dwf.complication.3.weight.0",
+              "default": {
+                "kind": "float",
+                "value": 45
+              }
+            },
+            {
+              "name": "dwf.complication.3.weight.1",
+              "default": {
+                "kind": "float",
+                "value": 35
+              }
+            },
+            {
+              "name": "dwf.complication.3.weight.2",
+              "default": {
+                "kind": "float",
+                "value": 20
+              }
+            },
+            {
+              "name": "dwf.complication.3.weight.3",
+              "default": {
+                "kind": "float",
+                "value": 0
+              }
+            },
+            {
+              "name": "dwf.complication.4.accent_color",
+              "default": {
+                "kind": "color",
+                "argb": "#FF1976D2"
+              }
+            },
+            {
+              "name": "dwf.complication.4.image_color",
+              "default": {
+                "kind": "color",
+                "argb": "#FFFFFFFF"
+              }
+            }
+          ],
+          "previewParams": {
+            "capturePlayer": "cmp-jvm",
+            "device": "id:wearos_large_round",
+            "widthDp": 450,
+            "heightDp": 450
+          },
+          "density": 1
+        }
+      ],
+      "greenlines": [],
+      "redlines": [],
+      "section": "Watch Faces",
+      "group": "Watch Face",
+      "caption": "Analog watch face with five customizable complication slots (SHORT_TEXT, RANGED_VALUE, MONOCHROMATIC_IMAGE, SMALL_IMAGE, GOAL_PROGRESS, WEIGHTED_ELEMENTS) and a color style configuration.",
+      "wireframe": "wireframes/watchface-default.svg",
+      "sourceFile": "src/main/res/raw/watchface.xml",
+      "sourceDirectory": "WatchFaceFormat/Complications/watchface",
+      "sourceFunction": "watchface",
+      "sourceModule": ":watchface"
+    }
+  ],
+  "renderer": "compose-preview 2.92.0",
+  "generatedAt": "2026-11-14T13:20:10.433Z",
+  "display": {
+    "surface": "dark",
+    "hero": "WatchFace/Default"
+  },
+  "liveBundle": {
+    "path": "bundle/",
+    "file": "bundle.png"
+  },
+  "liveBundles": [
+    {
+      "path": "bundle/",
+      "file": "bundle.png",
+      "module": ":watchface",
+      "previewIdPrefix": ""
+    }
+  ],
+  "componentsFile": "components.json",
+  "source": {
+    "repo": "android/wear-os-samples",
+    "ref": "665d6a48466d472a4d928661dd865364d5073799",
+    "module": ":watchface"
+  }
+}
