@@ -1,0 +1,17 @@
+{
+  "schema": "compose-preview-tags/v1",
+  "previews": {
+    "watchface-default__ideal__default__compact": {
+      "watchface_root": {
+        "count": 1,
+        "bounds": {
+          "x": 0,
+          "y": 0,
+          "width": 450,
+          "height": 450
+        },
+        "space": "render-pixels"
+      }
+    }
+  }
+}

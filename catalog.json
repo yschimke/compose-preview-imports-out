@@ -1,0 +1,289 @@
+{
+  "schema": "design-parity-catalog/v1",
+  "system": "wear-os-samples-wff-weather",
+  "title": "Wear OS Watch Face: Weather",
+  "components": [
+    {
+      "componentId": "WatchFace/Default",
+      "images": [
+        {
+          "variant": "ideal",
+          "path": "images/watchface-default/ideal__default__compact.png",
+          "state": "default",
+          "width": 450,
+          "height": 450,
+          "size": "compact",
+          "livePreview": "https://preview.coo.ee/wear-os-samples-wff-weather/p/watchface-default__ideal__default__compact",
+          "previewId": "dwf__raw_watchface",
+          "remoteComposeKnobs": [
+            {
+              "name": "dwf.is_ambient",
+              "default": {
+                "kind": "bool",
+                "value": false
+              }
+            },
+            {
+              "name": "dwf.weather.is_available",
+              "default": {
+                "kind": "bool",
+                "value": true
+              }
+            },
+            {
+              "name": "dwf.weather.condition",
+              "default": {
+                "kind": "int",
+                "value": 14
+              }
+            },
+            {
+              "name": "dwf.is_24_hour",
+              "default": {
+                "kind": "bool",
+                "value": true
+              }
+            },
+            {
+              "name": "dwf.weather.last_updated_text",
+              "default": {
+                "kind": "string",
+                "value": ""
+              }
+            },
+            {
+              "name": "dwf.weather.condition_name",
+              "default": {
+                "kind": "string",
+                "value": "Partly Cloudy"
+              }
+            },
+            {
+              "name": "dwf.weather.is_day",
+              "default": {
+                "kind": "bool",
+                "value": true
+              }
+            },
+            {
+              "name": "dwf.weather.temperature",
+              "default": {
+                "kind": "float",
+                "value": 22
+              }
+            },
+            {
+              "name": "dwf.weather.temperature_unit",
+              "default": {
+                "kind": "int",
+                "value": 1
+              }
+            },
+            {
+              "name": "dwf.weather.hours.1.is_available",
+              "default": {
+                "kind": "bool",
+                "value": true
+              }
+            },
+            {
+              "name": "dwf.weather.hours.1.condition",
+              "default": {
+                "kind": "int",
+                "value": 14
+              }
+            },
+            {
+              "name": "dwf.weather.hours.1.is_day",
+              "default": {
+                "kind": "bool",
+                "value": true
+              }
+            },
+            {
+              "name": "dwf.weather.hours.1.temperature",
+              "default": {
+                "kind": "float",
+                "value": 22
+              }
+            },
+            {
+              "name": "dwf.weather.hours.2.is_available",
+              "default": {
+                "kind": "bool",
+                "value": true
+              }
+            },
+            {
+              "name": "dwf.weather.hours.2.condition",
+              "default": {
+                "kind": "int",
+                "value": 8
+              }
+            },
+            {
+              "name": "dwf.weather.hours.2.is_day",
+              "default": {
+                "kind": "bool",
+                "value": true
+              }
+            },
+            {
+              "name": "dwf.weather.hours.2.temperature",
+              "default": {
+                "kind": "float",
+                "value": 23
+              }
+            },
+            {
+              "name": "dwf.weather.hours.3.is_available",
+              "default": {
+                "kind": "bool",
+                "value": true
+              }
+            },
+            {
+              "name": "dwf.weather.hours.3.condition",
+              "default": {
+                "kind": "int",
+                "value": 8
+              }
+            },
+            {
+              "name": "dwf.weather.hours.3.is_day",
+              "default": {
+                "kind": "bool",
+                "value": true
+              }
+            },
+            {
+              "name": "dwf.weather.hours.3.temperature",
+              "default": {
+                "kind": "float",
+                "value": 24
+              }
+            },
+            {
+              "name": "dwf.weather.hours.4.is_available",
+              "default": {
+                "kind": "bool",
+                "value": true
+              }
+            },
+            {
+              "name": "dwf.weather.hours.4.condition",
+              "default": {
+                "kind": "int",
+                "value": 2
+              }
+            },
+            {
+              "name": "dwf.weather.hours.4.is_day",
+              "default": {
+                "kind": "bool",
+                "value": true
+              }
+            },
+            {
+              "name": "dwf.weather.hours.4.temperature",
+              "default": {
+                "kind": "float",
+                "value": 23
+              }
+            },
+            {
+              "name": "dwf.weather.days.1.is_available",
+              "default": {
+                "kind": "bool",
+                "value": true
+              }
+            },
+            {
+              "name": "dwf.weather.days.1.condition_day",
+              "default": {
+                "kind": "int",
+                "value": 8
+              }
+            },
+            {
+              "name": "dwf.weather.days.1.condition_night",
+              "default": {
+                "kind": "int",
+                "value": 1
+              }
+            },
+            {
+              "name": "dwf.weather.days.1.temperature_high",
+              "default": {
+                "kind": "float",
+                "value": 24
+              }
+            },
+            {
+              "name": "dwf.weather.days.1.chance_of_precipitation",
+              "default": {
+                "kind": "int",
+                "value": 15
+              }
+            },
+            {
+              "name": "dwf.weather.days.1.temperature_low",
+              "default": {
+                "kind": "float",
+                "value": 16
+              }
+            },
+            {
+              "name": "dwf.weather.days.1.chance_of_precipitation_night",
+              "default": {
+                "kind": "int",
+                "value": 10
+              }
+            }
+          ],
+          "previewParams": {
+            "capturePlayer": "cmp-jvm",
+            "device": "id:wearos_large_round",
+            "widthDp": 450,
+            "heightDp": 450
+          },
+          "density": 1
+        }
+      ],
+      "greenlines": [],
+      "redlines": [],
+      "section": "Watch Faces",
+      "group": "Watch Face",
+      "caption": "Weather-aware watch face binding WFF weather data sources for current conditions, temperature, and hourly/daily forecasts.",
+      "wireframe": "wireframes/watchface-default.svg",
+      "sourceFile": "src/main/res/raw/watchface.xml",
+      "sourceDirectory": "WatchFaceFormat/Weather/watchface",
+      "sourceFunction": "watchface",
+      "sourceModule": ":watchface"
+    }
+  ],
+  "renderer": "compose-preview 2.92.0",
+  "generatedAt": "2026-11-14T13:45:59.753Z",
+  "display": {
+    "surface": "dark",
+    "hero": "WatchFace/Default"
+  },
+  "liveBundle": {
+    "path": "bundle/",
+    "file": "bundle.png"
+  },
+  "liveBundles": [
+    {
+      "path": "bundle/",
+      "file": "bundle.png",
+      "module": ":watchface",
+      "previewIdPrefix": ""
+    }
+  ],
+  "componentsFile": "components.json",
+  "source": {
+    "repo": "android/wear-os-samples",
+    "ref": "665d6a48466d472a4d928661dd865364d5073799",
+    "module": ":watchface"
+  }
+}
