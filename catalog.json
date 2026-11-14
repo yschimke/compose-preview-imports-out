@@ -1,0 +1,142 @@
+{
+  "schema": "design-parity-catalog/v1",
+  "system": "wear-os-samples-wff-flavors",
+  "title": "Wear OS Watch Face: Flavors",
+  "components": [
+    {
+      "componentId": "WatchFace/Default",
+      "images": [
+        {
+          "variant": "ideal",
+          "path": "images/watchface-default/ideal__default__compact.png",
+          "state": "default",
+          "width": 450,
+          "height": 450,
+          "size": "compact",
+          "livePreview": "https://preview.coo.ee/wear-os-samples-wff-flavors/p/watchface-default__ideal__default__compact",
+          "previewId": "dwf__raw_watchface",
+          "remoteComposeKnobs": [
+            {
+              "name": "dwf.is_ambient",
+              "default": {
+                "kind": "bool",
+                "value": false
+              }
+            },
+            {
+              "name": "dwf.complication.0.text",
+              "default": {
+                "kind": "string",
+                "value": "06:42"
+              }
+            },
+            {
+              "name": "dwf.complication.0.has_monochromatic_image",
+              "default": {
+                "kind": "bool",
+                "value": false
+              }
+            },
+            {
+              "name": "dwf.complication.0.title",
+              "default": {
+                "kind": "string",
+                "value": "SUNRISE"
+              }
+            },
+            {
+              "name": "dwf.complication.0.type",
+              "default": {
+                "kind": "int",
+                "value": 1
+              }
+            },
+            {
+              "name": "dwf.config.clockAppearance",
+              "default": {
+                "kind": "int",
+                "value": 0
+              }
+            },
+            {
+              "name": "dwf.color.themeColor.0",
+              "default": {
+                "kind": "color",
+                "argb": "#FFFFFFFF"
+              }
+            },
+            {
+              "name": "dwf.config.showHr",
+              "default": {
+                "kind": "bool",
+                "value": true
+              }
+            },
+            {
+              "name": "metrics.heart_rate",
+              "default": {
+                "kind": "float",
+                "value": 72
+              }
+            },
+            {
+              "name": "dwf.color.themeColor.1",
+              "default": {
+                "kind": "color",
+                "argb": "#FFCCCCCC"
+              }
+            },
+            {
+              "name": "dwf.color.themeColor.2",
+              "default": {
+                "kind": "color",
+                "argb": "#FF999999"
+              }
+            }
+          ],
+          "previewParams": {
+            "capturePlayer": "cmp-jvm",
+            "device": "id:wearos_large_round",
+            "widthDp": 450,
+            "heightDp": 450
+          },
+          "density": 1
+        }
+      ],
+      "greenlines": [],
+      "redlines": [],
+      "section": "Watch Faces",
+      "group": "Watch Face",
+      "caption": "Preset-flavor watch face combining four complication slots with four user configurations and three curated style flavors.",
+      "wireframe": "wireframes/watchface-default.svg",
+      "sourceFile": "src/main/res/raw/watchface.xml",
+      "sourceDirectory": "WatchFaceFormat/Flavors/watchface",
+      "sourceFunction": "watchface",
+      "sourceModule": ":watchface"
+    }
+  ],
+  "renderer": "compose-preview 2.92.0",
+  "generatedAt": "2026-11-14T13:10:10.438Z",
+  "display": {
+    "surface": "dark",
+    "hero": "WatchFace/Default"
+  },
+  "liveBundle": {
+    "path": "bundle/",
+    "file": "bundle.png"
+  },
+  "liveBundles": [
+    {
+      "path": "bundle/",
+      "file": "bundle.png",
+      "module": ":watchface",
+      "previewIdPrefix": ""
+    }
+  ],
+  "componentsFile": "components.json",
+  "source": {
+    "repo": "android/wear-os-samples",
+    "ref": "665d6a48466d472a4d928661dd865364d5073799",
+    "module": ":watchface"
+  }
+}
