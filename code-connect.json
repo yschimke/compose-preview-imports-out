@@ -1,0 +1,102 @@
+{
+  "system": "wear-os-samples-watchfaces",
+  "title": "Wear OS Watch Faces",
+  "label": "Compose",
+  "source": {
+    "repo": "android/wear-os-samples",
+    "ref": "665d6a48466d472a4d928661dd865364d5073799"
+  },
+  "generatedAt": "2026-11-15T08:49:35.138Z",
+  "mappings": [
+    {
+      "componentId": "WatchFaceFormat/Complications",
+      "figmaLayerName": "WatchFaceFormat/Complications",
+      "componentName": "wff_complications",
+      "source": "https://github.com/android/wear-os-samples/blob/665d6a48466d472a4d928661dd865364d5073799/src/main/res/raw/wff_complications.xml",
+      "label": "Compose",
+      "confidence": "preview-fallback",
+      "previewName": "wff_complications"
+    },
+    {
+      "componentId": "WatchFaceFormat/Flavors",
+      "figmaLayerName": "WatchFaceFormat/Flavors",
+      "componentName": "wff_flavors",
+      "source": "https://github.com/android/wear-os-samples/blob/665d6a48466d472a4d928661dd865364d5073799/src/main/res/raw/wff_flavors.xml",
+      "label": "Compose",
+      "confidence": "preview-fallback",
+      "previewName": "wff_flavors"
+    },
+    {
+      "componentId": "WatchFaceFormat/PhotosMask",
+      "figmaLayerName": "WatchFaceFormat/PhotosMask",
+      "componentName": "wff_photos_mask",
+      "source": "https://github.com/android/wear-os-samples/blob/665d6a48466d472a4d928661dd865364d5073799/src/main/res/raw/wff_photos_mask.xml",
+      "label": "Compose",
+      "confidence": "preview-fallback",
+      "previewName": "wff_photos_mask"
+    },
+    {
+      "componentId": "WatchFaceFormat/PhotosMulti",
+      "figmaLayerName": "WatchFaceFormat/PhotosMulti",
+      "componentName": "wff_photos_multi",
+      "source": "https://github.com/android/wear-os-samples/blob/665d6a48466d472a4d928661dd865364d5073799/src/main/res/raw/wff_photos_multi.xml",
+      "label": "Compose",
+      "confidence": "preview-fallback",
+      "previewName": "wff_photos_multi"
+    },
+    {
+      "componentId": "WatchFaceFormat/SimpleAnalog",
+      "figmaLayerName": "WatchFaceFormat/SimpleAnalog",
+      "componentName": "wff_simple_analog",
+      "source": "https://github.com/android/wear-os-samples/blob/665d6a48466d472a4d928661dd865364d5073799/src/main/res/raw/wff_simple_analog.xml",
+      "label": "Compose",
+      "confidence": "preview-fallback",
+      "previewName": "wff_simple_analog"
+    },
+    {
+      "componentId": "WatchFaceFormat/SimpleDigital",
+      "figmaLayerName": "WatchFaceFormat/SimpleDigital",
+      "componentName": "wff_simple_digital",
+      "source": "https://github.com/android/wear-os-samples/blob/665d6a48466d472a4d928661dd865364d5073799/src/main/res/raw/wff_simple_digital.xml",
+      "label": "Compose",
+      "confidence": "preview-fallback",
+      "previewName": "wff_simple_digital"
+    },
+    {
+      "componentId": "WatchFaceFormat/Weather",
+      "figmaLayerName": "WatchFaceFormat/Weather",
+      "componentName": "wff_weather",
+      "source": "https://github.com/android/wear-os-samples/blob/665d6a48466d472a4d928661dd865364d5073799/src/main/res/raw/wff_weather.xml",
+      "label": "Compose",
+      "confidence": "preview-fallback",
+      "previewName": "wff_weather"
+    },
+    {
+      "componentId": "WatchFacePush/Default",
+      "figmaLayerName": "WatchFacePush/Default",
+      "componentName": "wfp_default",
+      "source": "https://github.com/android/wear-os-samples/blob/665d6a48466d472a4d928661dd865364d5073799/src/main/res/raw/wfp_default.xml",
+      "label": "Compose",
+      "confidence": "preview-fallback",
+      "previewName": "wfp_default"
+    },
+    {
+      "componentId": "WatchFacePush/Firefly",
+      "figmaLayerName": "WatchFacePush/Firefly",
+      "componentName": "wfp_firefly",
+      "source": "https://github.com/android/wear-os-samples/blob/665d6a48466d472a4d928661dd865364d5073799/src/main/res/raw/wfp_firefly.xml",
+      "label": "Compose",
+      "confidence": "preview-fallback",
+      "previewName": "wfp_firefly"
+    },
+    {
+      "componentId": "WatchFacePush/River",
+      "figmaLayerName": "WatchFacePush/River",
+      "componentName": "wfp_river",
+      "source": "https://github.com/android/wear-os-samples/blob/665d6a48466d472a4d928661dd865364d5073799/src/main/res/raw/wfp_river.xml",
+      "label": "Compose",
+      "confidence": "preview-fallback",
+      "previewName": "wfp_river"
+    }
+  ]
+}

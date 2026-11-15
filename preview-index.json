@@ -1,0 +1,16 @@
+{
+  "schema": "compose-preview-revision-index/v1",
+  "current": [
+    "watchfaceformat-complications__ideal__default__compact",
+    "watchfaceformat-flavors__ideal__default__compact",
+    "watchfaceformat-photosmask__ideal__default__compact",
+    "watchfaceformat-photosmulti__ideal__default__compact",
+    "watchfaceformat-simpleanalog__ideal__default__compact",
+    "watchfaceformat-simpledigital__ideal__default__compact",
+    "watchfaceformat-weather__ideal__default__compact",
+    "watchfacepush-default__ideal__default__compact",
+    "watchfacepush-firefly__ideal__default__compact",
+    "watchfacepush-river__ideal__default__compact"
+  ],
+  "revisions": []
+}

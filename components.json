@@ -1,0 +1,7 @@
+{
+    "schemaVersion": 2,
+    "module": "wff-complications",
+    "variant": "debug",
+    "components": [],
+    "builderOrphans": []
+}

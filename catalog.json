@@ -1,0 +1,1373 @@
+{
+  "schema": "design-parity-catalog/v1",
+  "system": "wear-os-samples-watchfaces",
+  "title": "Wear OS Watch Faces",
+  "components": [
+    {
+      "componentId": "WatchFaceFormat/Complications",
+      "images": [
+        {
+          "variant": "ideal",
+          "path": "images/watchfaceformat-complications/ideal__default__compact.png",
+          "state": "default",
+          "width": 450,
+          "height": 450,
+          "size": "compact",
+          "livePreview": "https://preview.coo.ee/wear-os-samples-watchfaces/p/watchfaceformat-complications__ideal__default__compact",
+          "previewId": "dwf__raw_wff_complications",
+          "remoteComposeKnobs": [
+            {
+              "name": "dwf.complication.1.title",
+              "default": {
+                "kind": "string",
+                "value": "STEPS"
+              }
+            },
+            {
+              "name": "dwf.complication.1.text",
+              "default": {
+                "kind": "string",
+                "value": "4200"
+              }
+            },
+            {
+              "name": "dwf.complication.1.has_monochromatic_image",
+              "default": {
+                "kind": "bool",
+                "value": false
+              }
+            },
+            {
+              "name": "dwf.complication.1.color_count",
+              "default": {
+                "kind": "int",
+                "value": 0
+              }
+            },
+            {
+              "name": "dwf.complication.2.title",
+              "default": {
+                "kind": "string",
+                "value": "BATT"
+              }
+            },
+            {
+              "name": "dwf.complication.2.text",
+              "default": {
+                "kind": "string",
+                "value": "85%"
+              }
+            },
+            {
+              "name": "dwf.complication.2.has_monochromatic_image",
+              "default": {
+                "kind": "bool",
+                "value": false
+              }
+            },
+            {
+              "name": "dwf.complication.2.color_count",
+              "default": {
+                "kind": "int",
+                "value": 0
+              }
+            },
+            {
+              "name": "dwf.complication.3.title",
+              "default": {
+                "kind": "string",
+                "value": "BPM"
+              }
+            },
+            {
+              "name": "dwf.complication.3.text",
+              "default": {
+                "kind": "string",
+                "value": "72"
+              }
+            },
+            {
+              "name": "dwf.complication.3.has_monochromatic_image",
+              "default": {
+                "kind": "bool",
+                "value": false
+              }
+            },
+            {
+              "name": "dwf.complication.3.color_count",
+              "default": {
+                "kind": "int",
+                "value": 0
+              }
+            },
+            {
+              "name": "dwf.complication.4.title",
+              "default": {
+                "kind": "string",
+                "value": "Calendar"
+              }
+            },
+            {
+              "name": "dwf.complication.4.text",
+              "default": {
+                "kind": "string",
+                "value": "Design Sync 10:30"
+              }
+            },
+            {
+              "name": "dwf.complication.4.has_monochromatic_image",
+              "default": {
+                "kind": "bool",
+                "value": false
+              }
+            },
+            {
+              "name": "dwf.complication.4.has_small_image",
+              "default": {
+                "kind": "bool",
+                "value": false
+              }
+            },
+            {
+              "name": "dwf.complication.0.type",
+              "default": {
+                "kind": "int",
+                "value": 0
+              }
+            },
+            {
+              "name": "dwf.complication.1.type",
+              "default": {
+                "kind": "int",
+                "value": 1
+              }
+            },
+            {
+              "name": "dwf.complication.2.type",
+              "default": {
+                "kind": "int",
+                "value": 1
+              }
+            },
+            {
+              "name": "dwf.complication.3.type",
+              "default": {
+                "kind": "int",
+                "value": 1
+              }
+            },
+            {
+              "name": "dwf.complication.4.type",
+              "default": {
+                "kind": "int",
+                "value": 2
+              }
+            },
+            {
+              "name": "dwf.complication.0.has_photo_image",
+              "default": {
+                "kind": "bool",
+                "value": false
+              }
+            },
+            {
+              "name": "dwf.complication.0.accent_color",
+              "default": {
+                "kind": "color",
+                "argb": "#FF1976D2"
+              }
+            },
+            {
+              "name": "dwf.complication.0.image_color",
+              "default": {
+                "kind": "color",
+                "argb": "#FFFFFFFF"
+              }
+            },
+            {
+              "name": "dwf.color.themeColor.0",
+              "default": {
+                "kind": "color",
+                "argb": "#FFDBBBF5"
+              }
+            },
+            {
+              "name": "dwf.color.themeColor.1",
+              "default": {
+                "kind": "color",
+                "argb": "#FFDB324D"
+              }
+            },
+            {
+              "name": "dwf.complication.1.has_small_image",
+              "default": {
+                "kind": "bool",
+                "value": false
+              }
+            },
+            {
+              "name": "dwf.complication.1.accent_color",
+              "default": {
+                "kind": "color",
+                "argb": "#FF1976D2"
+              }
+            },
+            {
+              "name": "dwf.complication.1.image_color",
+              "default": {
+                "kind": "color",
+                "argb": "#FFFFFFFF"
+              }
+            },
+            {
+              "name": "dwf.complication.1.min",
+              "default": {
+                "kind": "float",
+                "value": 0
+              }
+            },
+            {
+              "name": "dwf.complication.1.max",
+              "default": {
+                "kind": "float",
+                "value": 10000
+              }
+            },
+            {
+              "name": "dwf.complication.1.value",
+              "default": {
+                "kind": "float",
+                "value": 4200
+              }
+            },
+            {
+              "name": "dwf.complication.1.has_ranged_value_colors",
+              "default": {
+                "kind": "bool",
+                "value": false
+              }
+            },
+            {
+              "name": "dwf.complication.1.ranged_value_colors_interpolate",
+              "default": {
+                "kind": "bool",
+                "value": false
+              }
+            },
+            {
+              "name": "dwf.complication.1.color.0",
+              "default": {
+                "kind": "color",
+                "argb": "#FF4285F4"
+              }
+            },
+            {
+              "name": "dwf.complication.1.color.1",
+              "default": {
+                "kind": "color",
+                "argb": "#FF34A853"
+              }
+            },
+            {
+              "name": "dwf.complication.1.color.2",
+              "default": {
+                "kind": "color",
+                "argb": "#FFFBBC05"
+              }
+            },
+            {
+              "name": "dwf.complication.1.color.3",
+              "default": {
+                "kind": "color",
+                "argb": "#FFEA4335"
+              }
+            },
+            {
+              "name": "dwf.color.themeColor.2",
+              "default": {
+                "kind": "color",
+                "argb": "#FF333333"
+              }
+            },
+            {
+              "name": "dwf.complication.1.has_goal_progress_colors",
+              "default": {
+                "kind": "bool",
+                "value": false
+              }
+            },
+            {
+              "name": "dwf.complication.1.goal_progress_colors_interpolate",
+              "default": {
+                "kind": "bool",
+                "value": false
+              }
+            },
+            {
+              "name": "dwf.complication.1.weight.0",
+              "default": {
+                "kind": "float",
+                "value": 45
+              }
+            },
+            {
+              "name": "dwf.complication.1.weight.1",
+              "default": {
+                "kind": "float",
+                "value": 35
+              }
+            },
+            {
+              "name": "dwf.complication.1.weight.2",
+              "default": {
+                "kind": "float",
+                "value": 20
+              }
+            },
+            {
+              "name": "dwf.complication.1.weight.3",
+              "default": {
+                "kind": "float",
+                "value": 0
+              }
+            },
+            {
+              "name": "dwf.complication.2.has_small_image",
+              "default": {
+                "kind": "bool",
+                "value": false
+              }
+            },
+            {
+              "name": "dwf.complication.2.accent_color",
+              "default": {
+                "kind": "color",
+                "argb": "#FF1976D2"
+              }
+            },
+            {
+              "name": "dwf.complication.2.image_color",
+              "default": {
+                "kind": "color",
+                "argb": "#FFFFFFFF"
+              }
+            },
+            {
+              "name": "dwf.complication.2.min",
+              "default": {
+                "kind": "float",
+                "value": 0
+              }
+            },
+            {
+              "name": "dwf.complication.2.max",
+              "default": {
+                "kind": "float",
+                "value": 100
+              }
+            },
+            {
+              "name": "dwf.complication.2.value",
+              "default": {
+                "kind": "float",
+                "value": 85
+              }
+            },
+            {
+              "name": "dwf.complication.2.has_ranged_value_colors",
+              "default": {
+                "kind": "bool",
+                "value": false
+              }
+            },
+            {
+              "name": "dwf.complication.2.ranged_value_colors_interpolate",
+              "default": {
+                "kind": "bool",
+                "value": false
+              }
+            },
+            {
+              "name": "dwf.complication.2.color.0",
+              "default": {
+                "kind": "color",
+                "argb": "#FF4285F4"
+              }
+            },
+            {
+              "name": "dwf.complication.2.color.1",
+              "default": {
+                "kind": "color",
+                "argb": "#FF34A853"
+              }
+            },
+            {
+              "name": "dwf.complication.2.color.2",
+              "default": {
+                "kind": "color",
+                "argb": "#FFFBBC05"
+              }
+            },
+            {
+              "name": "dwf.complication.2.color.3",
+              "default": {
+                "kind": "color",
+                "argb": "#FFEA4335"
+              }
+            },
+            {
+              "name": "dwf.complication.2.has_goal_progress_colors",
+              "default": {
+                "kind": "bool",
+                "value": false
+              }
+            },
+            {
+              "name": "dwf.complication.2.goal_progress_colors_interpolate",
+              "default": {
+                "kind": "bool",
+                "value": false
+              }
+            },
+            {
+              "name": "dwf.complication.2.weight.0",
+              "default": {
+                "kind": "float",
+                "value": 45
+              }
+            },
+            {
+              "name": "dwf.complication.2.weight.1",
+              "default": {
+                "kind": "float",
+                "value": 35
+              }
+            },
+            {
+              "name": "dwf.complication.2.weight.2",
+              "default": {
+                "kind": "float",
+                "value": 20
+              }
+            },
+            {
+              "name": "dwf.complication.2.weight.3",
+              "default": {
+                "kind": "float",
+                "value": 0
+              }
+            },
+            {
+              "name": "dwf.complication.3.has_small_image",
+              "default": {
+                "kind": "bool",
+                "value": false
+              }
+            },
+            {
+              "name": "dwf.complication.3.accent_color",
+              "default": {
+                "kind": "color",
+                "argb": "#FF1976D2"
+              }
+            },
+            {
+              "name": "dwf.complication.3.image_color",
+              "default": {
+                "kind": "color",
+                "argb": "#FFFFFFFF"
+              }
+            },
+            {
+              "name": "dwf.complication.3.min",
+              "default": {
+                "kind": "float",
+                "value": 0
+              }
+            },
+            {
+              "name": "dwf.complication.3.max",
+              "default": {
+                "kind": "float",
+                "value": 200
+              }
+            },
+            {
+              "name": "dwf.complication.3.value",
+              "default": {
+                "kind": "float",
+                "value": 72
+              }
+            },
+            {
+              "name": "dwf.complication.3.has_ranged_value_colors",
+              "default": {
+                "kind": "bool",
+                "value": false
+              }
+            },
+            {
+              "name": "dwf.complication.3.ranged_value_colors_interpolate",
+              "default": {
+                "kind": "bool",
+                "value": false
+              }
+            },
+            {
+              "name": "dwf.complication.3.color.0",
+              "default": {
+                "kind": "color",
+                "argb": "#FF4285F4"
+              }
+            },
+            {
+              "name": "dwf.complication.3.color.1",
+              "default": {
+                "kind": "color",
+                "argb": "#FF34A853"
+              }
+            },
+            {
+              "name": "dwf.complication.3.color.2",
+              "default": {
+                "kind": "color",
+                "argb": "#FFFBBC05"
+              }
+            },
+            {
+              "name": "dwf.complication.3.color.3",
+              "default": {
+                "kind": "color",
+                "argb": "#FFEA4335"
+              }
+            },
+            {
+              "name": "dwf.complication.3.has_goal_progress_colors",
+              "default": {
+                "kind": "bool",
+                "value": false
+              }
+            },
+            {
+              "name": "dwf.complication.3.goal_progress_colors_interpolate",
+              "default": {
+                "kind": "bool",
+                "value": false
+              }
+            },
+            {
+              "name": "dwf.complication.3.weight.0",
+              "default": {
+                "kind": "float",
+                "value": 45
+              }
+            },
+            {
+              "name": "dwf.complication.3.weight.1",
+              "default": {
+                "kind": "float",
+                "value": 35
+              }
+            },
+            {
+              "name": "dwf.complication.3.weight.2",
+              "default": {
+                "kind": "float",
+                "value": 20
+              }
+            },
+            {
+              "name": "dwf.complication.3.weight.3",
+              "default": {
+                "kind": "float",
+                "value": 0
+              }
+            },
+            {
+              "name": "dwf.complication.4.accent_color",
+              "default": {
+                "kind": "color",
+                "argb": "#FF1976D2"
+              }
+            },
+            {
+              "name": "dwf.complication.4.image_color",
+              "default": {
+                "kind": "color",
+                "argb": "#FFFFFFFF"
+              }
+            }
+          ],
+          "previewParams": {
+            "capturePlayer": "cmp-jvm",
+            "device": "id:wearos_large_round",
+            "widthDp": 450,
+            "heightDp": 450
+          },
+          "density": 1
+        }
+      ],
+      "greenlines": [],
+      "redlines": [],
+      "section": "Watch Faces",
+      "group": "Watch Face Format",
+      "caption": "Analog watch face with five customizable complication slots (SHORT_TEXT, RANGED_VALUE, MONOCHROMATIC_IMAGE, SMALL_IMAGE, GOAL_PROGRESS, WEIGHTED_ELEMENTS) and a color style configuration.",
+      "wireframe": "wireframes/watchfaceformat-complications.svg",
+      "sourceFile": "src/main/res/raw/wff_complications.xml",
+      "sourceModule": ":wff-complications",
+      "sourceDirectory": "WatchFaceFormat/Complications/watchface",
+      "sourceFunction": "wff_complications"
+    },
+    {
+      "componentId": "WatchFaceFormat/Flavors",
+      "images": [
+        {
+          "variant": "ideal",
+          "path": "images/watchfaceformat-flavors/ideal__default__compact.png",
+          "state": "default",
+          "width": 450,
+          "height": 450,
+          "size": "compact",
+          "livePreview": "https://preview.coo.ee/wear-os-samples-watchfaces/p/watchfaceformat-flavors__ideal__default__compact",
+          "previewId": "module_3a7766662d666c61766f7273__module_7766662d666c61766f7273__dwf__raw_wff_flavors",
+          "remoteComposeKnobs": [
+            {
+              "name": "dwf.is_ambient",
+              "default": {
+                "kind": "bool",
+                "value": false
+              }
+            },
+            {
+              "name": "dwf.complication.0.text",
+              "default": {
+                "kind": "string",
+                "value": "06:42"
+              }
+            },
+            {
+              "name": "dwf.complication.0.has_monochromatic_image",
+              "default": {
+                "kind": "bool",
+                "value": false
+              }
+            },
+            {
+              "name": "dwf.complication.0.title",
+              "default": {
+                "kind": "string",
+                "value": "SUNRISE"
+              }
+            },
+            {
+              "name": "dwf.complication.0.type",
+              "default": {
+                "kind": "int",
+                "value": 1
+              }
+            },
+            {
+              "name": "dwf.config.clockAppearance",
+              "default": {
+                "kind": "int",
+                "value": 0
+              }
+            },
+            {
+              "name": "dwf.color.themeColor.0",
+              "default": {
+                "kind": "color",
+                "argb": "#FFFFFFFF"
+              }
+            },
+            {
+              "name": "dwf.config.showHr",
+              "default": {
+                "kind": "bool",
+                "value": true
+              }
+            },
+            {
+              "name": "metrics.heart_rate",
+              "default": {
+                "kind": "float",
+                "value": 72
+              }
+            },
+            {
+              "name": "dwf.color.themeColor.1",
+              "default": {
+                "kind": "color",
+                "argb": "#FFCCCCCC"
+              }
+            },
+            {
+              "name": "dwf.color.themeColor.2",
+              "default": {
+                "kind": "color",
+                "argb": "#FF999999"
+              }
+            }
+          ],
+          "previewParams": {
+            "capturePlayer": "cmp-jvm",
+            "device": "id:wearos_large_round",
+            "widthDp": 450,
+            "heightDp": 450
+          },
+          "density": 1
+        }
+      ],
+      "greenlines": [],
+      "redlines": [],
+      "section": "Watch Faces",
+      "group": "Watch Face Format",
+      "caption": "Preset-flavor watch face combining four complication slots with four user configurations and three curated style flavors.",
+      "wireframe": "wireframes/watchfaceformat-flavors.svg",
+      "sourceFile": "src/main/res/raw/wff_flavors.xml",
+      "sourceModule": ":wff-flavors",
+      "sourceDirectory": "WatchFaceFormat/Flavors/watchface",
+      "sourceFunction": "wff_flavors"
+    },
+    {
+      "componentId": "WatchFaceFormat/PhotosMask",
+      "images": [
+        {
+          "variant": "ideal",
+          "path": "images/watchfaceformat-photosmask/ideal__default__compact.png",
+          "state": "default",
+          "width": 450,
+          "height": 450,
+          "size": "compact",
+          "livePreview": "https://preview.coo.ee/wear-os-samples-watchfaces/p/watchfaceformat-photosmask__ideal__default__compact",
+          "previewId": "module_3a7766662d70686f746f732d6d61736b__module_7766662d70686f746f732d6d61736b__dwf__raw_wff_photos_mask",
+          "remoteComposeKnobs": [
+            {
+              "name": "dwf.is_ambient",
+              "default": {
+                "kind": "bool",
+                "value": false
+              }
+            }
+          ],
+          "previewParams": {
+            "capturePlayer": "cmp-jvm",
+            "device": "id:wearos_large_round",
+            "widthDp": 450,
+            "heightDp": 450
+          },
+          "density": 1
+        }
+      ],
+      "greenlines": [],
+      "redlines": [],
+      "section": "Watch Faces",
+      "group": "Watch Face Format",
+      "caption": "Digital watch face with a masked background photo user configuration.",
+      "wireframe": "wireframes/watchfaceformat-photosmask.svg",
+      "sourceFile": "src/main/res/raw/wff_photos_mask.xml",
+      "sourceModule": ":wff-photos-mask",
+      "sourceDirectory": "WatchFaceFormat/PhotosMask/watchface",
+      "sourceFunction": "wff_photos_mask"
+    },
+    {
+      "componentId": "WatchFaceFormat/PhotosMulti",
+      "images": [
+        {
+          "variant": "ideal",
+          "path": "images/watchfaceformat-photosmulti/ideal__default__compact.png",
+          "state": "default",
+          "width": 450,
+          "height": 450,
+          "size": "compact",
+          "livePreview": "https://preview.coo.ee/wear-os-samples-watchfaces/p/watchfaceformat-photosmulti__ideal__default__compact",
+          "previewId": "module_3a7766662d70686f746f732d6d756c7469__module_7766662d70686f746f732d6d756c7469__dwf__raw_wff_photos_multi",
+          "remoteComposeKnobs": [
+            {
+              "name": "dwf.is_ambient",
+              "default": {
+                "kind": "bool",
+                "value": false
+              }
+            }
+          ],
+          "previewParams": {
+            "capturePlayer": "cmp-jvm",
+            "device": "id:wearos_large_round",
+            "widthDp": 450,
+            "heightDp": 450
+          },
+          "density": 1
+        }
+      ],
+      "greenlines": [],
+      "redlines": [],
+      "section": "Watch Faces",
+      "group": "Watch Face Format",
+      "caption": "Digital watch face with a multi-photo background user configuration.",
+      "wireframe": "wireframes/watchfaceformat-photosmulti.svg",
+      "sourceFile": "src/main/res/raw/wff_photos_multi.xml",
+      "sourceModule": ":wff-photos-multi",
+      "sourceDirectory": "WatchFaceFormat/PhotosMulti/watchface",
+      "sourceFunction": "wff_photos_multi"
+    },
+    {
+      "componentId": "WatchFaceFormat/SimpleAnalog",
+      "images": [
+        {
+          "variant": "ideal",
+          "path": "images/watchfaceformat-simpleanalog/ideal__default__compact.png",
+          "state": "default",
+          "width": 450,
+          "height": 450,
+          "size": "compact",
+          "livePreview": "https://preview.coo.ee/wear-os-samples-watchfaces/p/watchfaceformat-simpleanalog__ideal__default__compact",
+          "previewId": "module_3a7766662d73696d706c652d616e616c6f67__module_7766662d73696d706c652d616e616c6f67__dwf__raw_wff_simple_analog",
+          "remoteComposeKnobs": [
+            {
+              "name": "dwf.is_ambient",
+              "default": {
+                "kind": "bool",
+                "value": false
+              }
+            },
+            {
+              "name": "dwf.color.themeColor.3",
+              "default": {
+                "kind": "color",
+                "argb": "#FF8338EC"
+              }
+            },
+            {
+              "name": "dwf.color.themeColor.4",
+              "default": {
+                "kind": "color",
+                "argb": "#883C3C3C"
+              }
+            },
+            {
+              "name": "dwf.color.themeColor.0",
+              "default": {
+                "kind": "color",
+                "argb": "#FFFFBE0B"
+              }
+            },
+            {
+              "name": "dwf.color.themeColor.1",
+              "default": {
+                "kind": "color",
+                "argb": "#FFFB5607"
+              }
+            },
+            {
+              "name": "dwf.color.themeColor.2",
+              "default": {
+                "kind": "color",
+                "argb": "#FFFF006E"
+              }
+            }
+          ],
+          "previewParams": {
+            "capturePlayer": "cmp-jvm",
+            "device": "id:wearos_large_round",
+            "widthDp": 450,
+            "heightDp": 450
+          },
+          "density": 1
+        }
+      ],
+      "greenlines": [],
+      "redlines": [],
+      "section": "Watch Faces",
+      "group": "Watch Face Format",
+      "caption": "Minimal analog watch face with hour, minute, and second hands and a color style configuration.",
+      "wireframe": "wireframes/watchfaceformat-simpleanalog.svg",
+      "sourceFile": "src/main/res/raw/wff_simple_analog.xml",
+      "sourceModule": ":wff-simple-analog",
+      "sourceDirectory": "WatchFaceFormat/SimpleAnalog/watchface",
+      "sourceFunction": "wff_simple_analog"
+    },
+    {
+      "componentId": "WatchFaceFormat/SimpleDigital",
+      "images": [
+        {
+          "variant": "ideal",
+          "path": "images/watchfaceformat-simpledigital/ideal__default__compact.png",
+          "state": "default",
+          "width": 450,
+          "height": 450,
+          "size": "compact",
+          "livePreview": "https://preview.coo.ee/wear-os-samples-watchfaces/p/watchfaceformat-simpledigital__ideal__default__compact",
+          "previewId": "module_3a7766662d73696d706c652d6469676974616c__module_7766662d73696d706c652d6469676974616c__dwf__raw_wff_simple_digital",
+          "remoteComposeKnobs": [
+            {
+              "name": "dwf.is_ambient",
+              "default": {
+                "kind": "bool",
+                "value": false
+              }
+            }
+          ],
+          "previewParams": {
+            "capturePlayer": "cmp-jvm",
+            "device": "id:wearos_large_round",
+            "widthDp": 450,
+            "heightDp": 450
+          },
+          "density": 1
+        }
+      ],
+      "greenlines": [],
+      "redlines": [],
+      "section": "Watch Faces",
+      "group": "Watch Face Format",
+      "caption": "Minimal digital watch face with clean typography and ambient mode.",
+      "wireframe": "wireframes/watchfaceformat-simpledigital.svg",
+      "sourceFile": "src/main/res/raw/wff_simple_digital.xml",
+      "sourceModule": ":wff-simple-digital",
+      "sourceDirectory": "WatchFaceFormat/SimpleDigital/watchface",
+      "sourceFunction": "wff_simple_digital"
+    },
+    {
+      "componentId": "WatchFaceFormat/Weather",
+      "images": [
+        {
+          "variant": "ideal",
+          "path": "images/watchfaceformat-weather/ideal__default__compact.png",
+          "state": "default",
+          "width": 450,
+          "height": 450,
+          "size": "compact",
+          "livePreview": "https://preview.coo.ee/wear-os-samples-watchfaces/p/watchfaceformat-weather__ideal__default__compact",
+          "previewId": "module_3a7766662d77656174686572__module_7766662d77656174686572__dwf__raw_wff_weather",
+          "remoteComposeKnobs": [
+            {
+              "name": "dwf.is_ambient",
+              "default": {
+                "kind": "bool",
+                "value": false
+              }
+            },
+            {
+              "name": "dwf.weather.is_available",
+              "default": {
+                "kind": "bool",
+                "value": true
+              }
+            },
+            {
+              "name": "dwf.weather.condition",
+              "default": {
+                "kind": "int",
+                "value": 14
+              }
+            },
+            {
+              "name": "dwf.is_24_hour",
+              "default": {
+                "kind": "bool",
+                "value": true
+              }
+            },
+            {
+              "name": "dwf.weather.last_updated_text",
+              "default": {
+                "kind": "string",
+                "value": ""
+              }
+            },
+            {
+              "name": "dwf.weather.condition_name",
+              "default": {
+                "kind": "string",
+                "value": "Partly Cloudy"
+              }
+            },
+            {
+              "name": "dwf.weather.is_day",
+              "default": {
+                "kind": "bool",
+                "value": true
+              }
+            },
+            {
+              "name": "dwf.weather.temperature",
+              "default": {
+                "kind": "float",
+                "value": 22
+              }
+            },
+            {
+              "name": "dwf.weather.temperature_unit",
+              "default": {
+                "kind": "int",
+                "value": 1
+              }
+            },
+            {
+              "name": "dwf.weather.hours.1.is_available",
+              "default": {
+                "kind": "bool",
+                "value": true
+              }
+            },
+            {
+              "name": "dwf.weather.hours.1.condition",
+              "default": {
+                "kind": "int",
+                "value": 14
+              }
+            },
+            {
+              "name": "dwf.weather.hours.1.is_day",
+              "default": {
+                "kind": "bool",
+                "value": true
+              }
+            },
+            {
+              "name": "dwf.weather.hours.1.temperature",
+              "default": {
+                "kind": "float",
+                "value": 22
+              }
+            },
+            {
+              "name": "dwf.weather.hours.2.is_available",
+              "default": {
+                "kind": "bool",
+                "value": true
+              }
+            },
+            {
+              "name": "dwf.weather.hours.2.condition",
+              "default": {
+                "kind": "int",
+                "value": 8
+              }
+            },
+            {
+              "name": "dwf.weather.hours.2.is_day",
+              "default": {
+                "kind": "bool",
+                "value": true
+              }
+            },
+            {
+              "name": "dwf.weather.hours.2.temperature",
+              "default": {
+                "kind": "float",
+                "value": 23
+              }
+            },
+            {
+              "name": "dwf.weather.hours.3.is_available",
+              "default": {
+                "kind": "bool",
+                "value": true
+              }
+            },
+            {
+              "name": "dwf.weather.hours.3.condition",
+              "default": {
+                "kind": "int",
+                "value": 8
+              }
+            },
+            {
+              "name": "dwf.weather.hours.3.is_day",
+              "default": {
+                "kind": "bool",
+                "value": true
+              }
+            },
+            {
+              "name": "dwf.weather.hours.3.temperature",
+              "default": {
+                "kind": "float",
+                "value": 24
+              }
+            },
+            {
+              "name": "dwf.weather.hours.4.is_available",
+              "default": {
+                "kind": "bool",
+                "value": true
+              }
+            },
+            {
+              "name": "dwf.weather.hours.4.condition",
+              "default": {
+                "kind": "int",
+                "value": 2
+              }
+            },
+            {
+              "name": "dwf.weather.hours.4.is_day",
+              "default": {
+                "kind": "bool",
+                "value": true
+              }
+            },
+            {
+              "name": "dwf.weather.hours.4.temperature",
+              "default": {
+                "kind": "float",
+                "value": 23
+              }
+            },
+            {
+              "name": "dwf.weather.days.1.is_available",
+              "default": {
+                "kind": "bool",
+                "value": true
+              }
+            },
+            {
+              "name": "dwf.weather.days.1.condition_day",
+              "default": {
+                "kind": "int",
+                "value": 8
+              }
+            },
+            {
+              "name": "dwf.weather.days.1.condition_night",
+              "default": {
+                "kind": "int",
+                "value": 1
+              }
+            },
+            {
+              "name": "dwf.weather.days.1.temperature_high",
+              "default": {
+                "kind": "float",
+                "value": 24
+              }
+            },
+            {
+              "name": "dwf.weather.days.1.chance_of_precipitation",
+              "default": {
+                "kind": "int",
+                "value": 15
+              }
+            },
+            {
+              "name": "dwf.weather.days.1.temperature_low",
+              "default": {
+                "kind": "float",
+                "value": 16
+              }
+            },
+            {
+              "name": "dwf.weather.days.1.chance_of_precipitation_night",
+              "default": {
+                "kind": "int",
+                "value": 10
+              }
+            }
+          ],
+          "previewParams": {
+            "capturePlayer": "cmp-jvm",
+            "device": "id:wearos_large_round",
+            "widthDp": 450,
+            "heightDp": 450
+          },
+          "density": 1
+        }
+      ],
+      "greenlines": [],
+      "redlines": [],
+      "section": "Watch Faces",
+      "group": "Watch Face Format",
+      "caption": "Watch Face Format v2 weather watch face driven by [WEATHER.*] data bindings.",
+      "wireframe": "wireframes/watchfaceformat-weather.svg",
+      "sourceFile": "src/main/res/raw/wff_weather.xml",
+      "sourceModule": ":wff-weather",
+      "sourceDirectory": "WatchFaceFormat/Weather/watchface",
+      "sourceFunction": "wff_weather"
+    },
+    {
+      "componentId": "WatchFacePush/Default",
+      "images": [
+        {
+          "variant": "ideal",
+          "path": "images/watchfacepush-default/ideal__default__compact.png",
+          "state": "default",
+          "width": 450,
+          "height": 450,
+          "size": "compact",
+          "livePreview": "https://preview.coo.ee/wear-os-samples-watchfaces/p/watchfacepush-default__ideal__default__compact",
+          "previewId": "module_3a7766702d64656661756c74__module_7766702d64656661756c74__dwf__raw_wfp_default",
+          "remoteComposeKnobs": [
+            {
+              "name": "dwf.is_ambient",
+              "default": {
+                "kind": "bool",
+                "value": false
+              }
+            }
+          ],
+          "previewParams": {
+            "capturePlayer": "cmp-jvm",
+            "device": "id:wearos_large_round",
+            "widthDp": 450,
+            "heightDp": 450
+          },
+          "density": 1
+        }
+      ],
+      "greenlines": [],
+      "redlines": [],
+      "section": "Watch Faces",
+      "group": "Watch Face Push",
+      "caption": "Default marketplace watch face from the WatchFacePush sample.",
+      "wireframe": "wireframes/watchfacepush-default.svg",
+      "sourceFile": "src/main/res/raw/wfp_default.xml",
+      "sourceModule": ":wfp-default",
+      "sourceDirectory": "WatchFacePush/samples/defaultwf",
+      "sourceFunction": "wfp_default"
+    },
+    {
+      "componentId": "WatchFacePush/Firefly",
+      "images": [
+        {
+          "variant": "ideal",
+          "path": "images/watchfacepush-firefly/ideal__default__compact.png",
+          "state": "default",
+          "width": 450,
+          "height": 450,
+          "size": "compact",
+          "livePreview": "https://preview.coo.ee/wear-os-samples-watchfaces/p/watchfacepush-firefly__ideal__default__compact",
+          "previewId": "module_3a7766702d66697265666c79__module_7766702d66697265666c79__dwf__raw_wfp_firefly",
+          "previewParams": {
+            "capturePlayer": "cmp-jvm",
+            "device": "id:wearos_large_round",
+            "widthDp": 450,
+            "heightDp": 450
+          },
+          "density": 1
+        }
+      ],
+      "greenlines": [],
+      "redlines": [],
+      "section": "Watch Faces",
+      "group": "Watch Face Push",
+      "caption": "Firefly watch face from the WatchFacePush sample.",
+      "wireframe": "wireframes/watchfacepush-firefly.svg",
+      "sourceFile": "src/main/res/raw/wfp_firefly.xml",
+      "sourceModule": ":wfp-firefly",
+      "sourceDirectory": "WatchFacePush/samples/firefly",
+      "sourceFunction": "wfp_firefly"
+    },
+    {
+      "componentId": "WatchFacePush/River",
+      "images": [
+        {
+          "variant": "ideal",
+          "path": "images/watchfacepush-river/ideal__default__compact.png",
+          "state": "default",
+          "width": 450,
+          "height": 450,
+          "size": "compact",
+          "livePreview": "https://preview.coo.ee/wear-os-samples-watchfaces/p/watchfacepush-river__ideal__default__compact",
+          "previewId": "module_3a7766702d7269766572__module_7766702d7269766572__dwf__raw_wfp_river",
+          "previewParams": {
+            "capturePlayer": "cmp-jvm",
+            "device": "id:wearos_large_round",
+            "widthDp": 450,
+            "heightDp": 450
+          },
+          "density": 1
+        }
+      ],
+      "greenlines": [],
+      "redlines": [],
+      "section": "Watch Faces",
+      "group": "Watch Face Push",
+      "caption": "River watch face from the WatchFacePush sample.",
+      "wireframe": "wireframes/watchfacepush-river.svg",
+      "sourceFile": "src/main/res/raw/wfp_river.xml",
+      "sourceModule": ":wfp-river",
+      "sourceDirectory": "WatchFacePush/samples/river",
+      "sourceFunction": "wfp_river"
+    }
+  ],
+  "renderer": "compose-preview 2.92.0",
+  "generatedAt": "2026-11-15T08:49:34.810Z",
+  "display": {
+    "surface": "dark",
+    "hero": "WatchFaceFormat/Complications"
+  },
+  "liveBundle": {
+    "path": "bundle/",
+    "file": "bundle.png"
+  },
+  "liveBundles": [
+    {
+      "path": "bundle/",
+      "file": "bundle.png",
+      "module": ":wff-complications",
+      "previewIdPrefix": ""
+    },
+    {
+      "path": "bundle/modules/module_3a7766662d666c61766f7273/",
+      "file": "module_7766662d666c61766f7273.png",
+      "module": ":wff-flavors",
+      "previewIdPrefix": "module_3a7766662d666c61766f7273__"
+    },
+    {
+      "path": "bundle/modules/module_3a7766662d70686f746f732d6d61736b/",
+      "file": "module_7766662d70686f746f732d6d61736b.png",
+      "module": ":wff-photos-mask",
+      "previewIdPrefix": "module_3a7766662d70686f746f732d6d61736b__"
+    },
+    {
+      "path": "bundle/modules/module_3a7766662d70686f746f732d6d756c7469/",
+      "file": "module_7766662d70686f746f732d6d756c7469.png",
+      "module": ":wff-photos-multi",
+      "previewIdPrefix": "module_3a7766662d70686f746f732d6d756c7469__"
+    },
+    {
+      "path": "bundle/modules/module_3a7766662d73696d706c652d616e616c6f67/",
+      "file": "module_7766662d73696d706c652d616e616c6f67.png",
+      "module": ":wff-simple-analog",
+      "previewIdPrefix": "module_3a7766662d73696d706c652d616e616c6f67__"
+    },
+    {
+      "path": "bundle/modules/module_3a7766662d73696d706c652d6469676974616c/",
+      "file": "module_7766662d73696d706c652d6469676974616c.png",
+      "module": ":wff-simple-digital",
+      "previewIdPrefix": "module_3a7766662d73696d706c652d6469676974616c__"
+    },
+    {
+      "path": "bundle/modules/module_3a7766662d77656174686572/",
+      "file": "module_7766662d77656174686572.png",
+      "module": ":wff-weather",
+      "previewIdPrefix": "module_3a7766662d77656174686572__"
+    },
+    {
+      "path": "bundle/modules/module_3a7766702d64656661756c74/",
+      "file": "module_7766702d64656661756c74.png",
+      "module": ":wfp-default",
+      "previewIdPrefix": "module_3a7766702d64656661756c74__"
+    },
+    {
+      "path": "bundle/modules/module_3a7766702d66697265666c79/",
+      "file": "module_7766702d66697265666c79.png",
+      "module": ":wfp-firefly",
+      "previewIdPrefix": "module_3a7766702d66697265666c79__"
+    },
+    {
+      "path": "bundle/modules/module_3a7766702d7269766572/",
+      "file": "module_7766702d7269766572.png",
+      "module": ":wfp-river",
+      "previewIdPrefix": "module_3a7766702d7269766572__"
+    }
+  ],
+  "componentsFile": "components.json",
+  "source": {
+    "repo": "android/wear-os-samples",
+    "ref": "665d6a48466d472a4d928661dd865364d5073799",
+    "module": ""
+  }
+}
