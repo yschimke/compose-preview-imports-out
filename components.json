@@ -1,0 +1,7 @@
+{
+    "schemaVersion": 2,
+    "module": "app",
+    "variant": "debug",
+    "components": [],
+    "builderOrphans": []
+}

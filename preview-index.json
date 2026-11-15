@@ -1,0 +1,8 @@
+{
+  "schema": "compose-preview-revision-index/v1",
+  "current": [
+    "watchface-default__ideal__default__compact",
+    "watchface-pixel__ideal__default__compact"
+  ],
+  "revisions": []
+}

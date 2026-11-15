@@ -1,0 +1,785 @@
+{
+  "schema": "design-parity-catalog/v1",
+  "system": "bonstio-casino-gshark",
+  "title": "Casino G-Shark 200M",
+  "components": [
+    {
+      "componentId": "WatchFace/Pixel",
+      "images": [
+        {
+          "variant": "ideal",
+          "path": "images/watchface-pixel/ideal__default__compact.png",
+          "state": "default",
+          "width": 450,
+          "height": 450,
+          "size": "compact",
+          "livePreview": "https://preview.coo.ee/bonstio-casino-gshark/p/watchface-pixel__ideal__default__compact",
+          "previewId": "dwf__raw_watchface_pixel",
+          "remoteComposeKnobs": [
+            {
+              "name": "dwf.config.tickStyle",
+              "default": {
+                "kind": "int",
+                "value": 0
+              }
+            },
+            {
+              "name": "dwf.is_ambient",
+              "default": {
+                "kind": "bool",
+                "value": false
+              }
+            },
+            {
+              "name": "dwf.config.bgTexture",
+              "default": {
+                "kind": "int",
+                "value": 0
+              }
+            },
+            {
+              "name": "dwf.config.analogHands",
+              "default": {
+                "kind": "int",
+                "value": 0
+              }
+            },
+            {
+              "name": "dwf.config.topLogo",
+              "default": {
+                "kind": "int",
+                "value": 0
+              }
+            },
+            {
+              "name": "dwf.config.bottomLogo",
+              "default": {
+                "kind": "int",
+                "value": 0
+              }
+            },
+            {
+              "name": "dwf.config.timeColor",
+              "default": {
+                "kind": "int",
+                "value": 0
+              }
+            },
+            {
+              "name": "dwf.is_24_hour",
+              "default": {
+                "kind": "bool",
+                "value": true
+              }
+            },
+            {
+              "name": "dwf.config.bottomStyle",
+              "default": {
+                "kind": "int",
+                "value": 0
+              }
+            },
+            {
+              "name": "dwf.config.quadStyle",
+              "default": {
+                "kind": "int",
+                "value": 0
+              }
+            },
+            {
+              "name": "dwf.config.bottomBayMode",
+              "default": {
+                "kind": "int",
+                "value": 4
+              }
+            },
+            {
+              "name": "dwf.complication.6.text",
+              "default": {
+                "kind": "string",
+                "value": "72"
+              }
+            },
+            {
+              "name": "dwf.config.subDialMode",
+              "default": {
+                "kind": "int",
+                "value": 0
+              }
+            },
+            {
+              "name": "dwf.config.secondsDot",
+              "default": {
+                "kind": "int",
+                "value": 0
+              }
+            },
+            {
+              "name": "dwf.config.screenTexture",
+              "default": {
+                "kind": "int",
+                "value": 0
+              }
+            },
+            {
+              "name": "dwf.config.logoColor",
+              "default": {
+                "kind": "int",
+                "value": 0
+              }
+            },
+            {
+              "name": "dwf.config.secColor",
+              "default": {
+                "kind": "int",
+                "value": 0
+              }
+            },
+            {
+              "name": "dwf.complication.1.type",
+              "default": {
+                "kind": "int",
+                "value": 1
+              }
+            },
+            {
+              "name": "dwf.complication.2.type",
+              "default": {
+                "kind": "int",
+                "value": 1
+              }
+            },
+            {
+              "name": "dwf.complication.3.type",
+              "default": {
+                "kind": "int",
+                "value": 1
+              }
+            },
+            {
+              "name": "dwf.complication.4.type",
+              "default": {
+                "kind": "int",
+                "value": 1
+              }
+            },
+            {
+              "name": "dwf.complication.5.type",
+              "default": {
+                "kind": "int",
+                "value": 2
+              }
+            },
+            {
+              "name": "dwf.complication.6.type",
+              "default": {
+                "kind": "int",
+                "value": 1
+              }
+            },
+            {
+              "name": "dwf.config.bgBorder",
+              "default": {
+                "kind": "int",
+                "value": 0
+              }
+            },
+            {
+              "name": "dwf.color.themeColor.0",
+              "default": {
+                "kind": "color",
+                "argb": "#FFBAFA08"
+              }
+            },
+            {
+              "name": "dwf.complication.1.has_monochromatic_image",
+              "default": {
+                "kind": "bool",
+                "value": false
+              }
+            },
+            {
+              "name": "dwf.complication.1.text",
+              "default": {
+                "kind": "string",
+                "value": "4200"
+              }
+            },
+            {
+              "name": "dwf.complication.1.title",
+              "default": {
+                "kind": "string",
+                "value": "STEPS"
+              }
+            },
+            {
+              "name": "dwf.complication.1.has_small_image",
+              "default": {
+                "kind": "bool",
+                "value": false
+              }
+            },
+            {
+              "name": "dwf.complication.1.image_color",
+              "default": {
+                "kind": "color",
+                "argb": "#FFFFFFFF"
+              }
+            },
+            {
+              "name": "dwf.complication.2.has_monochromatic_image",
+              "default": {
+                "kind": "bool",
+                "value": false
+              }
+            },
+            {
+              "name": "dwf.complication.2.text",
+              "default": {
+                "kind": "string",
+                "value": "85%"
+              }
+            },
+            {
+              "name": "dwf.complication.2.title",
+              "default": {
+                "kind": "string",
+                "value": "BATT"
+              }
+            },
+            {
+              "name": "dwf.complication.2.has_small_image",
+              "default": {
+                "kind": "bool",
+                "value": false
+              }
+            },
+            {
+              "name": "dwf.complication.2.image_color",
+              "default": {
+                "kind": "color",
+                "argb": "#FFFFFFFF"
+              }
+            },
+            {
+              "name": "dwf.complication.3.has_monochromatic_image",
+              "default": {
+                "kind": "bool",
+                "value": false
+              }
+            },
+            {
+              "name": "dwf.complication.3.text",
+              "default": {
+                "kind": "string",
+                "value": "06:42"
+              }
+            },
+            {
+              "name": "dwf.complication.3.title",
+              "default": {
+                "kind": "string",
+                "value": "SUNRISE"
+              }
+            },
+            {
+              "name": "dwf.complication.3.has_small_image",
+              "default": {
+                "kind": "bool",
+                "value": false
+              }
+            },
+            {
+              "name": "dwf.complication.3.image_color",
+              "default": {
+                "kind": "color",
+                "argb": "#FFFFFFFF"
+              }
+            },
+            {
+              "name": "dwf.complication.4.has_monochromatic_image",
+              "default": {
+                "kind": "bool",
+                "value": false
+              }
+            },
+            {
+              "name": "dwf.complication.4.text",
+              "default": {
+                "kind": "string",
+                "value": "85%"
+              }
+            },
+            {
+              "name": "dwf.complication.4.title",
+              "default": {
+                "kind": "string",
+                "value": "BATT"
+              }
+            },
+            {
+              "name": "dwf.complication.4.has_small_image",
+              "default": {
+                "kind": "bool",
+                "value": false
+              }
+            },
+            {
+              "name": "dwf.complication.4.image_color",
+              "default": {
+                "kind": "color",
+                "argb": "#FFFFFFFF"
+              }
+            },
+            {
+              "name": "dwf.complication.5.has_monochromatic_image",
+              "default": {
+                "kind": "bool",
+                "value": false
+              }
+            },
+            {
+              "name": "dwf.complication.5.text",
+              "default": {
+                "kind": "string",
+                "value": "Design Sync 10:30"
+              }
+            },
+            {
+              "name": "dwf.complication.5.title",
+              "default": {
+                "kind": "string",
+                "value": "Calendar"
+              }
+            },
+            {
+              "name": "dwf.battery_percent",
+              "default": {
+                "kind": "float",
+                "value": 85
+              }
+            }
+          ],
+          "previewParams": {
+            "capturePlayer": "cmp-jvm",
+            "device": "id:wearos_large_round",
+            "widthDp": 450,
+            "heightDp": 450
+          },
+          "density": 1
+        }
+      ],
+      "greenlines": [],
+      "redlines": [],
+      "section": "Watch Faces",
+      "group": "Watch Faces",
+      "caption": "Digital-analog tactical watch face with six complication slots, subdial world clock/analog hands, and 16 user configurations (Pixel Watch / Wear OS 5+ SysUI configuration ordering).",
+      "wireframe": "wireframes/watchface-pixel.svg",
+      "sourceFile": "src/main/res/raw/watchface_pixel.xml",
+      "sourceDirectory": "app",
+      "sourceFunction": "watchface_pixel",
+      "sourceModule": ":app"
+    },
+    {
+      "componentId": "WatchFace/Default",
+      "images": [
+        {
+          "variant": "ideal",
+          "path": "images/watchface-default/ideal__default__compact.png",
+          "state": "default",
+          "width": 450,
+          "height": 450,
+          "size": "compact",
+          "livePreview": "https://preview.coo.ee/bonstio-casino-gshark/p/watchface-default__ideal__default__compact",
+          "previewId": "dwf__raw_watchface",
+          "remoteComposeKnobs": [
+            {
+              "name": "dwf.config.tickStyle",
+              "default": {
+                "kind": "int",
+                "value": 0
+              }
+            },
+            {
+              "name": "dwf.is_ambient",
+              "default": {
+                "kind": "bool",
+                "value": false
+              }
+            },
+            {
+              "name": "dwf.config.bgTexture",
+              "default": {
+                "kind": "int",
+                "value": 0
+              }
+            },
+            {
+              "name": "dwf.config.analogHands",
+              "default": {
+                "kind": "int",
+                "value": 0
+              }
+            },
+            {
+              "name": "dwf.config.topLogo",
+              "default": {
+                "kind": "int",
+                "value": 0
+              }
+            },
+            {
+              "name": "dwf.config.bottomLogo",
+              "default": {
+                "kind": "int",
+                "value": 0
+              }
+            },
+            {
+              "name": "dwf.config.timeColor",
+              "default": {
+                "kind": "int",
+                "value": 0
+              }
+            },
+            {
+              "name": "dwf.is_24_hour",
+              "default": {
+                "kind": "bool",
+                "value": true
+              }
+            },
+            {
+              "name": "dwf.config.bottomStyle",
+              "default": {
+                "kind": "int",
+                "value": 0
+              }
+            },
+            {
+              "name": "dwf.config.quadStyle",
+              "default": {
+                "kind": "int",
+                "value": 0
+              }
+            },
+            {
+              "name": "dwf.config.bottomBayMode",
+              "default": {
+                "kind": "int",
+                "value": 4
+              }
+            },
+            {
+              "name": "dwf.complication.6.text",
+              "default": {
+                "kind": "string",
+                "value": "72"
+              }
+            },
+            {
+              "name": "dwf.config.subDialMode",
+              "default": {
+                "kind": "int",
+                "value": 0
+              }
+            },
+            {
+              "name": "dwf.config.secondsDot",
+              "default": {
+                "kind": "int",
+                "value": 0
+              }
+            },
+            {
+              "name": "dwf.config.screenTexture",
+              "default": {
+                "kind": "int",
+                "value": 0
+              }
+            },
+            {
+              "name": "dwf.config.logoColor",
+              "default": {
+                "kind": "int",
+                "value": 0
+              }
+            },
+            {
+              "name": "dwf.config.secColor",
+              "default": {
+                "kind": "int",
+                "value": 0
+              }
+            },
+            {
+              "name": "dwf.complication.1.type",
+              "default": {
+                "kind": "int",
+                "value": 1
+              }
+            },
+            {
+              "name": "dwf.complication.2.type",
+              "default": {
+                "kind": "int",
+                "value": 1
+              }
+            },
+            {
+              "name": "dwf.complication.3.type",
+              "default": {
+                "kind": "int",
+                "value": 1
+              }
+            },
+            {
+              "name": "dwf.complication.4.type",
+              "default": {
+                "kind": "int",
+                "value": 1
+              }
+            },
+            {
+              "name": "dwf.complication.5.type",
+              "default": {
+                "kind": "int",
+                "value": 2
+              }
+            },
+            {
+              "name": "dwf.complication.6.type",
+              "default": {
+                "kind": "int",
+                "value": 1
+              }
+            },
+            {
+              "name": "dwf.config.bgBorder",
+              "default": {
+                "kind": "int",
+                "value": 1
+              }
+            },
+            {
+              "name": "dwf.color.themeColor.0",
+              "default": {
+                "kind": "color",
+                "argb": "#FFBAFA08"
+              }
+            },
+            {
+              "name": "dwf.complication.1.has_monochromatic_image",
+              "default": {
+                "kind": "bool",
+                "value": false
+              }
+            },
+            {
+              "name": "dwf.complication.1.text",
+              "default": {
+                "kind": "string",
+                "value": "4200"
+              }
+            },
+            {
+              "name": "dwf.complication.1.title",
+              "default": {
+                "kind": "string",
+                "value": "STEPS"
+              }
+            },
+            {
+              "name": "dwf.complication.1.has_small_image",
+              "default": {
+                "kind": "bool",
+                "value": false
+              }
+            },
+            {
+              "name": "dwf.complication.1.image_color",
+              "default": {
+                "kind": "color",
+                "argb": "#FFFFFFFF"
+              }
+            },
+            {
+              "name": "dwf.complication.2.has_monochromatic_image",
+              "default": {
+                "kind": "bool",
+                "value": false
+              }
+            },
+            {
+              "name": "dwf.complication.2.text",
+              "default": {
+                "kind": "string",
+                "value": "85%"
+              }
+            },
+            {
+              "name": "dwf.complication.2.title",
+              "default": {
+                "kind": "string",
+                "value": "BATT"
+              }
+            },
+            {
+              "name": "dwf.complication.2.has_small_image",
+              "default": {
+                "kind": "bool",
+                "value": false
+              }
+            },
+            {
+              "name": "dwf.complication.2.image_color",
+              "default": {
+                "kind": "color",
+                "argb": "#FFFFFFFF"
+              }
+            },
+            {
+              "name": "dwf.complication.3.has_monochromatic_image",
+              "default": {
+                "kind": "bool",
+                "value": false
+              }
+            },
+            {
+              "name": "dwf.complication.3.text",
+              "default": {
+                "kind": "string",
+                "value": "06:42"
+              }
+            },
+            {
+              "name": "dwf.complication.3.title",
+              "default": {
+                "kind": "string",
+                "value": "SUNRISE"
+              }
+            },
+            {
+              "name": "dwf.complication.3.has_small_image",
+              "default": {
+                "kind": "bool",
+                "value": false
+              }
+            },
+            {
+              "name": "dwf.complication.3.image_color",
+              "default": {
+                "kind": "color",
+                "argb": "#FFFFFFFF"
+              }
+            },
+            {
+              "name": "dwf.complication.4.has_monochromatic_image",
+              "default": {
+                "kind": "bool",
+                "value": false
+              }
+            },
+            {
+              "name": "dwf.complication.4.text",
+              "default": {
+                "kind": "string",
+                "value": "85%"
+              }
+            },
+            {
+              "name": "dwf.complication.4.title",
+              "default": {
+                "kind": "string",
+                "value": "BATT"
+              }
+            },
+            {
+              "name": "dwf.complication.4.has_small_image",
+              "default": {
+                "kind": "bool",
+                "value": false
+              }
+            },
+            {
+              "name": "dwf.complication.4.image_color",
+              "default": {
+                "kind": "color",
+                "argb": "#FFFFFFFF"
+              }
+            },
+            {
+              "name": "dwf.complication.5.has_monochromatic_image",
+              "default": {
+                "kind": "bool",
+                "value": false
+              }
+            },
+            {
+              "name": "dwf.complication.5.text",
+              "default": {
+                "kind": "string",
+                "value": "Design Sync 10:30"
+              }
+            },
+            {
+              "name": "dwf.complication.5.title",
+              "default": {
+                "kind": "string",
+                "value": "Calendar"
+              }
+            },
+            {
+              "name": "dwf.battery_percent",
+              "default": {
+                "kind": "float",
+                "value": 85
+              }
+            }
+          ],
+          "previewParams": {
+            "capturePlayer": "cmp-jvm",
+            "device": "id:wearos_large_round",
+            "widthDp": 450,
+            "heightDp": 450
+          },
+          "density": 1
+        }
+      ],
+      "greenlines": [],
+      "redlines": [],
+      "section": "Watch Faces",
+      "group": "Watch Faces",
+      "caption": "Digital-analog tactical watch face with pre-2025 Wear OS SysUI TreeMap configuration ordering.",
+      "wireframe": "wireframes/watchface-default.svg",
+      "sourceFile": "src/main/res/raw/watchface.xml",
+      "sourceDirectory": "app",
+      "sourceFunction": "watchface",
+      "sourceModule": ":app"
+    }
+  ],
+  "renderer": "compose-preview 2.92.0",
+  "generatedAt": "2026-11-15T08:56:34.814Z",
+  "display": {
+    "surface": "dark",
+    "hero": "WatchFace/Pixel"
+  },
+  "liveBundle": {
+    "path": "bundle/",
+    "file": "bundle.png"
+  },
+  "liveBundles": [
+    {
+      "path": "bundle/",
+      "file": "bundle.png",
+      "module": ":app",
+      "previewIdPrefix": ""
+    }
+  ],
+  "componentsFile": "components.json",
+  "source": {
+    "repo": "bonstio/casino-gshark",
+    "ref": "0a2eb0351c29e7c666ab1afabbaddd5139b2dd99",
+    "module": ":app"
+  }
+}

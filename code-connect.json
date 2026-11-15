@@ -1,0 +1,31 @@
+{
+  "system": "bonstio-casino-gshark",
+  "title": "Casino G-Shark 200M",
+  "label": "Compose",
+  "source": {
+    "repo": "bonstio/casino-gshark",
+    "ref": "0a2eb0351c29e7c666ab1afabbaddd5139b2dd99",
+    "module": ":app"
+  },
+  "generatedAt": "2026-11-15T08:56:36.076Z",
+  "mappings": [
+    {
+      "componentId": "WatchFace/Pixel",
+      "figmaLayerName": "WatchFace/Pixel",
+      "componentName": "watchface_pixel",
+      "source": "https://github.com/bonstio/casino-gshark/blob/0a2eb0351c29e7c666ab1afabbaddd5139b2dd99/app/src/main/res/raw/watchface_pixel.xml",
+      "label": "Compose",
+      "confidence": "preview-fallback",
+      "previewName": "watchface_pixel"
+    },
+    {
+      "componentId": "WatchFace/Default",
+      "figmaLayerName": "WatchFace/Default",
+      "componentName": "watchface",
+      "source": "https://github.com/bonstio/casino-gshark/blob/0a2eb0351c29e7c666ab1afabbaddd5139b2dd99/app/src/main/res/raw/watchface.xml",
+      "label": "Compose",
+      "confidence": "preview-fallback",
+      "previewName": "watchface"
+    }
+  ]
+}
