@@ -7,6 +7,11 @@
       "system": "bitwarden-android"
     },
     {
+      "importedFrom": "bonstio/casino-gshark",
+      "listed": true,
+      "system": "bonstio-casino-gshark"
+    },
+    {
       "importedFrom": "android/compose-samples",
       "listed": true,
       "system": "compose-samples-jetcaster-wear"
@@ -119,52 +124,7 @@
     {
       "importedFrom": "android/wear-os-samples",
       "listed": true,
-      "system": "wear-os-samples-wff-complications"
-    },
-    {
-      "importedFrom": "android/wear-os-samples",
-      "listed": true,
-      "system": "wear-os-samples-wff-flavors"
-    },
-    {
-      "importedFrom": "android/wear-os-samples",
-      "listed": true,
-      "system": "wear-os-samples-wff-photos-mask"
-    },
-    {
-      "importedFrom": "android/wear-os-samples",
-      "listed": true,
-      "system": "wear-os-samples-wff-photos-multi"
-    },
-    {
-      "importedFrom": "android/wear-os-samples",
-      "listed": true,
-      "system": "wear-os-samples-wff-simple-analog"
-    },
-    {
-      "importedFrom": "android/wear-os-samples",
-      "listed": true,
-      "system": "wear-os-samples-wff-simple-digital"
-    },
-    {
-      "importedFrom": "android/wear-os-samples",
-      "listed": true,
-      "system": "wear-os-samples-wff-weather"
-    },
-    {
-      "importedFrom": "android/wear-os-samples",
-      "listed": true,
-      "system": "wear-os-samples-wfp-default"
-    },
-    {
-      "importedFrom": "android/wear-os-samples",
-      "listed": true,
-      "system": "wear-os-samples-wfp-firefly"
-    },
-    {
-      "importedFrom": "android/wear-os-samples",
-      "listed": true,
-      "system": "wear-os-samples-wfp-river"
+      "system": "wear-os-samples-watchfaces"
     }
   ],
   "groups": []
