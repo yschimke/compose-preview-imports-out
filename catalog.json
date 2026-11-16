@@ -171,20 +171,6 @@
               }
             },
             {
-              "name": "dwf.complication.0.accent_color",
-              "default": {
-                "kind": "color",
-                "argb": "#FF1976D2"
-              }
-            },
-            {
-              "name": "dwf.complication.0.image_color",
-              "default": {
-                "kind": "color",
-                "argb": "#FFFFFFFF"
-              }
-            },
-            {
               "name": "dwf.color.themeColor.0",
               "default": {
                 "kind": "color",
@@ -203,20 +189,6 @@
               "default": {
                 "kind": "bool",
                 "value": false
-              }
-            },
-            {
-              "name": "dwf.complication.1.accent_color",
-              "default": {
-                "kind": "color",
-                "argb": "#FF1976D2"
-              }
-            },
-            {
-              "name": "dwf.complication.1.image_color",
-              "default": {
-                "kind": "color",
-                "argb": "#FFFFFFFF"
               }
             },
             {
@@ -339,20 +311,6 @@
               }
             },
             {
-              "name": "dwf.complication.2.accent_color",
-              "default": {
-                "kind": "color",
-                "argb": "#FF1976D2"
-              }
-            },
-            {
-              "name": "dwf.complication.2.image_color",
-              "default": {
-                "kind": "color",
-                "argb": "#FFFFFFFF"
-              }
-            },
-            {
               "name": "dwf.complication.2.min",
               "default": {
                 "kind": "float",
@@ -465,20 +423,6 @@
               }
             },
             {
-              "name": "dwf.complication.3.accent_color",
-              "default": {
-                "kind": "color",
-                "argb": "#FF1976D2"
-              }
-            },
-            {
-              "name": "dwf.complication.3.image_color",
-              "default": {
-                "kind": "color",
-                "argb": "#FFFFFFFF"
-              }
-            },
-            {
               "name": "dwf.complication.3.min",
               "default": {
                 "kind": "float",
@@ -582,20 +526,6 @@
                 "kind": "float",
                 "value": 0
               }
-            },
-            {
-              "name": "dwf.complication.4.accent_color",
-              "default": {
-                "kind": "color",
-                "argb": "#FF1976D2"
-              }
-            },
-            {
-              "name": "dwf.complication.4.image_color",
-              "default": {
-                "kind": "color",
-                "argb": "#FFFFFFFF"
-              }
             }
           ],
           "previewParams": {
@@ -636,6 +566,13 @@
               "default": {
                 "kind": "bool",
                 "value": false
+              }
+            },
+            {
+              "name": "dwf.config.themeColor",
+              "default": {
+                "kind": "int",
+                "value": 0
               }
             },
             {
@@ -825,45 +762,17 @@
           "previewId": "module_3a7766662d73696d706c652d616e616c6f67__module_7766662d73696d706c652d616e616c6f67__dwf__raw_wff_simple_analog",
           "remoteComposeKnobs": [
             {
+              "name": "dwf.config.themeColor",
+              "default": {
+                "kind": "int",
+                "value": 0
+              }
+            },
+            {
               "name": "dwf.is_ambient",
               "default": {
                 "kind": "bool",
                 "value": false
-              }
-            },
-            {
-              "name": "dwf.color.themeColor.3",
-              "default": {
-                "kind": "color",
-                "argb": "#FF8338EC"
-              }
-            },
-            {
-              "name": "dwf.color.themeColor.4",
-              "default": {
-                "kind": "color",
-                "argb": "#883C3C3C"
-              }
-            },
-            {
-              "name": "dwf.color.themeColor.0",
-              "default": {
-                "kind": "color",
-                "argb": "#FFFFBE0B"
-              }
-            },
-            {
-              "name": "dwf.color.themeColor.1",
-              "default": {
-                "kind": "color",
-                "argb": "#FFFB5607"
-              }
-            },
-            {
-              "name": "dwf.color.themeColor.2",
-              "default": {
-                "kind": "color",
-                "argb": "#FFFF006E"
               }
             }
           ],
@@ -1292,8 +1201,8 @@
       "sourceFunction": "wfp_river"
     }
   ],
-  "renderer": "compose-preview 2.92.0",
-  "generatedAt": "2026-11-15T08:49:34.810Z",
+  "renderer": "compose-preview 2.94.1",
+  "generatedAt": "2026-11-16T10:03:18.853Z",
   "display": {
     "surface": "dark",
     "hero": "WatchFaceFormat/Complications"
