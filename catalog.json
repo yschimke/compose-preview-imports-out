@@ -526,6 +526,13 @@
                 "kind": "float",
                 "value": 0
               }
+            },
+            {
+              "name": "dwf.is_ambient",
+              "default": {
+                "kind": "bool",
+                "value": false
+              }
             }
           ],
           "previewParams": {
@@ -1148,6 +1155,15 @@
           "size": "compact",
           "livePreview": "https://preview.coo.ee/wear-os-samples-watchfaces/p/watchfacepush-firefly__ideal__default__compact",
           "previewId": "module_3a7766702d66697265666c79__module_7766702d66697265666c79__dwf__raw_wfp_firefly",
+          "remoteComposeKnobs": [
+            {
+              "name": "dwf.is_ambient",
+              "default": {
+                "kind": "bool",
+                "value": false
+              }
+            }
+          ],
           "previewParams": {
             "capturePlayer": "cmp-jvm",
             "device": "id:wearos_large_round",
@@ -1180,6 +1196,15 @@
           "size": "compact",
           "livePreview": "https://preview.coo.ee/wear-os-samples-watchfaces/p/watchfacepush-river__ideal__default__compact",
           "previewId": "module_3a7766702d7269766572__module_7766702d7269766572__dwf__raw_wfp_river",
+          "remoteComposeKnobs": [
+            {
+              "name": "dwf.is_ambient",
+              "default": {
+                "kind": "bool",
+                "value": false
+              }
+            }
+          ],
           "previewParams": {
             "capturePlayer": "cmp-jvm",
             "device": "id:wearos_large_round",
@@ -1201,8 +1226,8 @@
       "sourceFunction": "wfp_river"
     }
   ],
-  "renderer": "compose-preview 2.94.1",
-  "generatedAt": "2026-11-16T10:12:11.339Z",
+  "renderer": "compose-preview 2.95.1",
+  "generatedAt": "2026-11-17T00:16:37.776Z",
   "display": {
     "surface": "dark",
     "hero": "WatchFaceFormat/Complications"
