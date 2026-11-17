@@ -6,6 +6,13 @@
   ],
   "revisions": [
     {
+      "commit": "e5b036d1eae4233fd7371c8e818b5e6b491f0b09",
+      "previews": [
+        "watchface-default__ideal__default__compact",
+        "watchface-pixel__ideal__default__compact"
+      ]
+    },
+    {
       "commit": "711197b2e0f26a3d94f7241f51e56bf3253d1a21",
       "previews": [
         "watchface-default__ideal__default__compact",

@@ -4,16 +4,16 @@
   "label": "Compose",
   "source": {
     "repo": "bonstio/casino-gshark",
-    "ref": "87570f17734e4f01a8a8425bed8f5c1016f929f1",
+    "ref": "2087f9f9b9c27ee3c3f5b824ff73221e413cc7c7",
     "module": ":app"
   },
-  "generatedAt": "2026-11-17T00:16:05.040Z",
+  "generatedAt": "2026-11-17T21:16:07.945Z",
   "mappings": [
     {
       "componentId": "WatchFace/Pixel",
       "figmaLayerName": "WatchFace/Pixel",
       "componentName": "watchface_pixel",
-      "source": "https://github.com/bonstio/casino-gshark/blob/87570f17734e4f01a8a8425bed8f5c1016f929f1/app/src/main/res/raw/watchface_pixel.xml",
+      "source": "https://github.com/bonstio/casino-gshark/blob/2087f9f9b9c27ee3c3f5b824ff73221e413cc7c7/app/src/main/res/raw/watchface_pixel.xml",
       "label": "Compose",
       "confidence": "preview-fallback",
       "previewName": "watchface_pixel"
@@ -22,7 +22,7 @@
       "componentId": "WatchFace/Default",
       "figmaLayerName": "WatchFace/Default",
       "componentName": "watchface",
-      "source": "https://github.com/bonstio/casino-gshark/blob/87570f17734e4f01a8a8425bed8f5c1016f929f1/app/src/main/res/raw/watchface.xml",
+      "source": "https://github.com/bonstio/casino-gshark/blob/2087f9f9b9c27ee3c3f5b824ff73221e413cc7c7/app/src/main/res/raw/watchface.xml",
       "label": "Compose",
       "confidence": "preview-fallback",
       "previewName": "watchface"
