@@ -17,7 +17,14 @@
           "previewId": "dwf__raw_watchface_pixel",
           "remoteComposeKnobs": [
             {
-              "name": "dwf.config.tickStyle",
+              "name": "dwf.config.themeColor",
+              "default": {
+                "kind": "int",
+                "value": 0
+              }
+            },
+            {
+              "name": "dwf.config.bgTexture",
               "default": {
                 "kind": "int",
                 "value": 0
@@ -31,7 +38,7 @@
               }
             },
             {
-              "name": "dwf.config.bgTexture",
+              "name": "dwf.config.tickStyle",
               "default": {
                 "kind": "int",
                 "value": 0
@@ -39,6 +46,13 @@
             },
             {
               "name": "dwf.config.analogHands",
+              "default": {
+                "kind": "int",
+                "value": 0
+              }
+            },
+            {
+              "name": "dwf.config.bgBorder",
               "default": {
                 "kind": "int",
                 "value": 0
@@ -178,13 +192,6 @@
               }
             },
             {
-              "name": "dwf.config.bgBorder",
-              "default": {
-                "kind": "int",
-                "value": 0
-              }
-            },
-            {
               "name": "dwf.color.themeColor.0",
               "default": {
                 "kind": "color",
@@ -220,13 +227,6 @@
               }
             },
             {
-              "name": "dwf.complication.1.image_color",
-              "default": {
-                "kind": "color",
-                "argb": "#FFFFFFFF"
-              }
-            },
-            {
               "name": "dwf.complication.2.has_monochromatic_image",
               "default": {
                 "kind": "bool",
@@ -237,14 +237,14 @@
               "name": "dwf.complication.2.text",
               "default": {
                 "kind": "string",
-                "value": "85%"
+                "value": "72"
               }
             },
             {
               "name": "dwf.complication.2.title",
               "default": {
                 "kind": "string",
-                "value": "BATT"
+                "value": "BPM"
               }
             },
             {
@@ -252,13 +252,6 @@
               "default": {
                 "kind": "bool",
                 "value": false
-              }
-            },
-            {
-              "name": "dwf.complication.2.image_color",
-              "default": {
-                "kind": "color",
-                "argb": "#FFFFFFFF"
               }
             },
             {
@@ -290,13 +283,6 @@
               }
             },
             {
-              "name": "dwf.complication.3.image_color",
-              "default": {
-                "kind": "color",
-                "argb": "#FFFFFFFF"
-              }
-            },
-            {
               "name": "dwf.complication.4.has_monochromatic_image",
               "default": {
                 "kind": "bool",
@@ -322,13 +308,6 @@
               "default": {
                 "kind": "bool",
                 "value": false
-              }
-            },
-            {
-              "name": "dwf.complication.4.image_color",
-              "default": {
-                "kind": "color",
-                "argb": "#FFFFFFFF"
               }
             },
             {
@@ -394,7 +373,14 @@
           "previewId": "dwf__raw_watchface",
           "remoteComposeKnobs": [
             {
-              "name": "dwf.config.tickStyle",
+              "name": "dwf.config.themeColor",
+              "default": {
+                "kind": "int",
+                "value": 0
+              }
+            },
+            {
+              "name": "dwf.config.bgTexture",
               "default": {
                 "kind": "int",
                 "value": 0
@@ -408,7 +394,7 @@
               }
             },
             {
-              "name": "dwf.config.bgTexture",
+              "name": "dwf.config.tickStyle",
               "default": {
                 "kind": "int",
                 "value": 0
@@ -419,6 +405,13 @@
               "default": {
                 "kind": "int",
                 "value": 0
+              }
+            },
+            {
+              "name": "dwf.config.bgBorder",
+              "default": {
+                "kind": "int",
+                "value": 1
               }
             },
             {
@@ -555,13 +548,6 @@
               }
             },
             {
-              "name": "dwf.config.bgBorder",
-              "default": {
-                "kind": "int",
-                "value": 1
-              }
-            },
-            {
               "name": "dwf.color.themeColor.0",
               "default": {
                 "kind": "color",
@@ -597,13 +583,6 @@
               }
             },
             {
-              "name": "dwf.complication.1.image_color",
-              "default": {
-                "kind": "color",
-                "argb": "#FFFFFFFF"
-              }
-            },
-            {
               "name": "dwf.complication.2.has_monochromatic_image",
               "default": {
                 "kind": "bool",
@@ -614,14 +593,14 @@
               "name": "dwf.complication.2.text",
               "default": {
                 "kind": "string",
-                "value": "85%"
+                "value": "72"
               }
             },
             {
               "name": "dwf.complication.2.title",
               "default": {
                 "kind": "string",
-                "value": "BATT"
+                "value": "BPM"
               }
             },
             {
@@ -629,13 +608,6 @@
               "default": {
                 "kind": "bool",
                 "value": false
-              }
-            },
-            {
-              "name": "dwf.complication.2.image_color",
-              "default": {
-                "kind": "color",
-                "argb": "#FFFFFFFF"
               }
             },
             {
@@ -667,13 +639,6 @@
               }
             },
             {
-              "name": "dwf.complication.3.image_color",
-              "default": {
-                "kind": "color",
-                "argb": "#FFFFFFFF"
-              }
-            },
-            {
               "name": "dwf.complication.4.has_monochromatic_image",
               "default": {
                 "kind": "bool",
@@ -699,13 +664,6 @@
               "default": {
                 "kind": "bool",
                 "value": false
-              }
-            },
-            {
-              "name": "dwf.complication.4.image_color",
-              "default": {
-                "kind": "color",
-                "argb": "#FFFFFFFF"
               }
             },
             {
@@ -758,8 +716,8 @@
       "sourceModule": ":app"
     }
   ],
-  "renderer": "compose-preview 2.92.0",
-  "generatedAt": "2026-11-15T08:56:34.814Z",
+  "renderer": "compose-preview 2.95.1",
+  "generatedAt": "2026-11-17T00:16:03.686Z",
   "display": {
     "surface": "dark",
     "hero": "WatchFace/Pixel"
@@ -779,7 +737,7 @@
   "componentsFile": "components.json",
   "source": {
     "repo": "bonstio/casino-gshark",
-    "ref": "0a2eb0351c29e7c666ab1afabbaddd5139b2dd99",
+    "ref": "87570f17734e4f01a8a8425bed8f5c1016f929f1",
     "module": ":app"
   }
 }
