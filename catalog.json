@@ -630,20 +630,6 @@
         },
         {
           "bounds": {
-            "x": 179,
-            "y": 85,
-            "width": 269,
-            "height": 63
-          },
-          "padding": {
-            "start": 4,
-            "top": 0,
-            "end": 4,
-            "bottom": 0
-          }
-        },
-        {
-          "bounds": {
             "x": 882,
             "y": 74,
             "width": 84,
@@ -988,8 +974,8 @@
     "androidx.compose.material3:material3",
     "androidx.compose.material3.adaptive:adaptive"
   ],
-  "renderer": "compose-preview 2.89.0",
-  "generatedAt": "2026-11-11T02:48:21.975Z",
+  "renderer": "compose-preview 2.98.0",
+  "generatedAt": "2026-11-18T02:49:34.030Z",
   "display": {
     "surface": "light",
     "hero": "Adaptive/Phone"
@@ -1025,7 +1011,7 @@
   "componentsFile": "components.json",
   "source": {
     "repo": "android/compose-samples",
-    "ref": "25631e8f544a9a1e3f01e296eaf1b4c28428196c",
+    "ref": "09aae2013b3e5897f9679e2b7539f505f4f6f7f6",
     "module": ":app"
   }
 }

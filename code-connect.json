@@ -4,16 +4,16 @@
   "label": "Compose",
   "source": {
     "repo": "android/compose-samples",
-    "ref": "25631e8f544a9a1e3f01e296eaf1b4c28428196c",
+    "ref": "09aae2013b3e5897f9679e2b7539f505f4f6f7f6",
     "module": ":app"
   },
-  "generatedAt": "2026-11-11T02:48:22.475Z",
+  "generatedAt": "2026-11-18T02:49:34.634Z",
   "mappings": [
     {
       "componentId": "Adaptive/Phone",
       "figmaLayerName": "Adaptive/Phone",
       "componentName": "ReplyApp",
-      "source": "https://github.com/android/compose-samples/blob/25631e8f544a9a1e3f01e296eaf1b4c28428196c/app/src/main/java/com/example/reply/ui/ReplyApp.kt",
+      "source": "https://github.com/android/compose-samples/blob/09aae2013b3e5897f9679e2b7539f505f4f6f7f6/app/src/main/java/com/example/reply/ui/ReplyApp.kt",
       "label": "Compose",
       "confidence": "HIGH",
       "previewName": "ReplyAppPreview",
@@ -107,7 +107,7 @@
       "componentId": "States/Coming soon",
       "figmaLayerName": "States/Coming soon",
       "componentName": "EmptyComingSoon",
-      "source": "https://github.com/android/compose-samples/blob/25631e8f544a9a1e3f01e296eaf1b4c28428196c/app/src/main/java/com/example/reply/ui/EmptyComingSoon.kt",
+      "source": "https://github.com/android/compose-samples/blob/09aae2013b3e5897f9679e2b7539f505f4f6f7f6/app/src/main/java/com/example/reply/ui/EmptyComingSoon.kt",
       "label": "Compose",
       "confidence": "HIGH",
       "previewName": "ComingSoonPreview",
