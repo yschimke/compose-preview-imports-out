@@ -15,6 +15,22 @@
   ],
   "revisions": [
     {
+      "commit": "16527cedbd35336154714771528629532ade98a6",
+      "previews": [
+        "color-scheme__ideal__default",
+        "country-list__ideal__default",
+        "country-view__ideal__default",
+        "network-list__ideal__default",
+        "network-view__ideal__default",
+        "station-list__ideal__default",
+        "station-view-empty__ideal__default",
+        "station-view-full__ideal__default",
+        "station-view-mixed__ideal__default",
+        "station-view__ideal__default",
+        "typography__ideal__default"
+      ]
+    },
+    {
       "commit": "d63c02661efbcad92c5ac615a7ccb8784e7a8835",
       "previews": [
         "color-scheme__ideal__default",
@@ -160,22 +176,6 @@
     },
     {
       "commit": "d9c8ed3b41179b492bb979606f4b578a6ed98cac",
-      "previews": [
-        "color-scheme__ideal__default",
-        "country-list__ideal__default",
-        "country-view__ideal__default",
-        "network-list__ideal__default",
-        "network-view__ideal__default",
-        "station-list__ideal__default",
-        "station-view-empty__ideal__default",
-        "station-view-full__ideal__default",
-        "station-view-mixed__ideal__default",
-        "station-view__ideal__default",
-        "typography__ideal__default"
-      ]
-    },
-    {
-      "commit": "a43f58441af61e7b4f0ce93d9c948218d22351f6",
       "previews": [
         "color-scheme__ideal__default",
         "country-list__ideal__default",
