@@ -4,126 +4,151 @@
     {
       "importedFrom": "bitwarden/android",
       "listed": true,
+      "regenerateUrl": "https://github.com/yschimke/compose-preview-imports/actions/workflows/import.yml",
       "system": "bitwarden-android"
     },
     {
       "importedFrom": "bonstio/casino-gshark",
       "listed": true,
+      "regenerateUrl": "https://github.com/yschimke/compose-preview-imports/actions/workflows/import.yml",
       "system": "bonstio-casino-gshark"
     },
     {
       "importedFrom": "android/compose-samples",
       "listed": true,
+      "regenerateUrl": "https://github.com/yschimke/compose-preview-imports/actions/workflows/import.yml",
       "system": "compose-samples-jetcaster-wear"
     },
     {
       "importedFrom": "android/compose-samples",
       "listed": true,
+      "regenerateUrl": "https://github.com/yschimke/compose-preview-imports/actions/workflows/import.yml",
       "system": "compose-samples-jetcaster"
     },
     {
       "importedFrom": "android/compose-samples",
       "listed": true,
+      "regenerateUrl": "https://github.com/yschimke/compose-preview-imports/actions/workflows/import.yml",
       "system": "compose-samples-jetchat"
     },
     {
       "importedFrom": "android/compose-samples",
       "listed": true,
+      "regenerateUrl": "https://github.com/yschimke/compose-preview-imports/actions/workflows/import.yml",
       "system": "compose-samples-jetlagged"
     },
     {
       "importedFrom": "android/compose-samples",
       "listed": true,
+      "regenerateUrl": "https://github.com/yschimke/compose-preview-imports/actions/workflows/import.yml",
       "system": "compose-samples-jetnews"
     },
     {
       "importedFrom": "android/compose-samples",
       "listed": true,
+      "regenerateUrl": "https://github.com/yschimke/compose-preview-imports/actions/workflows/import.yml",
       "system": "compose-samples-jetsnack"
     },
     {
       "importedFrom": "android/compose-samples",
       "listed": true,
+      "regenerateUrl": "https://github.com/yschimke/compose-preview-imports/actions/workflows/import.yml",
       "system": "compose-samples-reply"
     },
     {
       "importedFrom": "DroidKaigi/conference-app-2026",
       "listed": true,
+      "regenerateUrl": "https://github.com/yschimke/compose-preview-imports/actions/workflows/import.yml",
       "system": "droidkaigi-conference-app-2026"
     },
     {
       "importedFrom": "element-hq/element-x-android",
       "listed": true,
+      "regenerateUrl": "https://github.com/yschimke/compose-preview-imports/actions/workflows/import.yml",
       "system": "element-hq-element-x-android"
     },
     {
       "importedFrom": "home-assistant/android",
       "listed": true,
+      "regenerateUrl": "https://github.com/yschimke/compose-preview-imports/actions/workflows/import.yml",
       "system": "home-assistant-android"
     },
     {
       "importedFrom": "home-assistant/android",
       "listed": true,
+      "regenerateUrl": "https://github.com/yschimke/compose-preview-imports/actions/workflows/import.yml",
       "system": "home-assistant-wear"
     },
     {
       "importedFrom": "google/horologist",
       "listed": true,
+      "regenerateUrl": "https://github.com/yschimke/compose-preview-imports/actions/workflows/import.yml",
       "system": "horologist"
     },
     {
       "importedFrom": "JetBrains/kotlinconf-app",
       "listed": true,
+      "regenerateUrl": "https://github.com/yschimke/compose-preview-imports/actions/workflows/import.yml",
       "system": "jetbrains-kotlinconf-app"
     },
     {
       "importedFrom": "joreilly/BikeShare",
       "listed": true,
+      "regenerateUrl": "https://github.com/yschimke/compose-preview-imports/actions/workflows/import.yml",
       "system": "joreilly-bikeshare"
     },
     {
       "importedFrom": "joreilly/ClimateTraceKMP",
       "listed": true,
+      "regenerateUrl": "https://github.com/yschimke/compose-preview-imports/actions/workflows/import.yml",
       "system": "joreilly-climatetracekmp"
     },
     {
       "importedFrom": "joreilly/PeopleInSpace",
       "listed": true,
+      "regenerateUrl": "https://github.com/yschimke/compose-preview-imports/actions/workflows/import.yml",
       "system": "joreilly-peopleinspace"
     },
     {
       "importedFrom": "msasikanth/twine",
       "listed": true,
+      "regenerateUrl": "https://github.com/yschimke/compose-preview-imports/actions/workflows/import.yml",
       "system": "msasikanth-twine"
     },
     {
       "importedFrom": "mullvad/mullvadvpn-app",
       "listed": true,
+      "regenerateUrl": "https://github.com/yschimke/compose-preview-imports/actions/workflows/import.yml",
       "system": "mullvad-mullvadvpn-app"
     },
     {
       "importedFrom": "Automattic/pocket-casts-android",
       "listed": true,
+      "regenerateUrl": "https://github.com/yschimke/compose-preview-imports/actions/workflows/import.yml",
       "system": "pocketcasts-wear"
     },
     {
       "importedFrom": "Automattic/pocket-casts-android",
       "listed": true,
+      "regenerateUrl": "https://github.com/yschimke/compose-preview-imports/actions/workflows/import.yml",
       "system": "pocketcasts"
     },
     {
       "importedFrom": "thunderbird/thunderbird-android",
       "listed": true,
+      "regenerateUrl": "https://github.com/yschimke/compose-preview-imports/actions/workflows/import.yml",
       "system": "thunderbird-android"
     },
     {
       "importedFrom": "tunjid/heron",
       "listed": true,
+      "regenerateUrl": "https://github.com/yschimke/compose-preview-imports/actions/workflows/import.yml",
       "system": "tunjid-heron"
     },
     {
       "importedFrom": "android/wear-os-samples",
       "listed": true,
+      "regenerateUrl": "https://github.com/yschimke/compose-preview-imports/actions/workflows/import.yml",
       "system": "wear-os-samples-watchfaces"
     }
   ],
