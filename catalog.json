@@ -24683,7 +24683,7 @@
       "wireframe": "wireframes/search-bar-active-none-query.svg",
       "sourceFile": "src/main/kotlin/io/element/android/libraries/designsystem/theme/components/SearchBar.kt",
       "sourceModule": ":libraries:designsystem",
-      "bodyLine": 221,
+      "bodyLine": 228,
       "sourceDirectory": "libraries/designsystem",
       "sourceFunction": "SearchBarActiveNoneQueryPreview",
       "parameters": [
@@ -24866,7 +24866,7 @@
       "wireframe": "wireframes/search-bar-active-with-content.svg",
       "sourceFile": "src/main/kotlin/io/element/android/libraries/designsystem/theme/components/SearchBar.kt",
       "sourceModule": ":libraries:designsystem",
-      "bodyLine": 259,
+      "bodyLine": 266,
       "sourceDirectory": "libraries/designsystem",
       "sourceFunction": "SearchBarActiveWithContentPreview",
       "parameters": [
@@ -25049,7 +25049,7 @@
       "wireframe": "wireframes/search-bar-active-with-no-results.svg",
       "sourceFile": "src/main/kotlin/io/element/android/libraries/designsystem/theme/components/SearchBar.kt",
       "sourceModule": ":libraries:designsystem",
-      "bodyLine": 249,
+      "bodyLine": 256,
       "sourceDirectory": "libraries/designsystem",
       "sourceFunction": "SearchBarActiveWithNoResultsPreview",
       "parameters": [
@@ -25172,7 +25172,7 @@
       "wireframe": "wireframes/search-bar-active-with-query-no-back-button.svg",
       "sourceFile": "src/main/kotlin/io/element/android/libraries/designsystem/theme/components/SearchBar.kt",
       "sourceModule": ":libraries:designsystem",
-      "bodyLine": 239,
+      "bodyLine": 246,
       "sourceDirectory": "libraries/designsystem",
       "sourceFunction": "SearchBarActiveWithQueryNoBackButtonPreview",
       "parameters": [
@@ -25355,7 +25355,7 @@
       "wireframe": "wireframes/search-bar-active-with-query.svg",
       "sourceFile": "src/main/kotlin/io/element/android/libraries/designsystem/theme/components/SearchBar.kt",
       "sourceModule": ":libraries:designsystem",
-      "bodyLine": 230,
+      "bodyLine": 237,
       "sourceDirectory": "libraries/designsystem",
       "sourceFunction": "SearchBarActiveWithQueryPreview",
       "parameters": [
@@ -25417,7 +25417,7 @@
       "wireframe": "wireframes/search-bar-inactive.svg",
       "sourceFile": "src/main/kotlin/io/element/android/libraries/designsystem/theme/components/SearchBar.kt",
       "sourceModule": ":libraries:designsystem",
-      "bodyLine": 217,
+      "bodyLine": 224,
       "sourceDirectory": "libraries/designsystem",
       "sourceFunction": "SearchBarInactivePreview",
       "parameters": [
@@ -44992,8 +44992,8 @@
       ]
     }
   ],
-  "renderer": "compose-preview 2.89.0",
-  "generatedAt": "2026-11-11T03:02:19.781Z",
+  "renderer": "compose-preview 2.98.0",
+  "generatedAt": "2026-11-18T03:05:49.298Z",
   "liveBundle": {
     "path": "bundle/",
     "file": "bundle.png"
@@ -45009,7 +45009,7 @@
   "componentsFile": "components.json",
   "source": {
     "repo": "element-hq/element-x-android",
-    "ref": "eac9e6aba4473b35fc4f3c147c15e407f81d2a9a",
+    "ref": "9a3250d82efef241b40178d1a7bdba3eda01adf8",
     "module": ":libraries:designsystem"
   }
 }
