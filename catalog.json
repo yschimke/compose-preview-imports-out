@@ -105,14 +105,14 @@
           "detail": {
             "role": "button",
             "bounds": {
-              "x": 934,
+              "x": 913,
               "y": 32,
               "width": 105,
               "height": 105
             }
           },
           "bounds": {
-            "x": 934,
+            "x": 913,
             "y": 32,
             "width": 105,
             "height": 105
@@ -790,7 +790,7 @@
           "bounds": {
             "x": 43,
             "y": 21,
-            "width": 1006,
+            "width": 985,
             "height": 126
           },
           "padding": {
@@ -802,7 +802,7 @@
         },
         {
           "bounds": {
-            "x": 934,
+            "x": 913,
             "y": 32,
             "width": 105,
             "height": 105
@@ -3943,14 +3943,14 @@
           "detail": {
             "role": "button",
             "bounds": {
-              "x": 934,
+              "x": 913,
               "y": 32,
               "width": 105,
               "height": 105
             }
           },
           "bounds": {
-            "x": 934,
+            "x": 913,
             "y": 32,
             "width": 105,
             "height": 105
@@ -3962,7 +3962,7 @@
           "bounds": {
             "x": 43,
             "y": 21,
-            "width": 1006,
+            "width": 985,
             "height": 126
           },
           "padding": {
@@ -3974,7 +3974,7 @@
         },
         {
           "bounds": {
-            "x": 934,
+            "x": 913,
             "y": 32,
             "width": 105,
             "height": 105
@@ -4031,8 +4031,8 @@
     "custom design system (JetsnackTheme)",
     "androidx.glance:glance-appwidget"
   ],
-  "renderer": "compose-preview 2.89.0",
-  "generatedAt": "2026-11-11T02:46:52.856Z",
+  "renderer": "compose-preview 2.98.0",
+  "generatedAt": "2026-11-18T02:49:40.152Z",
   "display": {
     "surface": "light",
     "hero": "Screens/App shell"
@@ -4068,7 +4068,7 @@
   "componentsFile": "components.json",
   "source": {
     "repo": "android/compose-samples",
-    "ref": "25631e8f544a9a1e3f01e296eaf1b4c28428196c",
+    "ref": "09aae2013b3e5897f9679e2b7539f505f4f6f7f6",
     "module": ":app"
   }
 }
