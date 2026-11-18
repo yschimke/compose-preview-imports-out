@@ -508,8 +508,8 @@
   "library": [
     "custom Canvas drawing + custom layouts"
   ],
-  "renderer": "compose-preview 2.89.0",
-  "generatedAt": "2026-11-11T02:42:02.843Z",
+  "renderer": "compose-preview 2.98.0",
+  "generatedAt": "2026-11-18T02:42:48.746Z",
   "display": {
     "surface": "light",
     "hero": "Cards/Heart rate"
@@ -545,7 +545,7 @@
   "componentsFile": "components.json",
   "source": {
     "repo": "android/compose-samples",
-    "ref": "25631e8f544a9a1e3f01e296eaf1b4c28428196c",
+    "ref": "09aae2013b3e5897f9679e2b7539f505f4f6f7f6",
     "module": ":app"
   }
 }
