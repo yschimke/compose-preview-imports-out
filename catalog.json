@@ -1751,8 +1751,8 @@
   "library": [
     "androidx.compose.material3:material3"
   ],
-  "renderer": "compose-preview 2.89.0",
-  "generatedAt": "2026-11-11T02:37:51.429Z",
+  "renderer": "compose-preview 2.98.0",
+  "generatedAt": "2026-11-18T02:45:21.717Z",
   "display": {
     "surface": "light",
     "hero": "Conversation/Screen"
@@ -1788,7 +1788,7 @@
   "componentsFile": "components.json",
   "source": {
     "repo": "android/compose-samples",
-    "ref": "25631e8f544a9a1e3f01e296eaf1b4c28428196c",
+    "ref": "09aae2013b3e5897f9679e2b7539f505f4f6f7f6",
     "module": ":app"
   }
 }
