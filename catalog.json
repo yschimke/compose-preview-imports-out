@@ -6207,8 +6207,8 @@
       "sourceFunction": "MatteControlsDarkPreview"
     }
   ],
-  "renderer": "compose-preview 2.89.0",
-  "generatedAt": "2026-11-11T04:24:39.674Z",
+  "renderer": "compose-preview 2.98.0",
+  "generatedAt": "2026-11-18T04:35:20.864Z",
   "display": {
     "hero": "home"
   },
@@ -6383,7 +6383,7 @@
   "componentsFile": "components.json",
   "source": {
     "repo": "tunjid/heron",
-    "ref": "097a68215eb26f5eeed71c4e744897890f5afbf1",
+    "ref": "ccc359b4d401abc1d5e9b1628dfcbf9bf2421448",
     "module": ""
   }
 }
