@@ -2276,16 +2276,8 @@
       "sourceFunction": "MainHeaderBackPreview",
       "parameters": [
         {
-          "name": "icon",
-          "type": "DrawableResource"
-        },
-        {
-          "name": "contentDescription",
+          "name": "title",
           "type": "String"
-        },
-        {
-          "name": "onClick",
-          "type": "() -> Unit"
         },
         {
           "name": "modifier",
@@ -2293,9 +2285,16 @@
           "hasDefault": true
         },
         {
-          "name": "large",
-          "type": "Boolean",
-          "hasDefault": true
+          "name": "startContent",
+          "type": "RowScope.() -> Unit",
+          "hasDefault": true,
+          "composableSlot": true
+        },
+        {
+          "name": "endContent",
+          "type": "RowScope.() -> Unit",
+          "hasDefault": true,
+          "composableSlot": true
         }
       ]
     },
@@ -2844,7 +2843,24 @@
       "sourceModule": ":app:ui-components",
       "bodyLine": 48,
       "sourceDirectory": "app/ui-components",
-      "sourceFunction": "LargeMainHeaderPreview"
+      "sourceFunction": "LargeMainHeaderPreview",
+      "parameters": [
+        {
+          "name": "title",
+          "type": "String"
+        },
+        {
+          "name": "endContent",
+          "type": "() -> Unit",
+          "hasDefault": true,
+          "composableSlot": true
+        },
+        {
+          "name": "modifier",
+          "type": "Modifier",
+          "hasDefault": true
+        }
+      ]
     },
     {
       "componentId": "page-title",
@@ -4638,7 +4654,75 @@
       "sourceModule": ":app:ui-components",
       "bodyLine": 407,
       "sourceDirectory": "app/ui-components",
-      "sourceFunction": "TalkCardLivePreview"
+      "sourceFunction": "TalkCardLivePreview",
+      "parameters": [
+        {
+          "name": "title",
+          "type": "String"
+        },
+        {
+          "name": "titleHighlights",
+          "type": "List<IntRange>"
+        },
+        {
+          "name": "bookmarked",
+          "type": "Boolean"
+        },
+        {
+          "name": "onBookmark",
+          "type": "(Boolean) -> Unit"
+        },
+        {
+          "name": "tags",
+          "type": "Set<String>"
+        },
+        {
+          "name": "tagHighlights",
+          "type": "List<String>"
+        },
+        {
+          "name": "speakers",
+          "type": "String"
+        },
+        {
+          "name": "speakerHighlights",
+          "type": "List<IntRange>"
+        },
+        {
+          "name": "location",
+          "type": "String"
+        },
+        {
+          "name": "lightning",
+          "type": "Boolean"
+        },
+        {
+          "name": "time",
+          "type": "String"
+        },
+        {
+          "name": "timeNote",
+          "type": "String?"
+        },
+        {
+          "name": "status",
+          "type": "TalkStatus"
+        },
+        {
+          "name": "onClick",
+          "type": "() -> Unit"
+        },
+        {
+          "name": "feedbackContent",
+          "type": "(() -> Unit)?",
+          "composableSlot": true
+        },
+        {
+          "name": "modifier",
+          "type": "Modifier",
+          "hasDefault": true
+        }
+      ]
     },
     {
       "componentId": "speaker-card",
@@ -9484,8 +9568,8 @@
       ]
     }
   ],
-  "renderer": "compose-preview 2.89.0",
-  "generatedAt": "2026-11-11T03:15:00.492Z",
+  "renderer": "compose-preview 2.98.0",
+  "generatedAt": "2026-11-18T03:21:21.468Z",
   "display": {
     "hero": "talk-card-live"
   },
@@ -9504,7 +9588,7 @@
   "componentsFile": "components.json",
   "source": {
     "repo": "JetBrains/kotlinconf-app",
-    "ref": "ac7b40cc89b2dca6be693287960d789a6004f19c",
+    "ref": "146e891c150cd1062c6f6c78847ea0aa17fb379d",
     "module": ":app:ui-components"
   }
 }
