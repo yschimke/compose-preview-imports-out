@@ -593,7 +593,7 @@
               "name": "dwf.complication.0.has_monochromatic_image",
               "default": {
                 "kind": "bool",
-                "value": false
+                "value": true
               }
             },
             {
@@ -1226,8 +1226,8 @@
       "sourceFunction": "wfp_river"
     }
   ],
-  "renderer": "compose-preview 2.96.0",
-  "generatedAt": "2026-11-17T21:18:09.943Z",
+  "renderer": "compose-preview 2.98.0",
+  "generatedAt": "2026-11-18T04:09:30.619Z",
   "display": {
     "surface": "dark",
     "hero": "WatchFaceFormat/Complications"
