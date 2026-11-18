@@ -17,13 +17,6 @@
           "previewId": "dwf__raw_watchface_pixel",
           "remoteComposeKnobs": [
             {
-              "name": "dwf.config.themeColor",
-              "default": {
-                "kind": "int",
-                "value": 0
-              }
-            },
-            {
               "name": "dwf.config.bgTexture",
               "default": {
                 "kind": "int",
@@ -38,6 +31,13 @@
               }
             },
             {
+              "name": "dwf.config.themeColor",
+              "default": {
+                "kind": "int",
+                "value": 0
+              }
+            },
+            {
               "name": "dwf.config.tickStyle",
               "default": {
                 "kind": "int",
@@ -45,7 +45,21 @@
               }
             },
             {
-              "name": "dwf.config.analogHands",
+              "name": "dwf.config.bottomStyle",
+              "default": {
+                "kind": "int",
+                "value": 0
+              }
+            },
+            {
+              "name": "dwf.config.timeColor",
+              "default": {
+                "kind": "int",
+                "value": 0
+              }
+            },
+            {
+              "name": "dwf.config.screenTexture",
               "default": {
                 "kind": "int",
                 "value": 0
@@ -73,7 +87,7 @@
               }
             },
             {
-              "name": "dwf.config.timeColor",
+              "name": "dwf.config.logoColor",
               "default": {
                 "kind": "int",
                 "value": 0
@@ -87,7 +101,14 @@
               }
             },
             {
-              "name": "dwf.config.bottomStyle",
+              "name": "dwf.config.analogHands",
+              "default": {
+                "kind": "int",
+                "value": 0
+              }
+            },
+            {
+              "name": "dwf.config.secColor",
               "default": {
                 "kind": "int",
                 "value": 0
@@ -116,34 +137,6 @@
             },
             {
               "name": "dwf.config.subDialMode",
-              "default": {
-                "kind": "int",
-                "value": 0
-              }
-            },
-            {
-              "name": "dwf.config.secondsDot",
-              "default": {
-                "kind": "int",
-                "value": 0
-              }
-            },
-            {
-              "name": "dwf.config.screenTexture",
-              "default": {
-                "kind": "int",
-                "value": 0
-              }
-            },
-            {
-              "name": "dwf.config.logoColor",
-              "default": {
-                "kind": "int",
-                "value": 0
-              }
-            },
-            {
-              "name": "dwf.config.secColor",
               "default": {
                 "kind": "int",
                 "value": 0
@@ -189,6 +182,13 @@
               "default": {
                 "kind": "int",
                 "value": 1
+              }
+            },
+            {
+              "name": "dwf.config.secondsDot",
+              "default": {
+                "kind": "int",
+                "value": 0
               }
             },
             {
@@ -373,13 +373,6 @@
           "previewId": "dwf__raw_watchface",
           "remoteComposeKnobs": [
             {
-              "name": "dwf.config.themeColor",
-              "default": {
-                "kind": "int",
-                "value": 0
-              }
-            },
-            {
               "name": "dwf.config.bgTexture",
               "default": {
                 "kind": "int",
@@ -394,6 +387,13 @@
               }
             },
             {
+              "name": "dwf.config.themeColor",
+              "default": {
+                "kind": "int",
+                "value": 0
+              }
+            },
+            {
               "name": "dwf.config.tickStyle",
               "default": {
                 "kind": "int",
@@ -401,7 +401,21 @@
               }
             },
             {
-              "name": "dwf.config.analogHands",
+              "name": "dwf.config.bottomStyle",
+              "default": {
+                "kind": "int",
+                "value": 0
+              }
+            },
+            {
+              "name": "dwf.config.timeColor",
+              "default": {
+                "kind": "int",
+                "value": 0
+              }
+            },
+            {
+              "name": "dwf.config.screenTexture",
               "default": {
                 "kind": "int",
                 "value": 0
@@ -429,7 +443,7 @@
               }
             },
             {
-              "name": "dwf.config.timeColor",
+              "name": "dwf.config.logoColor",
               "default": {
                 "kind": "int",
                 "value": 0
@@ -443,7 +457,14 @@
               }
             },
             {
-              "name": "dwf.config.bottomStyle",
+              "name": "dwf.config.analogHands",
+              "default": {
+                "kind": "int",
+                "value": 0
+              }
+            },
+            {
+              "name": "dwf.config.secColor",
               "default": {
                 "kind": "int",
                 "value": 0
@@ -472,34 +493,6 @@
             },
             {
               "name": "dwf.config.subDialMode",
-              "default": {
-                "kind": "int",
-                "value": 0
-              }
-            },
-            {
-              "name": "dwf.config.secondsDot",
-              "default": {
-                "kind": "int",
-                "value": 0
-              }
-            },
-            {
-              "name": "dwf.config.screenTexture",
-              "default": {
-                "kind": "int",
-                "value": 0
-              }
-            },
-            {
-              "name": "dwf.config.logoColor",
-              "default": {
-                "kind": "int",
-                "value": 0
-              }
-            },
-            {
-              "name": "dwf.config.secColor",
               "default": {
                 "kind": "int",
                 "value": 0
@@ -545,6 +538,13 @@
               "default": {
                 "kind": "int",
                 "value": 1
+              }
+            },
+            {
+              "name": "dwf.config.secondsDot",
+              "default": {
+                "kind": "int",
+                "value": 0
               }
             },
             {
@@ -716,8 +716,8 @@
       "sourceModule": ":app"
     }
   ],
-  "renderer": "compose-preview 2.98.0",
-  "generatedAt": "2026-11-18T02:30:13.799Z",
+  "renderer": "compose-preview 2.99.2",
+  "generatedAt": "2026-11-18T17:25:09.030Z",
   "display": {
     "surface": "dark",
     "hero": "WatchFace/Pixel"
