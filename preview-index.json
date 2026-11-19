@@ -14,6 +14,21 @@
   ],
   "revisions": [
     {
+      "commit": "d8eb6d667eaa05e5053dacfd77af281ab548b4ef",
+      "previews": [
+        "watchfaceformat-complications__ideal__default__compact",
+        "watchfaceformat-flavors__ideal__default__compact",
+        "watchfaceformat-photosmask__ideal__default__compact",
+        "watchfaceformat-photosmulti__ideal__default__compact",
+        "watchfaceformat-simpleanalog__ideal__default__compact",
+        "watchfaceformat-simpledigital__ideal__default__compact",
+        "watchfaceformat-weather__ideal__default__compact",
+        "watchfacepush-default__ideal__default__compact",
+        "watchfacepush-firefly__ideal__default__compact",
+        "watchfacepush-river__ideal__default__compact"
+      ]
+    },
+    {
       "commit": "5e274b6797f561d854e496dcf1ebc2d9ed2ac48c",
       "previews": [
         "watchfaceformat-complications__ideal__default__compact",
