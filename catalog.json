@@ -569,17 +569,17 @@
           "previewId": "module_3a7766662d666c61766f7273__module_7766662d666c61766f7273__dwf__raw_wff_flavors",
           "remoteComposeKnobs": [
             {
+              "name": "dwf.is_24_hour",
+              "default": {
+                "kind": "bool",
+                "value": true
+              }
+            },
+            {
               "name": "dwf.is_ambient",
               "default": {
                 "kind": "bool",
                 "value": false
-              }
-            },
-            {
-              "name": "dwf.config.themeColor",
-              "default": {
-                "kind": "int",
-                "value": 0
               }
             },
             {
@@ -769,17 +769,24 @@
           "previewId": "module_3a7766662d73696d706c652d616e616c6f67__module_7766662d73696d706c652d616e616c6f67__dwf__raw_wff_simple_analog",
           "remoteComposeKnobs": [
             {
-              "name": "dwf.config.themeColor",
-              "default": {
-                "kind": "int",
-                "value": 0
-              }
-            },
-            {
               "name": "dwf.is_ambient",
               "default": {
                 "kind": "bool",
                 "value": false
+              }
+            },
+            {
+              "name": "dwf.color.themeColor.3",
+              "default": {
+                "kind": "color",
+                "argb": "#FF8338EC"
+              }
+            },
+            {
+              "name": "dwf.config.themeColor",
+              "default": {
+                "kind": "int",
+                "value": 0
               }
             }
           ],
@@ -816,6 +823,13 @@
           "livePreview": "https://preview.coo.ee/wear-os-samples-watchfaces/p/watchfaceformat-simpledigital__ideal__default__compact",
           "previewId": "module_3a7766662d73696d706c652d6469676974616c__module_7766662d73696d706c652d6469676974616c__dwf__raw_wff_simple_digital",
           "remoteComposeKnobs": [
+            {
+              "name": "dwf.is_24_hour",
+              "default": {
+                "kind": "bool",
+                "value": true
+              }
+            },
             {
               "name": "dwf.is_ambient",
               "default": {
@@ -858,6 +872,13 @@
           "previewId": "module_3a7766662d77656174686572__module_7766662d77656174686572__dwf__raw_wff_weather",
           "remoteComposeKnobs": [
             {
+              "name": "dwf.is_24_hour",
+              "default": {
+                "kind": "bool",
+                "value": true
+              }
+            },
+            {
               "name": "dwf.is_ambient",
               "default": {
                 "kind": "bool",
@@ -876,13 +897,6 @@
               "default": {
                 "kind": "int",
                 "value": 14
-              }
-            },
-            {
-              "name": "dwf.is_24_hour",
-              "default": {
-                "kind": "bool",
-                "value": true
               }
             },
             {
@@ -1116,6 +1130,13 @@
           "previewId": "module_3a7766702d64656661756c74__module_7766702d64656661756c74__dwf__raw_wfp_default",
           "remoteComposeKnobs": [
             {
+              "name": "dwf.is_24_hour",
+              "default": {
+                "kind": "bool",
+                "value": true
+              }
+            },
+            {
               "name": "dwf.is_ambient",
               "default": {
                 "kind": "bool",
@@ -1156,6 +1177,13 @@
           "livePreview": "https://preview.coo.ee/wear-os-samples-watchfaces/p/watchfacepush-firefly__ideal__default__compact",
           "previewId": "module_3a7766702d66697265666c79__module_7766702d66697265666c79__dwf__raw_wfp_firefly",
           "remoteComposeKnobs": [
+            {
+              "name": "dwf.is_24_hour",
+              "default": {
+                "kind": "bool",
+                "value": true
+              }
+            },
             {
               "name": "dwf.is_ambient",
               "default": {
@@ -1198,6 +1226,13 @@
           "previewId": "module_3a7766702d7269766572__module_7766702d7269766572__dwf__raw_wfp_river",
           "remoteComposeKnobs": [
             {
+              "name": "dwf.is_24_hour",
+              "default": {
+                "kind": "bool",
+                "value": true
+              }
+            },
+            {
               "name": "dwf.is_ambient",
               "default": {
                 "kind": "bool",
@@ -1226,8 +1261,8 @@
       "sourceFunction": "wfp_river"
     }
   ],
-  "renderer": "compose-preview 2.98.0",
-  "generatedAt": "2026-11-18T04:09:30.619Z",
+  "renderer": "compose-preview 2.100.0",
+  "generatedAt": "2026-11-19T01:20:50.566Z",
   "display": {
     "surface": "dark",
     "hero": "WatchFaceFormat/Complications"
@@ -1301,7 +1336,7 @@
   "componentsFile": "components.json",
   "source": {
     "repo": "android/wear-os-samples",
-    "ref": "665d6a48466d472a4d928661dd865364d5073799",
+    "ref": "9a38e4453b61b50a287347339c06624b60c41e47",
     "module": ""
   }
 }
