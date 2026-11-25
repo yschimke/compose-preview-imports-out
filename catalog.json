@@ -842,8 +842,8 @@
       "sourceFunction": "TypographySpecimenPreview"
     }
   ],
-  "renderer": "compose-preview 2.98.0",
-  "generatedAt": "2026-11-18T03:34:05.252Z",
+  "renderer": "compose-preview 2.103.1",
+  "generatedAt": "2026-11-25T03:28:51.404Z",
   "liveBundle": {
     "path": "bundle/",
     "file": "bundle.png"
