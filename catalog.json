@@ -39258,8 +39258,8 @@
       "sourceFunction": "HorizontalTabPagerSecondaryPreview"
     }
   ],
-  "renderer": "compose-preview 2.89.0",
-  "generatedAt": "2026-11-11T04:01:00.301Z",
+  "renderer": "compose-preview 2.103.1",
+  "generatedAt": "2026-11-25T04:00:38.029Z",
   "themes": [
     {
       "id": "ee.schimke.composeai.imported.themes.ImportedTheme_K9MailDark",
@@ -39305,7 +39305,7 @@
   "componentsFile": "components.json",
   "source": {
     "repo": "thunderbird/thunderbird-android",
-    "ref": "3542b3e75bef57405ef0ce0a4d6c4655d7bb8eb5",
+    "ref": "b69e4b2d57c68377d320caebc5b8742ec6e0edb4",
     "module": ":ui:bolt"
   }
 }
