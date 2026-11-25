@@ -716,8 +716,8 @@
       "sourceModule": ":app"
     }
   ],
-  "renderer": "compose-preview 2.101.0",
-  "generatedAt": "2026-11-19T01:29:17.508Z",
+  "renderer": "compose-preview 2.103.1",
+  "generatedAt": "2026-11-25T02:31:23.521Z",
   "display": {
     "surface": "dark",
     "hero": "WatchFace/Pixel"
@@ -737,7 +737,7 @@
   "componentsFile": "components.json",
   "source": {
     "repo": "bonstio/casino-gshark",
-    "ref": "2087f9f9b9c27ee3c3f5b824ff73221e413cc7c7",
+    "ref": "7e61540d451b096f4bc2c3c7b828b490410f2b5e",
     "module": ":app"
   }
 }
