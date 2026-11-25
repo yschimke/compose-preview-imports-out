@@ -2477,7 +2477,7 @@
       "wireframe": "wireframes/filled-button-large-low-padding.svg",
       "sourceFile": "src/main/kotlin/io/element/android/libraries/designsystem/theme/components/Button.kt",
       "sourceModule": ":libraries:designsystem",
-      "bodyLine": 401,
+      "bodyLine": 407,
       "sourceDirectory": "libraries/designsystem",
       "sourceFunction": "FilledButtonLargeLowPaddingPreview",
       "parameters": [
@@ -3249,7 +3249,7 @@
       "wireframe": "wireframes/filled-button-large.svg",
       "sourceFile": "src/main/kotlin/io/element/android/libraries/designsystem/theme/components/Button.kt",
       "sourceModule": ":libraries:designsystem",
-      "bodyLine": 392,
+      "bodyLine": 398,
       "sourceDirectory": "libraries/designsystem",
       "sourceFunction": "FilledButtonLargePreview",
       "parameters": [
@@ -4021,7 +4021,7 @@
       "wireframe": "wireframes/filled-button-medium-low-padding.svg",
       "sourceFile": "src/main/kotlin/io/element/android/libraries/designsystem/theme/components/Button.kt",
       "sourceModule": ":libraries:designsystem",
-      "bodyLine": 383,
+      "bodyLine": 389,
       "sourceDirectory": "libraries/designsystem",
       "sourceFunction": "FilledButtonMediumLowPaddingPreview",
       "parameters": [
@@ -4793,7 +4793,7 @@
       "wireframe": "wireframes/filled-button-medium.svg",
       "sourceFile": "src/main/kotlin/io/element/android/libraries/designsystem/theme/components/Button.kt",
       "sourceModule": ":libraries:designsystem",
-      "bodyLine": 374,
+      "bodyLine": 380,
       "sourceDirectory": "libraries/designsystem",
       "sourceFunction": "FilledButtonMediumPreview",
       "parameters": [
@@ -5565,7 +5565,7 @@
       "wireframe": "wireframes/filled-button-small.svg",
       "sourceFile": "src/main/kotlin/io/element/android/libraries/designsystem/theme/components/Button.kt",
       "sourceModule": ":libraries:designsystem",
-      "bodyLine": 365,
+      "bodyLine": 371,
       "sourceDirectory": "libraries/designsystem",
       "sourceFunction": "FilledButtonSmallPreview",
       "parameters": [
@@ -6337,7 +6337,7 @@
       "wireframe": "wireframes/outlined-button-large-low-padding.svg",
       "sourceFile": "src/main/kotlin/io/element/android/libraries/designsystem/theme/components/Button.kt",
       "sourceModule": ":libraries:designsystem",
-      "bodyLine": 446,
+      "bodyLine": 452,
       "sourceDirectory": "libraries/designsystem",
       "sourceFunction": "OutlinedButtonLargeLowPaddingPreview",
       "parameters": [
@@ -7109,7 +7109,7 @@
       "wireframe": "wireframes/outlined-button-large.svg",
       "sourceFile": "src/main/kotlin/io/element/android/libraries/designsystem/theme/components/Button.kt",
       "sourceModule": ":libraries:designsystem",
-      "bodyLine": 437,
+      "bodyLine": 443,
       "sourceDirectory": "libraries/designsystem",
       "sourceFunction": "OutlinedButtonLargePreview",
       "parameters": [
@@ -7881,7 +7881,7 @@
       "wireframe": "wireframes/outlined-button-medium-low-padding.svg",
       "sourceFile": "src/main/kotlin/io/element/android/libraries/designsystem/theme/components/Button.kt",
       "sourceModule": ":libraries:designsystem",
-      "bodyLine": 428,
+      "bodyLine": 434,
       "sourceDirectory": "libraries/designsystem",
       "sourceFunction": "OutlinedButtonMediumLowPaddingPreview",
       "parameters": [
@@ -8653,7 +8653,7 @@
       "wireframe": "wireframes/outlined-button-medium.svg",
       "sourceFile": "src/main/kotlin/io/element/android/libraries/designsystem/theme/components/Button.kt",
       "sourceModule": ":libraries:designsystem",
-      "bodyLine": 419,
+      "bodyLine": 425,
       "sourceDirectory": "libraries/designsystem",
       "sourceFunction": "OutlinedButtonMediumPreview",
       "parameters": [
@@ -9425,7 +9425,7 @@
       "wireframe": "wireframes/outlined-button-small.svg",
       "sourceFile": "src/main/kotlin/io/element/android/libraries/designsystem/theme/components/Button.kt",
       "sourceModule": ":libraries:designsystem",
-      "bodyLine": 410,
+      "bodyLine": 416,
       "sourceDirectory": "libraries/designsystem",
       "sourceFunction": "OutlinedButtonSmallPreview",
       "parameters": [
@@ -10197,7 +10197,7 @@
       "wireframe": "wireframes/text-button-large-low-padding.svg",
       "sourceFile": "src/main/kotlin/io/element/android/libraries/designsystem/theme/components/Button.kt",
       "sourceModule": ":libraries:designsystem",
-      "bodyLine": 491,
+      "bodyLine": 497,
       "sourceDirectory": "libraries/designsystem",
       "sourceFunction": "TextButtonLargeLowPaddingPreview",
       "parameters": [
@@ -10969,7 +10969,7 @@
       "wireframe": "wireframes/text-button-large.svg",
       "sourceFile": "src/main/kotlin/io/element/android/libraries/designsystem/theme/components/Button.kt",
       "sourceModule": ":libraries:designsystem",
-      "bodyLine": 482,
+      "bodyLine": 488,
       "sourceDirectory": "libraries/designsystem",
       "sourceFunction": "TextButtonLargePreview",
       "parameters": [
@@ -11741,7 +11741,7 @@
       "wireframe": "wireframes/text-button-medium-low-padding.svg",
       "sourceFile": "src/main/kotlin/io/element/android/libraries/designsystem/theme/components/Button.kt",
       "sourceModule": ":libraries:designsystem",
-      "bodyLine": 473,
+      "bodyLine": 479,
       "sourceDirectory": "libraries/designsystem",
       "sourceFunction": "TextButtonMediumLowPaddingPreview",
       "parameters": [
@@ -12513,7 +12513,7 @@
       "wireframe": "wireframes/text-button-medium.svg",
       "sourceFile": "src/main/kotlin/io/element/android/libraries/designsystem/theme/components/Button.kt",
       "sourceModule": ":libraries:designsystem",
-      "bodyLine": 464,
+      "bodyLine": 470,
       "sourceDirectory": "libraries/designsystem",
       "sourceFunction": "TextButtonMediumPreview",
       "parameters": [
@@ -13285,7 +13285,7 @@
       "wireframe": "wireframes/text-button-small.svg",
       "sourceFile": "src/main/kotlin/io/element/android/libraries/designsystem/theme/components/Button.kt",
       "sourceModule": ":libraries:designsystem",
-      "bodyLine": 455,
+      "bodyLine": 461,
       "sourceDirectory": "libraries/designsystem",
       "sourceFunction": "TextButtonSmallPreview",
       "parameters": [
@@ -14797,7 +14797,7 @@
       "wireframe": "wireframes/horizontal-divider.svg",
       "sourceFile": "src/main/kotlin/io/element/android/libraries/designsystem/theme/components/HorizontalDivider.kt",
       "sourceModule": ":libraries:designsystem",
-      "bodyLine": 45,
+      "bodyLine": 46,
       "sourceDirectory": "libraries/designsystem",
       "sourceFunction": "HorizontalDividerPreview",
       "parameters": [
@@ -16811,7 +16811,7 @@
       "wireframe": "wireframes/list-item-primary-action-with-icon.svg",
       "sourceFile": "src/main/kotlin/io/element/android/libraries/designsystem/theme/components/ListItem.kt",
       "sourceModule": ":libraries:designsystem",
-      "bodyLine": 424,
+      "bodyLine": 429,
       "sourceDirectory": "libraries/designsystem",
       "sourceFunction": "ListItemPrimaryActionWithIconPreview"
     },
@@ -16912,7 +16912,7 @@
       "wireframe": "wireframes/list-item-single-line-both-icons.svg",
       "sourceFile": "src/main/kotlin/io/element/android/libraries/designsystem/theme/components/ListItem.kt",
       "sourceModule": ":libraries:designsystem",
-      "bodyLine": 415,
+      "bodyLine": 420,
       "sourceDirectory": "libraries/designsystem",
       "sourceFunction": "ListItemSingleLineBothIconsPreview"
     },
@@ -17098,7 +17098,7 @@
       "wireframe": "wireframes/list-item-single-line-leading-checkbox.svg",
       "sourceFile": "src/main/kotlin/io/element/android/libraries/designsystem/theme/components/ListItem.kt",
       "sourceModule": ":libraries:designsystem",
-      "bodyLine": 353,
+      "bodyLine": 358,
       "sourceDirectory": "libraries/designsystem",
       "sourceFunction": "ListItemSingleLineLeadingCheckboxPreview"
     },
@@ -17199,7 +17199,7 @@
       "wireframe": "wireframes/list-item-single-line-leading-icon.svg",
       "sourceFile": "src/main/kotlin/io/element/android/libraries/designsystem/theme/components/ListItem.kt",
       "sourceModule": ":libraries:designsystem",
-      "bodyLine": 395,
+      "bodyLine": 400,
       "sourceDirectory": "libraries/designsystem",
       "sourceFunction": "ListItemSingleLineLeadingIconPreview"
     },
@@ -17304,7 +17304,7 @@
       "wireframe": "wireframes/list-item-single-line-leading-radio-button.svg",
       "sourceFile": "src/main/kotlin/io/element/android/libraries/designsystem/theme/components/ListItem.kt",
       "sourceModule": ":libraries:designsystem",
-      "bodyLine": 367,
+      "bodyLine": 372,
       "sourceDirectory": "libraries/designsystem",
       "sourceFunction": "ListItemSingleLineLeadingRadioButtonPreview"
     },
@@ -17562,7 +17562,7 @@
       "wireframe": "wireframes/list-item-single-line-leading-switch.svg",
       "sourceFile": "src/main/kotlin/io/element/android/libraries/designsystem/theme/components/ListItem.kt",
       "sourceModule": ":libraries:designsystem",
-      "bodyLine": 381,
+      "bodyLine": 386,
       "sourceDirectory": "libraries/designsystem",
       "sourceFunction": "ListItemSingleLineLeadingSwitchPreview"
     },
@@ -17663,7 +17663,7 @@
       "wireframe": "wireframes/list-item-single-line-simple.svg",
       "sourceFile": "src/main/kotlin/io/element/android/libraries/designsystem/theme/components/ListItem.kt",
       "sourceModule": ":libraries:designsystem",
-      "bodyLine": 283,
+      "bodyLine": 288,
       "sourceDirectory": "libraries/designsystem",
       "sourceFunction": "ListItemSingleLineSimplePreview"
     },
@@ -17849,7 +17849,7 @@
       "wireframe": "wireframes/list-item-single-line-trailing-check-box.svg",
       "sourceFile": "src/main/kotlin/io/element/android/libraries/designsystem/theme/components/ListItem.kt",
       "sourceModule": ":libraries:designsystem",
-      "bodyLine": 297,
+      "bodyLine": 302,
       "sourceDirectory": "libraries/designsystem",
       "sourceFunction": "ListItemSingleLineTrailingCheckBoxPreview"
     },
@@ -17950,7 +17950,7 @@
       "wireframe": "wireframes/list-item-single-line-trailing-icon.svg",
       "sourceFile": "src/main/kotlin/io/element/android/libraries/designsystem/theme/components/ListItem.kt",
       "sourceModule": ":libraries:designsystem",
-      "bodyLine": 339,
+      "bodyLine": 344,
       "sourceDirectory": "libraries/designsystem",
       "sourceFunction": "ListItemSingleLineTrailingIconPreview"
     },
@@ -18055,7 +18055,7 @@
       "wireframe": "wireframes/list-item-single-line-trailing-radio-button.svg",
       "sourceFile": "src/main/kotlin/io/element/android/libraries/designsystem/theme/components/ListItem.kt",
       "sourceModule": ":libraries:designsystem",
-      "bodyLine": 311,
+      "bodyLine": 316,
       "sourceDirectory": "libraries/designsystem",
       "sourceFunction": "ListItemSingleLineTrailingRadioButtonPreview"
     },
@@ -18313,7 +18313,7 @@
       "wireframe": "wireframes/list-item-single-line-trailing-switch.svg",
       "sourceFile": "src/main/kotlin/io/element/android/libraries/designsystem/theme/components/ListItem.kt",
       "sourceModule": ":libraries:designsystem",
-      "bodyLine": 325,
+      "bodyLine": 330,
       "sourceDirectory": "libraries/designsystem",
       "sourceFunction": "ListItemSingleLineTrailingSwitchPreview"
     },
@@ -18414,7 +18414,7 @@
       "wireframe": "wireframes/list-item-three-lines-both-icons.svg",
       "sourceFile": "src/main/kotlin/io/element/android/libraries/designsystem/theme/components/ListItem.kt",
       "sourceModule": ":libraries:designsystem",
-      "bodyLine": 401,
+      "bodyLine": 406,
       "sourceDirectory": "libraries/designsystem",
       "sourceFunction": "ListItemThreeLinesBothIconsPreview"
     },
@@ -18600,7 +18600,7 @@
       "wireframe": "wireframes/list-item-three-lines-leading-checkbox.svg",
       "sourceFile": "src/main/kotlin/io/element/android/libraries/designsystem/theme/components/ListItem.kt",
       "sourceModule": ":libraries:designsystem",
-      "bodyLine": 345,
+      "bodyLine": 350,
       "sourceDirectory": "libraries/designsystem",
       "sourceFunction": "ListItemThreeLinesLeadingCheckboxPreview"
     },
@@ -18701,7 +18701,7 @@
       "wireframe": "wireframes/list-item-three-lines-leading-icon.svg",
       "sourceFile": "src/main/kotlin/io/element/android/libraries/designsystem/theme/components/ListItem.kt",
       "sourceModule": ":libraries:designsystem",
-      "bodyLine": 387,
+      "bodyLine": 392,
       "sourceDirectory": "libraries/designsystem",
       "sourceFunction": "ListItemThreeLinesLeadingIconPreview"
     },
@@ -18806,7 +18806,7 @@
       "wireframe": "wireframes/list-item-three-lines-leading-radio-button.svg",
       "sourceFile": "src/main/kotlin/io/element/android/libraries/designsystem/theme/components/ListItem.kt",
       "sourceModule": ":libraries:designsystem",
-      "bodyLine": 359,
+      "bodyLine": 364,
       "sourceDirectory": "libraries/designsystem",
       "sourceFunction": "ListItemThreeLinesLeadingRadioButtonPreview"
     },
@@ -19064,7 +19064,7 @@
       "wireframe": "wireframes/list-item-three-lines-leading-switch.svg",
       "sourceFile": "src/main/kotlin/io/element/android/libraries/designsystem/theme/components/ListItem.kt",
       "sourceModule": ":libraries:designsystem",
-      "bodyLine": 373,
+      "bodyLine": 378,
       "sourceDirectory": "libraries/designsystem",
       "sourceFunction": "ListItemThreeLinesLeadingSwitchPreview"
     },
@@ -19165,7 +19165,7 @@
       "wireframe": "wireframes/list-item-three-lines-simple.svg",
       "sourceFile": "src/main/kotlin/io/element/android/libraries/designsystem/theme/components/ListItem.kt",
       "sourceModule": ":libraries:designsystem",
-      "bodyLine": 275,
+      "bodyLine": 280,
       "sourceDirectory": "libraries/designsystem",
       "sourceFunction": "ListItemThreeLinesSimplePreview"
     },
@@ -19351,7 +19351,7 @@
       "wireframe": "wireframes/list-item-three-lines-trailing-check-box.svg",
       "sourceFile": "src/main/kotlin/io/element/android/libraries/designsystem/theme/components/ListItem.kt",
       "sourceModule": ":libraries:designsystem",
-      "bodyLine": 289,
+      "bodyLine": 294,
       "sourceDirectory": "libraries/designsystem",
       "sourceFunction": "ListItemThreeLinesTrailingCheckBoxPreview"
     },
@@ -19452,7 +19452,7 @@
       "wireframe": "wireframes/list-item-three-lines-trailing-icon.svg",
       "sourceFile": "src/main/kotlin/io/element/android/libraries/designsystem/theme/components/ListItem.kt",
       "sourceModule": ":libraries:designsystem",
-      "bodyLine": 331,
+      "bodyLine": 336,
       "sourceDirectory": "libraries/designsystem",
       "sourceFunction": "ListItemThreeLinesTrailingIconPreview"
     },
@@ -19557,7 +19557,7 @@
       "wireframe": "wireframes/list-item-three-lines-trailing-radio-button.svg",
       "sourceFile": "src/main/kotlin/io/element/android/libraries/designsystem/theme/components/ListItem.kt",
       "sourceModule": ":libraries:designsystem",
-      "bodyLine": 303,
+      "bodyLine": 308,
       "sourceDirectory": "libraries/designsystem",
       "sourceFunction": "ListItemThreeLinesTrailingRadioButtonPreview"
     },
@@ -19815,7 +19815,7 @@
       "wireframe": "wireframes/list-item-three-lines-trailing-switch.svg",
       "sourceFile": "src/main/kotlin/io/element/android/libraries/designsystem/theme/components/ListItem.kt",
       "sourceModule": ":libraries:designsystem",
-      "bodyLine": 317,
+      "bodyLine": 322,
       "sourceDirectory": "libraries/designsystem",
       "sourceFunction": "ListItemThreeLinesTrailingSwitchPreview"
     },
@@ -19916,7 +19916,7 @@
       "wireframe": "wireframes/list-item-two-lines-both-icons-error.svg",
       "sourceFile": "src/main/kotlin/io/element/android/libraries/designsystem/theme/components/ListItem.kt",
       "sourceModule": ":libraries:designsystem",
-      "bodyLine": 496,
+      "bodyLine": 501,
       "sourceDirectory": "libraries/designsystem",
       "sourceFunction": "ListItemTwoLinesBothIconsErrorPreview"
     },
@@ -20017,7 +20017,7 @@
       "wireframe": "wireframes/list-item-two-lines-both-icons.svg",
       "sourceFile": "src/main/kotlin/io/element/android/libraries/designsystem/theme/components/ListItem.kt",
       "sourceModule": ":libraries:designsystem",
-      "bodyLine": 408,
+      "bodyLine": 413,
       "sourceDirectory": "libraries/designsystem",
       "sourceFunction": "ListItemTwoLinesBothIconsPreview"
     },
@@ -20203,7 +20203,7 @@
       "wireframe": "wireframes/list-item-two-lines-leading-checkbox-error.svg",
       "sourceFile": "src/main/kotlin/io/element/android/libraries/designsystem/theme/components/ListItem.kt",
       "sourceModule": ":libraries:designsystem",
-      "bodyLine": 468,
+      "bodyLine": 473,
       "sourceDirectory": "libraries/designsystem",
       "sourceFunction": "ListItemTwoLinesLeadingCheckboxErrorPreview"
     },
@@ -20389,7 +20389,7 @@
       "wireframe": "wireframes/list-item-two-lines-leading-checkbox.svg",
       "sourceFile": "src/main/kotlin/io/element/android/libraries/designsystem/theme/components/ListItem.kt",
       "sourceModule": ":libraries:designsystem",
-      "bodyLine": 349,
+      "bodyLine": 354,
       "sourceDirectory": "libraries/designsystem",
       "sourceFunction": "ListItemTwoLinesLeadingCheckboxPreview"
     },
@@ -20490,7 +20490,7 @@
       "wireframe": "wireframes/list-item-two-lines-leading-icon-error.svg",
       "sourceFile": "src/main/kotlin/io/element/android/libraries/designsystem/theme/components/ListItem.kt",
       "sourceModule": ":libraries:designsystem",
-      "bodyLine": 489,
+      "bodyLine": 494,
       "sourceDirectory": "libraries/designsystem",
       "sourceFunction": "ListItemTwoLinesLeadingIconErrorPreview"
     },
@@ -20591,7 +20591,7 @@
       "wireframe": "wireframes/list-item-two-lines-leading-icon.svg",
       "sourceFile": "src/main/kotlin/io/element/android/libraries/designsystem/theme/components/ListItem.kt",
       "sourceModule": ":libraries:designsystem",
-      "bodyLine": 391,
+      "bodyLine": 396,
       "sourceDirectory": "libraries/designsystem",
       "sourceFunction": "ListItemTwoLinesLeadingIconPreview"
     },
@@ -20696,7 +20696,7 @@
       "wireframe": "wireframes/list-item-two-lines-leading-radio-button-error.svg",
       "sourceFile": "src/main/kotlin/io/element/android/libraries/designsystem/theme/components/ListItem.kt",
       "sourceModule": ":libraries:designsystem",
-      "bodyLine": 475,
+      "bodyLine": 480,
       "sourceDirectory": "libraries/designsystem",
       "sourceFunction": "ListItemTwoLinesLeadingRadioButtonErrorPreview"
     },
@@ -20801,7 +20801,7 @@
       "wireframe": "wireframes/list-item-two-lines-leading-radio-button.svg",
       "sourceFile": "src/main/kotlin/io/element/android/libraries/designsystem/theme/components/ListItem.kt",
       "sourceModule": ":libraries:designsystem",
-      "bodyLine": 363,
+      "bodyLine": 368,
       "sourceDirectory": "libraries/designsystem",
       "sourceFunction": "ListItemTwoLinesLeadingRadioButtonPreview"
     },
@@ -21059,7 +21059,7 @@
       "wireframe": "wireframes/list-item-two-lines-leading-switch-error.svg",
       "sourceFile": "src/main/kotlin/io/element/android/libraries/designsystem/theme/components/ListItem.kt",
       "sourceModule": ":libraries:designsystem",
-      "bodyLine": 482,
+      "bodyLine": 487,
       "sourceDirectory": "libraries/designsystem",
       "sourceFunction": "ListItemTwoLinesLeadingSwitchErrorPreview"
     },
@@ -21317,7 +21317,7 @@
       "wireframe": "wireframes/list-item-two-lines-leading-switch.svg",
       "sourceFile": "src/main/kotlin/io/element/android/libraries/designsystem/theme/components/ListItem.kt",
       "sourceModule": ":libraries:designsystem",
-      "bodyLine": 377,
+      "bodyLine": 382,
       "sourceDirectory": "libraries/designsystem",
       "sourceFunction": "ListItemTwoLinesLeadingSwitchPreview"
     },
@@ -21418,7 +21418,7 @@
       "wireframe": "wireframes/list-item-two-lines-simple-error.svg",
       "sourceFile": "src/main/kotlin/io/element/android/libraries/designsystem/theme/components/ListItem.kt",
       "sourceModule": ":libraries:designsystem",
-      "bodyLine": 433,
+      "bodyLine": 438,
       "sourceDirectory": "libraries/designsystem",
       "sourceFunction": "ListItemTwoLinesSimpleErrorPreview"
     },
@@ -21519,7 +21519,7 @@
       "wireframe": "wireframes/list-item-two-lines-simple.svg",
       "sourceFile": "src/main/kotlin/io/element/android/libraries/designsystem/theme/components/ListItem.kt",
       "sourceModule": ":libraries:designsystem",
-      "bodyLine": 279,
+      "bodyLine": 284,
       "sourceDirectory": "libraries/designsystem",
       "sourceFunction": "ListItemTwoLinesSimplePreview"
     },
@@ -21705,7 +21705,7 @@
       "wireframe": "wireframes/list-item-two-lines-trailing-check-box-error.svg",
       "sourceFile": "src/main/kotlin/io/element/android/libraries/designsystem/theme/components/ListItem.kt",
       "sourceModule": ":libraries:designsystem",
-      "bodyLine": 439,
+      "bodyLine": 444,
       "sourceDirectory": "libraries/designsystem",
       "sourceFunction": "ListItemTwoLinesTrailingCheckBoxErrorPreview"
     },
@@ -21891,7 +21891,7 @@
       "wireframe": "wireframes/list-item-two-lines-trailing-check-box.svg",
       "sourceFile": "src/main/kotlin/io/element/android/libraries/designsystem/theme/components/ListItem.kt",
       "sourceModule": ":libraries:designsystem",
-      "bodyLine": 293,
+      "bodyLine": 298,
       "sourceDirectory": "libraries/designsystem",
       "sourceFunction": "ListItemTwoLinesTrailingCheckBoxPreview"
     },
@@ -21992,7 +21992,7 @@
       "wireframe": "wireframes/list-item-two-lines-trailing-icon-error.svg",
       "sourceFile": "src/main/kotlin/io/element/android/libraries/designsystem/theme/components/ListItem.kt",
       "sourceModule": ":libraries:designsystem",
-      "bodyLine": 460,
+      "bodyLine": 465,
       "sourceDirectory": "libraries/designsystem",
       "sourceFunction": "ListItemTwoLinesTrailingIconErrorPreview"
     },
@@ -22093,7 +22093,7 @@
       "wireframe": "wireframes/list-item-two-lines-trailing-icon.svg",
       "sourceFile": "src/main/kotlin/io/element/android/libraries/designsystem/theme/components/ListItem.kt",
       "sourceModule": ":libraries:designsystem",
-      "bodyLine": 335,
+      "bodyLine": 340,
       "sourceDirectory": "libraries/designsystem",
       "sourceFunction": "ListItemTwoLinesTrailingIconPreview"
     },
@@ -22198,7 +22198,7 @@
       "wireframe": "wireframes/list-item-two-lines-trailing-radio-button-error.svg",
       "sourceFile": "src/main/kotlin/io/element/android/libraries/designsystem/theme/components/ListItem.kt",
       "sourceModule": ":libraries:designsystem",
-      "bodyLine": 446,
+      "bodyLine": 451,
       "sourceDirectory": "libraries/designsystem",
       "sourceFunction": "ListItemTwoLinesTrailingRadioButtonErrorPreview"
     },
@@ -22303,7 +22303,7 @@
       "wireframe": "wireframes/list-item-two-lines-trailing-radio-button.svg",
       "sourceFile": "src/main/kotlin/io/element/android/libraries/designsystem/theme/components/ListItem.kt",
       "sourceModule": ":libraries:designsystem",
-      "bodyLine": 307,
+      "bodyLine": 312,
       "sourceDirectory": "libraries/designsystem",
       "sourceFunction": "ListItemTwoLinesTrailingRadioButtonPreview"
     },
@@ -22561,7 +22561,7 @@
       "wireframe": "wireframes/list-item-two-lines-trailing-switch-error.svg",
       "sourceFile": "src/main/kotlin/io/element/android/libraries/designsystem/theme/components/ListItem.kt",
       "sourceModule": ":libraries:designsystem",
-      "bodyLine": 453,
+      "bodyLine": 458,
       "sourceDirectory": "libraries/designsystem",
       "sourceFunction": "ListItemTwoLinesTrailingSwitchErrorPreview"
     },
@@ -22819,7 +22819,7 @@
       "wireframe": "wireframes/list-item-two-lines-trailing-switch.svg",
       "sourceFile": "src/main/kotlin/io/element/android/libraries/designsystem/theme/components/ListItem.kt",
       "sourceModule": ":libraries:designsystem",
-      "bodyLine": 321,
+      "bodyLine": 326,
       "sourceDirectory": "libraries/designsystem",
       "sourceFunction": "ListItemTwoLinesTrailingSwitchPreview"
     },
@@ -23188,7 +23188,7 @@
       "wireframe": "wireframes/list-supporting-text-custom-padding.svg",
       "sourceFile": "src/main/kotlin/io/element/android/libraries/designsystem/theme/components/ListSupportingText.kt",
       "sourceModule": ":libraries:designsystem",
-      "bodyLine": 179,
+      "bodyLine": 185,
       "sourceDirectory": "libraries/designsystem",
       "sourceFunction": "ListSupportingTextCustomPaddingPreview"
     },
@@ -23289,7 +23289,7 @@
       "wireframe": "wireframes/list-supporting-text-default-padding.svg",
       "sourceFile": "src/main/kotlin/io/element/android/libraries/designsystem/theme/components/ListSupportingText.kt",
       "sourceModule": ":libraries:designsystem",
-      "bodyLine": 134,
+      "bodyLine": 140,
       "sourceDirectory": "libraries/designsystem",
       "sourceFunction": "ListSupportingTextDefaultPaddingPreview"
     },
@@ -23469,7 +23469,7 @@
       "wireframe": "wireframes/list-supporting-text-large-padding.svg",
       "sourceFile": "src/main/kotlin/io/element/android/libraries/designsystem/theme/components/ListSupportingText.kt",
       "sourceModule": ":libraries:designsystem",
-      "bodyLine": 165,
+      "bodyLine": 171,
       "sourceDirectory": "libraries/designsystem",
       "sourceFunction": "ListSupportingTextLargePaddingPreview"
     },
@@ -23540,7 +23540,7 @@
       "wireframe": "wireframes/list-supporting-text-no-padding.svg",
       "sourceFile": "src/main/kotlin/io/element/android/libraries/designsystem/theme/components/ListSupportingText.kt",
       "sourceModule": ":libraries:designsystem",
-      "bodyLine": 123,
+      "bodyLine": 129,
       "sourceDirectory": "libraries/designsystem",
       "sourceFunction": "ListSupportingTextNoPaddingPreview",
       "parameters": [
@@ -23663,7 +23663,7 @@
       "wireframe": "wireframes/list-supporting-text-small-padding.svg",
       "sourceFile": "src/main/kotlin/io/element/android/libraries/designsystem/theme/components/ListSupportingText.kt",
       "sourceModule": ":libraries:designsystem",
-      "bodyLine": 148,
+      "bodyLine": 154,
       "sourceDirectory": "libraries/designsystem",
       "sourceFunction": "ListSupportingTextSmallPaddingPreview"
     },
@@ -23966,7 +23966,7 @@
       "wireframe": "wireframes/modal-bottom-sheet-dark.svg",
       "sourceFile": "src/main/kotlin/io/element/android/libraries/designsystem/theme/components/ModalBottomSheet.kt",
       "sourceModule": ":libraries:designsystem",
-      "bodyLine": 241,
+      "bodyLine": 245,
       "sourceDirectory": "libraries/designsystem",
       "sourceFunction": "ModalBottomSheetDarkPreview",
       "parameters": [
@@ -24009,7 +24009,7 @@
       "wireframe": "wireframes/modal-bottom-sheet-light.svg",
       "sourceFile": "src/main/kotlin/io/element/android/libraries/designsystem/theme/components/ModalBottomSheet.kt",
       "sourceModule": ":libraries:designsystem",
-      "bodyLine": 236,
+      "bodyLine": 240,
       "sourceDirectory": "libraries/designsystem",
       "sourceFunction": "ModalBottomSheetLightPreview",
       "parameters": [
@@ -24391,7 +24391,7 @@
       "wireframe": "wireframes/navigation-bar.svg",
       "sourceFile": "src/main/kotlin/io/element/android/libraries/designsystem/theme/components/NavigationBar.kt",
       "sourceModule": ":libraries:designsystem",
-      "bodyLine": 61,
+      "bodyLine": 62,
       "sourceDirectory": "libraries/designsystem",
       "sourceFunction": "NavigationBarPreview"
     },
@@ -25545,7 +25545,7 @@
       "wireframe": "wireframes/search-fields-dark.svg",
       "sourceFile": "src/main/kotlin/io/element/android/libraries/designsystem/theme/components/SearchField.kt",
       "sourceModule": ":libraries:designsystem",
-      "bodyLine": 165,
+      "bodyLine": 167,
       "sourceDirectory": "libraries/designsystem",
       "sourceFunction": "SearchFieldsDarkPreview",
       "parameters": [
@@ -25668,7 +25668,7 @@
       "wireframe": "wireframes/search-fields-light.svg",
       "sourceFile": "src/main/kotlin/io/element/android/libraries/designsystem/theme/components/SearchField.kt",
       "sourceModule": ":libraries:designsystem",
-      "bodyLine": 161,
+      "bodyLine": 163,
       "sourceDirectory": "libraries/designsystem",
       "sourceFunction": "SearchFieldsLightPreview",
       "parameters": [
@@ -25990,7 +25990,7 @@
       "wireframe": "wireframes/snackbar.svg",
       "sourceFile": "src/main/kotlin/io/element/android/libraries/designsystem/theme/components/Snackbar.kt",
       "sourceModule": ":libraries:designsystem",
-      "bodyLine": 93,
+      "bodyLine": 95,
       "sourceDirectory": "libraries/designsystem",
       "sourceFunction": "SnackbarPreview",
       "parameters": [
@@ -26221,7 +26221,7 @@
       "wireframe": "wireframes/snackbar-with-action-and-close-button.svg",
       "sourceFile": "src/main/kotlin/io/element/android/libraries/designsystem/theme/components/Snackbar.kt",
       "sourceModule": ":libraries:designsystem",
-      "bodyLine": 109,
+      "bodyLine": 111,
       "sourceDirectory": "libraries/designsystem",
       "sourceFunction": "SnackbarWithActionAndCloseButtonPreview",
       "parameters": [
@@ -26423,7 +26423,7 @@
       "wireframe": "wireframes/snackbar-with-action-on-new-line-and-close-button.svg",
       "sourceFile": "src/main/kotlin/io/element/android/libraries/designsystem/theme/components/Snackbar.kt",
       "sourceModule": ":libraries:designsystem",
-      "bodyLine": 131,
+      "bodyLine": 133,
       "sourceDirectory": "libraries/designsystem",
       "sourceFunction": "SnackbarWithActionOnNewLineAndCloseButtonPreview",
       "parameters": [
@@ -26565,7 +26565,7 @@
       "wireframe": "wireframes/snackbar-with-action-on-new-line.svg",
       "sourceFile": "src/main/kotlin/io/element/android/libraries/designsystem/theme/components/Snackbar.kt",
       "sourceModule": ":libraries:designsystem",
-      "bodyLine": 123,
+      "bodyLine": 125,
       "sourceDirectory": "libraries/designsystem",
       "sourceFunction": "SnackbarWithActionOnNewLinePreview",
       "parameters": [
@@ -26707,7 +26707,7 @@
       "wireframe": "wireframes/snackbar-with-action.svg",
       "sourceFile": "src/main/kotlin/io/element/android/libraries/designsystem/theme/components/Snackbar.kt",
       "sourceModule": ":libraries:designsystem",
-      "bodyLine": 101,
+      "bodyLine": 103,
       "sourceDirectory": "libraries/designsystem",
       "sourceFunction": "SnackbarWithActionPreview",
       "parameters": [
@@ -27746,7 +27746,7 @@
       "wireframe": "wireframes/text-fields-dark.svg",
       "sourceFile": "src/main/kotlin/io/element/android/libraries/designsystem/theme/components/TextField.kt",
       "sourceModule": ":libraries:designsystem",
-      "bodyLine": 368,
+      "bodyLine": 372,
       "sourceDirectory": "libraries/designsystem",
       "sourceFunction": "TextFieldsDarkPreview",
       "parameters": [
@@ -27897,7 +27897,7 @@
       "wireframe": "wireframes/text-fields-light.svg",
       "sourceFile": "src/main/kotlin/io/element/android/libraries/designsystem/theme/components/TextField.kt",
       "sourceModule": ":libraries:designsystem",
-      "bodyLine": 364,
+      "bodyLine": 368,
       "sourceDirectory": "libraries/designsystem",
       "sourceFunction": "TextFieldsLightPreview",
       "parameters": [
@@ -32181,7 +32181,7 @@
       "wireframe": "wireframes/alert-dialog-content.svg",
       "sourceFile": "src/main/kotlin/io/element/android/libraries/designsystem/components/dialogs/AlertDialog.kt",
       "sourceModule": ":libraries:designsystem",
-      "bodyLine": 64,
+      "bodyLine": 65,
       "sourceDirectory": "libraries/designsystem",
       "sourceFunction": "AlertDialogContentPreview",
       "parameters": [
@@ -32244,7 +32244,7 @@
       "wireframe": "wireframes/alert-dialog.svg",
       "sourceFile": "src/main/kotlin/io/element/android/libraries/designsystem/components/dialogs/AlertDialog.kt",
       "sourceModule": ":libraries:designsystem",
-      "bodyLine": 77,
+      "bodyLine": 78,
       "sourceDirectory": "libraries/designsystem",
       "sourceFunction": "AlertDialogPreview",
       "parameters": [
@@ -32816,7 +32816,7 @@
       "wireframe": "wireframes/error-dialog-content.svg",
       "sourceFile": "src/main/kotlin/io/element/android/libraries/designsystem/components/dialogs/ErrorDialog.kt",
       "sourceModule": ":libraries:designsystem",
-      "bodyLine": 71,
+      "bodyLine": 72,
       "sourceDirectory": "libraries/designsystem",
       "sourceFunction": "ErrorDialogContentPreview",
       "parameters": [
@@ -32879,7 +32879,7 @@
       "wireframe": "wireframes/error-dialog.svg",
       "sourceFile": "src/main/kotlin/io/element/android/libraries/designsystem/components/dialogs/ErrorDialog.kt",
       "sourceModule": ":libraries:designsystem",
-      "bodyLine": 84,
+      "bodyLine": 85,
       "sourceDirectory": "libraries/designsystem",
       "sourceFunction": "ErrorDialogPreview",
       "parameters": [
@@ -34012,7 +34012,7 @@
       "wireframe": "wireframes/retry-dialog-content.svg",
       "sourceFile": "src/main/kotlin/io/element/android/libraries/designsystem/components/dialogs/RetryDialog.kt",
       "sourceModule": ":libraries:designsystem",
-      "bodyLine": 73,
+      "bodyLine": 74,
       "sourceDirectory": "libraries/designsystem",
       "sourceFunction": "RetryDialogContentPreview",
       "parameters": [
@@ -34075,7 +34075,7 @@
       "wireframe": "wireframes/retry-dialog.svg",
       "sourceFile": "src/main/kotlin/io/element/android/libraries/designsystem/components/dialogs/RetryDialog.kt",
       "sourceModule": ":libraries:designsystem",
-      "bodyLine": 87,
+      "bodyLine": 88,
       "sourceDirectory": "libraries/designsystem",
       "sourceFunction": "RetryDialogPreview",
       "parameters": [
@@ -34497,7 +34497,7 @@
       "wireframe": "wireframes/mutiple-selection-list-item.svg",
       "sourceFile": "src/main/kotlin/io/element/android/libraries/designsystem/components/list/MultipleSelectionListItem.kt",
       "sourceModule": ":libraries:designsystem",
-      "bodyLine": 98,
+      "bodyLine": 99,
       "sourceDirectory": "libraries/designsystem",
       "sourceFunction": "MutipleSelectionListItemPreview",
       "parameters": [
@@ -34590,7 +34590,7 @@
       "wireframe": "wireframes/mutiple-selection-list-item-selected.svg",
       "sourceFile": "src/main/kotlin/io/element/android/libraries/designsystem/components/list/MultipleSelectionListItem.kt",
       "sourceModule": ":libraries:designsystem",
-      "bodyLine": 113,
+      "bodyLine": 114,
       "sourceDirectory": "libraries/designsystem",
       "sourceFunction": "MutipleSelectionListItemSelectedPreview",
       "parameters": [
@@ -34683,7 +34683,7 @@
       "wireframe": "wireframes/mutiple-selection-list-item-selected-trailing-content.svg",
       "sourceFile": "src/main/kotlin/io/element/android/libraries/designsystem/components/list/MultipleSelectionListItem.kt",
       "sourceModule": ":libraries:designsystem",
-      "bodyLine": 133,
+      "bodyLine": 134,
       "sourceDirectory": "libraries/designsystem",
       "sourceFunction": "MutipleSelectionListItemSelectedTrailingContentPreview",
       "parameters": [
@@ -34776,7 +34776,7 @@
       "wireframe": "wireframes/single-selection-list-item-custom-formattert.svg",
       "sourceFile": "src/main/kotlin/io/element/android/libraries/designsystem/components/list/SingleSelectionListItem.kt",
       "sourceModule": ":libraries:designsystem",
-      "bodyLine": 154,
+      "bodyLine": 155,
       "sourceDirectory": "libraries/designsystem",
       "sourceFunction": "SingleSelectionListItemCustomFormattertPreview",
       "parameters": [
@@ -34869,7 +34869,7 @@
       "wireframe": "wireframes/single-selection-list-item.svg",
       "sourceFile": "src/main/kotlin/io/element/android/libraries/designsystem/components/list/SingleSelectionListItem.kt",
       "sourceModule": ":libraries:designsystem",
-      "bodyLine": 100,
+      "bodyLine": 101,
       "sourceDirectory": "libraries/designsystem",
       "sourceFunction": "SingleSelectionListItemPreview",
       "parameters": [
@@ -34984,7 +34984,7 @@
       "wireframe": "wireframes/single-selection-list-item-selected-in-supporting-text.svg",
       "sourceFile": "src/main/kotlin/io/element/android/libraries/designsystem/components/list/SingleSelectionListItem.kt",
       "sourceModule": ":libraries:designsystem",
-      "bodyLine": 125,
+      "bodyLine": 126,
       "sourceDirectory": "libraries/designsystem",
       "sourceFunction": "SingleSelectionListItemSelectedInSupportingTextPreview",
       "parameters": [
@@ -35077,7 +35077,7 @@
       "wireframe": "wireframes/single-selection-list-item-selected-in-trailing-content.svg",
       "sourceFile": "src/main/kotlin/io/element/android/libraries/designsystem/components/list/SingleSelectionListItem.kt",
       "sourceModule": ":libraries:designsystem",
-      "bodyLine": 139,
+      "bodyLine": 140,
       "sourceDirectory": "libraries/designsystem",
       "sourceFunction": "SingleSelectionListItemSelectedInTrailingContentPreview",
       "parameters": [
@@ -35170,7 +35170,7 @@
       "wireframe": "wireframes/single-selection-list-item-unselected-with-supporting-text.svg",
       "sourceFile": "src/main/kotlin/io/element/android/libraries/designsystem/components/list/SingleSelectionListItem.kt",
       "sourceModule": ":libraries:designsystem",
-      "bodyLine": 112,
+      "bodyLine": 113,
       "sourceDirectory": "libraries/designsystem",
       "sourceFunction": "SingleSelectionListItemUnselectedWithSupportingTextPreview",
       "parameters": [
@@ -36172,7 +36172,7 @@
       "wireframe": "wireframes/preference-divider.svg",
       "sourceFile": "src/main/kotlin/io/element/android/libraries/designsystem/components/preferences/PreferenceDivider.kt",
       "sourceModule": ":libraries:designsystem",
-      "bodyLine": 27,
+      "bodyLine": 29,
       "sourceDirectory": "libraries/designsystem",
       "sourceFunction": "PreferenceDividerPreview",
       "parameters": [
@@ -37351,7 +37351,7 @@
       "wireframe": "wireframes/preference-icon.svg",
       "sourceFile": "src/main/kotlin/io/element/android/libraries/designsystem/components/preferences/components/PreferenceIcon.kt",
       "sourceModule": ":libraries:designsystem",
-      "bodyLine": 89,
+      "bodyLine": 88,
       "sourceDirectory": "libraries/designsystem",
       "sourceFunction": "PreferenceIconPreview",
       "parameters": [
@@ -37444,7 +37444,7 @@
       "wireframe": "wireframes/preference-icon-with-badge.svg",
       "sourceFile": "src/main/kotlin/io/element/android/libraries/designsystem/components/preferences/components/PreferenceIcon.kt",
       "sourceModule": ":libraries:designsystem",
-      "bodyLine": 99,
+      "bodyLine": 98,
       "sourceDirectory": "libraries/designsystem",
       "sourceFunction": "PreferenceIconWithBadgePreview",
       "parameters": [
@@ -39543,7 +39543,7 @@
       "caption": "Async action view. AsyncActionView.kt",
       "sourceFile": "src/main/kotlin/io/element/android/libraries/designsystem/components/async/AsyncActionView.kt",
       "sourceModule": ":libraries:designsystem",
-      "bodyLine": 84,
+      "bodyLine": 86,
       "sourceDirectory": "libraries/designsystem",
       "sourceFunction": "AsyncActionViewPreview",
       "parameters": [
@@ -40661,7 +40661,7 @@
       "wireframe": "wireframes/location-pin.svg",
       "sourceFile": "src/main/kotlin/io/element/android/libraries/designsystem/components/LocationPin.kt",
       "sourceModule": ":libraries:designsystem",
-      "bodyLine": 396,
+      "bodyLine": 397,
       "sourceDirectory": "libraries/designsystem",
       "sourceFunction": "LocationPinPreview",
       "parameters": [
@@ -44497,7 +44497,7 @@
       "wireframe": "wireframes/background-vertical-gradient-disabled.svg",
       "sourceFile": "src/main/kotlin/io/element/android/libraries/designsystem/modifiers/Gradient.kt",
       "sourceModule": ":libraries:designsystem",
-      "bodyLine": 53,
+      "bodyLine": 55,
       "sourceDirectory": "libraries/designsystem",
       "sourceFunction": "BackgroundVerticalGradientDisabledPreview",
       "parameters": [
@@ -44565,7 +44565,7 @@
       "wireframe": "wireframes/background-vertical-gradient.svg",
       "sourceFile": "src/main/kotlin/io/element/android/libraries/designsystem/modifiers/Gradient.kt",
       "sourceModule": ":libraries:designsystem",
-      "bodyLine": 42,
+      "bodyLine": 44,
       "sourceDirectory": "libraries/designsystem",
       "sourceFunction": "BackgroundVerticalGradientPreview",
       "parameters": [
@@ -44992,8 +44992,8 @@
       ]
     }
   ],
-  "renderer": "compose-preview 2.98.0",
-  "generatedAt": "2026-11-18T03:05:49.298Z",
+  "renderer": "compose-preview 2.103.1",
+  "generatedAt": "2026-11-25T03:09:12.722Z",
   "liveBundle": {
     "path": "bundle/",
     "file": "bundle.png"
@@ -45009,7 +45009,7 @@
   "componentsFile": "components.json",
   "source": {
     "repo": "element-hq/element-x-android",
-    "ref": "9a3250d82efef241b40178d1a7bdba3eda01adf8",
+    "ref": "bad5a42d71b8557936b1861e59b07ad9a6d12c96",
     "module": ":libraries:designsystem"
   }
 }
