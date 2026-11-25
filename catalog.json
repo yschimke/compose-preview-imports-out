@@ -1208,7 +1208,7 @@
       "wireframe": "wireframes/text-field.svg",
       "sourceFile": "src/main/kotlin/com/bitwarden/ui/platform/components/field/BitwardenTextField.kt",
       "sourceModule": ":ui",
-      "bodyLine": 417,
+      "bodyLine": 419,
       "sourceDirectory": "ui",
       "sourceFunction": "BitwardenTextField_preview",
       "parameters": [
@@ -1558,7 +1558,7 @@
       "wireframe": "wireframes/password-field.svg",
       "sourceFile": "src/main/kotlin/com/bitwarden/ui/platform/components/field/BitwardenPasswordField.kt",
       "sourceModule": ":ui",
-      "bodyLine": 478,
+      "bodyLine": 480,
       "sourceDirectory": "ui",
       "sourceFunction": "BitwardenPasswordField_preview",
       "parameters": [
@@ -3349,7 +3349,7 @@
       "wireframe": "wireframes/action-card-small.svg",
       "sourceFile": "src/main/kotlin/com/bitwarden/ui/platform/components/card/BitwardenActionCardSmall.kt",
       "sourceModule": ":ui",
-      "bodyLine": 119,
+      "bodyLine": 121,
       "sourceDirectory": "ui",
       "sourceFunction": "ActionCardSmall_preview",
       "parameters": [
@@ -3413,7 +3413,7 @@
       "wireframe": "wireframes/action-card-small-trailing.svg",
       "sourceFile": "src/main/kotlin/com/bitwarden/ui/platform/components/card/BitwardenActionCardSmall.kt",
       "sourceModule": ":ui",
-      "bodyLine": 132,
+      "bodyLine": 134,
       "sourceDirectory": "ui",
       "sourceFunction": "ActionCardSmallWithTrailingIcon_preview"
     },
@@ -7393,8 +7393,8 @@
       "sourceFunction": "BitwardenTypography_preview"
     }
   ],
-  "renderer": "compose-preview 2.98.0",
-  "generatedAt": "2026-11-18T02:33:08.555Z",
+  "renderer": "compose-preview 2.103.1",
+  "generatedAt": "2026-11-25T02:33:43.514Z",
   "liveBundle": {
     "path": "bundle/",
     "file": "bundle.png"
@@ -7410,7 +7410,7 @@
   "componentsFile": "components.json",
   "source": {
     "repo": "bitwarden/android",
-    "ref": "e6bb3d94d5cf36522a4a5fcaa8f1422a20030963",
+    "ref": "77717c9c8a46b6ea10355d2af50f6bd98bbee248",
     "module": ":ui"
   }
 }
