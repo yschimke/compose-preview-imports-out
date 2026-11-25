@@ -68,7 +68,7 @@
       "wireframe": "wireframes/station-view.svg",
       "sourceFile": "src/commonMain/kotlin/dev/johnoreilly/common/stationlist/StationListUI.kt",
       "sourceModule": ":common",
-      "bodyLine": 133,
+      "bodyLine": 135,
       "sourceDirectory": "common",
       "sourceFunction": "StationViewPreview",
       "parameters": [
@@ -927,7 +927,7 @@
       "wireframe": "wireframes/color-scheme.svg",
       "sourceFile": "src/commonMain/kotlin/dev/johnoreilly/common/ui/BikeSharePreviews.kt",
       "sourceModule": ":common",
-      "bodyLine": 169,
+      "bodyLine": 168,
       "sourceDirectory": "common",
       "sourceFunction": "ColorSchemeSpecimenPreview",
       "parameters": [
@@ -967,13 +967,13 @@
       "wireframe": "wireframes/typography.svg",
       "sourceFile": "src/commonMain/kotlin/dev/johnoreilly/common/ui/BikeSharePreviews.kt",
       "sourceModule": ":common",
-      "bodyLine": 196,
+      "bodyLine": 195,
       "sourceDirectory": "common",
       "sourceFunction": "TypographySpecimenPreview"
     }
   ],
-  "renderer": "compose-preview 2.98.0",
-  "generatedAt": "2026-11-18T03:26:32.885Z",
+  "renderer": "compose-preview 2.103.1",
+  "generatedAt": "2026-11-25T03:23:09.885Z",
   "display": {
     "hero": "station-list"
   },
@@ -992,7 +992,7 @@
   "componentsFile": "components.json",
   "source": {
     "repo": "joreilly/BikeShare",
-    "ref": "e9ebf65d068dc8da77a48dc90e5ced09e8662787",
+    "ref": "4d3dc57b573944a38efb2200a6033f0b7283b64a",
     "module": ":common"
   }
 }

@@ -11,7 +11,7 @@
         <rect x="0" y="0" width="1050" height="714" fill="#FEF7FF"/>
       <g id="Column">
         <g id="Box" filter="url(#shadow-5)">
-            <rect x="21" y="21" width="1008" height="210" rx="21" ry="21" fill="#FEF7FF"/>
+            <rect x="21" y="21" width="1008" height="210" rx="21" ry="21" fill="#FFFFFF"/>
           <g id="Row">
             <g id="Box">
                 <rect x="63" y="63" width="126" height="126" rx="10.5" ry="10.5" fill="#E7E0EC"/>
@@ -27,7 +27,7 @@
           </g>
         </g>
         <g id="Box" filter="url(#shadow-5)">
-            <rect x="21" y="252" width="1008" height="210" rx="21" ry="21" fill="#FEF7FF"/>
+            <rect x="21" y="252" width="1008" height="210" rx="21" ry="21" fill="#FFFFFF"/>
           <g id="Row">
             <g id="Box">
                 <rect x="63" y="294" width="126" height="126" rx="10.5" ry="10.5" fill="#E7E0EC"/>
@@ -43,7 +43,7 @@
           </g>
         </g>
         <g id="Box" filter="url(#shadow-5)">
-            <rect x="21" y="483" width="1008" height="210" rx="21" ry="21" fill="#FEF7FF"/>
+            <rect x="21" y="483" width="1008" height="210" rx="21" ry="21" fill="#FFFFFF"/>
           <g id="Row">
             <g id="Box">
                 <rect x="63" y="525" width="126" height="126" rx="10.5" ry="10.5" fill="#E7E0EC"/>

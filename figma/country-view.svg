@@ -10,7 +10,7 @@
     <g id="Box">
         <rect x="0" y="0" width="1050" height="210" fill="#FEF7FF"/>
       <g id="Box" filter="url(#shadow-5)">
-          <rect x="0" y="0" width="1050" height="210" rx="21" ry="21" fill="#FEF7FF"/>
+          <rect x="0" y="0" width="1050" height="210" rx="21" ry="21" fill="#FFFFFF"/>
         <g id="Row">
           <g id="Box">
               <rect x="42" y="42" width="126" height="126" rx="10.5" ry="10.5" fill="#E7E0EC"/>

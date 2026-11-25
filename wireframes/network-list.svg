@@ -15,8 +15,8 @@
     <rect x="0" y="0" width="1050" height="642" fill="none" fill-opacity="0" stroke="#B0813B" stroke-width="1" stroke-opacity="0.5"/>
   </g>
   <g>
-    <path d="M21,0 H1029 A21,21 0 0 1 1050,21 V179 A21,21 0 0 1 1029,200 H21 A21,21 0 0 1 0,179 V21 A21,21 0 0 1 21,0 Z" fill="#FEF7FF" fill-opacity="1" stroke="#3B72A8" stroke-width="1.5" stroke-opacity="1"/>
-    <text x="3" y="12" font-family="system-ui, sans-serif" font-size="9" fill="#3B72A8">#FFFEF7FF</text>
+    <path d="M21,0 H1029 A21,21 0 0 1 1050,21 V179 A21,21 0 0 1 1029,200 H21 A21,21 0 0 1 0,179 V21 A21,21 0 0 1 21,0 Z" fill="#FFFFFF" fill-opacity="1" stroke="#3B72A8" stroke-width="1.5" stroke-opacity="1"/>
+    <text x="3" y="12" font-family="system-ui, sans-serif" font-size="9" fill="#3B72A8">#FFFFFFFF</text>
   </g>
   <g>
     <rect x="0" y="0" width="1050" height="200" fill="none" fill-opacity="0" stroke="#A85B6B" stroke-width="1" stroke-opacity="0.5"/>
@@ -37,8 +37,8 @@
     <rect x="105" y="105" width="215" height="53" fill="none" fill-opacity="0" stroke="#5B6470" stroke-width="1" stroke-opacity="0.5"/>
   </g>
   <g>
-    <path d="M21,221 H1029 A21,21 0 0 1 1050,242 V400 A21,21 0 0 1 1029,421 H21 A21,21 0 0 1 0,400 V242 A21,21 0 0 1 21,221 Z" fill="#FEF7FF" fill-opacity="1" stroke="#3B72A8" stroke-width="1.5" stroke-opacity="1"/>
-    <text x="3" y="233" font-family="system-ui, sans-serif" font-size="9" fill="#3B72A8">#FFFEF7FF</text>
+    <path d="M21,221 H1029 A21,21 0 0 1 1050,242 V400 A21,21 0 0 1 1029,421 H21 A21,21 0 0 1 0,400 V242 A21,21 0 0 1 21,221 Z" fill="#FFFFFF" fill-opacity="1" stroke="#3B72A8" stroke-width="1.5" stroke-opacity="1"/>
+    <text x="3" y="233" font-family="system-ui, sans-serif" font-size="9" fill="#3B72A8">#FFFFFFFF</text>
   </g>
   <g>
     <rect x="0" y="221" width="1050" height="200" fill="none" fill-opacity="0" stroke="#A85B6B" stroke-width="1" stroke-opacity="0.5"/>
@@ -59,8 +59,8 @@
     <rect x="105" y="326" width="303" height="53" fill="none" fill-opacity="0" stroke="#5B6470" stroke-width="1" stroke-opacity="0.5"/>
   </g>
   <g>
-    <path d="M21,442 H1029 A21,21 0 0 1 1050,463 V621 A21,21 0 0 1 1029,642 H21 A21,21 0 0 1 0,621 V463 A21,21 0 0 1 21,442 Z" fill="#FEF7FF" fill-opacity="1" stroke="#3B72A8" stroke-width="1.5" stroke-opacity="1"/>
-    <text x="3" y="454" font-family="system-ui, sans-serif" font-size="9" fill="#3B72A8">#FFFEF7FF</text>
+    <path d="M21,442 H1029 A21,21 0 0 1 1050,463 V621 A21,21 0 0 1 1029,642 H21 A21,21 0 0 1 0,621 V463 A21,21 0 0 1 21,442 Z" fill="#FFFFFF" fill-opacity="1" stroke="#3B72A8" stroke-width="1.5" stroke-opacity="1"/>
+    <text x="3" y="454" font-family="system-ui, sans-serif" font-size="9" fill="#3B72A8">#FFFFFFFF</text>
   </g>
   <g>
     <rect x="0" y="442" width="1050" height="200" fill="none" fill-opacity="0" stroke="#A85B6B" stroke-width="1" stroke-opacity="0.5"/>
