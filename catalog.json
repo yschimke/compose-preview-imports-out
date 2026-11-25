@@ -1261,8 +1261,8 @@
       "sourceFunction": "wfp_river"
     }
   ],
-  "renderer": "compose-preview 2.101.0",
-  "generatedAt": "2026-11-19T01:30:30.096Z",
+  "renderer": "compose-preview 2.103.1",
+  "generatedAt": "2026-11-25T04:05:48.283Z",
   "display": {
     "surface": "dark",
     "hero": "WatchFaceFormat/Complications"

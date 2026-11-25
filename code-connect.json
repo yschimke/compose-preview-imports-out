@@ -6,7 +6,7 @@
     "repo": "android/wear-os-samples",
     "ref": "9a38e4453b61b50a287347339c06624b60c41e47"
   },
-  "generatedAt": "2026-11-19T01:30:30.484Z",
+  "generatedAt": "2026-11-25T04:05:48.596Z",
   "mappings": [
     {
       "componentId": "WatchFaceFormat/Complications",
