@@ -1914,8 +1914,8 @@
     "androidx.wear.compose:compose-material3",
     "androidx.wear.compose:compose-foundation"
   ],
-  "renderer": "compose-preview 2.89.0",
-  "generatedAt": "2026-11-11T02:29:55.051Z",
+  "renderer": "compose-preview 2.103.1",
+  "generatedAt": "2026-11-25T02:40:23.497Z",
   "display": {
     "surface": "dark",
     "hero": "Episode/Latest"
@@ -1944,7 +1944,7 @@
   "componentsFile": "components.json",
   "source": {
     "repo": "android/compose-samples",
-    "ref": "25631e8f544a9a1e3f01e296eaf1b4c28428196c",
+    "ref": "09aae2013b3e5897f9679e2b7539f505f4f6f7f6",
     "module": ":wear"
   }
 }

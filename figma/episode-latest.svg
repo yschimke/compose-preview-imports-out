@@ -5,7 +5,7 @@
   <g id="Root">
     <g id="ReusableComposeNode">
       <g id="Row">
-        <image href="episode-latest.figma-raster/27.png" x="87" y="61" width="280" height="90"/>
+        <image href="episode-latest.figma-raster/63.png" x="87" y="61" width="280" height="90"/>
       </g>
       <g id="Row">
         <rect x="0" y="161" width="454" height="104" rx="52" ry="52" fill="#E9DDFF"/>
@@ -25,7 +25,7 @@
           <rect x="1" y="273" width="452" height="103" rx="51.72" ry="51.72" fill="#332E3C"/>
         </g>
         <g id="AsyncImageKt">
-          <image href="episode-latest.figma-raster/40.png" x="29" y="293" width="64" height="64"/>
+          <image href="episode-latest.figma-raster/76.png" x="29" y="293" width="64" height="64"/>
         </g>
         <g id="Spacer" opacity="0.98">
         </g>
